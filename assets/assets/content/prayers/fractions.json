@@ -1,0 +1,1129 @@
+{
+"id": "fractions",
+"service": "liturgy",
+"sample": false,
+"title": {
+"es": "Fracciones",
+"ar": "القسمات"
+},
+"sections": [
+{
+"title": {
+"es": "1- LA PEQUEÑA FRACCIÓN ANUAL PARA EL PADRE",
+"ar": "قِسمة وجيزة للآب تقال سنوياً"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Dios, que nos has concedido a nosotros, los pecadores, la ofrenda de la salvación y sacrificio racional y celestial.",
+"cop": "Ⲫⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ ⲛ̀ⲟⲩⲡ̀ⲣⲟⲑⲉⲥⲙⲓⲁ̀ ⲛ̀ⲟⲩϫⲁⲓ: ⲛⲉⲙ ⲟⲩϣⲟⲩϣⲱⲟⲩϣⲓ ⲛ̀ⲗⲟⲅⲓⲕⲟⲛ ⲟⲩⲟϩ ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ.",
+"ar": "يا اللهُ الذي أنعمَ لنا نحنُ الخطاةَ بتقدمة الخلاصِ، وذبيحةٍ ناطقةٍ سمائيةٍ."
+},
+{
+"role": "priest",
+"es": "Que es el Cuerpo divino y la Sangre preciosa de tu Cristo.",
+"cop": "Ⲉⲧⲉ ⲡⲓⲥⲱⲙⲁ ⲛ̀ⲛⲟⲩϯ ⲡⲉ ⲛⲉⲙ ⲡⲓⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲧⲉ Ⲡⲉⲕⲭ̀ⲣⲓⲥⲧⲟⲥ.",
+"ar": "التي هي الجسدُ الإلهيُّ والدمُ الكريمُ اللذانِ لمسيحِكَ."
+},
+{
+"role": "priest",
+"es": "Los cuales fueron para nosotros purificación, salvación, gracia y perdón de los pecados.",
+"cop": "Ⲫⲁⲓ ⲉ̀ⲧⲁϥϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲟⲩⲧⲟⲩⲃⲟ: ⲛⲉⲙ ⲟⲩⲟⲩϫⲁⲓ: ⲛⲉⲙ ⲟⲩⲭⲁⲣⲓⲥⲙⲁ: ⲛⲉⲙ ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ.",
+"ar": "هذا الذي صارَ لنا طُهْراً وخلاصاً ونعمَةً وغفــــرانـــــــــــاً للخطايا."
+},
+{
+"role": "priest",
+"es": "Y así dar gracias aclamándote Padre Santo que estas en los cielos y decimos:",
+"cop": "Ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩⲙⲉⲧⲣⲉϥϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲉⲛⲱϣ ⲟⲩⲃⲏⲕ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϫⲟⲥ:",
+"ar": "لكي بشكرٍ نصرُخَ نحوكَ أيها الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro ...",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "2- FRACCIÓN PARA EL PADRE DURANTE LAS FIESTAS MARIANAS, LOS ÁNGELES Y LOS CELESTIALES",
+"ar": "2- قسمة للآب تقال في أعياد العذراء مريم والملائكة وجميع السمائيين"
+},
+"rows": [
+{
+"role": "priest",
+"es": "He aquí, hoy presente con nosotros en esta mesa Emmanuel nuestro Dios, el Cordero de Dios, que lleva el pecado de todo el mundo.",
+"cop": "Ϩⲏⲡⲡⲉ ϥ̀ⲭⲏ ⲛⲉⲙⲁⲛ ϩⲓϫⲉⲛ ⲧⲁⲓⲧ̀ⲣⲁⲡⲉⲍⲁ ⲙ̀ⲫⲟⲟⲩ ⲛ̀ϫⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ: ⲡⲓϩⲓⲏⲃ ⲛ̀ⲧⲉ Ⲫⲛⲟⲩϯ ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ.",
+"ar": "هوذا كائنٌ مَعَنا على هذه المائدةِ اليومَ عمانوئيلُ إلَهُنا، حَمَلُ اللهِ الذي يحملُ خطيةَ العالمَ كلِّه."
+},
+{
+"role": "priest",
+"es": "Quien está sentado en el trono de su gloria.",
+"cop": "Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲡⲉϥⲱ̀ⲟⲩ.",
+"ar": "الجالسُ على كرسيِّ مجدِهِ."
+},
+{
+"role": "priest",
+"es": "Que delante de Él están de pie todas las órdenes celestiales, y a quien los Ángeles alaban con voces de bendición y los Arcángeles se postran y adoran ante Él.",
+"cop": "Ⲫⲏⲉ̀ⲧⲟⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲛⲁϩⲣⲁϥ ⲛ̀ϫⲉ ⲛⲓⲧⲁⲅⲙⲁ ⲧⲏⲣⲟⲩ ⲛ̀ⲉⲡⲟⲩⲣⲁⲛⲓⲟⲛ: ⲫⲏⲉ̀ⲧⲟⲩϩⲱⲥ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ϧⲉⲛ ⲛⲓⲥ̀ⲙⲏ ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲙⲟⲩ: ⲟⲩⲟϩ ⲉⲩϩⲓⲧⲟⲩ ⲉⲩⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ⲛ̀ϫⲉ ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ.",
+"ar": "الذي تقفُ أمامَهُ جميعُ الطغماتِ السمائيةِ، الذي تُسَبِحُهُ الملائكةُ بأصواتِ البرَكةِ، ويَخُرُ ويسجُدُ لهُ رؤساءُ الملائكةِ."
+},
+{
+"role": "priest",
+"es": "Los cuatro seres vivientes incorpóreos cantan la alabanza del Trisagio.",
+"cop": "Ⲡⲓϥ̀ⲧⲟⲟⲩ ⲛ̀ⲍⲱⲟⲛ ⲛ̀ⲁ̀ⲥⲱⲙⲁⲧⲟⲥ ⲥⲉϫⲱ ⲙ̀ⲡⲓϩⲩⲙⲛⲟⲥ ⲛ̀ⲧⲉ ⲡⲓⲧ̀ⲣⲓⲥⲁ̀ⲅⲓⲟⲥ.",
+"ar": "الأربعةُ الأحياءُ غيرُ المتجسدينَ يقولونَ تسبحةَ الثلاثَةِ التقديساتِ."
+},
+{
+"role": "priest",
+"es": "Y los veinticuatro ancianos están sentados en sus tronos con veinticuatro coronas de oro sobre sus cabezas, y veinticuatro incensarios de oro en sus manos, llenos de incienso que son las oraciones de los Santos, y se postran ante el Vivo, por los siglos de los siglos.",
+"cop": "Ⲟⲩⲟϩ ⲡⲓϫⲱⲧ ϥ̀ⲧⲟⲟⲩ ⲙ̀ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲥⲉϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲛⲟⲩⲑ̀ⲣⲟⲛⲟⲥ: ⲉ̀ⲣⲉ ϫⲱⲧ ϥ̀ⲧⲟⲟⲩ ⲛ̀ⲭ̀ⲗⲟⲙ ⲛ̀ⲛⲟⲩⲃ ϩⲓϫⲉⲛ ⲛⲟⲩⲁ̀ⲫⲏⲟⲩⲓ̀: ⲉ̀ⲣⲉ ϫⲱⲧ ϥ̀ⲧⲟⲟⲩ ⲙ̀ⲫⲩⲁ̀ⲗⲏ ⲛ̀ⲛⲟⲩⲃ ϧⲉⲛ ⲛⲟⲩϫⲓϫ ⲉⲩⲙⲉϩ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ: ⲉ̀ⲧⲉ ⲛⲓⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲅⲓⲟⲥ: ⲟⲩⲟϩ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲫⲏⲉⲧⲟⲛϧ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲛⲉϩ.",
+"ar": "والأربعةُ والعشرونَ قسيساً جلوسٌ على كراسيهِم، وأربعةٌ وعشرون إكليلَ ذهبٍ على رؤوسِهِم، وأربعةٌ وعشرون جاماً من ذهبٍ في أيديهِم، مملوءةً بَخُوراً الذي هو صلواتُ القديسينَ، ويسجدونَ أمامَ الحيِّ إلى أبدِ الآبدينَ."
+},
+{
+"role": "priest",
+"es": "Y los ciento cuarenta y cuatro mil vírgenes inmaculados aaban al Señor diciendo: \"Santo, Santo, Santo. Amén, Aleluya\".",
+"cop": "Ⲟⲩⲟϩ ⲡⲓⲣ̅ⲙ̅ⲇ̅ (ⲡⲓϣⲉ ϩ̀ⲙⲉ ϥ̀ⲧⲟⲟⲩ ⲛ̀ϣⲟ) ⲛⲓⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲁⲧⲑⲱⲗⲉⲃ ⲥⲉϩⲱⲥ ⲉ̀Ⲡϭⲟⲓⲥ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ̀.",
+"ar": "والمِئةُ والأَربعةُ والأربعونَ ألفاً البتوليونَ غيرُ الدنسينَ يسبحونَ الربَّ قائلين: \"قدوسٌ. قدوسٌ. قدوسٌ. آمين. الليلويا.\""
+},
+{
+"role": "priest",
+"es": "Y nosotros también nos postramos ante la Santísima Trinidad, y la alabamos diciendo:",
+"cop": "Ⲁⲛⲟⲛ ⲇⲉ ϩⲱⲛ ⲧⲉⲛⲟⲩⲱϣⲧ ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ ⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲥ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ:",
+"ar": "ونحنُ أيضاً نسجُدُ للثالوثِ القدوسِ، ونسبحُهُ قائلينَ:"
+},
+{
+"role": "priest",
+"es": "Santo Dios, Padre, Todopoderoso. Amén. Aleluya.",
+"cop": "Ϫⲉ ϥ̀ⲟⲩⲁⲃ ⲛ̀ϫⲉ Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ̀.",
+"ar": "\"قدوسٌ اللهُ الآبُ ضابطُ الكلِّ. آمين. الليلويا."
+},
+{
+"role": "priest",
+"es": "Santo, su Hijo Unigénito, Jesucristo, nuestro Señor. Amén. Aleluya.",
+"cop": "Ϥ̀ⲟⲩⲁⲃ ⲛ̀ϫⲉ ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ: ⲛ̀Ϣⲏⲣⲓ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛϭⲟⲓⲥ: ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ̀.",
+"ar": "قدوسٌ ابنُهُ الوحيدُ يسوعُ المسيحُ ربُّنا. آمين. الليلويا."
+},
+{
+"role": "priest",
+"es": "Santo el Espíritu Santo, el Paráclito. Amén. Aleluya\".",
+"cop": "Ϥⲟⲩⲁⲃ ⲛ̀ϫⲉ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ: ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ̀.",
+"ar": "قدوسٌ الروحُ القدسُ الباراقليطُ. آمين. الليلويا.\""
+},
+{
+"role": "priest",
+"es": "Santa y llena de gloria, la Madre de Dios, la purísoma Santa María, la Virgen. Amén. Aleluya.",
+"cop": "Ⲥⲟⲩⲁⲃ ⲟⲩⲟϩ ⲥ̀ⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ ⲛ̀ϫⲉ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ̀.",
+"ar": "مقدسةٌ ومملوءةٌ مجداً والدةُ الإلهِ الطاهرةُ القديسةُ مريمُ العذراءُ. آمين. الليلويا."
+},
+{
+"role": "priest",
+"es": "Santo y lleno de gloria este sacrificio que ha sido ofrecido por la vida de todo el mundo. Amén. Aleluya.",
+"cop": "Ⲥⲟⲩⲁⲃ ⲟⲩⲟϩ ⲥ̀ⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ ⲛ̀ϫⲉ ⲧⲁⲓⲑⲩⲥⲓⲁ: ⲑⲏⲉ̀ⲧⲁⲩϣⲁⲧⲥ ϧⲁ ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ: ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ̀.",
+"ar": "مقدسةٌ ومملوءةٌ مجداً هذه الذبيحةُ التي ذُبِحَتْ عن حياةِ العالمَ كلِّه. آمين. الليلويا."
+},
+{
+"role": "priest",
+"es": "Por eso, nuestro buen Salvador proclamó diciendo: \"Mi cuerpo es verdadera comida y mi sangre es verdadera bebida.",
+"cop": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲁ̀ ⲡⲉⲛⲥⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ ⲱϣ ⲉ̀ⲃⲟⲗ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲡⲁⲥⲱⲙⲁ ⲟⲩϧ̀ⲣⲉ ⲙ̀ⲙⲏⲓ ⲧⲉ: ⲟⲩⲟϩ ⲡⲁⲥ̀ⲛⲟϥ ⲟⲩⲥⲱ ⲙ̀ⲙⲏⲓ ⲡⲉ.",
+"ar": "من أجلِ هذا صَرَخَ مخلِّصُنا الصالِحُ قائلاً: \"إنَّ جسدي هو مأكلٌ حقٌ، ودمي هو مشربٌ حقٌ."
+},
+{
+"role": "priest",
+"es": "El que come mi Cuerpo y bebe mi Sangre habita en mi, y yo en él\".",
+"cop": "Ⲫⲏⲉⲑⲟⲩⲱⲙ ⲙ̀ⲡⲁⲥⲱⲙⲁ ⲟⲩⲟϩ ⲉⲧⲥⲱ ⲙ̀ⲡⲁⲥ̀ⲛⲟϥ ⲉϥⲉ̀ϣⲱⲡⲓ ⲛ̀ϧⲏⲧ: ⲟⲩⲟϩ ⲁ̀ⲛⲟⲕ ϩⲱ ⲉⲓⲉ̀ϣⲱⲡⲓ ⲛ̀ϧⲏⲧϥ.",
+"ar": "من يأكلْ جسدي ويشربْ دمي يكونُ فيَّ وأنا أيضاً أكونُ فيه\"."
+},
+{
+"role": "priest",
+"es": "Te pedimos, nuestro Señor, purifica nuestras almas, nuestros cuerpos, y nuestros espíritus.",
+"cop": "Ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲡⲉⲛⲛⲏⲃ ⲙⲁⲧⲟⲩⲃⲟ ⲛ̀ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲥⲱⲙⲁ ⲛⲉⲙ ⲛⲉⲛⲡ̀ⲛⲉⲩⲙⲁ.",
+"ar": "نسألُكَ يا سيدَنا، طَهِّر نفوسَنا، وأجسادَنا، وأرواحَنا."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro, labios limpios, alma iluminada, rostro sin confusión, fe sincera, conciencia pura, paciencia perfecta y esperanza firme.",
+"cop": "Ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛⲉⲙ ϩⲁⲛⲥ̀ⲫⲟⲧⲟⲩ ⲉⲩⲧⲟⲩⲃⲏⲟⲩⲧ: ⲛⲉⲙ ⲟⲩⲯⲩⲭⲏ ⲉ̀ⲁⲥϭⲓⲟⲩⲱⲓⲛⲓ: ⲛⲉⲙ ⲟⲩϩⲟ ⲛ̀ⲁⲧϭⲓϣⲓⲡⲓ: ⲛⲉⲙ ⲟⲩⲛⲁϩϯ ⲛ̀ⲁⲧⲙⲉⲧϣⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲥⲩⲛⲓⲇⲏⲥⲓⲥ ⲉⲥⲧⲟⲩⲃⲏⲟⲩⲧ: ⲛⲉⲙ ⲟⲩϩⲩⲡⲟⲙⲟⲛⲏ ⲉⲥϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲛⲉⲙ ⲟⲩϩⲉⲗⲡⲓⲥ ⲉⲥⲧⲁϫⲣⲏⲟⲩⲧ.",
+"ar": "لكي بقلبٍ طاهرٍ، وشفتينِ نقيتينِ، ونفسٍ مستنيرةٍ، ووجهٍ غيرِ مخزيٍّ، وإيمانٍ بلا رياءٍ، ونيةٍ نقيةٍ، وصبرٍ كاملٍ، ورجاءٍ ثابتٍ."
+},
+{
+"role": "priest",
+"es": "Nos atrevemos, confiados y sin temor, a pedirte a Ti, Dios Padre Santo, que estás en los cielos. Y decimos:",
+"cop": "Ⲛⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ̀ ⲛ̀ⲁⲧⲉⲣϩⲟϯ ⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ: Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ.",
+"ar": "نجسُرَ بدالةٍ بغيرِ خوفٍ، أن نطلبَ اليكَ يا اللهُ الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro ...",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "3- FRACCIÓN PARA EL HIJO DURANTE LAS FIESTAS DEL SEÑOR",
+"ar": "3- قسمة للابن تقال في الأعياد السيدية"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Alabamos y glorificamos al Dios de los dioses y el Señor de los señores, que se encarnó de la Santa Virgen María, que le dio a luz en Belén.",
+"cop": "Ⲧⲉⲛϩⲱⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲙ̀Ⲫⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϭⲟⲓⲥ: ⲫⲏⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁⲙ: ⲟⲩⲟϩ ⲁⲥⲙⲓⲥⲓ ⲙ̀ⲙⲟϥ ϧⲉⲛ Ⲃⲏⲑⲗⲉⲉⲙ.",
+"ar": "نُسَبِّحُ ونمجدُ إلهَ الآلهةِ وربَّ الأربابِ، الذي تجسدَ من القديسةِ مريمَ العذراءِ، ولدَتْهُ في بيتِ لحمٍ."
+},
+{
+"role": "priest",
+"es": "El Ángel del Señor se apareció a los pastores, y les anunció su maravilloso nacimiento, y vinieron y lo vieron.",
+"cop": "Ⲟⲩⲟϩ ⲓⲥ ⲡ̀ⲁⲅⲅⲉⲗⲟⲥ ⲛ̀ⲧⲉ Ⲡϭⲟⲓⲥ ⲁϥⲟⲩⲟⲛϩϥ ⲉ̀ⲛⲓⲙⲁⲛⲉ̀ⲥⲱⲟⲩ: ⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲱⲟⲩ ⲙ̀ⲡⲉϥϫⲓⲛⲙⲓⲥⲓ ⲉⲧⲟⲓ ⲛ̀ϣ̀ⲫⲏⲣⲓ: ⲟⲩⲟϩ ⲁⲩⲓ̀ ⲁⲩⲛⲁⲩ ⲉ̀ⲣⲟϥ.",
+"ar": "وإذا ملاكُ الرَبِّ قد ظَهَرَ للرُعاةِ، وبَشَّرَهُم بميلادِه العجيبِ، فأَتَوْا ونَظَروهُ."
+},
+{
+"role": "priest",
+"es": "Al que los Magos vieron su estrella, vinieron, se postraron ante Él y le presentaron regalos.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁⲩⲛⲁⲩ ⲛ̀ϫⲉ ⲛⲓⲙⲁⲅⲟⲥ ⲉ̀ⲡⲉϥⲥⲓⲟⲩ: ⲟⲩⲟϩ ⲁⲩⲓ̀ ⲁⲩⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ: ⲁⲩⲓ̀ⲛⲓ ⲛⲁϥ ⲛ̀ϩⲁⲛⲇⲱⲣⲟⲛ.",
+"ar": "الذي رأى المجوسُ نَجمَهُ، فأتَوْا وسجدوا لَهُ وقدموا لَهُ هدايا."
+},
+{
+"role": "priest",
+"es": "Él que vino a la tierra de Egipto, luego regresó y vivió en Nazaret de Galilea.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲓ̀ ⲉ̀ⲡ̀ⲕⲁϩⲓ ⲛ̀Ⲭⲏⲙⲓ: ⲟⲩⲟϩ ⲁϥⲧⲁⲥⲑⲟϥ ⲁϥϣⲱⲡⲓ ϧⲉⲛ Ⲛⲁⲍⲁⲣⲉⲑ ⲛ̀ⲧⲉ Ϯⲅⲁⲗⲓⲗⲉⲁ̀.",
+"ar": "الذي أتى إلى أرضِ مِصْرَ، ثم عادَ وسَكَنَ في ناصرةِ الجليلِ."
+},
+{
+"role": "priest",
+"es": "Él que creció poco a poco de acuerdo a la forma del ser humano, solo sin pecado.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲁⲓⲁⲓ ⲛ̀ⲟⲩⲕⲟⲩϫⲓ ⲕⲟⲩϫⲓ ⲕⲁⲧⲁ ⲡ̀ⲥ̀ⲙⲟⲧ ⲛ̀ⲛⲓⲣⲱⲙⲓ: ⲁⲧϭⲛⲉ ⲛⲟⲃⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ.",
+"ar": "الذي نما قليلاً قليلاً بِشِبْهِ البَشرِ، بغيرِ خطيةٍ وحدَهُ."
+},
+{
+"role": "priest",
+"es": "Él que vino al Jordán y fue bautizado por Juan el Precursor.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲓ̀ ⲉ̀Ⲡⲓⲓⲟⲣⲇⲁⲛⲏⲥ: ⲁϥϭⲓⲱⲙⲥ ⲛ̀ⲧⲟⲧϥ ⲛ̀Ⲓⲱⲁⲛⲛⲏⲥ ⲡⲓⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ.",
+"ar": "الذي أتى إلى الأُردنِ، واعتَمَدَ من يوحنا السابقِ."
+},
+{
+"role": "priest",
+"es": "Él que ayunó cuarenta días y cuarenta noches por nosotros, con un misterio inefable.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛ̀ϩ̀ⲙⲉ ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲛⲉⲙ ϩ̀ⲙⲉ ⲛ̀ⲉ̀ϫⲱⲣϩ: ϧⲉⲛ ⲟⲩⲙⲩⲥⲧⲏⲣⲓⲟⲛ ⲛ̀ⲁⲧϣ̀ⲥⲁϫⲓ ⲙ̀ⲙⲟϥ.",
+"ar": "الذي صامَ عنا أربعينَ يوماً وأربعينَ ليلةً، بسرٍ لا يُنْطَقُ بهِ."
+},
+{
+"role": "priest",
+"es": "Él que convirtió el agua en vino por el poder de su divinidad, en la boda de Caná de Galilea.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲑ̀ⲣⲉ ⲡⲓⲙⲱⲟⲩ ⲉⲣⲏⲣⲡ ϩⲓⲧⲉⲛ ⲧ̀ϫⲟⲙ ⲛ̀ⲧⲉ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ: ϧⲉⲛ ⲡ̀ϩⲟⲡ ⲛ̀Ⲧⲕⲁⲛⲁ ⲛ̀ⲧⲉ Ϯⲅⲁⲗⲓⲗⲉⲁ̀.",
+"ar": "الذي صيَّرَ الماءَ خمراً بقوةِ لاهوتِهِ في عُرسِ قانا الجليلِ."
+},
+{
+"role": "priest",
+"es": "Él que dio vista a los ciegos, hizo a los cojos caminar, a los paralíticos sanar, a los leprosos purificar, a los sordos oír, a los mudos hablar y a los demonios salir.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥϯ ⲙ̀ⲫ̀ⲛⲁⲩ ⲙ̀ⲃⲟⲗ ⲛ̀ⲛⲓⲃⲉⲗⲗⲉⲩ: ⲟⲩⲟϩ ⲁϥⲑ̀ⲣⲉ ⲛⲓϭⲁⲗⲉⲩ ⲙⲟϣⲓ: ⲛⲓϫⲁϭⲉⲩ ⲛ̀ⲧⲟⲩⲟⲩϫⲁⲓ: ⲛⲓⲕⲁⲕⲥⲉϩⲧ ⲛ̀ⲧⲟⲩⲧⲟⲩⲃⲟ: ⲛⲓⲕⲟⲩⲣ ⲛ̀ⲧⲟⲩⲥⲱⲧⲉⲙ: ⲛⲓⲉ̀ⲃⲱⲟⲩ ⲛ̀ⲧⲟⲩⲥⲁϫⲓ: ⲛⲓⲇⲉⲙⲱⲛ ⲛ̀ⲧⲟⲩⲓ̀ ⲉ̀ⲃⲟⲗ.",
+"ar": "الذي أعطَى النَظَرَ للعُميانِ. وجَعَلَ العُرجَ يمشونَ والشُلَّ يَصِحُّونَ، والبُرْصَ يَطْهُرُونَ، والصُمَّ يَسمعونَ، والخُرْسَ يتكلمونَ، والشياطينَ يَخرُجونَ."
+},
+{
+"role": "priest",
+"es": "Él que resucitó al hijo de la viuda de Naín, y a la hija de Jairo.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲧⲟⲩⲛⲟⲥ ⲡ̀ϣⲏⲣⲓ ⲛ̀ⲧⲉ ϯⲭⲏⲣⲁ ⲉⲧϧⲉⲛ Ⲛⲁⲓⲛ: ⲛⲉⲙ ⲧ̀ϣⲉⲣⲓ ⲛ̀Ⲓⲁⲓⲣⲟⲥ.",
+"ar": "الذي أقامَ ابنَ الأرمَلَةِ بنايينَ، وابنةَ يايروس."
+},
+{
+"role": "priest",
+"es": "Él que se transfiguró en el monte Tabor, delante de sus Santos discípulos, y su rostro resplandeció como el sol.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥϣⲟⲃⲧϥ ⲉ̀ϫⲉⲛ ⲡⲓⲧⲱⲟⲩ ⲛ̀Ⲑⲁⲃⲱⲣ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲛ̀ⲛⲉϥⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ⲟⲩⲟϩ ⲁ̀ ⲡⲉϥϩⲟ ⲉⲣⲟⲩⲱⲓⲛⲓ ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲫ̀ⲣⲏ.",
+"ar": "الذي تَجَلَّى على جبلِ طابورَ قدامَ تلاميذِهِ القديسينَ، وأضاءَ وجهُهُ كالشمسِ."
+},
+{
+"role": "priest",
+"es": "Él que resucitó a Lázaro del sepulcro, después de cuatro días.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲧⲟⲩⲛⲟⲥ Ⲗⲁⲍⲁⲣⲟⲥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ ⲙⲉⲛⲉⲛⲥⲁ ϥ̀ⲧⲟⲟⲩ ⲛ̀ⲉ̀ϩⲟⲟⲩ.",
+"ar": "الذي أقامَ لعازرَ من القبرِ بعدَ أربعةِ أيامٍ."
+},
+{
+"role": "priest",
+"es": "Él que entró a Jerusalén montado en una borrica, en un pollino, hijo de acémila, como un rey.”",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥϣⲉ ⲉ̀ϧⲟⲩⲛ ⲉ̀Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲉϥⲧⲁⲗⲏⲟⲩⲧ ⲉ̀ⲟⲩⲉ̀ⲱ̀ ⲛⲉⲙ ⲟⲩⲥⲏϫ ⲡ̀ϣⲏⲣⲓ ⲛ̀ⲟⲩⲉ̀ⲱ̀ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲟⲩⲣⲟ.",
+"ar": "الذي دَخَلَ أورشليمَ راكباً على أتانٍ وجحشِ ابنِ أتانٍ مثلَ مَلِكٍ."
+},
+{
+"role": "priest",
+"es": "Él que estableció una alianza con sus Santos discípulos, y les dio su Cuerpo sagrado, y su Sangre preciosa para el perdón de nuestros pecados.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲥⲉⲙⲛⲓ ⲛ̀ⲟⲩⲇⲓⲁⲑⲏⲕⲏ ⲛⲉⲙ ⲛⲉϥⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ ⲟⲩⲟϩ ⲁϥⲧⲏⲓⲧⲟⲩ ⲙ̀ⲡⲉϥⲥⲱⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲡⲉϥⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ: ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+"ar": "الذي عاهَدَ تلاميذَهُ القديسينَ، وأعطاهُم جسدَهُ المقدسَ ودَمَه الكريمَ، لغفرانِ خطايانا."
+},
+{
+"role": "priest",
+"es": "Él que fue crucificado sobre la cruz y aplastó a Satanás, fue enterrado, y después de tres días resucitó de entre los muertos.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁⲩⲁϣϥ ⲉ̀ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲁϥϧⲟⲙϧⲉⲙ ⲙ̀Ⲡⲥⲁⲧⲁⲛⲁⲥ: ⲟⲩⲟϩ ⲁⲩⲭⲁϥ ϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ: ⲙⲉⲛⲉⲛⲥⲁ ϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+"ar": "الذي صُلِبَ على الصليبِ، وسَحَقَ الشيطانَ، ووُضِعَ في القبرِ، وبعدَ ثلاثةِ أيامٍ قامَ من الأمواتِ."
+},
+{
+"role": "priest",
+"es": "Al que sus escogidos discípulos vieron en el lago de Tiberíades, después de su Santa Resurrección.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁⲩⲛⲁⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲉϥⲥⲱⲧⲡ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ: ϩⲓϫⲉⲛ ⲫ̀ⲓⲟⲙ ⲛ̀ⲧⲉ Ϯⲃⲉⲣⲓⲁⲇⲟⲥ: ⲙⲉⲛⲉⲛⲥⲁ ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲉⲑⲟⲩⲁⲃ.",
+"ar": "الذي رآهُ تلاميذُهُ المختارونَ على بَحرِ طبريةَ بعدَ قيامتِهِ المقدسةِ."
+},
+{
+"role": "priest",
+"es": "Y después de cuarenta días ascendió a los cielos, se sentó a la diestra de su Padre bueno, y nos envió el Paráclito como lenguas de fuego.",
+"cop": "Ⲟⲩⲟϩ ⲙⲉⲛⲉⲛⲥⲁ ϩ̀ⲙⲉ ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀: ⲁϥϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲁϥⲟⲩⲱⲣⲡ ⲛⲁⲛ ⲙ̀Ⲡⲓⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛⲗⲁⲥ ⲛ̀ⲭ̀ⲣⲱⲙ.",
+"ar": "وبعد أربعينَ يوماً صَعِدَ إلى السمواتِ، وجَلَسَ عن يمينِ أبيهِ الصالحِ، وأرسلَ لنا الباراقليطَ مثلَ أَلسِنَةِ نارٍ."
+},
+{
+"role": "priest",
+"es": "Él que enseñó a sus discípulos escogidos y los santos apóstoles, diciendo: \"Cuando oren, supliquen de esta manera, diciendo:",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥϯⲥ̀ⲃⲱ ⲛ̀ⲛⲉϥⲥⲱⲧⲡ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲉ̀ϣⲱⲡ ⲁ̀ⲣⲉⲧⲉⲛϣⲁⲛⲉⲣⲡ̀ⲣⲟⲥⲉⲩⲭⲉⲥⲑⲉ ⲧⲱⲃϩ ⲙ̀ⲡⲁⲓⲣⲏϯ ⲟⲩⲟϩ ⲁ̀ϫⲟⲥ:",
+"ar": "الذي عَلَّمَ تلاميذه المختارين والرسل القديسينَ قائلاً: \"إذا صلَّيتم فاطلُبوا هكذا وقولوا:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro ...",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "4- Fracción PARA EL PADRE DURANTE EL Ayuno, la Fiesta de la Natividad y los días normales",
+"ar": "4- قسمة للآب في صوم الميلاد وعيد الميلاد وسنوي"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Señor Dios, nuestro Dios Creador, invisible, incontenible, inmutable, inmensurable.",
+"cop": "Ⲫⲛⲏⲃ Ⲡϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲡⲓⲇⲏⲙⲓⲟⲩⲣⲅⲟⲥ: ⲛ̀ⲁ̀ⲟ̀ⲣⲁⲧⲟⲥ: ⲡⲓⲁ̀ⲭⲱⲣⲓⲧⲟⲥ: ⲛ̀ⲁⲧⲣⲉⲡⲧⲟⲥ: ⲕⲉ ⲁ̀ⲙⲉⲧⲣⲓⲧⲟⲥ.",
+"ar": "أيها السيدُ الربُّ إلهُنا الخالقُ، غيرُ المرئي، غيرُ المحوي، غيرُ المستحيلِ، غيرُ المفحوصِ."
+},
+{
+"role": "priest",
+"es": "Él que envió su Luz Verdadera, su Hijo Unigénito, Jesucristo, el Verbo mismo.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉϥⲟⲩⲱⲓⲛⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ: ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲁⲓⲇⲓⲟⲥ.",
+"ar": "الذي أرسَلَ نورَهُ الحقيقيَّ، ابنَهُ الوحيدَ يسوعَ المسيحَ، الكلمةَ الذاتيَّ."
+},
+{
+"role": "priest",
+"es": "Él que existe en el seno paterno siempre, vino y se posó en el seno virginal sin mancha, le dio a luz siendo virgen y su virginidad fue sellada.",
+"cop": "Ⲫⲏⲉⲧⲭⲏ ϧⲉⲛ ⲕⲉⲛϥ ⲙ̀ⲡⲁⲧⲣⲓⲕⲟⲛ ⲇⲓⲁⲡⲁⲛⲧⲟⲥ: ⲁϥⲓ̀ ⲁϥϣⲱⲡⲓ ϧⲉⲛ ϯⲙⲏⲧⲣⲁ ⲙ̀ⲡⲁⲣⲑⲉⲛⲓⲕⲏ ⲁ̀ⲙⲟⲗⲩⲛⲧⲟⲥ: ⲁⲥⲙⲁⲥϥ ⲉⲥⲟⲓ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ ⲉⲥⲧⲟⲃ ⲛ̀ϫⲉ ⲧⲉⲥⲡⲁⲣⲑⲉⲛⲓⲁ.",
+"ar": "الكائنَ في حضنِهِ الأبويِّ كلَّ حينٍ، أتى وحلَّ في الحشاءِ البتوليِّ غيرِ الدنِسِ، وَلَدَتْهُ وهي عذراءُ، وبتوليتُها مختومةٌ."
+},
+{
+"role": "priest",
+"es": "Así los Ángeles le alaban y los ejércitos celestiales le cantan proclamando y diciendo: \"Santo, Santo, Santo, Señor de Sabaot (ejércitos), el cielo y la tierra están llenos de tu Santa Gloria\".",
+"cop": "Ⲉⲣⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ϩⲱⲥ ⲉ̀ⲣⲟϥ: ⲛⲉⲙ ⲛⲓⲥⲧⲣⲁⲧⲓⲁ ⲛ̀ⲧⲉ ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀! ⲉⲣϩⲩⲙⲛⲟⲥ ⲉ̀ⲣⲟϥ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ ⲙⲉϩ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲉⲑⲟⲩⲁⲃ.",
+"ar": "إذ الملائكةُ تسبحُهُ، وأجنادُ السمواتِ ترتلُ لهُ، صارخـينَ قائلينَ: \"قدوسٌ. قدوسٌ. قدوسٌ. ربُّ الجنودِ. السماءُ والأرضُ مملوءتانِ من مجدِكَ الأقدسِ.\""
+},
+{
+"role": "priest",
+"es": "Así pues también a nosotros los débiles pecadores, haznos dignos con ellos, nuestro Señor bueno, Amante de la humanidad.",
+"cop": "Ⲡⲁⲓⲣⲏϯ ⲁ̀ⲛⲟⲛ ϩⲱⲛ ϧⲁ ⲛⲓϫⲱⲃ ⲛ̀ⲣⲉϥⲉⲣⲛⲟⲃⲓ: ⲁ̀ⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲛⲉⲙⲱⲟⲩ ⲡⲉⲛⲛⲏⲃ ⲡⲓⲁ̀ⲅⲁⲑⲟⲥ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲓⲣⲱⲙⲓ.",
+"ar": "هكذا أيضاً نحنُ الضعفاءَ، الخطاةَ إجعلْنا مستحقينَ معهُم يا سيدَنا الصالحَ محبَّ البشرِ."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro te alabemos junto con Él y el Espíritu Santo, la Santísima Trinidad consubstancial. Y levantemos nuestros ojos arriba, a Ti Padre Santo que estás en los cielos y decimos:",
+"cop": "Ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ ⲛ̀ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲛⲉⲙⲁϥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϥⲁⲓ ⲛ̀ⲛⲉⲛⲃⲁⲗ ⲉ̀ⲡ̀ϣⲱⲓ ϩⲁⲣⲟⲕ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϫⲟⲥ:",
+"ar": "لكي بقلبٍ طاهرٍ، نسبحَكَ مَعَهُ مع الروحِ القدسِ، الثالوثِ القدوسِ المساوِي، ونرفَعَ أعينَنا إلى فوقُ، إليك أَيها الآبُ القدوسُ الذي في السمواتِ ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro ...",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "5- fracción para el padre durante la epifanía",
+"ar": "5- قسمة للآب تقال في عيد الغطاس"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Así nos diste la gracia de la filiación con el baño del nuevo nacimiento y la renovación del Espíritu Santo.",
+"cop": "Ⲉⲁⲕϯ ⲛⲁⲛ ⲙ̀ⲡⲓϩ̀ⲙⲟⲧ ⲛ̀ⲧⲉ ϯⲙⲉⲧϣⲏⲣⲓ: ϩⲓⲧⲉⲛ ⲡⲓϫⲱⲕⲉⲙ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲁ̀ϩⲉⲙⲙⲓⲥⲓ: ⲛⲉⲙ ϯⲙⲉⲧⲃⲉⲣⲓ ⲛ̀ⲧⲉ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.",
+"ar": "إذ أعطيتَنا نعمةَ البنوةِ بحميمِ الميلادِ الجديدِ، وتجديدِ الروحِ القدسِ."
+},
+{
+"role": "priest",
+"es": "Ahora también haznos dignos de pedirte a ti ¡Abba, Padre! sin hipocresía, con corazón puro, conciencia llena de confianza y labios limpios.",
+"cop": "Ⲟⲩⲟϩ ϯⲛⲟⲩ ⲟⲛ ⲁ̀ⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧϣⲟⲃⲓ: ⲛⲉⲙ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ ⲛⲉⲙ ⲟⲩⲥⲩⲛⲓⲇⲏⲥⲓⲥ ⲉⲥⲙⲉϩ ⲙ̀ⲡⲁⲣⲣⲏⲥⲓⲁ: ⲛⲉⲙ ϩⲁⲛⲥ̀ⲫⲟⲧⲟⲩ ⲛ̀ⲁⲧϩⲉⲓ ⲉⲑⲣⲉⲛⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ ⲁⲃⲃⲁ Ⲫⲓⲱⲧ.",
+"ar": "الآن أيضاً اجعَلْنا مستحقينَ، بغيرِ رياءٍ، وبقَلْبٍ طاهرٍ، ونيةٍ مملوءَةٍ دالةٍ، وشفتينِ غيرِ ساقطتينِ، أن نطلبَ إليكَ يا أَبَّا الآب."
+},
+{
+"role": "priest",
+"es": "Así, si abandonamos la vanidad del discurso excesivo de los gentiles y la arrogancia de los judíos.",
+"cop": "Ϩⲓⲛⲁ ⲉ̀ⲁⲛⲭⲱ ⲉ̀ϧ̀ⲣⲏⲓ ⲛ̀ϯⲙⲉⲧⲉ̀ⲫ̀ⲗⲏⲟⲩ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲣⲉϥⲕⲉⲙⲏϣ ⲛ̀ⲥⲁϫⲓ ⲛ̀ⲧⲉ ⲛⲓⲉⲑⲛⲟⲥ: ⲛⲉⲙ ϯⲙⲉⲧⲣⲉϥϩⲓⲡ̀ϩⲟ ⲛ̀ⲧⲉ Ⲛⲓⲓⲟⲩⲇⲁⲓ.",
+"ar": "لكي إذ تركنا باطلَ كثرةِ كلامِ الأممِ واستكبارِ اليهودِ."
+},
+{
+"role": "priest",
+"es": "Podamos presentarte la súplica de la oración como la ley de tu Hijo Unigénito, llena de Salvación.",
+"cop": "Ⲛⲧⲉⲛϣ̀ϫⲉⲙϫⲟⲙ ⲛ̀ⲓ̀ⲛⲓ ⲛⲁⲕ ⲉ̀ϧⲟⲩⲛ ⲙ̀ⲡⲓϯϩⲟ ⲛ̀ⲧⲉ ϯⲡ̀ⲣⲟⲥⲉⲩⲭⲏ: ⲕⲁⲧⲁ ϯⲛⲟⲙⲟⲑⲉⲥⲓⲁ ⲉⲑⲙⲉϩ ⲛ̀ⲟⲩϫⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ.",
+"ar": "نستطيعَ أن نقدمَ لكَ سؤالَ الصلاةِ، كشريعةِ ابنِكَ الوحيدِ المملوءَةِ خلاصاً."
+},
+{
+"role": "priest",
+"es": "Con voz humilde adecuada a los cristianos, con pureza del alma, del cuerpo y del espíritu.",
+"cop": "Ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲙⲉⲛ ⲉⲥⲑⲉⲃⲓⲏⲟⲩⲧ ⲉⲥⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛ̀ⲛⲓⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ϧⲉⲛ ⲟⲩⲧⲟⲩⲃⲟ ⲇⲉ ⲛ̀ⲧⲉ ϯⲯⲩⲭⲏ ⲛⲉⲙ ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ.",
+"ar": "فبصوتٍ متواضِعٍ يليقُ بالمسيحيينَ، وبطهارةِ النفسِ والجسدِ والروحِ."
+},
+{
+"role": "priest",
+"es": "Nos atrevemos sin temor a proclamarte, Tú que no has sido creado, sin principio, no nacido, el Señor de cada uno, Dios Padre Santo que estás en los cielos, y decimos:",
+"cop": "Ⲛⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧϩⲟϯ ⲉ̀ⲱϣ ⲟⲩⲃⲏⲕ: ⲛ̀ⲑⲟⲕ ⲡⲓⲁⲧⲥⲟⲛⲧϥ ⲟⲩⲟϩ ⲛ̀ⲁⲧⲁⲣⲭⲏ ⲟⲩⲟϩ ⲛ̀ⲁⲧϫ̀ⲫⲟϥ: ⲫ̀ⲛⲏⲃ ⲛ̀ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ: Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ:",
+"ar": "نجسُرُ بغيرِ خوفٍ أن نصرُخَ إليكَ أنتَ غيرُ المخلوقِ ولا مُبتدِئ ولا مولودٍ، سيدُ كلِّ أحدٍ، اللهُ الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre Nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "6- FRACCIÓN PARA EL PADRE DURANTE LA SANTA CUARESMA",
+"ar": "6- قسمة للآب تقال في الصوم المقدس"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Señor Dios, Dios Todopoderoso, que envió a su Hijo Unigénito al mundo; nos enseñó la ley y los mandamientos escritos en el Santo Evangelio.",
+"cop": "Ⲫⲛⲏⲃ Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲫⲏⲉ̀ⲧⲁϥⲟⲩⲱⲣⲡ ⲙ̀ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ ⲉ̀ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲁϥⲧ̀ⲥⲁⲃⲟ ⲙ̀ⲙⲟⲛ ⲉ̀ⲡⲓⲛⲟⲙⲟⲥ ⲛⲉⲙ ⲛⲓⲉⲛⲧⲟⲗⲏ ⲉⲧⲥ̀ϧⲏⲟⲩⲧ ϧⲉⲛ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ.",
+"ar": "أيها السيدُ الربُّ الإلهُ ضابطُ الكلِّ، الذي أرسلَ ابنَهُ الوحيدَ إلى العالمِ، عَلَّمَنا الناموسَ والوصايا المكتوبةَ في الإنجيلِ المقدسِ."
+},
+{
+"role": "priest",
+"es": "Nos enseñó que el ayuno y la oración son los que expulsan los demonios, así dijo: “Esta especie no sale sino con oración y ayuno”.",
+"cop": "Ⲟⲩⲟϩ ⲁϥⲧ̀ⲥⲁⲃⲟⲛ ϫⲉ ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ϣⲁⲩϩⲓⲟⲩⲓ̀ ⲛ̀ⲛⲓⲇⲉⲙⲱⲛ ⲉ̀ⲃⲟⲗ: ⲉ̀ⲁϥϫⲟⲥ ϫⲉ ⲡⲁⲓⲅⲉⲛⲟⲥ ⲙ̀ⲡⲁϥⲓ̀ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ϩ̀ⲗⲓ ⲉ̀ⲃⲏⲗ ⲛ̀ⲟⲩⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲛⲉⲙ ⲟⲩⲛⲏⲥⲧⲓⲁ̀.",
+"ar": "وعلَّمَنا أَنَّ الصومَ والصلاةَ هما اللذانِ يخرجانِ الشياطينَ، إذ قالَ: ”إنَّ هذا الجنسَ لا يخرجُ بشيءٍ إلا بالصلاةِ والصومِ.“"
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que Elías llevo al cielo y salvaron a Daniel del foso de los leones.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁⲩⲱ̀ⲗⲓ ⲛ̀Ⲏⲗⲓⲁⲥ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲧ̀ⲫⲉ: ⲟⲩⲟϩ ⲁⲩⲛⲟϩⲉⲙ ⲛ̀Ⲇⲁⲛⲓⲏⲗ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲫ̀ⲗⲁⲕⲕⲟⲥ ⲛ̀ⲛⲓⲙⲟⲩⲓ̀.",
+"ar": "الصومُ والصلاةُ هما اللذانِ رفعا إيليا إلى السماءِ، وخلَّصا دانيالَ من جُبِّ الأسودِ."
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que Moisés siguió hasta que recibió la Ley y los mandamientos, escritos con el dedo de Dios.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁ Ⲙⲱⲩⲥⲏⲥ ⲉⲣϩⲱⲃ ⲛ̀ϧⲏⲧⲟⲩ: ϣⲁⲛ̀ⲧⲉϥϭⲓ ⲙ̀ⲡⲓⲛⲟⲙⲟⲥ ⲛⲉⲙ ⲛⲓⲉⲛⲧⲟⲗⲏ ⲉⲧⲥ̀ϧⲏⲟⲩⲧ ϧⲉⲛ ⲡⲓⲧⲏⲃ ⲛ̀ⲧⲉ Ⲫⲛⲟⲩϯ.",
+"ar": "الصومُ والصلاةُ هما اللذانِ عَمِلَ بِهما موسى، حتى أخَذَ الناموسَ والوصايا المكتوبةَ بإِصبَعِ اللهِ."
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que el pueblo de Nínive siguió, entonces Dios tuvo misericordia de ellos y les perdonó sus pecados y apartó su ira de ellos.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁ ⲛⲓⲣⲉⲙⲚⲓⲛⲉⲩⲏ ⲉⲣϩⲱⲃ ⲛ̀ϧⲏⲧⲟⲩ: ⲁϥⲛⲁⲓ ⲛⲱⲟⲩ ⲛ̀ϫⲉ Ⲫⲛⲟⲩϯ ⲟⲩⲟϩ ⲁϥⲭⲁ ⲛⲟⲩⲛⲟⲃⲓ ⲛⲱⲟⲩ ⲉ̀ⲃⲟⲗ: ⲁϥⲱ̀ⲗⲓ ⲙ̀ⲡⲉϥϫⲱⲛⲧ ⲉ̀ⲃⲟⲗϩⲁⲣⲱⲟⲩ.",
+"ar": "الصومُ والصلاةُ هما اللذانِ عَمِلَ بِهما أهلُ نينوى، فرَحِمَهُمُ اللهُ، وغَفَرَ لهم خطاياهُم، ورَفَعَ غضبَهُ عنهُم."
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que los profetas siguieron y profetizaron acerca del advenimiento de Cristo muchas generaciones antes de su venida.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲉⲣϩⲱⲃ ⲛ̀ϧⲏⲧⲟⲩ: ⲁⲩⲉⲣⲡ̀ⲣⲟⲫⲏⲧⲉⲩⲓⲛ ⲉⲑⲃⲉ ⲡ̀ϫⲓⲛⲓ̀ ⲙ̀Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ϧⲁϫⲱϥ ⲙ̀ⲡⲉϥϫⲓⲛⲓ̀ ϧⲉⲛ ϩⲁⲛⲙⲏϣ ⲛ̀ϫⲱⲟⲩ.",
+"ar": "الصومُ والصلاةُ هما اللذانِ عَمِلَ بِهما الأنبياءُ، وتنبأوا مِنْ أجلِ مجيءِ المسيحِ قبلَ مجيئِهِ بأجيالٍ كثيرةٍ."
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que los Apóstoles siguieron y predicaron a todas las naciones, los convirtieron en cristianos y les bautizaron en el nombre del Padre, del Hijo y del Espíritu Santo.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲣϩⲱⲃ ⲛ̀ϧⲏⲧⲟⲩ: ⲁⲩϩⲓⲱⲓϣ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲁⲩⲁⲓⲧⲟⲩ ⲛ̀ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ⲁⲩϯⲱⲙⲥ ⲙ̀ⲙⲱⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.",
+"ar": "الصومُ والصلاةُ هما اللذانِ عَمِلَ بهما الرسُلُ، وبشَّروا في جميعِ الأممِ، وصيَّروهُم مسيحيينَ، وعمَّدُوهُم باسمِ الآبِ والابنِ والروحِ القدسِ."
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que los mártires siguieron hasta que derramaron su sangre por el nombre de Cristo, que ha dado un buen testimonio delante de Poncio Pilatos.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ ⲉⲣϩⲱⲃ ⲛ̀ϧⲏⲧⲟⲩ: ϣⲁⲛ̀ⲧⲟⲩⲫⲱⲛ ⲙ̀ⲡⲟⲩⲥ̀ⲛⲟϥ ⲉ̀ⲃⲟⲗ ⲉⲑⲃⲉ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ⲫⲏⲉ̀ⲧⲁϥⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ⲛ̀ϯⲟ̀ⲙⲟⲗⲟⲅⲓⲁ̀ ⲉⲑⲛⲁⲛⲉⲥ ⲛⲁϩⲣⲉⲛ Ⲡⲟⲛⲧⲓⲟⲥ Ⲡⲓⲗⲁⲧⲟⲥ.",
+"ar": "الصومُ والصلاةُ هما اللذانِ عَمِلَ بِهما الشهداءُ، حتى سفكوا دِماءَهُم من أجلِ اسمِ المسيحِ، الذي اعترفَ الاعترافَ الحسَنَ أمامَ بيلاطسَ البنطيِّ."
+},
+{
+"role": "priest",
+"es": "El ayuno y la oración son los que siguieron los Justos, los Rectos, los Portadores de la Cruz, que habitaban en las montañas, en los desiertos, en las cuevas de la tierra, por su gran amor al Rey Cristo.",
+"cop": "Ϯⲛⲏⲥⲧⲓⲁ̀ ⲛⲉⲙ ⲡⲓϣ̀ⲗⲏⲗ ⲛⲉ ⲛⲏⲉ̀ⲧⲁ ⲛⲓⲑ̀ⲙⲏⲓ ⲛⲉⲙ ⲛⲓⲇⲓⲕⲉⲟⲥ ⲛⲉⲙ ⲛⲓⲥ̀ⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ ⲉⲣϩⲱⲃ ⲛ̀ϧⲏⲧⲟⲩ: ⲁⲩϣⲱⲡⲓ ϧⲉⲛ ⲛⲓⲧⲱⲟⲩ ⲛⲉⲙ ⲛⲓϣⲁϥⲉⲩ ⲛⲉⲙ ⲛⲓⲭⲟⲗ ⲛ̀ⲧⲉ ⲡⲓⲕⲁϩⲓ: ⲉⲑⲃⲉ ⲧⲟⲩⲛⲓϣϯ ⲛ̀ⲁ̀ⲅⲁⲡⲏ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡ̀ⲟⲩⲣⲟ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ.",
+"ar": "الصومُ والصلاةُ هما اللذانِ عَمِلَ بِهما الأبرارُ والصديقونَ ولبَّاسُ الصليبِ، وسكنوا في الجبالِ والبرارِي وشقوقِ الأرضِ، من أجلِ عِظَمِ محبتِهِم في الملكِ المسيحِ."
+},
+{
+"role": "priest",
+"es": "Y nosotros también, ayunemos de todo mal, con pureza y justicia, avancemos hacia este santo sacrificio, comulguémosla dando gracias.",
+"cop": "Ⲁⲛⲟⲛ ϩⲱⲛ ⲙⲁⲣⲉⲛⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ ⲥⲁⲃⲟⲗ ⲙ̀ⲡⲉⲧϩⲱⲟⲩ ⲛⲓⲃⲉⲛ: ϧⲉⲛ ⲟⲩⲧⲟⲩⲃⲟ ⲛⲉⲙ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϯ ⲙ̀ⲡⲉⲛⲟⲩⲟⲓ ⲉ̀ⲧⲁⲓⲁ̀ⲅⲓⲁ̀ ⲛ̀ⲑⲩⲥⲓⲁ̀: ⲛ̀ⲧⲉⲛϭⲓ ⲉ̀ⲃⲟⲗⲛ̀ϧⲏⲧⲥ ϧⲉⲛ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ.",
+"ar": "ونحنُ أيضاً فلنَصُم عن كلِّ شرٍ بطهارةٍ وبرٍّ، ونتقدَّم إلى هذهِ الذبيحةِ المقدسةِ ونتناولَ منها بشكرٍ."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro, alma iluminada, rostro sin confusión, fe sincera, amor perfecto y esperanza firme.",
+"cop": "Ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛⲉⲙ ⲟⲩⲯⲩⲭⲏ ⲉ̀ⲁⲥϭⲓⲟⲩⲱⲓⲛⲓ: ⲛⲉⲙ ⲟⲩϩⲟ ⲛ̀ⲁⲧϭⲓϣⲓⲡⲓ: ⲛⲉⲙ ⲟⲩⲛⲁϩϯ ⲛ̀ⲁⲧⲙⲉⲧϣⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲁ̀ⲅⲁⲡⲏ ⲉⲥϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲛⲉⲙ ⲟⲩϩⲉⲗⲡⲓⲥ ⲉⲥⲧⲁϫⲣⲏⲟⲩⲧ.",
+"ar": "لكي بقلبٍ طاهرٍ، ونفسٍ مستنيرةٍ، ووجهٍ غيرِ مخزيٍّ، وإيمانٍ بلا رياءٍ، ومحبةٍ كاملةٍ، ورجاءٍ ثابتٍ."
+},
+{
+"role": "priest",
+"es": "Nos atrevemos, confiados y sin temor, a rezarte a Ti, Dios Padre Santo, que estás en los cielos. Y decimos:",
+"cop": "Ⲛⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ̀ ⲛ̀ⲁⲧⲉⲣϩⲟϯ ⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ: Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ.",
+"ar": "نجسُرَ بدالةٍ بغيرِ خوفٍ، أن ندعُوَكَ يا اللهُ الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "7- Fracción PARA EL PADRE durante el domingo de ramos",
+"ar": "7- قسمة للآب تقال في أحد الشعانين"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Oh Señor, nuestro Señor, cuan glorioso se convirtió tu nombre en toda la tierra.",
+"cop": "Ⲡϭⲟⲓⲥ Ⲡⲉⲛϭⲟⲓⲥ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩϣ̀ⲫⲏⲣⲓ ⲁϥϣⲱⲡⲓ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ ⲧⲏⲣϥ.",
+"ar": "أيها الربُّ ربُّنا، مثلَ عجبٍ صارَ إسمُكَ على الأرضِ كلِّها."
+},
+{
+"role": "priest",
+"es": "Porque exaltó la grandeza de tu esplendor sobre los cielos.",
+"cop": "Ϫⲉ ⲁⲥϭⲓⲥⲓ ⲛ̀ϫⲉ ⲑ̀ⲙⲉⲧⲛⲓϣϯ ⲛ̀ⲧⲉ ⲧⲉⲕⲙⲉⲧⲥⲁⲓⲉ̀ ⲥⲁⲡ̀ϣⲱⲓ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ̀.",
+"ar": "لأنه قد ارتَفَعَ عِظَمُ بهائِكَ فوقَ السمواتِ."
+},
+{
+"role": "priest",
+"es": "De la boca de los niños y de los niños de pecho preparaste alabanza.",
+"cop": "Ⲉⲃⲟⲗϧⲉⲛ ⲣⲱⲟⲩ ⲛ̀ϩⲁⲛⲕⲟⲩϫⲓ ⲛ̀ⲁ̀ⲗⲱⲟⲩⲓ̀ ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲉⲙϭⲓ ⲁⲕⲥⲉⲃⲧⲉ ⲡⲓⲥ̀ⲙⲟⲩ.",
+"ar": "مِنْ أفواهِ الأطفالِ والرُضْعَانِ هيَّأْتَ سُبحاً."
+},
+{
+"role": "priest",
+"es": "Señor, prepara también nuestras almas para alabarte, cantarte bendecirte, servirte, prostarse ante ti, glorificarte y darte gracias cada día y cada hora.",
+"cop": "Ⲥⲟⲃϯ ⲇⲉ ⲟⲛ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩⲛ ⲙ̀ⲯⲩⲭⲏ: ⲉ̀ⲡ̀ϫⲓⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲉ̀ⲉⲣϩⲩⲙⲛⲟⲥ ⲉ̀ⲣⲟⲕ: ⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲉ̀ϣⲉⲙϣⲓ ⲙ̀ⲙⲟⲕ: ⲉ̀ⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ: ⲉ̀ϯⲱ̀ⲟⲩ ⲛⲁⲕ: ⲉ̀ϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ: ⲕⲁⲧⲁ ⲉ̀ϩⲟⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲕⲁⲧⲁ ⲟⲩⲛⲟⲩ ⲛⲓⲃⲉⲛ.",
+"ar": "فَهَـيِّئْ أيضاً ياربُّ نفوسَنا لنسبِّحَكَ، ونرتلَ لكَ، ونباركَكَ، ونخدُمَكَ، ونسجُدَ لكَ، ونمجدَكَ، ونشكرَكَ كلَّ يومٍ وكلَّ ساعةٍ."
+},
+{
+"role": "priest",
+"es": "Para que te confesemos, y te proclamemos a Ti, Padre Santo que estás en los cielos, y decimos:",
+"cop": "Ϩⲱⲥⲧⲉ ⲛ̀ⲧⲉⲛⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲱϣ ⲉ̀ⲡ̀ϣⲱⲓ ϩⲁⲣⲟⲕ: Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϫⲟⲥ:",
+"ar": "لكي نعترفَ لكَ، ونصرُخَ نحوَكَ أيها الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro…",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ....",
+"ar": "أبانا ...."
+}
+]
+},
+{
+"title": {
+"es": "8- fracción para el padre sobre el sacrificio de Isaac durante el jueves santo",
+"ar": "8- قسمة للآب على ذبح إسحق تقال في الخميس الكبير"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Aconteció en esos días que Dios quería probar a Abrahán, y saber de su corazón y su amor por Él.",
+"cop": "Ⲁⲥϣⲱⲡⲓ ⲇⲉ ϧⲉⲛ ⲛⲓⲉ̀ϩⲟⲟⲩ ⲉ̀ⲧⲁ Ⲫⲛⲟⲩϯ ⲟⲩⲱϣ ⲉ̀ϭⲱⲛⲧ ⲛ̀Ⲁⲃⲣⲁⲁⲙ: ⲟⲩⲟϩ ⲛ̀ⲧⲉϥⲉ̀ⲙⲓ ⲉ̀ⲡⲉϥϩⲏⲧ ⲛⲉⲙ ⲡⲉϥⲙⲉⲓ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲣⲟϥ.",
+"ar": "وحَدَثَ في الأيامِ التي أرادَ اللهُ أَنْ يجرِّبَ إبراهيمَ ويَعلَمَ قلبَهُ ومحبتَهُ فيهِ."
+},
+{
+"role": "priest",
+"es": "Le dijo: “Abrahán, Abrahán, toma a tu hijo amado Isaac y ofrécemelo en holocausto, sobre el monte que te diré”.",
+"cop": "Ⲟⲩⲟϩ ⲡⲉϫⲁϥ ⲛⲁϥ ϫⲉ Ⲁⲃⲣⲁⲁⲙ Ⲁⲃⲣⲁⲁⲙ: ϭⲓ ⲙ̀ⲡⲉⲕⲙⲉⲛⲣⲓⲧ ⲛ̀ϣⲏⲣⲓ Ⲓⲥⲁⲁⲕ ⲟⲩⲟϩ ⲁ̀ⲛⲓⲧϥ ⲛⲏⲓ ⲛ̀ⲟⲩϭ̀ⲗⲓⲗ: ϩⲓϫⲉⲛ ⲡⲓⲧⲱⲟⲩ ⲉ̀ϯⲛⲁⲧⲁⲙⲟⲕ ⲉ̀ⲣⲟϥ.",
+"ar": "أَنه قالَ لهُ: \"إبراهيمُ إبراهيمُ، خُذْ ابنَكَ الحبيبَ إسحَقَ وقدِّمْهُ لِي مُحْرَقَةً على الجبلِ الذي أُعلِمُكَ بهِ.\""
+},
+{
+"role": "priest",
+"es": "Abrahán madrugó, aparejó su asno, tomó dos criados y a su hijo Isaac. Llevó un cuchillo y fuego. Caminó por la tierra, y vió a los lejos el lugar que Dios le había dicho.",
+"cop": "Ⲁϥⲧⲱⲛϥ ⲇⲉ ⲛ̀ϫⲉ Ⲁⲃⲣⲁⲁⲙ ⲛ̀ⲧⲟⲟⲩⲓ̀ ⲟⲩⲟϩ ⲁϥϧⲱⲕ ⲛ̀ⲧⲉϥⲉ̀ⲱ:̀ ⲁϥϭⲓ ⲇⲉ ⲛ̀ⲁ̀ⲗⲟⲩ 2 (ⲥ̀ⲛⲁⲩ) ⲛⲉⲙ Ⲓⲥⲁⲁⲕ ⲡⲉϥϣⲏⲣⲓ: ⲁϥϭⲓ ⲛ̀ⲟⲩϫⲟⲣϯ ⲛⲉⲙ ⲟⲩⲭ̀ⲣⲱⲙ: ⲁϥⲙⲟϣⲓ ⲉ̀ⲃⲟⲗ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲟⲩⲟϩ ⲁϥⲛⲁⲩ ⲉ̀ⲡⲓⲙⲁ ϩⲓ ⲫ̀ⲟⲩⲉⲓ ⲉ̀ⲧⲁ Ⲡϭⲟⲓⲥ ⲧⲁⲙⲟϥ ⲉ̀ⲣⲟϥ.",
+"ar": "فقامَ إبراهيمُ باكراً وأَسْرَجَ دابتَهُ، وأخذَ غلامَينِ وإسحقَ إبنَهُ. وأخذَ سِكيناً وناراً. ومَشَى عَلى الأرضِ، فرأى الموضعَ مِنْ بعيدٍ الذي أعلَمَهُ بهِ الربُّ."
+},
+{
+"role": "priest",
+"es": "Entonces Abrahán dijo a sus criados: “Quédense aquí con el asno, mi hijo Isaac y yo iremos y nos postraremos. Luego regresaremos con vosotros”.",
+"cop": "Ⲟⲩⲟϩ ⲡⲉϫⲁϥ ⲛ̀ⲛⲉϥⲁ̀ⲗⲱⲟⲩⲓ̀ ϫⲉ ϩⲉⲙⲥⲓ ⲛ̀ⲑⲱⲧⲉⲛ ⲙ̀ⲡⲁⲓⲙⲁ ⲛⲉⲙ ϯⲉ̀ⲱ̀: ⲁ̀ⲛⲟⲕ ⲇⲉ ⲛⲉⲙ Ⲓⲥⲁⲁⲕ ⲡⲁϣⲏⲣⲓ ⲧⲉⲛⲛⲁϣⲉⲛⲁⲛ ⲛ̀ⲧⲉⲛⲟⲩⲱϣⲧ ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲧⲁⲥⲑⲟ ϩⲁⲣⲱⲧⲉⲛ.",
+"ar": "فقالَ لغلاميه: \"اجلِسا أنتُما هَهُنا مع الدابةِ. وأما أنا وإسحقُ ابني فنذهَبُ ونسجُد ثم نرجِعُ إليكُما.\""
+},
+{
+"role": "priest",
+"es": "Tomó Abrahán la leña del holocausto y la puso sobre Isaac, su hijo. Y cogió en sus manos el fuego y el cuchillo.",
+"cop": "Ⲁϥϭⲓ ⲇⲉ ⲛ̀ϫⲉ Ⲁⲃⲣⲁⲁⲙ ⲛ̀ⲛⲓⲣⲱⲕϩ ⲛ̀ⲧⲉ ⲡⲓϭ̀ⲗⲓⲗ: ⲟⲩⲟϩ ⲁϥⲧⲁⲗⲱⲟⲩ ⲉ̀ϫⲉⲛ Ⲓⲥⲁⲁⲕ ⲡⲉϥϣⲏⲣⲓ: ⲁϥϭⲓ ⲇⲉ ⲙ̀ⲡⲓⲭ̀ⲣⲱⲙ ϧⲉⲛ ⲧⲉϥϫⲓϫ ⲛⲉⲙ ϯϫⲟⲣϯ.",
+"ar": "وأخَذَ إبراهيمُ حَطَبَ المحرَقَةِ ووضَعَهُ على إسحقَ ابنِهِ، وأخَذَ بيدِهِ النارَ والسكينَ."
+},
+{
+"role": "priest",
+"es": "Entonces Isaac le dijo a su padre: “Padre mío he aquí el fuego y la leña, ¿mas dónde está el cordero para el holocausto?”.",
+"cop": "Ⲡⲉϫⲉ Ⲓⲥⲁⲁⲕ ⲇⲉ ⲙ̀ⲡⲉϥⲓⲱⲧ: ϫⲉ ⲡⲁⲓⲱⲧ ϩⲏⲡⲡⲉ ⲓⲥ ⲡⲓⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲡⲓⲣⲱⲕϩ: ⲁϥⲑⲱⲛ ⲡⲓⲉ̀ⲥⲱⲟⲩ ⲉ̀ⲧⲉⲛⲛⲁⲉⲛϥ ⲉ̀ⲡⲓϭ̀ⲗⲓⲗ.",
+"ar": "فقال إسحقُ لأبيهِ: \"يا أَبَتَاهُ، هُوَذا النارُ والحطبُ، وأيْنَ الخرُوفُ الذي نُقَدِّمُهُ للمُحْرَقَةِ؟\""
+},
+{
+"role": "priest",
+"es": "Abrahán le respondió: “Dios es quien nos ordenó ofrecerle un sacrificio. Será Él quien provea el cordero para el holocausto hijo mío”.",
+"cop": "Ⲡⲉϫⲉ Ⲁⲃⲣⲁⲁⲙ ⲇⲉ ⲛⲁϥ ϫⲉ Ⲫⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥⲟⲩⲁϩⲥⲁϩⲛⲓ ⲛⲁⲛ ⲉ̀ⲧⲁⲗⲟ ⲛⲁϥ ⲛ̀ⲟⲩⲑⲩⲥⲓⲁ: ⲛ̀ⲑⲟϥ ⲉⲑⲛⲁⲛⲁⲩ ⲉ̀ⲟⲩⲉ̀ⲥⲱⲟⲩ ⲛⲁϥ ⲉ̀ⲡ̀ϭ̀ⲗⲓⲗ ⲡⲁϣⲏⲣⲓ.",
+"ar": "فقالَ لهُ إبراهيمُ: \"إنَّ اللهَ الذي أَمَرَنا أن نرفعَ لهُ ذبيحةً هو يَرَى حملاً لهُ للمُحْرَقَةِ يا ابْنِي.\""
+},
+{
+"role": "priest",
+"es": "Abrahán tomó piedras y edificó un altar. Preparó la leña y la puso sobre el altar. Ató a Isaac su hijo y lo colocó en el altar. Y tomó el cuchillo para degollarlo.",
+"cop": "Ⲁϥϭⲓ ⲇⲉ ⲛ̀ϩⲁⲛⲱ̀ⲛⲓ ⲛ̀ϫⲉ Ⲁⲃⲣⲁⲁⲙ ⲁϥⲕⲱⲧ ⲛ̀ⲟⲩⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ: ⲁϥϭⲓ ⲛ̀ⲛⲓⲣⲱⲕϩ ⲁϥⲧⲁⲗⲱⲟⲩ ϩⲓϫⲉⲛ ⲡⲓⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ: ⲟⲩⲟϩ ⲁϥϭⲓ ⲛ̀Ⲓⲥⲁⲁⲕ ⲡⲉϥϣⲏⲣⲓ ⲁϥⲥⲟⲛϩϥ ⲁϥⲧⲁⲗⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ: ⲁϥϭⲓ ⲛ̀ϯϫⲟⲣϯ ⲉ̀ϧⲉⲗϧⲱⲗϥ.",
+"ar": "وأخَذَ إبراهيمُ حِجارةً وبنى مذبحاً. وأخَذَ الحَطَبَ ورَفَعَهُ على المذبحِ، وأخَذَ إسحقَ ابنَهُ وربَطَهُ ووَضَعَهُ على المذبحِ، وأخَذَ السكينَ ليذبَحَهُ."
+},
+{
+"role": "priest",
+"es": "Entonces el Ángel del Señor lo llamó: “Abrahán, Abrahán, mira no extiendas tu mano sobre tu muchacho, ni le hagas nada malo”.",
+"cop": "Ⲟⲩⲟϩ ⲁ ⲡⲓⲁ̀ⲅⲅⲉⲗⲟⲥ ⲛ̀ⲧⲉ Ⲡϭⲟⲓⲥ ⲙⲟⲩϯ ⲟⲩⲃⲉ Ⲁⲃⲣⲁⲁⲙ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲁϥ: ϫⲉ Ⲁⲃⲣⲁⲁⲙ Ⲁⲃⲣⲁⲁⲙ ⲁ̀ⲛⲁⲩ ⲙ̀ⲡⲉⲣϭⲟϩ ⲉ̀ⲡⲉⲕⲁ̀ⲗⲟⲩ ⲟⲩⲇⲉ ⲙ̀ⲡⲉⲣⲓ̀ⲣⲓ ⲛⲁϥ ⲛ̀ⲟⲩⲡⲉⲧϩⲱⲟⲩ.",
+"ar": "وإن مَلاكَ الربِّ نادى إبراهيمَ قائلاً لَهُ: \"إبراهيمُ إبراهيمُ، انظُرْ لا تَلْمَسْ فتاكَ ولاتَصنَعْ بِهِ شراً."
+},
+{
+"role": "priest",
+"es": "Cuando el Señor vio su amor hacia Él, dijo: yo soy el Señor tu Dios, que juré a mi mismo bendecirte y multiplicaré tu descendencia”.",
+"cop": "Ⲉⲧⲁϥⲛⲁⲩ ⲛ̀ϫⲉ Ⲡϭⲟⲓⲥ ⲉ̀ⲡⲉⲕⲙⲉⲓ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲣⲟϥ: ⲟⲩⲟϩ ⲡⲉϫⲁϥ ϫⲉ ⲁ̀ⲛⲟⲕ ⲡⲉ Ⲡϭⲟⲓⲥ Ⲡⲉⲕⲛⲟⲩϯ: ⲁⲓⲱⲣⲕ ⲙ̀ⲙⲟⲓ ϫⲉ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲟⲩ ⲉⲓⲉ̀ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ: ⲟⲩⲟϩ ϧⲉⲛ ⲟⲩⲁ̀ϣⲁⲓ ⲉⲓⲉ̀ⲑ̀ⲣⲉ ⲡⲉⲕϫ̀ⲣⲟϫ ⲁ̀ϣⲁⲓ.",
+"ar": "لما نَظَرَ الربُّ محبَّتَكَ فيهِ قالَ: إني أنا هو الربُّ إلهُكَ، أقسَمتُ بذاتي إنـي بالبَرَكةِ أبارِكُكَ، وبالكَثْرَةِ أُكثِرُ نسلَكَ.\""
+},
+{
+"role": "priest",
+"es": "Entonces Abrahán alzó la vista y vio a un carnero enredado en un zarzal por sus cuernos. Entonces soltó a su hijo Isaac, tomó al carnero y lo ofreció en holocausto en lugar de él.",
+"cop": "Ⲟⲩⲟϩ ⲁϥϥⲁⲓ ⲛ̀ⲛⲉϥⲃⲁⲗ ⲛ̀ϫⲉ Ⲁⲃⲣⲁⲁⲙ: ⲁϥⲛⲁⲩ ⲉ̀ⲟⲩⲉ̀ⲥⲱⲟⲩ ⲉϥⲭⲏ ϩⲓϫⲉⲛ ⲡⲓϣ̀ϣⲏⲛ ⲉϥⲙⲏⲣ ϧⲉⲛ ⲡⲉϥⲧⲁⲡ ⲥ̀ⲛⲁⲩ: ⲟⲩⲟϩ ⲁϥⲭⲱ ⲛ̀Ⲓⲥⲁⲁⲕ ⲡⲉϥϣⲏⲣⲓ ⲁϥϭⲓ ⲙ̀ⲡⲓⲉ̀ⲥⲱⲟⲩ: ⲟⲩⲟϩ ⲁϥⲉⲛϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲛ̀ⲟⲩϭ̀ⲗⲓⲗ ⲛ̀ⲧⲉϥϣⲉⲃⲓⲱ.",
+"ar": "فرَفَعَ إبراهِيمُ عينَيهِ فنَظَرَ خروفاً عندَ الشجرَةِ مُوثَقاً بقَرنيهِ، فتَرَكَ إسحقَ ابنَهُ وأخَذَ الخروفَ وأصْعَدَهُ مُحْرَقةً عِوَضاً عَنهُ."
+},
+{
+"role": "priest",
+"es": "El sacrificio de Isaac fue un símbolo del derramamiento de Sangre de Cristo Hijo de Dios, sobre la cruz para la salvación del mundo.",
+"cop": "Ⲡϧⲟⲗϧⲉⲗ ⲇⲉ ⲛ̀Ⲓⲥⲁⲁⲕ ⲛⲉ ⲟⲩϭⲱⲣⲉⲙ ⲡⲉ ⲉ̀ⲡⲓⲫⲱⲛ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲡϣⲏⲣⲓ ⲙ̀Ⲫⲛⲟⲩϯ ϩⲓϫⲉⲛ ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ⲉⲑⲃⲉ ⲡ̀ⲟⲩϫⲁⲓ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ.",
+"ar": "فَذَبْحُ إسحقَ كانَ إشارةً إلى هرقِ دمِ المسيحِ ابنِ اللهِ على الصليبِ عن خلاصِ العَالَمِ."
+},
+{
+"role": "priest",
+"es": "Como Isaac levantó la leña del holocausto, así Cristo levantó la madera de la cruz.",
+"cop": "Ⲟⲩⲟϩ ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁ Ⲓⲥⲁⲁⲕ ⲱ̀ⲗⲓ ⲛ̀ⲛⲓⲣⲱⲕϩ ⲛ̀ⲧⲉ ⲡⲓϭ̀ⲗⲓⲗ: ⲡⲁⲓⲣⲏϯ ⲁϥⲱ̀ⲗⲓ ⲛ̀ϫⲉ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲙ̀ⲡⲓϣⲉ ⲛ̀ⲧⲉ ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ.",
+"ar": "وكما حَمَلَ إسحقُ حَطَبَ المحرَقَةِ، كذلك حَمَلَ المسيحُ خشبةَ الصليبِ."
+},
+{
+"role": "priest",
+"es": "Y como Isaac volvió vivo, así también Cristo resucitó de entre los muertos y apareció a sus Santos discípulos.",
+"cop": "Ⲟⲩⲟϩ ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁ Ⲓⲥⲁⲁⲕ ⲧⲁⲥⲑⲟ ⲉϥⲟⲛϧ: ⲡⲁⲓⲣⲏϯ ϩⲱϥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲁϥⲧⲱⲛϥ ⲉϥⲟⲛϧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ ⲟⲩⲟϩ ⲁϥⲟⲩⲟⲛϩϥ ⲛ̀ⲛⲉϥⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ.",
+"ar": "وكما رَجَعَ إسحقُ حياً، هَكَذا أيضاً قامَ المسيحُ حياً من الأمواتِ، وظَهَرَ لتلاميذِهِ القديسينَ."
+},
+{
+"role": "priest",
+"es": "Dios que aceptó el sacrificio de nuestro padre Abrahán, acepta de nosotros éste en esta hora. Bendice estas oblaciones, y bendice a quienes se les fueron ofrecidas. Concede el descanso a las almas de los difuntos. Que Cristo bendiga todos nuestros corazones y nuestros espíritus.",
+"cop": "Ⲫⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥϭⲓ ⲛ̀ϯⲑⲩⲥⲓⲁ̀ ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ Ⲁⲃⲣⲁⲁⲙ: ϭⲓ ⲛ̀ⲧⲁⲓⲑⲩⲥⲓⲁ ⲛ̀ⲧⲟⲧⲉⲛ ϧⲉⲛ ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲛⲁⲓⲇⲱⲣⲟⲛ ⲛⲁⲓ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲛⲏⲉ̀ⲧⲁⲩⲉⲛⲟⲩ ⲉ̀ϫⲱⲟⲩ: ⲙⲁⲙ̀ⲧⲟⲛ ⲛ̀ⲛⲓⲯⲩⲭⲏ ⲛ̀ⲛⲏⲉ̀ⲧⲁⲩⲙⲟⲩ: ⲙⲁⲣⲉϥⲥ̀ⲙⲟⲩ ⲛ̀ϫⲉ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲉ̀ϫⲉⲛ ⲛⲉⲛϩⲏⲧ ⲧⲏⲣⲟⲩ ⲛⲉⲙ ⲛⲉⲛⲡ̀ⲛⲉⲩⲙⲁ.",
+"ar": "اللهُمَّ الذي قَبِلَ ذبيحةَ أبينا إبراهيمَ، اقْبَلْ هذه الذبيحةَ مِنَّا في هذه الساعةِ. بارِكْ هذه القرابينَ، بارِكْ الذينَ قُدِّمَتْ عنهُمْ. نيِّحْ نفوسَ الذين ماتوا. فليُبَارِكْ المسيحُ على قلوبِنا جميعاً وأرواحِنا."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro, alma iluminada, rostro sin confusión, fe sincera, amor perfecto y esperanza firme.",
+"cop": "Ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛⲉⲙ ⲟⲩⲯⲩⲭⲏ ⲉ̀ⲁⲥϭⲓⲟⲩⲱⲓⲛⲓ: ⲛⲉⲙ ⲟⲩϩⲟ ⲛ̀ⲁⲧϭⲓϣⲓⲡⲓ: ⲛⲉⲙ ⲟⲩⲛⲁϩϯ ⲛ̀ⲁⲧⲙⲉⲧϣⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲁ̀ⲅⲁⲡⲏ ⲉⲥϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲛⲉⲙ ⲟⲩϩⲉⲗⲡⲓⲥ ⲉⲥⲧⲁϫⲣⲏⲟⲩⲧ.",
+"ar": "لكي بقلبٍ طاهرٍ، ونفسٍ مستنيرةٍ، ووجهٍ غيرِ مخزيٍّ، وإيمانٍ بِلا رياءٍ، ومحبةٍ كاملةٍ، ورجاءٍ ثابتٍ."
+},
+{
+"role": "priest",
+"es": "Nos atrevemos, confiados y sin temor, a rezarte a Ti, Dios Padre Santo, que estás en los cielos. Y decimos:",
+"cop": "Ⲛⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ ⲛ̀ⲁⲧⲉⲣϩⲟϯ ⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ: Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ:",
+"ar": "نجسُرَ بدالةٍ بغيرِ خوفٍ، أن ندعُوَكَ يا اللهُ الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "9- fracción para el hijo durante el gran sábado",
+"ar": "9- قسمة للإبن تقال في سبت الفرح"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Jesucristo, el nombre de la salvación, que con su gran misericordia, descendió a los infiernos y venció el poder de la muerte.",
+"cop": "Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲫⲁ ⲡⲓⲣⲁⲛ ⲛ̀ⲟⲩϫⲁⲓ: ⲫⲏⲉ̀ⲧⲉ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉϥⲛⲁⲓ ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲁ̀ⲙⲉⲛϯ ⲁϥⲕⲱⲣϥ ⲙ̀ⲡ̀ⲁ̀ⲙⲁϩⲓ ⲙ̀ⲫ̀ⲙⲟⲩ.",
+"ar": "يا يسوعُ المسيحُ ذا الاسمِ المخَلِّصِ، الذي بكثرةِ رحمتِهِ نَزَلَ إلى الجحيمِ وأبطلَ عزَّ الموتِ."
+},
+{
+"role": "priest",
+"es": "Tú eres el Rey de los siglos, inmortal, eterno, el Logos de Dios, que está por encima de todo, el Pastor de las ovejas racionales.",
+"cop": "Ⲛ̀ⲑⲟⲕ ⲡⲉ ⲡ̀ⲟⲩⲣⲟ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲱⲛ: ⲡⲓⲁⲑⲙⲟⲩ ⲡⲓϣⲁ ⲉ̀ⲛⲉϩ: Ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲧⲉ Ⲫⲛⲟⲩϯ ⲉⲧϩⲓϫⲉⲛ ⲡⲓⲉ̀ⲡ̀ⲧⲏⲣϥ: ⲡⲓⲙⲁⲛⲉ̀ⲥⲱⲟⲩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲥⲱⲟⲩ ⲛ̀ⲗⲟⲅⲓⲕⲟⲛ.",
+"ar": "أنتَ هو ملكُ الدهورِ، غيرُ المائتِ، الأبديُّ، كلمةُ اللهِ الذي عَلَى الكلِّ. راعي الخرافِ الناطقةِ."
+},
+{
+"role": "priest",
+"es": "El Sumo Sacerdote de los bienes definitivos, Quién ascendió a los cielos y se volvió más alto que los cielos.",
+"cop": "Ⲡⲓⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲛ̀ⲧⲉ ⲛⲓⲁ̀ⲅⲁⲑⲟⲛ ⲉⲑⲛⲁϣⲱⲡⲓ: ⲫⲏⲉ̀ⲧⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀: ⲁϥⲉⲣ ⲥⲁⲡ̀ϣⲱⲓ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ̀.",
+"ar": "رئيسُ كهنةِ الخيراتِ العتيدةِ، الذي صَعِدَ إلى السمواتِ وصارَ فوقَ السمواتِ."
+},
+{
+"role": "priest",
+"es": "Entró en la cortina, el lugar del Santuario, el lugar en el que nadie de la naturaleza humana puede entrar.",
+"cop": "Ⲁϥϣⲉⲛⲁϥ ⲥⲁϧⲟⲩⲛ ⲙ̀ⲡⲓⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ: ⲡⲓⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ: ⲡⲓⲙⲁ ⲉ̀ⲧⲉ ⲙ̀ⲡⲁⲣⲉ ϩ̀ⲗⲓ ⲙ̀ⲫⲩⲥⲓⲥ ⲛ̀ⲣⲱⲙⲓ ϩⲱⲗ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲣⲟϥ.",
+"ar": "ودخلَ داخلَ الحجابِ، موضِعَ قدسِ الأقداسِ، الموضِعَ الذي لا يدخُلُ إليهِ ذو طبيعةٍ بشريةٍ."
+},
+{
+"role": "priest",
+"es": "Se convirtió en un precursor para nosotros al convertirse en Sumo Sacerdote para siempre, según la orden de Melquisedec.",
+"cop": "Ⲁϥϣⲱⲡⲓ ⲉϥⲟⲓ ⲙ̀ⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲉ̀ⲁϥϣⲱⲡⲓ ⲉϥⲟⲓ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ϣⲁ ⲉ̀ⲛⲉϩ ⲕⲁⲧⲁ ⲧ̀ⲧⲁⲝⲓⲥ ⲙ̀Ⲙⲉⲗⲭⲓⲥⲉⲇⲉⲕ.",
+"ar": "وصار سابقاً عنَّا، صائراً رئيسَ كهنةٍ إلى الأبدِ على رتبةِ ملكي صادق."
+},
+{
+"role": "priest",
+"es": "Tu eres Él, quien el profeta Isaías profetizó sobre Ti, diciendo: “como oveja fue llevado al matadero; y como cordero, mudo delante del que lo trasquila, no abre él su boca. En su humillacion no se le hizo justicia; ¿quién contará su generacion?”.",
+"cop": "Ⲛ̀ⲑⲟⲕ ⲡⲉ ⲉ̀ⲧⲁ Ⲏⲥⲁⲏⲁⲥ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲉⲣⲡ̀ⲣⲟⲫⲏⲧⲉⲩⲓⲛ ⲉⲑⲃⲏⲧⲕ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲉ̀ⲥⲱⲟⲩ ⲁⲩⲉⲛϥ ⲉ̀ⲡ̀ϧⲟⲗϧⲉⲗ: ⲟⲩⲟϩ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩϩⲓⲏⲃ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲙ̀ⲫⲏⲉⲧϧⲱⲕ ⲙ̀ⲙⲟϥ ⲉϥⲟⲓ ⲛ̀ⲁⲧⲥ̀ⲙⲏ: ⲡⲁⲓⲣⲏϯ ⲛ̀ϥ̀ⲟⲩⲱⲛ ⲛ̀ⲣⲱϥ ⲁⲛ: ⲁⲩⲱ̀ⲗⲓ ⲙ̀ⲡⲉϥϩⲁⲡ ϧⲉⲛ ⲡⲉϥⲑⲉⲃⲓⲟ: ⲧⲉϥⲅⲉⲛⲉⲁ̀ ⲇⲉ ⲛⲓⲙ ⲡⲉⲑⲛⲁϣ̀ⲫⲓⲣⲓ ⲉ̀ⲣⲟⲥ.",
+"ar": "أنت هو الذي أشعياءُ النبيُّ تنبأَ مِنْ أجلِكَ قائلاً: ”مثلُ خروفٍ سيقَ إلى الذبحِ، ومثلُ حَمَلٍ بلا صوتٍ أمام الذي يجزُّهُ، هكذا لا يفتحُ فاهُ. رُفِعَ حكمُهُ في تواضُعِهِ، وجيلُهُ مَنْ يقدرُ أن يَقُصَّهُ؟“"
+},
+{
+"role": "priest",
+"es": "Tú fuiste herido por nuestros pecados, Molido por nuestras iniquidades. El castigo, por nuestra paz, cayó sobre Ti, y por Tus heridas hemos sido sanados, todos nosotros nos descarriamos como ovejas.",
+"cop": "Ⲁⲕϭⲓ ⲉⲣϧⲟⲧ ⲉⲑⲃⲉ ⲛⲉⲛⲛⲟⲃⲓ: ⲟⲩⲟϩ ⲁⲕϣⲱⲛⲓ ⲉⲑⲃⲉ ⲛⲉⲛⲁ̀ⲛⲟⲙⲓⲁ ⲧ̀ⲥ̀ⲃⲱ ⲛ̀ⲧⲉⲛϩⲓⲣⲏⲛⲏ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲕ: ϧⲉⲛ ⲛⲉⲕⲗⲉⲗⲉⲭⲏⲙⲓ ⲁⲛⲟⲩϫⲁⲓ: ⲛⲁⲛⲥⲱⲣⲉⲙ ⲧⲏⲣⲉⲛ ⲡⲉ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛⲉ̀ⲥⲱⲟⲩ.",
+"ar": "جُرِحْتَ لأجلِ خطايانا، وتوجَّعْتَ لأجلِ آثامِنا، تأديبُ سلامِنا عليكَ، وبجراحاتِكَ شُفينا، كنا كلُّنا ضالينَ مثلَ خرافٍ."
+},
+{
+"role": "priest",
+"es": "Tú viniste, nuestro Señor y nos salvaste, a través del conocimiento verdadero de tu cruz, y nos concediste el árbol de la vida, que es tu divino cuerpo y verdadera Sangre.",
+"cop": "Ⲁⲕⲓ̀ ⲡⲉⲛⲛⲏⲃ ⲁⲕⲛⲁϩⲙⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲉ̀ⲙⲓ ⲙ̀ⲙⲏⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲁⲕⲉⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓϣ̀ϣⲏⲛ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ: ⲉ̀ⲧⲉ ⲡⲉⲕⲥⲱⲙⲁ ⲛ̀ⲛⲟⲩϯ ⲡⲉ ⲛⲉⲙ ⲡⲉⲕⲥ̀ⲛⲟϥ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ.",
+"ar": "أتيتَ يا سيدَنا وأَنقذْتَنا بمعرفةِ صليبِكَ الحقيقيةِ. وأنعمتَ لنا بشجرةِ الحياةِ التي هي جسدُكَ الإلهيُّ ودَمُكَ الحقيقيُّ."
+},
+{
+"role": "priest",
+"es": "Por eso, te alabamos, te bendecimos, te servimos, nos postramos ante ti, te glorificamos y te damos gracias en todo momento.",
+"cop": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲧⲉⲛϣⲉⲙϣⲓ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲕ ⲧⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ.",
+"ar": "مِنْ أجلِ هذا نسبحُكَ، ونباركُكَ، ونخدُمُكَ، ونسجُدُ لكَ، ونمجدُكَ، ونشكرُكَ كلَّ حينٍ."
+},
+{
+"role": "priest",
+"es": "Te pedimos y suplicamos, oh Amante de la humanidad, acepta nuestro sacrificio, nuestro Señor, así como Tú aceptaste las oblaciones, el incienso, las súplicas de los Patriarcas, los Profetas y los Apóstoles y todos tus Santos.",
+"cop": "Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ ⲡⲓⲙⲁⲓⲣⲱⲙⲓ Ⲫⲛⲟⲩϯ: ϣⲉⲡ ⲡⲉⲛϣⲟⲩϣⲱⲟⲩϣⲓ ⲛ̀ⲧⲟⲧⲉⲛ ⲡⲉⲛⲛⲏⲃ: ⲙ̀ⲫ̀ⲣⲏϯ ⲉ̀ⲧⲁⲕϣⲱⲡ ⲉ̀ⲣⲟⲕ ⲛ̀ⲛⲓⲇⲱⲣⲟⲛ ⲛⲉⲙ ⲛⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲛⲉⲙ ⲛⲓϯϩⲟ ⲛ̀ⲛⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲛⲉⲙ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁⲕ.",
+"ar": "نسألُ ونطلبُ إليكَ يا محبَّ البشرِ، اللهُمَّ إقبَلْ ذبيحتَنا مِنَّا يا سيدَنا، كما قبلتَ قرابينَ وبخوراتِ وسؤالاتِ رؤساءِ الآباءِ والأنبياءِ والرُسُلِ وجميعِ قديسيكَ."
+},
+{
+"role": "priest",
+"es": "Purifica nuestras almas, nuestros cuerpos, nuestros espíritus y nuestras conciencias.",
+"cop": "Ⲙⲁⲧⲟⲩⲃⲟ ⲛ̀ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲥⲱⲙⲁ ⲛⲉⲙ ⲛⲉⲛⲡ̀ⲛⲉⲩⲙⲁ ⲛⲉⲙ ⲛⲉⲛⲥⲩⲛⲓⲇⲏⲥⲓⲥ.",
+"ar": "طَهِّر نفوسَنا، وأجسادَنا، وأرواحَنا، ونيَّاتَنا."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro, alma iluminada, rostro sin confusión, fe sincera, amor perfecto y esperanza firme.",
+"cop": "Ϩⲟⲡⲱⲥ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛⲉⲙ ⲟⲩⲯⲩⲭⲏ ⲉ̀ⲁⲥϭⲓⲟⲩⲱⲓⲛⲓ: ⲛⲉⲙ ⲟⲩϩⲟ ⲛ̀ⲁⲧϭⲓϣⲓⲡⲓ: ⲛⲉⲙ ⲟⲩⲛⲁϩϯ ⲛ̀ⲁⲧⲙⲉⲧϣⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲁ̀ⲅⲁⲡⲏ ⲉⲥϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲛⲉⲙ ⲟⲩϩⲉⲗⲡⲓⲥ ⲉⲥⲧⲁϫⲣⲏⲟⲩⲧ.",
+"ar": "لكي بقلبٍ طاهرٍ، ونفسٍ مستنيرةٍ، ووجهٍ غيرِ مخزيٍّ، وإيمانٍ بغيرِ رياءٍ، ومحبةٍ كاملةٍ، ورجاءٍ ثابتٍ."
+},
+{
+"role": "priest",
+"es": "Nos atrevemos, confiados y sin temor a decir la oración santa, que has dado a tus santos Discípulos y Apóstoles puros, diciéndoles “cuando oren pidan de esta manera y digan:",
+"cop": "Ⲛⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ ⲛ̀ⲁⲧⲉⲣϩⲟϯ ⲉ̀ϫⲱ ⲛ̀ϯⲉⲩⲭⲏ ⲉⲑⲟⲩⲁⲃ: ⲑⲏⲉ̀ⲧⲁⲕⲧⲏⲓⲥ ⲉ̀ⲧⲟⲧⲟⲩ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩⲕ ⲛ̀ⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲉⲕϫⲱ ⲙ̀ⲙⲟⲥ ⲛⲱⲟⲩ: ϫⲉ ⲉ̀ϣⲱⲡ ⲁ̀ⲣⲉⲧⲉⲛϣⲁⲛⲉⲣⲡ̀ⲣⲟⲥⲉⲩⲭⲉⲥⲑⲉ ⲧⲱⲃϩ ⲙ̀ⲡⲁⲓⲣⲏϯ ⲟⲩⲟϩ ⲁ̀ϫⲟⲥ:",
+"ar": "نجسُرَ بدالةٍ بغيرِ خوفٍ أن نقولَ الصلاةَ المقدسةَ التي سلَّمْتَها لتلاميذِكَ القديسينَ، ورسلِكَ الأطهارِ قائلاً لـهُم: ”إذا صليتم فاطلبوا هكذا، وقولوا:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "’أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "10- Fracción para el padre durante la resurrección y el pentecostés",
+"ar": "10- قسمة للآب تقال في عيد القيامة والخمسين"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+"cop": "Ⲫⲛⲏⲃ Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ.",
+"ar": "أيها السيدُ الربُّ الإلهُ ضابطُ الكلِّ، أبو ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ."
+},
+{
+"role": "priest",
+"es": "Que por medio de su cruz descendió a los infiernos, y regresó a nuestro padre Adán y a sus hijos al Paraíso.",
+"cop": "Ⲫⲏⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗϩⲓⲧⲉⲛ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ ⲁϥⲓ̀ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲁ̀ⲙⲉⲛϯ: ⲁϥⲧⲁⲥⲑⲟ ⲙ̀ⲡⲉⲛⲓⲱⲧ Ⲁⲇⲁⲙ ⲛⲉⲙ ⲛⲉϥϣⲏⲣⲓ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ.",
+"ar": "الذي من قِبَلِ صليبِه نَزَلَ إلى الجحيمِ، وردَّ أبانا آدَمَ وبنيهِ إلى الفردوسِ."
+},
+{
+"role": "priest",
+"es": "Nos enterró con Él, por su muerte venció al poder de la muerte y al tercer día resucitó de entre los muertos.",
+"cop": "Ⲁϥⲑⲟⲙⲥⲉⲛ ⲛⲉⲙⲁϥ: ϧⲉⲛ ⲡⲉϥⲙⲟⲩ ⲁϥⲕⲱⲣϥ ⲙ̀ⲡⲓⲁ̀ⲙⲁϩⲓ ⲙ̀ⲫ̀ⲙⲟⲩ: ⲟⲩⲟϩ ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲏⲉⲑⲙⲱⲟⲩⲧ.",
+"ar": "ودفَنَنا مَعَهُ، بموتِهِ أبطلَ عِزَّ الموتِ، وفي ثالثِ يومٍ قامَ من الأمواتِ."
+},
+{
+"role": "priest",
+"es": "Se le apareció a María Magdalena y habló con ella diciendo: “Avisen a mis hermanos que vayan a Galilea, y allí Me verán”.",
+"cop": "Ⲁϥⲟⲩⲟⲛϩϥ ⲉ̀Ⲙⲁⲣⲓⲁ ϯⲙⲁⲅⲇⲁⲗⲓⲛⲏ: ⲁϥⲥⲁϫⲓ ⲛⲉⲙⲁⲥ ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲙⲁⲧⲁⲙⲉ ⲛⲁⲥ̀ⲛⲏⲟⲩ ϩⲓⲛⲁ ⲛ̀ⲧⲟⲩϣⲉⲛⲱⲟⲩ ⲉ̀Ϯⲅⲁⲗⲓⲗⲉⲁ: ⲥⲉⲛⲁⲛⲁⲩ ⲉ̀ⲣⲟⲓ ⲙ̀ⲙⲁⲩ.",
+"ar": "وظَهَرَ لمريمَ المجدليةِ وكلَّمَها هكذا قائلاً: ”أَعْلِمِي إخوتي أن يذهبُوا إلى الجليلِ، هناكَ يَرَوْنَنِي.“"
+},
+{
+"role": "priest",
+"es": "El Arcángel descendió del Cielo y removió la piedra de la puerta del sepulcro. Y proclamó a las mujeres que llevaban las especies aromáticas diciendo:",
+"cop": "Ⲡⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ ⲁϥⲓ̀ ⲉ̀ⲡⲉⲥⲏⲧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲧ̀ⲫⲉ: ⲁϥⲥ̀ⲕⲉⲣⲕⲉⲣ ⲙ̀ⲡⲓⲱ̀ⲛⲓ ⲉ̀ⲃⲟⲗ ϩⲓ ⲣⲱϥ ⲙ̀ⲡⲓⲙ̀ϩⲁⲩ ⲁϥϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛ̀ⲛⲓϩⲓⲟ̀ⲙⲓ ⲙ̀ϥⲁⲓⲥⲟϫⲉⲛ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ:",
+"ar": "رئيسُ الملائكةِ نَزَلَ من السماءِ، ودحرَجَ الحجرَ عن فمِ القبرِ، وبَشَّرَ النسوةَ حاملاتِ الطيبِ قائلاً:"
+},
+{
+"role": "priest",
+"es": "“Cristo resucitó de entre los muertos, de la muerte aplastó a la muerte y a los que están en los sepulcros les concedió la vida eterna”.",
+"cop": "Ϫⲉ Ⲭⲣⲓⲥⲧⲟⲥ ⲁ̀ⲛⲉⲥⲧⲏ ⲉⲕ ⲛⲉⲕⲣⲱⲛ: ⲑⲁⲛⲁⲧⲱ ⲑⲁⲛⲁⲧⲟⲛ ⲡⲁⲧⲏⲥⲁⲥ: ⲕⲉ ⲧⲓⲥ ⲉⲛ ⲧⲓⲥ ⲙ̀ⲛⲏⲙⲁⲥⲓ ⲍⲱⲏⲛ ⲭⲁⲣⲓⲥⲁⲙⲉⲛⲟⲥ.",
+"ar": "\"المسيحُ قامَ من الأمواتِ، بالموتِ داسَ الموتَ، والذينَ في القبورِ أنعمَ عليهِمْ بالحياةِ الأبديةِ.\""
+},
+{
+"role": "priest",
+"es": "Y sopló en la cara de sus santos discípulos y a sus Apóstoles puros diciendo:",
+"cop": "Ⲁϥⲛⲓϥⲓ ⲉ̀ϧⲟⲩⲛ ϧⲉⲛ ⲡ̀ϩⲟ ⲛ̀ⲛⲉϥⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ:",
+"ar": "ونَفَخَ في وجهِ تلاميذِهِ القديسينَ، ورُسُلِهِ الأطهارِ قائلاً:"
+},
+{
+"role": "priest",
+"es": "“Recibid el Espíritu Santo. A quienes les perdonéis sus pecados, les queden perdonados; a quienes se los retengáis, les queden retenidos”.",
+"cop": "Ϫⲉ ϭⲓ ⲛⲱⲧⲉⲛ ⲛ̀Ⲟⲩⲡ̀ⲛⲉⲩⲙⲁ ⲉϥⲟⲩⲁⲃ: ⲛⲏⲉ̀ⲧⲉⲧⲉⲛⲛⲁⲭⲁ ⲛⲟⲩⲛⲟⲃⲓ ⲛⲱⲟⲩ ⲉ̀ⲃⲟⲗ ⲥⲉⲭⲏ ⲛⲱⲟⲩ ⲉ̀ⲃⲟⲗ: ⲟⲩⲟϩ ⲛⲏⲉ̀ⲧⲉⲧⲉⲛⲛⲁⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲙⲱⲟⲩ ⲥⲉⲛⲁⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲙⲱⲟⲩ.",
+"ar": "\"اقبلوا الروحَ القدسَ، مَنْ غفرتُم لهم خطاياهم غُفِرَتْ لَهُم، ومَنْ أمسكتموها عليهِمْ أُمسِكَت.\""
+},
+{
+"role": "note",
+"es": "Esta parte se dice desde la ascensión hasta el Pentecostés.",
+"cop": "",
+"ar": "وهذا الربع يقال من عيد الصعود إلى عيد العنصرة."
+},
+{
+"role": "priest",
+"es": "Después de cuarenta días ascendió a los cielos y se sentó a la derecha de su Padre bueno y nos envió al Paraclito, el Espíritu de la Verdad como lenguas de fuego.",
+"cop": "Ⲟⲩⲟϩ ⲙⲉⲛⲉⲛⲥⲁ ⲙ̅ (ϩ̀ⲙⲉ) ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲁϥϣⲉⲛⲁϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲛⲓⲫⲏⲟⲩⲓ̀: ⲁϥϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀Ⲡⲉϥⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲁϥⲟⲩⲱⲣⲡ ⲛⲁⲛ ⲙ̀Ⲡⲓⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲛ̀ⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛⲗⲁⲥ ⲛ̀ⲭ̀ⲣⲱⲙ.",
+"ar": "وبعد أربعينَ يوماً صَعِدَ إلى السمواتِ، وجَلَسَ عن يمينِ أبيهِ الصالحِ، وأرسَلَ لنا المعزِّي روحَ الحقِّ مثلَ ألسنةِ نارٍ."
+},
+{
+"role": "note",
+"es": "Después continua:",
+"cop": "",
+"ar": "وبعد هذا يكمل:"
+},
+{
+"role": "priest",
+"es": "Por eso, te pedimos Nuestro Señor, purifícanos de toda mancha, para que con corazón puro, nos atrevamos, confiados y sin temor, a pedirte a Ti, Dios Padre, que estás en los cielos. Y decimos:",
+"cop": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲡⲉⲛⲛⲏⲃ: ⲙⲁⲧⲟⲩⲃⲟⲛ ⲉ̀ⲃⲟⲗϩⲁ ϣⲟⲃⲓ ⲛⲓⲃⲉⲛ: ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛ̀ⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ ⲛ̀ⲁⲧⲉⲣϩⲟϯ: ⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ:",
+"ar": "من أجلِ هذا نسألُكَ يا سيدَنا طهِّرْنا من كلِّ رياءٍ، لكي بقلبٍ طاهرٍ نجرُؤَ بدالةٍ بغيِر خوفٍ، أن نطلُبَ اليكَ يا اللهُ الآبُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "11- fracción para el hijo durante el ayuno de los apóstoles",
+"ar": "11- قسمة للابن تقال في صوم الرسل"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Tú eres el Logos del Padre, Dios antes de los siglos, el Gran sumo Sacerdote.",
+"cop": "Ⲛⲑⲟⲕ ⲅⲁⲣ ⲡⲉ Ⲡⲓⲗⲟⲅⲟⲥ ⲛ̀ⲧⲉ Ⲫⲓⲱⲧ: Ⲫⲛⲟⲩϯ ⲉⲧ ϧⲁϫⲱⲟⲩ ⲛ̀ⲛⲓⲉ̀ⲛⲉϩ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ.",
+"ar": "أنتَ هو كلمةُ الآبِ، الإلهُ الذي قَبْلَ الدهورِ، رئيسُ الكهنةِ الأعظمُ."
+},
+{
+"role": "priest",
+"es": "Que se encarnó y se hizo hombre para la salvación de la especie humana.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥϭⲓⲥⲁⲣⲝ ⲟⲩⲟϩ ⲁϥⲉⲣⲣⲱⲙⲓ: ⲉⲑⲃⲉ ⲡ̀ⲟⲩϫⲁⲓ ⲙ̀ⲡ̀ⲅⲉⲛⲟⲥ ⲛ̀ⲛⲓⲣⲱⲙⲓ.",
+"ar": "الذي تَجَسَّدَ وتأنسَ مِن أجلِ خلاصِ جنسِ البشَرِ."
+},
+{
+"role": "priest",
+"es": "Y los llamó hacia Él, de todas las naciones una raza elegida, un reino, un sacerdocio, una nación santa y un pueblo adquirido.",
+"cop": "Ⲟⲩⲟϩ ⲁϥⲑⲱϩⲉⲙ ⲛⲁϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ: ⲛ̀ⲟⲩⲅⲉⲛⲟⲥ ⲉϥⲥⲱⲧⲡ: ⲟⲩⲙⲉⲧⲟⲩⲣⲟ ⲟⲩⲙⲉⲧⲟⲩⲏⲃ: ⲟⲩϣ̀ⲗⲟⲗ ⲉϥⲟⲩⲁⲃ: ⲟⲩⲗⲁⲟⲥ ⲉⲩⲑ̀ⲙⲁⲓⲟϥ.",
+"ar": "ودعا لهُ مِن جميعِ الأُممِ جنساً مختاراً، مملكةً وكهنوتاً وأُمةً مُقدسةً وشعباً مُبرراً."
+},
+{
+"role": "priest",
+"es": "Tú enviaste el Espíritu Santo a los Apóstoles en el día del Pentecostés.",
+"cop": "Ⲉⲁⲕⲟⲩⲱⲣⲡ ⲙ̀Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲉ̀ϫⲉⲛ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ϧⲉⲛ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲛ̀ⲧⲉ ϯⲡⲉⲛⲧⲏⲕⲟⲥⲧⲏ.",
+"ar": "إذ أرسلتَ الروحَ القدسَ على الرسلِ في يوم البنطيقسطي."
+},
+{
+"role": "priest",
+"es": "Y se posó sobre cada uno de ellos como lenguas de fuego.",
+"cop": "Ⲟⲩⲟϩ ⲁϥⲓ̀ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϩⲁⲛⲗⲁⲥ ⲛ̀ⲭ̀ⲣⲱⲙ: ⲉⲩⲫⲏϣ ⲉ̀ϫⲉⲛ ⲫ̀ⲟⲩⲁⲓ ⲫ̀ⲟⲩⲁⲓ ⲙ̀ⲙⲱⲟⲩ.",
+"ar": "وحلَّ عليهِم مثلَ ألسنةِ نارٍ منقسمةٍ على كلِّ واحدٍ منهُم."
+},
+{
+"role": "priest",
+"es": "Y los llenó con todo conocimiento, entendiemiento, sabiduría espiritual y de acuerdo a tu sincera promesa.",
+"cop": "Ⲟⲩⲟϩ ⲁϥⲙⲁϩⲟⲩ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲉ̀ⲙⲓ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲕⲁϯ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲥⲟⲫⲓⲁ ⲛⲓⲃⲉⲛ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲏ: ⲕⲁⲧⲁ ⲡⲉⲕⲱϣ ⲉ̀ⲧⲉⲛϩⲟⲧ.",
+"ar": "وملأهُم من كلِّ معرفةٍ وكلِّ فهمٍ وكلِّ حكمةٍ روحيةٍ كوعدِكَ الصادقِ."
+},
+{
+"role": "priest",
+"es": "Y ellos hablaron en todas las lenguas, y predicaron tu Santo nombre a todas las naciones.",
+"cop": "Ⲟⲩⲟϩ ⲁⲩⲥⲁϫⲓ ϧⲉⲛ ⲁⲥⲡⲓ ⲛⲓⲃⲉⲛ: ⲟⲩⲟϩ ⲁⲩϩⲓⲱⲓϣ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ.",
+"ar": "وتكلموا بكلِّ اللغاتِ، وبشرُوا باسمِكَ القدوسِ في جميعِ الأممِ."
+},
+{
+"role": "priest",
+"es": "En cuanto a Pedro y Pablo, los apóstoles, la sombra de uno de ellos era sanar a los enfermos, mientras que los pañuelos y delantales del otro, eran curar enfermedades y sacar a los malos espíritus.",
+"cop": "Ⲡⲉⲧⲣⲟⲥ ⲇⲉ ⲛⲉⲙ Ⲡⲁⲩⲗⲟⲥ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲥ̀ⲛⲁⲩ: ⲛⲉϣⲁⲣⲉ ⲧ̀ϧⲏⲓⲃⲓ ⲙ̀ⲡⲓⲟⲩⲁⲓ ⲙ̀ⲙⲱⲟⲩ ⲧⲁⲗϭⲟ ⲛ̀ⲛⲓϣⲱⲛⲓ: ⲟⲩⲟϩ ⲛⲓⲥⲟⲩⲇⲁⲣⲓⲟⲛ ⲛⲉⲙ ⲛⲓⲥⲓⲙⲓⲕⲩⲛⲑⲓⲛⲟⲛ ⲙ̀ⲡⲓⲕⲉⲟⲩⲁⲓ ⲛⲉ ϣⲁⲩⲑ̀ⲣⲉ ⲛⲓϣⲱⲛⲓ ϣⲉⲛⲱⲟⲩ: ⲟⲩⲟϩ ⲛ̀ⲧⲉ ⲛⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲧϩⲱⲟⲩ ⲓ̀ ⲉ̀ⲃⲟⲗ.",
+"ar": "أما بطرسُ وبولسُ الرُسُولان، فكانَ ظلُّ أحدِهِما يشفي الأمراضَ، وكانَتْ مناديلُ وعصائبُ الآخَرِ تُذْهِبُ الأمراضَ، وتُخْرِجُ الأرواحَ الشريرةَ ."
+},
+{
+"role": "priest",
+"es": "Y después que ellos predicaron el Evangelio del Reino, y enseñaron a las naciones, derramaron su sangre por tu nombre, y recibieron la corona apostólica y la corona del martirio.",
+"cop": "Ⲟⲩⲟϩ ⲙⲉⲛⲉⲛⲥⲁ ⲑ̀ⲣⲟⲩϩⲓⲱⲓϣ ⲙ̀ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ: ⲟⲩⲟϩ ⲛ̀ⲧⲟⲩϯⲥ̀ⲃⲱ ⲛ̀ⲛⲓⲉⲑⲛⲟⲥ: ⲁⲩⲫⲱⲛ ⲙ̀ⲡⲟⲩⲥ̀ⲛⲟϥ ⲉⲑⲃⲉ ⲡⲉⲕⲣⲁⲛ: ⲟⲩⲟϩ ⲁⲩϭⲓ ⲙ̀ⲡⲓⲭ̀ⲗⲟⲙ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲛⲉⲙ ⲫⲁ ϯⲙⲉⲧⲙⲁⲣⲧⲩⲣⲟⲥ.",
+"ar": "وبعدما كرزا بإنجيلِ الملكوتِ وعلَّما الأممَ، سفكا دمَهُما من أجلِ اسمِكَ، ونالا إكليلَ الرسوليةِ وإكليلَ الشِهادةِ."
+},
+{
+"role": "priest",
+"es": "Tú, quién has concedido a sus santos discípulos y bienaventurados Apóstoles mediante el descenso del Paraclito sobre ellos y les dio la autoridad para trabajar curando prodigios y milagros.",
+"cop": "Ⲱ ⲫⲏⲉ̀ⲧⲁϥⲉⲣϩ̀ⲙⲟⲧ ⲛ̀ⲛⲉϥⲁ̀ⲅⲓⲟⲥ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ: ⲙ̀ⲡ̀ϫⲓⲛⲓ̀ ⲉ̀ϧ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ ⲛ̀ⲧⲉ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ: ⲟⲩⲟϩ ⲁϥϯ ⲙ̀ⲡⲓⲉⲣϣⲓϣⲓ ⲛⲱⲟⲩ ⲉ̀ⲓ̀ⲣⲓ ⲛ̀ⲛⲓⲧⲁⲗϭⲟ ⲛⲉⲙ ⲛⲓⲙⲏⲓⲛⲓ ⲛⲉⲙ ⲛⲓϣ̀ⲫⲏⲣⲓ.",
+"ar": "فيا مَنْ أنعمَ على تلاميذِهِ القديسينَ ورسُلِهِ المكرمينَ بحلولِ الروحِ المعزِّي عليهِمْ، وأعطاهُمْ السلطانَ أن يصنعوا الأشفيةَ والآياتِ والعجائبَ."
+},
+{
+"role": "priest",
+"es": "Y nos predicaron su Santo Nombre y nos restauraron a la verdadera fe de la Santísima Trinidad.",
+"cop": "Ⲁⲩϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛⲁⲛ ⲙ̀ⲡⲉϥⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: ⲟⲩⲟϩ ⲁⲩⲧⲁⲥⲑⲟⲛ ⲉ̀ⲡⲓⲛⲁϩϯ ⲙ̀ⲙⲏⲓ ⲛ̀ⲧⲉ Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ.",
+"ar": "وبشرونا باسمِه القدوس، وردُّونا إلى الإيمانِ الحقيقي بالثالوثِ القدوس."
+},
+{
+"role": "priest",
+"es": "Te alabamos, te bendecimos, te glorificamos y te damos gracias por estas grandes bendiciones.",
+"cop": "Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲕ ⲧⲉⲛⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ: ⲉⲑⲃⲉ ⲛⲁⲓⲛⲓϣϯ ⲛ̀ϩ̀ⲙⲟⲧ.",
+"ar": "نسبحُكَ ونباركُكَ ونمجدُكَ ونشكرُكَ لأجلِ هذه النِعَمِ العظيمةِ."
+},
+{
+"role": "priest",
+"es": "Y te pedimos nuestro Señor, que nos concedas también el perdón de nuestros pecados.",
+"cop": "Ⲟⲩⲟϩ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲡⲉⲛⲛⲏⲃ: ⲉⲑⲣⲉⲕⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲛⲁⲛ ⲟⲛ ⲙ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
+"ar": "ونسألُك يا سيدَنا أن تنعمَ علينا أيضاً بغفرانِ خطايانا."
+},
+{
+"role": "priest",
+"es": "Y purifica nuestros corazones, nuestras almas, nuestros cuerpos y nuestros espíritus.",
+"cop": "Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲕⲧⲟⲩⲃⲟ ⲛ̀ⲛⲉⲛϩⲏⲧ ⲛⲉⲙ ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲥⲱⲙⲁ ⲛⲉⲙ ⲛⲉⲛⲡ̀ⲛⲉⲩⲙⲁ.",
+"ar": "وتُطَهِّرَ قلوبَنا ونفوسَنا وأجسادَنا وأرواحَنا."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro, nos atrevamos, confiados y sin temor, a proclamar a tu Padre Santo, que estás en los cielos. Y decimos:",
+"cop": "Ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛ̀ⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ϧⲉⲛ ⲟⲩⲡⲁⲣⲣⲏⲥⲓⲁ ⲛ̀ⲁⲧⲉⲣϩⲟϯ: ⲉ̀ⲱϣ ⲟⲩⲃⲉ Ⲡⲉⲕⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ:",
+"ar": "لكي بقلبٍ طاهرٍ نجرُؤَ بدالةٍ بغيرِ خوفٍ، أن نصرُخَ نحو أبيكَ القدوسِ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "12- fracción PARA EL PADRE",
+"ar": "12- صلاة قسمة للآب"
+},
+"rows": [
+{
+"role": "priest",
+"es": "Dios, el Creador de la Luz, el Jefe de la Vida, Proveedor del Conocimiento.",
+"cop": "Ⲫⲛⲟⲩϯ ⲡⲓⲣⲉϥⲙⲓⲥⲓ ⲛ̀ⲧⲉ ⲡⲓⲟⲩⲱⲓⲛⲓ: ⲡ̀ⲁⲣⲭⲏⲅⲟⲥ ⲛ̀ⲧⲉ ⲡ̀ⲱⲛϧ: ⲡⲓⲣⲉϥⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲡⲓⲉ̀ⲙⲓ.",
+"ar": "اللهُمَّ والدَ النور،ِ ورئيسَ الحياةِ، واهبَ المعرفَةِ."
+},
+{
+"role": "priest",
+"es": "El Creador de la Gracia, el Benefactor de nuestras Almas, el Tesoro de la Sabiduría.",
+"cop": "Ⲡⲓⲣⲉϥⲑⲁⲙⲓⲟ ⲛ̀ⲧⲉ ⲡⲓϩ̀ⲙⲟⲧ: ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲛ̀ⲧⲉ ⲛⲉⲛⲯⲩⲭⲏ: ⲡⲓⲁ̀ϩⲟ ⲛ̀ⲧⲉ ϯⲥⲟⲫⲓⲁ.",
+"ar": "صانعَ النعمةِ، المحسِنَ لنفوسِنا، كنـزَ الحكمةِ."
+},
+{
+"role": "priest",
+"es": "El Maestro de la Pureza, el Fundador de los Tiempos, el Aceptador de las oraciones puras.",
+"cop": "Ⲡⲓⲣⲉϥϯⲥ̀ⲃⲱ ⲛ̀ⲧⲉ ⲡⲓⲧⲟⲩⲃⲟ ⲡⲓⲣⲉϥϩⲓⲥⲉⲛϯ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ: ⲡⲓⲣⲉϥϣⲱⲡ ⲉ̀ⲣⲟϥ ⲛ̀ⲛⲓϣ̀ⲗⲏⲗ ⲉⲧⲧⲟⲩⲃⲏⲟⲩⲧ.",
+"ar": "معلِّمَ الطهارةِ، مؤسِسَ الدهورِ، قابِلَ الصلواتِ النقيةِ."
+},
+{
+"role": "priest",
+"es": "Quien da a los que confían en Él con todos sus corazones, las cosas que los Ángeles desean ver.",
+"cop": "Ⲫⲏⲉⲧϯ ⲛ̀ⲛⲏⲉⲧⲉ̀ⲣⲉ ϩ̀ⲑⲏⲟⲩ ⲭⲏ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲡⲟⲩϩⲏⲧ ⲧⲏⲣϥ: ⲛ̀ⲛⲏⲉⲧ ⲉ̀ⲣⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲉⲣⲉ̀ⲡⲓⲑⲩⲙⲓⲛ ⲉ̀ⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ.",
+"ar": "مُعطِيَ المتوكلينَ عليه من كلِّ قَلْبِهِم الأشياءَ التي تشتهي الملائكةُ أن تراها."
+},
+{
+"role": "priest",
+"es": "Que nos ha sacado de las profundidades hacia la luz.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲉⲛⲧⲉⲛ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲫ̀ⲛⲟⲩⲛ ⲉ̀ⲫ̀ⲟⲩⲱⲓⲛⲓ.",
+"ar": "الذي أصعَدَنا من العمقِ إلى النورِ."
+},
+{
+"role": "priest",
+"es": "Que nos dio la vida de la muerte.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥϯ ⲛⲁⲛ ⲛ̀ⲟⲩⲱⲛϧ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲟⲩⲙⲟⲩ.",
+"ar": "الذي أعطانا الحياةَ من الموتِ."
+},
+{
+"role": "priest",
+"es": "Que nos concedió la libertad de la esclavitud.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲛⲁⲛ ⲛ̀ⲟⲩⲙⲉⲧⲣⲉⲙϩⲉ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲟⲩⲙⲉⲧⲃⲱⲕ.",
+"ar": "الذي أنعمَ علينا بالعِتقِ من العبوديةِ."
+},
+{
+"role": "priest",
+"es": "Que hizo, la oscuridad del extravío que está en nosotros, luz a través de la venida del cuerpo de tu Hijo Unigénito.",
+"cop": "Ⲫⲏⲉ̀ⲧⲁϥⲑ̀ⲣⲉ ⲡⲓⲭⲁⲕⲓ ⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧⲉⲛ ⲛ̀ⲧⲉ ϯⲡ̀ⲗⲁⲛⲏ ⲉⲣⲟⲩⲱⲓⲛⲓ: ϩⲓⲧⲉⲛ ⲧ̀ⲡⲁⲣⲟⲩⲥⲓⲁ ϧⲉⲛ ⲧ̀ⲥⲁⲣⲝ ⲙ̀ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ.",
+"ar": "الذي جَعَلَ ظُلمَةَ الضلالةِ التي فينا تُضىءُ مِنْ قِبَلِ إتيانِ ابنِكَ الوحيدِ بالجسدِ."
+},
+{
+"role": "priest",
+"es": "Ahora Tú también, nuestro Señor, ilumina nuestros corazones y purifícanos para que estemos completos en el alma, el cuerpo y el espíritu.",
+"cop": "Ⲛⲑⲟⲕ ⲟⲛ ϯⲛⲟⲩ ⲡⲉⲛⲛⲏⲃ: ⲁ̀ⲣⲓⲟⲩⲱⲓⲛⲓ ⲉ̀ⲛⲓⲃⲁⲗ ⲛ̀ⲧⲉ ⲛⲉⲛϩⲏⲧ: ⲟⲩⲟϩ ⲙⲁⲧⲟⲩⲃⲟⲛ ⲉⲛϫⲏⲕ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ϯⲯⲩⲭⲏ ⲛⲉⲙ ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ.",
+"ar": "أنت الآن أيضاً يا سيدَنا أَنِرْ عيونَ قلوبِنا، وطهِّرْنا كاملينَ في النفسِ والجسدِ والروحِ."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro y con labios limpios, nos atrevamos a proclamarte oh Dios Padre Santo, que estás en los cielos. Y decimos:",
+"cop": "Ϫⲉ ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛⲉⲙ ϩⲁⲛⲥ̀ⲫⲟⲧⲟⲩ ⲉⲩⲧⲟⲩⲃⲏⲟⲩⲧ: ⲛ̀ⲧⲉⲛⲉⲣⲧⲟⲗⲙⲁⲛ ⲉ̀ⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ: Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲟⲩⲟϩ ⲉ̀ϫⲟⲥ:",
+"ar": "لكي بقلبٍ طاهرٍ وشفتين نقيتين، نجرُؤَ أن ندعُوَكَ يااللهُ الآبُ القدوسُ الذي في السمواتِ، ونقولَ:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا ..."
+}
+]
+},
+{
+"title": {
+"es": "13- fracción siriana durante las fiestas de la cruz y los días normales",
+"ar": "13- القسمة السريانية تقال في عيدي الصليب والأيام العادية"
+},
+"rows": [
+{
+"role": "note",
+"es": "Extraida de la liturgía de la iglesia siriana.",
+"cop": "",
+"ar": "مأخوذة من قداس الكنيسة السريانية."
+},
+{
+"role": "priest",
+"es": "Asi en verdad, el Verbo de Dios padeció en el cuerpo, se sacrificó, se inclinó por la cruz y su alma se separó de su cuerpo.",
+"cop": "Ⲡⲁⲓⲣⲏϯ ⲁ̀ⲗⲏⲑⲱⲥ ⲁϥϣⲉⲡⲙ̀ⲕⲁϩ ⲛ̀ϫⲉ Ⲡⲥⲁϫⲓ ⲙ̀Ⲫⲛⲟⲩϯ ϧⲉⲛ ⲧ̀ⲥⲁⲣⲝ ⲟⲩⲟϩ ⲁⲩϧⲉⲗϧⲱⲗϥ: ⲁϥⲣⲉⲕ ϫⲱϥ ϩⲓϫⲉⲛ ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲟⲩⲟϩ ⲁⲥⲫⲱⲣϫ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲧⲉϥⲯⲩⲭⲏ ⲉ̀ⲡⲉϥⲥⲱⲙⲁ:",
+"ar": "هكذا بالحقيقةِ تألم كلمةُ اللهِ بالجسدِ وذُبِحَ وانحنَى بالصليبِ وانفَصَلَتْ نفسُهُ مِن جسدِهِ،"
+},
+{
+"role": "priest",
+"es": "Pero su divinidad nunca se separó ni de su alma ni de su cuerpo.",
+"cop": "Ⲉⲣⲉ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ ⲫⲱⲣϫ ⲉ̀ⲃⲟⲗ ⲁⲛ ⲉ̀ⲛⲉϩ ⲉ̀ⲧⲉϥⲯⲩⲭⲏ ⲟⲩⲇⲉ ⲡⲉϥⲥⲱⲙⲁ.",
+"ar": "إذ لاهوتُهُ لم يَنفَصلْ قَطُّ لا من نفسِهِ ولا من جَسَدِهِ."
+},
+{
+"role": "priest",
+"es": "Fue traspasado su costado con la lanza y salió sangre y agua, perdón de todo el mundo. Su cuerpo se empapó de ellas, su alma vino y se unió a su cuerpo.",
+"cop": "Ⲁⲩⲑⲟⲕⲥϥ ϧⲉⲛ ⲡⲉϥⲥ̀ⲫⲓⲣ ϧⲉⲛ ϯⲗⲟⲅⲭⲏ: ⲟⲩⲟϩ ⲁⲩϧⲁϯ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧϥ ⲛ̀ϫⲉ ⲟⲩⲥ̀ⲛⲟϥ ⲛⲉⲙ ⲟⲩⲙⲱⲟⲩ: ⲉ̀ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ: ⲟⲩⲟϩ ⲁⲩⲥⲉⲡ ⲡⲉϥⲥⲱⲙⲁ ⲛ̀ϧⲏⲧⲟⲩ: ⲟⲩⲟϩ ⲁⲥⲓ̀ ⲛ̀ϫⲉ ⲧⲉϥⲯⲩⲭⲏ ⲁⲥⲉⲣⲟⲩⲁⲓ ⲛⲉⲙ ⲡⲉϥⲥⲱⲙⲁ.",
+"ar": "وطُعِنَ في جَنبِهِ بالحربَةِ، وجَرَى مِنهُ دمٌ وماءٌ غفراناً لكلِّ العالمِ. وتخَضَّبَ بهِما جسدُهُ، وأتَتْ نفسُهُ واتَّحَدَتْ بجسدِهِ."
+},
+{
+"role": "priest",
+"es": "En el lugar del pecado, que rodea al mundo, murió el Hijo por la cruz. Y nos delvolvió del camino izquierdo al derecho.",
+"cop": "Ⲛⲧ̀ϣⲉⲃⲓⲱ ⲇⲉ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲉⲧⲕⲱϯ ⲙ̀ⲡⲓⲕⲟⲥⲙⲟⲥ ⲁϥⲙⲟⲩ ⲛ̀ϫⲉ Ⲡϣⲏⲣⲓ ϩⲓⲧⲉⲛ ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲟⲩⲟϩ ⲁϥⲧⲁⲥⲑⲟⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ϯⲟⲓⲕⲟⲛⲟⲙⲓⲁ ⲑⲁ ϫⲁϭⲏ ⲉ̀ⲑⲁ ⲟⲩⲓ̀ⲛⲁⲙ.",
+"ar": "وعِوَضَ الخطيةِ المحيطةِ بالعالمِ، ماتَ الابنُ بالصليبِ. ورَدَّنا مِن التدبيرِ الشماليِّ إلى اليمينيِّ."
+},
+{
+"role": "priest",
+"es": "Y aseguró la paz por la sangre de su cruz, unió y reconcilió lo celestial con lo terrenal, el pueblo con los pueblos, y el alma con el cuerpo.",
+"cop": "Ⲟⲩⲟϩ ⲁϥⲉⲣϩⲓⲣⲏⲛⲏ ⲉ̀ⲃⲟⲗϩⲓⲧⲉⲛ ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ ⲡⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ: ⲟⲩⲟϩ ⲁϥⲉⲣ ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ̀ ⲛ̀ⲟⲩⲁⲓ ⲛⲉⲙ ⲛⲁ ⲡ̀ⲕⲁϩⲓ: ⲟⲩⲟϩ ⲁϥϩⲟⲧⲡⲟⲩ ⲡⲓⲗⲁⲟⲥ ⲇⲉ ⲟⲛ ⲛⲉⲙ ⲛⲓⲗⲁⲟⲥ: ϯⲯⲩⲭⲏ ⲇⲉ ⲛⲉⲙ ⲡⲓⲥⲱⲙⲁ.",
+"ar": "وأمَّنَ بدمِ صليبِهِ ووَحَّدَ وألَّفَ السمائيينَ معَ الأرضيينَ، والشعبَ مع الشعوبِ، والنفسَ مع الجسدِ."
+},
+{
+"role": "priest",
+"es": "Y al tercer día resucito de la tumba.",
+"cop": "Ⲟⲩⲟϩ ϧⲉⲛ ⲡⲓⲙⲁϩϣⲟⲙⲧ ⲛ̀ⲉ̀ϩⲟⲟⲩ ⲁϥⲧⲱⲛϥ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡⲓⲙ̀ϩⲁⲩ.",
+"ar": "وفي اليومِ الثالثِ قامَ من القبرِ."
+},
+{
+"role": "priest",
+"es": "Uno es Enmanuel e indiviso después de la unión, e indivisible en dos naturalezas. Así creemos, confesamos y reconocemos que este cuerpo pertenece a esta sangre, y esta sangre pertenece a este cuerpo.",
+"cop": "Ⲟⲩⲁⲓ ⲡⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ: ⲟⲩⲟϩ ϥ̀ⲟⲓ ⲛ̀ⲁⲧⲫⲱⲣϫ ⲙⲉⲛⲉⲛⲥⲁ ϯⲙⲉⲧⲟⲩⲁⲓ: ⲟⲩⲟϩ ϥ̀ⲟⲓ ⲛ̀ⲁⲧⲫⲱϣ ⲉ̀ⲫⲩⲥⲓⲥ ⲥ̀ⲛⲟⲩϯ: ⲡⲁⲓⲣⲏϯ ⲧⲉⲛⲛⲁϩϯ ⲡⲁⲓⲣⲏϯ ⲧⲉⲛⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ: ⲕⲉ ⲡⲁⲗⲓⲛ ⲧⲉⲛⲛⲁϩϯ ϫⲉ ⲡⲁⲓⲥⲱⲙⲁ ⲫⲁ ⲡⲁⲓⲥ̀ⲛⲟϥ ⲡⲉ: ⲟⲩⲟϩ ⲡⲁⲓⲥ̀ⲛⲟϥ ⲫⲁ ⲡⲁⲓⲥⲱⲙⲁ ⲡⲉ.",
+"ar": "واحدٌ هو عمانوئيلُ، وغيرُ مفترِقٍ مِن بعدِ الاتحادِ، وغيرُ منقسِمٍ إلى طبيعتينِ، هكذا نؤمِنُ، وهكذا نعترِفُ، وهكذا نصدِّقُ، أن هذا الجسدَ لهذا الدمِ وهذا الدمَ لهذا الجسدِ."
+},
+{
+"role": "priest",
+"es": "Tú eres Cristo nuestro Dios, que fue traspasado en su costado en Golgota, en Jerusalén por nosotros.",
+"cop": "Ⲛⲑⲟⲕ ⲡⲉ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲉ̀ⲧⲁⲩⲑⲟⲕⲥϥ ϧⲉⲛ ⲡⲉϥⲥ̀ⲫⲓⲣ ⲥⲁⲡ̀ϣⲱⲓ ⲛ̀Ϯⲅⲟⲗⲅⲟⲑⲁ ϧⲉⲛ Ⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ ⲉⲑⲃⲏⲧⲉⲛ.",
+"ar": "أنتَ هو المسيحُ إلـهُنا الذي طُعِنَ في جنبِهِ فوق الجلجلَةِ بأورشليمَ لأجلِنا."
+},
+{
+"role": "priest",
+"es": "Tú eres el cordero de Dios que lleva el pecado del mundo, perdona nuestras ofensas y remite nuestros pecados, y levántanos a tu derecha.",
+"cop": "Ⲛⲑⲟⲕ ⲡⲉ ⲡⲓϩⲓⲏⲃ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ: ⲁ̀ⲣⲓⲥⲩⲛⲭⲱⲣⲓⲛ ⲛ̀ⲛⲉⲛⲡⲁⲣⲁⲡⲧⲱⲙⲁ ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲉⲛⲛⲟⲃⲓ: ⲟⲩⲟϩ ⲙⲁⲧⲁϩⲟⲛ ⲉ̀ⲣⲁⲧⲉⲛ ⲥⲁⲟⲩⲓⲛⲁⲙ ⲙ̀ⲙⲟⲕ.",
+"ar": "أنتَ هو حملُ اللهِ الحاملُ خطيةِ العالمِ. اغفِرْ ذنوبَنا واترُكْ خطايانا، وأَقِمْنا عن جانِبِكَ اليمينِ."
+},
+{
+"role": "priest",
+"es": "Dios, Padre de nuestro Señor Jesucristo, que es bendecido por los querubines, santificado por los serafines y exaltado por miles y miles, diez milies y diez miles servidores racionales.",
+"cop": "Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ⲫⲏⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ: ⲟⲩⲟϩ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲥⲉⲉⲣⲁ̀ⲅⲓⲁⲍⲓⲛ ⲙ̀ⲙⲟϥ: ⲟⲩⲟϩ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ ⲛⲓⲁ̀ⲛⲁⲛϣⲟ ⲛ̀ϣⲟ ⲛⲉⲙ ⲛⲓⲁⲛⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲑ̀ⲃⲁ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥϣⲉⲙϣⲓ ⲛ̀ⲗⲟⲅⲓⲕⲟⲛ ⲥⲉϭⲁⲥϥ.",
+"ar": "يااللهُ أبا ربِّنا يسوعَ المسيحِ الذي من الكاروبيمِ يتبارَكُ، ومن السارافيمِ يتقدَّسُ، ومن ألوفِ ألوفِ وربواتِ ربواتِ الخدامِ الناطقين يتعظمُ."
+},
+{
+"role": "priest",
+"es": "Que santifica y completa las ofrendas y los frutos que fueron presentados a ti, dulce aroma, santifica también nuestros cuerpos, nuestras almas y nuestros espíritus de todos nosotros.",
+"cop": "Ⲫⲏⲉ̀ⲧⲉⲣⲁ̀ⲅⲓⲁⲍⲓⲛ ⲟⲩⲟϩ ⲉⲧϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲓⲇⲱⲣⲟⲛ ⲛⲉⲙ ⲛⲓⲕⲁⲣⲡⲟⲥ ⲉⲧⲁⲩⲉ̀ⲛⲟⲩ ⲛⲁⲕ: ⲉ̀ⲟⲩⲥ̀ⲑⲟⲓ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ: ⲁ̀ⲣⲓⲁ̀ⲅⲓⲁⲍⲓⲛ ⲟⲛ ⲛ̀ⲛⲉⲛⲥⲱⲙⲁ ⲛⲉⲙ ⲛⲉⲛⲯⲩⲭⲏ ⲛⲉⲙ ⲛⲉⲛⲡ̀ⲛⲉⲩⲙⲁ ⲧⲏⲣⲉⲛ.",
+"ar": "الذي يقدسُ ويكملُ القرابينَ والأثمارِ التي قُدِّمَتْ لكَ رائحةً لذيذةً، قدِّس أيضاً أجسَادَنا وأنفسَنا وأرواحَنا كُلَّنا."
+},
+{
+"role": "priest",
+"es": "Para que con corazón puro, rostro sin confusión, te proclamamos oh Dios Padre celestial. Y oremos diciendo:",
+"cop": "Ϩⲓⲛⲁ ϧⲉⲛ ⲟⲩϩⲏⲧ ⲉϥⲟⲩⲁⲃ: ⲛⲉⲙ ⲟⲩϩⲟ ⲛ̀ⲁⲧϭⲓϣⲓⲡⲓ: ⲛ̀ⲧⲉⲛⲙⲟⲩϯ ⲉ̀ⲣⲟⲕ Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲉⲣⲡ̀ⲣⲟⲥⲉⲩⲭⲉⲥⲑⲉ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ:",
+"ar": "لكي بقلبٍ طاهرٍ ووجهٍ غيرِ مخزيٍّ ندعوكَ يا اللهُ الآبُ السماويُّ، ونُصَلِّي قائلين:"
+},
+{
+"role": "priest",
+"es": "Padre nuestro …",
+"cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
+"ar": "أبانا …"
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "الـــــــــمـــــراجــــــــــــــــــــــــــــع"
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "1- الخولاجي المقدس - إصدار دير السيدة العذراء برموس."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "2-كتاب الإبصلمودية المقدسة السنوية - إصدار جمعية نهضة الكنائس القبطية الارثوذوكسية."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "3- كتاب خدمة الشماس والألحان - إعداد الشماس فرج عبد المسيح."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "4- الكتاب المقدس باللغة الاسبانية حسب ترجمة:Biblia BAC Conferencia Episcopal Española."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "5- تحليل كتاب الخولاجي المقدس )رفع البخور والقداس الباسيلي( - إعداد الراهب أندرياس المقاري."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "6- تحليل الذوكصولوجيات - إعداد الراهب أندرياس المقاري."
+},
+{
+"role": "note",
+"es": "BIBLIOGRAFÍA",
+"cop": "",
+"ar": ""
+}
+]
+}
+]
+}

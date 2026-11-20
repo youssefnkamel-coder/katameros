@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1B0"/><stop offset=".45" stop-color="#E2B24A"/><stop offset="1" stop-color="#8E5C14"/></linearGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF6CC"/><stop offset=".5" stop-color="#D9A53E"/><stop offset="1" stop-color="#9A6618"/></linearGradient>
+<linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#B8384A"/><stop offset="1" stop-color="#5E1220"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF7C2"/><stop offset=".45" stop-color="#FFB53A"/><stop offset="1" stop-color="#E2521E"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFDF6"/><stop offset=".6" stop-color="#F3E7CF"/><stop offset="1" stop-color="#D9C6A2"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5B8CFF"/><stop offset="1" stop-color="#1E3E9A"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#FFD66B" stop-opacity=".7"/><stop offset="1" stop-color="#FFD66B" stop-opacity="0"/></radialGradient>
+</defs>
+<path d="M32 4 L32 22" stroke="url(#g)" stroke-width="2"/><path d="M24 6 L27 24M40 6 L37 24" stroke="#C9962E" stroke-width="1.5"/>
+<circle cx="32" cy="4.5" r="3" fill="url(#g)"/>
+<path d="M17 30 Q14 30 15 34 Q19 50 32 50 Q45 50 49 34 Q50 30 47 30Z" fill="url(#g)" stroke="#8E5C14" stroke-width=".8"/>
+<path d="M20 24 Q32 18 44 24 L46 30 L18 30Z" fill="url(#gs)" stroke="#8E5C14" stroke-width=".8"/>
+<path d="M21 35 Q32 39 43 35" stroke="#FFF3C4" stroke-width="2" fill="none" opacity=".8"/>
+<circle cx="25" cy="42" r="2" fill="#B8384A"/><circle cx="32" cy="44" r="2.2" fill="#2F6FEB"/><circle cx="39" cy="42" r="2" fill="#B8384A"/>
+<path d="M27 50 L25 56 L39 56 L37 50Z" fill="url(#g)"/><rect x="22" y="56" width="20" height="3.5" rx="1.7" fill="url(#gs)"/>
+<g fill="none" stroke="#B9B2C9" stroke-width="2.2" stroke-linecap="round" opacity=".85"><path d="M50 26 Q55 21 51 16 Q48 11 53 6"/><path d="M56 30 Q61 25 58 20"/></g></svg>

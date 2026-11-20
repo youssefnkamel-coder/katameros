@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF1B0"/><stop offset=".45" stop-color="#E2B24A"/><stop offset="1" stop-color="#8E5C14"/></linearGradient>
+<linearGradient id="gs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFF6CC"/><stop offset=".5" stop-color="#D9A53E"/><stop offset="1" stop-color="#9A6618"/></linearGradient>
+<linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#B8384A"/><stop offset="1" stop-color="#5E1220"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF7C2"/><stop offset=".45" stop-color="#FFB53A"/><stop offset="1" stop-color="#E2521E"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFDF6"/><stop offset=".6" stop-color="#F3E7CF"/><stop offset="1" stop-color="#D9C6A2"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5B8CFF"/><stop offset="1" stop-color="#1E3E9A"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#FFD66B" stop-opacity=".7"/><stop offset="1" stop-color="#FFD66B" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="12" y="30" width="40" height="28" rx="2" fill="url(#w)"/>
+<path d="M10 31 Q32 22 54 31" stroke="url(#g)" stroke-width="3" fill="none"/>
+<path d="M20 30 Q20 18 32 14 Q44 18 44 30Z" fill="url(#g)" stroke="#8E5C14" stroke-width=".8"/>
+<path d="M25 26 Q26 19 32 17" stroke="#FFF6CC" stroke-width="2" fill="none" stroke-linecap="round"/>
+<g fill="url(#g)"><rect x="30.5" y="3" width="3" height="11" rx=".8"/><rect x="27.5" y="6" width="9" height="3" rx=".8"/></g>
+<path d="M26 58 L26 46 Q26 40 32 40 Q38 40 38 46 L38 58Z" fill="url(#r)"/>
+<path d="M15 44 Q15 40 18 40 Q21 40 21 44 L21 50 L15 50Z" fill="#2F6FEB" opacity=".85"/><path d="M43 44 Q43 40 46 40 Q49 40 49 44 L49 50 L43 50Z" fill="#2F6FEB" opacity=".85"/>
+<rect x="8" y="57" width="48" height="4" rx="2" fill="url(#gs)"/></svg>
