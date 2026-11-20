@@ -6,7 +6,7 @@
     "background_color": "#F6EEDF",
     "theme_color": "#5E1220",
     "description": "Lecturas y oraciones coptas en español, copto y árabe",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
