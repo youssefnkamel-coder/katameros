@@ -1,0 +1,1001 @@
+{
+ "id": "hamim",
+ "service": "sacramentos",
+ "sample": false,
+ "title": {
+  "es": "Oración del Primer Baño",
+  "ar": "صلاة الحميم"
+ },
+ "sections": [
+  {
+   "title": {
+    "es": "La oración del Primer Baño",
+    "ar": "صلاة الحميم",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "La oración del Primer Baño para los niños antes del bautismo.",
+     "cop": "",
+     "ar": "صلاة الحميم للأطفال قبل التعميد (صلاة الطشت)."
+    },
+    {
+     "role": "note",
+     "es": "Al séptimo día del nacimiento del niño, el sacerdote viene, vierte agua en una bañera, echa un poco de aceite y sal y enciende siete velas.",
+     "cop": "",
+     "ar": "يأتي الكاهن (حسب الاختيار) في اليوم السابع من ميلاد الطفل ويصب الماء في إناء، ويضع قليلاً من الزيت والملح وتوقد سبع شمعات."
+    },
+    {
+     "role": "note",
+     "es": "Luego el sacerdote reza la oración de Acción de Gracias e inciensa.",
+     "cop": "",
+     "ar": "ثم يصلي الكاهن صلاة الشكر ويرفع البخور."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Oración de acción de gracias",
+    "ar": "صلاة الشكر",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "priest",
+     "es": "Orad.",
+     "cop": "",
+     "ar": "صـلِّ."
+    },
+    {
+     "role": "deacon",
+     "es": "Para la oración, levantaos.",
+     "cop": "",
+     "ar": "للصلاةِ قفوا."
+    },
+    {
+     "role": "priest",
+     "es": "La paz esté con todos vosotros.",
+     "cop": "",
+     "ar": "السلامُ للكلِّ."
+    },
+    {
+     "role": "people",
+     "es": "Y con tu espíritu.",
+     "cop": "",
+     "ar": "ولروحِكَ [أيضاً]."
+    },
+    {
+     "role": "priest",
+     "es": "Demos gracias al benefactor Dios misericordioso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "فلنشكرْ صانعَ الخيراتِ، الرحومَ الله أبا ربِّنا وإلَهِنا ومخلصِنا يسوعَ المسيح."
+    },
+    {
+     "role": "priest",
+     "es": "Porque nos ha cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
+     "cop": "",
+     "ar": "لأنه سترَنا وأعانَنا وحفِظَنا وقبِلَنا إليه وشفقَ علينا وعضَّـدَنا وأتى بنا إلى هذه الساعةِ."
+    },
+    {
+     "role": "priest",
+     "es": "Supliquémosle también, a Todopoderoso, el Señor nuestro Dios, que nos conserve en plena paz, en este Santo día y todos los días de nuestra vida.",
+     "cop": "",
+     "ar": "هــو أيضاً فلنسألْهُ أن يحفظَنا في هذا اليومِ المقدسِ، وكلِّ أيامِ حياتِنا بكلِّ سلامٍ، ضابطَ الكلِّ الربَّ إلهَنا."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad.",
+     "cop": "",
+     "ar": "صلُّوا."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "ياربُّ ارحَم."
+    },
+    {
+     "role": "priest",
+     "es": "El señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "أيها السيدُ الربُّ الإلهُ ضابطَ الكلِّ، أبو ربِنا وإلَهِنا ومخلصِنا يسوعَ المسيحِ."
+    },
+    {
+     "role": "priest",
+     "es": "Te damos gracias por toda circunstancia, para toda circunstancia y en toda circunstancia.",
+     "cop": "",
+     "ar": "نشكرُكَ على كلِّ حالٍ، ومن أجلِ كلِّ حالٍ، وفي كلِّ حالٍ."
+    },
+    {
+     "role": "priest",
+     "es": "Porque nos has cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
+     "cop": "",
+     "ar": "لأنكَ سترتَنا وأعنتَنا وحفظتَنا، وقبِلتَنا إليكَ، وشفقتَ علينا وعضَّدتَنا وأتيتَ بنا إلى هذه الساعةِ."
+    },
+    {
+     "role": "deacon",
+     "es": "Implorad para que Dios tenga piedad y se compadezca de nosotros; nos escuche y ayude; acepte las plegarias y súplicas que sus santos le dirigen continuamente en nuestro favor* y perdone nuestros pecados.",
+     "cop": "",
+     "ar": "اطلبوا لكي يرحمَنا الله، ويتراءف علينا، ويسمعَنا، ويعينَنا، ويقبلَ سؤالاتَ وطلباتَ قديسيهِ منهم بالصلاحِ عنا في كلِّ حينٍ،* ويغفرَ لنا خطايانا."
+    },
+    {
+     "role": "note",
+     "es": "*Y en presencia del Papa, el metropolitano o el obispo añade:",
+     "cop": "",
+     "ar": "*وفي وجود الأب البابا أو المطران أو الأسقف يضاف:"
+    },
+    {
+     "role": "deacon",
+     "es": "Y conserve por y sobre nosotros la vida y jefatura de nuestro bienaventurado padre el sumo sacerdote el papa Aba ___ y la de su compañero en el servicio [apostólico], nuestro padre el obispo (metropolitano) Aba___.",
+     "cop": "",
+     "ar": "وأن يحفظَ حياةَ وقيامَ أبينا المكرمِ رئيس الكهنة البابا أنبا ___ وشريكِهِ في الخدمةِ [الرسولية] أبينا الأسقف (المطران) أنبا ___."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "ياربُّ ارحَم."
+    },
+    {
+     "role": "priest",
+     "es": "Por ello, pedimos y suplicamos tu bondad, Amante de la humanidad, concédenos completar este santo día, y todos los días de nuestra vida, en plena paz y con tu temor.",
+     "cop": "",
+     "ar": "من أجلِ هذا نسألُ ونطلبُ من صلاحِكَ يا محبَّ البشرِ، امنحنا أن نكمِّلَ هذا اليومَ المقدس، وكلَّ أيامِ حياتِنا بكلِّ سلامٍ مع خوفِكَ."
+    },
+    {
+     "role": "priest",
+     "es": "Toda envidia, toda tentación, toda obra de Satanás, intriga de los malvados y ataque de los enemigos visibles e invisibles.",
+     "cop": "",
+     "ar": "كلَّ حسدٍ وكلَّ تجربةٍ وكلَّ فعلِ الشيطانِ، ومؤامرةَ الناسِ الأشرارِ، وقيامَ الأعداءِ الخفيينَ والظاهرينَ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote inclina su cabeza hacia el este, y hace la señal de la cruz a si mismo, diciendo:",
+     "cop": "",
+     "ar": "يطامن الكاهن رأسـه إلى الشرق ويرشم ذاته بمثال الصليب قائلاً:"
+    },
+    {
+     "role": "priest",
+     "es": "Aléjalos de nosotros.",
+     "cop": "",
+     "ar": "انزعها عنَّا"
+    },
+    {
+     "role": "note",
+     "es": "Luego se gira hacia el oeste que está a su derecha y hace la señal de la cruz al pueblo y dice.[Si está presente el Papa, el metropolitano o el obispo, él hace la señal de la cruz al pueblo, y dice esto]:",
+     "cop": "",
+     "ar": "ثم يلتفت إلى الغرب عن يمينه ويرشم الشعب قائلاً: [إذا كان الأب البابا أو المطران أو الأسقف حاضراً فهو الذي يرشم الشعب ويقول ذلك]:"
+    },
+    {
+     "role": "priest",
+     "es": "De todo tu pueblo.",
+     "cop": "",
+     "ar": "وعن سائرِ شعبِكَ."
+    },
+    {
+     "role": "note",
+     "es": "Y hace la señal de la cruz hacia al norte y al sur y dice:",
+     "cop": "",
+     "ar": "ثم يرشم شمالاً و جنوباً وهو يقول:"
+    },
+    {
+     "role": "priest",
+     "es": "De este lugar santo que es tuyo.",
+     "cop": "",
+     "ar": "وعن موضعِكَ المقدس هذا."
+    },
+    {
+     "role": "priest",
+     "es": "Cólmanos con los bienes y los beneficios porque eres Tú quien nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo.",
+     "cop": "",
+     "ar": "أما الصالحاتِ والنافعاتِ فارزقنا إياها لأنكَ أنتَ الذي أعطيتنا السلطانَ أن ندوسَ على الحياتِ والعقاربِ وعلى كلِّ قوةِ العدوِ."
+    },
+    {
+     "role": "priest",
+     "es": "Y no nos dejes caer en la tentación; y líbranos del mal. Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "ولا تُدْخِلْنا في تجربةٍ لكن نَجنا من الشرير بالنعمةِ والرأفات ومحبةِ البشرِ اللواتي لابنِكَ الوحيد ربِّنا وإلهِنا ومخلصِنا يسوع المسيح."
+    },
+    {
+     "role": "priest",
+     "es": "Por quien la gloria, el honor, la magnificencia y la adoración te son debidos con Él y el Espíritu Santo vivificante y consubstancial a Ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "هــذا الذي مــن قِبَلِهِ المجدُ والكرامةُ والعزُّ والسجودُ تليقُ بِكَ معه، ومع الروحِ القدسِ المحيِي المساوِي لكَ. الآن وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Epístola a los Hebreos (1:5-12)",
+    "ar": "البولس من الرسالة إلى العبرانيين (ص ١: ٥-١٢)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Pues ¿a qué ángel dijo jamás: Hijo mío eres tú, yo te he engendrado hoy; y en otro lugar: Yo seré para él un padre, y él será para mí un hijo? Asimismo, cuando introduce en el mundo al primogénito, dice: Adórenlo todos los ángeles de Dios.",
+     "cop": "",
+     "ar": "لأنه لمن من الملائكة قال قط: أنت ابني أنا اليوم ولدتك. وأيضاً أنا أكون له أباً، وهو يكون لي ابناً. وأيضاً إذا أدخل البكر إلى المسكونة، يقول فلتسجد له جميع ملائكة الله."
+    },
+    {
+     "role": "text",
+     "es": "De los ángeles dice: Hace de los espíritus sus ángeles; de las llamas de fuego, sus ministros.",
+     "cop": "",
+     "ar": "ومن أجل ملائكته يقول: الصانع ملائكته أرواحاً، وخدامه لهيب نار."
+    },
+    {
+     "role": "text",
+     "es": "En cambio, del Hijo: Tu trono, oh Dios, permanece para siempre; y cetro de rectitud es tu cetro real. Amaste la justicia y odiaste la iniquidad; por eso Dios, tu Dios, te ha distinguido entre tus compañeros, ungiéndote con aceite de júbilo. También: Tú, Señor, en los comienzos cimentaste la tierra; los cielos son obra de tus manos; ellos perecerán, tú permaneces; se gastarán como la ropa, los envolverás como un manto. Serán como vestido que se muda. Pero tú eres siempre el mismo tus años no se acabarán.",
+     "cop": "",
+     "ar": "ومن أجل الابن يقول: كرسيك يا الله إلى أبد الأبد. قضيب الاستقامة قضيب ملكك. لأنك أحببت البر وأبغضت الإثم. فلهذا مسحك الله إلهك بدهن الفرح أفضل من أصحابك. ومن البدء يا رب أنت أسست الأرض، والسموات هي صنع يديك. وكرداء تطويها فتتغير، وأنت هو أنت وسنوك لن تفنى."
+    },
+    {
+     "role": "note",
+     "es": "Que la gracia de Dios Padre os sea concedida a todos nosotros, Amén.",
+     "cop": "",
+     "ar": "نعمة الله الآب تحل على جميعنا آمين."
+    },
+    {
+     "role": "note",
+     "es": "Luego los diáconos cantan el Trisagio",
+     "cop": "",
+     "ar": "ثم يقول المرتلون لحن الثلاثة تقديسات"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Trisagio",
+    "ar": "الثلاثة تقديسات",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "people",
+     "es": "Santo Dios, Santo Fuerte, Santo Inmortal, quien nació de la Virgen, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "قدوس الله، قدوس القوي، قدوس الذي لا يموت، الذي ولد من العذراء ارحمنا."
+    },
+    {
+     "role": "people",
+     "es": "Santo Dios, Santo Fuerte, Santo Inmortal, quien fue crucificado por nosotros, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "قدوس الله، قدوس القوي، قدوس الذي لا يموت، الذي صلب عنا ارحمنا."
+    },
+    {
+     "role": "people",
+     "es": "Santo Dios, Santo Fuerte, Santo Inmortal, quien resucitó de entre los muertos y ascendió a los cielos, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "قدوس الله، قدوس القوي، قدوس الذي لا يموت، الذي قام من الأموات وصعد إلى السموات ارحمنا."
+    },
+    {
+     "role": "people",
+     "es": "Gloria al Padre, al Hijo y al Espíritu. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "المجد للآب والابن والروح القدس، الآن وكل أوان وإلى دهر الداهرين. آمين."
+    },
+    {
+     "role": "people",
+     "es": "Oh Santísima Trinidad, ten piedad de nosotros",
+     "cop": "",
+     "ar": "أيها الثالوث القدوس ارحمنا."
+    },
+    {
+     "role": "note",
+     "es": "Después el sacerdote coge el incensario y se para frente al santuario y dice la letanía del Evangelio:",
+     "cop": "",
+     "ar": "ثم يأخذ الكاهن المجمرة ويقف أمام باب الهيكل ويقول أوشية الإنجيل:"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Letanía del Evangelio",
+    "ar": "أوشية الإنجيل",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "priest",
+     "es": "Orad.",
+     "cop": "",
+     "ar": "صلُّوا."
+    },
+    {
+     "role": "deacon",
+     "es": "Para la oración, levantaos.",
+     "cop": "",
+     "ar": "للصلاةِ قفوا."
+    },
+    {
+     "role": "priest",
+     "es": "La paz esté con todos vosotros.",
+     "cop": "",
+     "ar": "السلامُ للكلِّ."
+    },
+    {
+     "role": "people",
+     "es": "Y con tu espíritu.",
+     "cop": "",
+     "ar": "ولروحِكَ [أيضاً]."
+    },
+    {
+     "role": "priest",
+     "es": "Señor Dios Jesucristo, nuestro Dios, quien dijo a Sus santos discípulos bienaventurados, y a sus puros apóstoles:",
+     "cop": "",
+     "ar": "أيها السيدُ الربُّ يسوعُ المسيحُ إلَهُنا، الذي قال لتلاميذِهِ القديسين المكرمين ورسلِهِ الأطهارِ:"
+    },
+    {
+     "role": "priest",
+     "es": "“Muchos profetas y justos desearon ver lo que estáis viendo, y no lo vieron; y oír lo que estáis oyendo, y no lo oyeron.",
+     "cop": "",
+     "ar": "”إن أنبياءً وأبراراً كثيرين اشْتَهَوْا أن يَرَوْا ما أنتم تَرَوْن ولم يَرَوْا، وأن يسمعوا ما أنتم تسمعون ولم يسمعوا."
+    },
+    {
+     "role": "priest",
+     "es": "Pero bienaventurados vuestros ojos porque ven; y vuestros oídos porque oyen”.",
+     "cop": "",
+     "ar": "أما أنتم فطُوبى لأعيُنِكم لأنها تُبصِرُ، ولأذانِكم لأنها تَسْمَع.“"
+    },
+    {
+     "role": "priest",
+     "es": "Haznos dignos de escuchar y practicar tus Santos Evangelios, a través de las súplicas de tus santos.",
+     "cop": "",
+     "ar": "فلنستحق أن نسمَعَ ونعمَلَ بأناجيلِك المقدسة بطلباتِ قديسيك."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por el Santo Evangelio.",
+     "cop": "",
+     "ar": "صلُّوا من أجلِ الإنجيلِ المقدس."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "ياربُّ ارحَم."
+    },
+    {
+     "role": "priest",
+     "es": "Acuérdate también, nuestro Señor, de todos aquellos que nos han pedido acordarnos de ellos, en nuestras súplicas y nuestros ruegos que Te dirigimos. ¡Oh, Señor, nuestro Dios!",
+     "cop": "",
+     "ar": "اذكر أيضاً يا سيدَنا كلَّ الذين أوصونا أن نذكرَهُم في تضرعاتِنا وطلباتِنا التي نُصعِدها إليك أيها الربُّ إلَهُنا."
+    },
+    {
+     "role": "priest",
+     "es": "A aquellos que nos han precedido y han fallecido, concédeles el descanso; a los enfermos, sánalos.",
+     "cop": "",
+     "ar": "الذين سبقوا فرقدوا، نيحهم. المرضى اشفهم."
+    },
+    {
+     "role": "priest",
+     "es": "Porque Tú eres la vida, la salvación, la esperanza, la curación y la resurrección de todos nosotros.",
+     "cop": "",
+     "ar": "لأنك أنتَ حياتُنا كلِّنا، وخلاصُنا كلِّنا، ورجاؤُنا كُلِّنا، وشفاؤُنا كلِّنا، وقيامتُنا كلِّنا."
+    },
+    {
+     "role": "priest",
+     "es": "A Ti elevamos la gloria, el honor y la adoración, así como a tu Padre bueno y el Espíritu Santo vivificante y consubstancial a ti.",
+     "cop": "",
+     "ar": "وأنتَ الذي نرسل لكَ إلى فوق المجدَ والإكرامَ والسجودَ، مع أبيكَ الصالحِ والروحِ القدسِ المحيِي المساوِي لكَ."
+    },
+    {
+     "role": "priest",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "الآن وكلَّ أوان وإلى دهر الدهور كلِّها. آمين."
+    },
+    {
+     "role": "note",
+     "es": "Luego se lee el Salmo y el Evangelio.",
+     "cop": "",
+     "ar": "ثم يُقرأ المزمور والإنجيل."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Salmo (112:1-2)",
+    "ar": "المزمور (١١٢: ١-٢)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Alabad, siervos del Señor, alabad el nombre del Señor. Bendito sea el nombre del Señor, ahora y por siempre:",
+     "cop": "",
+     "ar": "سبحوا أيها الفتيان الرب. سبحوا اسم الرب. ليكن اسم الرب مباركاً من الآن وإلى الأبد. هلليلويا."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "El Evangelio (Juan 1:14-19)",
+    "ar": "الإنجيل (يوحنا ١: ١٤-١٩)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Y el Verbo se hizo carne y habitó entre nosotros, y hemos contemplado su gloria: gloria como del Unigénito del Padre, lleno de gracia y de verdad. Juan da testimonio de él y grita diciendo: «Este es de quien dije: El que viene detrás de mí se ha puesto delante de mí, porque existía antes que yo». Pues de su plenitud todos hemos recibido, gracia tras gracia. Porque la ley se dio por medio de Moisés, la gracia y la verdad nos han llegado por medio de Jesucristo. A Dios nadie lo ha visto jamás: Dios unigénito, que está en el seno del Padre, es quien lo ha dado a conocer.",
+     "cop": "",
+     "ar": "والكلمة صار جسداً وحل فينا ورأينا مجده مثل مجد ابن وحيد لأبيه، مملوءاً نعمة وحقاً. يوحنا شهد من أجله وصرخ قائلاً: هذا هو الذي قلت من أجله أن الذي يأتي بعدي هو كان قبلي، لأنه كان أقدم مني. ومن ملئه جميعاً أخذنا، ونعمة فوق نعمة. لأن الناموس بموسى أعطي أما النعمة والحق فبيسوع المسيح صارا. الله لم يره أحد قط. الابن الوحيد الذي في حضن أبيه هو خبر."
+    },
+    {
+     "role": "note",
+     "es": "Gloria a Dios para siempre.",
+     "cop": "",
+     "ar": "والمجد لله دائماً."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Respuesta del Evangelio",
+    "ar": "مرد الإنجيل",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Los diáconos cantan:",
+     "cop": "",
+     "ar": "يقول المرتلون هذا المرد"
+    },
+    {
+     "role": "deacon",
+     "es": "Porque el que no se había encarnado se encarnó, el Verbo tomó cuerpo, lo que no había empezado, comenzó y lo intemporal se hizo temporal.",
+     "cop": "",
+     "ar": "لأن غير المتجسد تجسد، والكلمة تجسم، وغير المبتدئ ابتدأ، وغير الزمني صار تحت الزمان."
+    },
+    {
+     "role": "deacon",
+     "es": "Interceda por nosotros, señora de todos nosotros, madre de Dios, María, la madre de nuestro Salvador, para que perdone nuestros pecados.",
+     "cop": "",
+     "ar": "اشفعي فينا يا سيدتنا كلنا السيدة والدة الإله مريم أم مخلصنا ليغفر لنا خطايانا."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice las tres letanías pequeñas: la paz, los padres y las asambleas.",
+     "cop": "",
+     "ar": "ثم يقول الكاهن الثلاث أواشي الصغار: السلام والآباء والاجتماعات."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Las tres letanías pequeñas",
+    "ar": "الأواشي الثلاث الصغار",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "priest",
+     "es": "También, pidamos a Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "وأيضاً فلنسأل الله ضابط الكل أبا ربنا وإلهنا ومخلصنا يسوع المسيح."
+    },
+    {
+     "role": "priest",
+     "es": "Pedimos y suplicamos Tu bondad, oh Amante de la humanidad,",
+     "cop": "",
+     "ar": "نسأل ونطلب من صلاحك يا محب البشر."
+    },
+    {
+     "role": "priest",
+     "es": "Acuérdate Señor de la paz de tu una, única, santa, católica y apostólica iglesia.",
+     "cop": "",
+     "ar": "اذكر يا رب سلام كنيستك الواحدة الوحيدة المقدسة الجامعة الرسولية."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por la paz de la santa, única, católica, apostólica y ortodoxa iglesia de Dios.",
+     "cop": "",
+     "ar": "صلوا من أجل سلام الواحدة الوحيدة المقدسة الجامعة الرسولية الأرثوذكسية كنيسة الله."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "يا رب ارحم."
+    },
+    {
+     "role": "priest",
+     "es": "Ésta que existe de un extremo del mundo al otro.",
+     "cop": "",
+     "ar": "هذه الكائنة من أقاصي المسكونة إلى أقاصيها."
+    },
+    {
+     "role": "priest",
+     "es": "Acuérdate Señor, de nuestro Patriarca, el bienaventurado Padre, el Sumo sacerdote, el Papa Aba ___, Y su compañero en el servicio [apostólico], nuestro padre el obispo (metropolitano) Aba ___.",
+     "cop": "",
+     "ar": "اذكر يا رب بطريركنا الأب المكرم رئيس الكهنة البابا أنبا ___ وشريكه في الخدمة [الرسولية] أبانا الأسقف (المطران) المكرم أنبا ___."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por nuestro sumo sacerdote, el Papa Aba ___; Papa, Patriarca y Arzobispo de la Megalópolis de Alejandría, Y su compañero en el servicio [apostólico], nuestro padre el obispo (metropolitano) Aba ___. Y por todos nuestros obispos ortodoxos.",
+     "cop": "",
+     "ar": "صلوا من أجل رئيس كهنتنا البابا أنبا ___ بابا وبطريرك ورئيس أساقفة المدينة العظمى الإسكندرية، وشريكه في الخدمة [الرسولية] أبينا الأسقف (المطران) المكرم أنبا ___. و[سائر] أساقفتنا الأرثوذكسيين."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "يا رب ارحم."
+    },
+    {
+     "role": "priest",
+     "es": "Consérvanos los muchos años y en tiempos de paz.",
+     "cop": "",
+     "ar": "حفظاً احفظه لنا سنين كثيرة وأزمنة سلامية."
+    },
+    {
+     "role": "priest",
+     "es": "Acuérdate Señor de nuestras asambleas",
+     "cop": "",
+     "ar": "اذكر يا رب اجتماعاتنا"
+    },
+    {
+     "role": "note",
+     "es": "Aquí, el sacerdote se gira a la derecha en dirección oeste, hace la señal de la cruz al pueblo, y dice:",
+     "cop": "",
+     "ar": "ههنا يلتفت عن يمينه إلى الغرب ويرشم الشعب رشماً واحداً بمثال الصليب وهو يقول:"
+    },
+    {
+     "role": "priest",
+     "es": "Bendícelas.",
+     "cop": "",
+     "ar": "باركها"
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por esta santa iglesia y por nuestras asambleas.",
+     "cop": "",
+     "ar": "صلوا من أجل هذه البيعة المقدسة واجتماعاتنا."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "يا رب ارحم."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote coge el incensario y dice:",
+     "cop": "",
+     "ar": "يأخذ الكاهن المجمرة ويقول:"
+    },
+    {
+     "role": "priest",
+     "es": "Concédenoslas sin impedimentos ni obstáculos para que las hagamos conforme a tu santa bendita voluntad.",
+     "cop": "",
+     "ar": "أعط أن تكون لنا بغير مانع ولا عائق لنصنعها كمشيئتك المقدسة الطوباوية."
+    },
+    {
+     "role": "priest",
+     "es": "Señor, concédenos casas de oración, de pureza y de bendición a nosotros y a tus siervos que vienen después, para siempre.",
+     "cop": "",
+     "ar": "بيوت صلاة، بيوت طهارة، بيوت بركة، أنعم بها يا رب لنا ولعبيدك الآتين بعدنا إلى الأبد."
+    },
+    {
+     "role": "priest",
+     "es": "Levántate, Señor Dios. Que todos tus enemigos sean diseminados y que se escapen de tu rostro, todos los que odian tu santo nombre.",
+     "cop": "",
+     "ar": "قم أيها الرب الإله ولتتفرق جميع أعدائك وليهرب من قدام وجهك كل مبغضي اسمك القدوس."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote se gira al oeste, inciensa tres veces a los sacerdotes, los diáconos y el pueblo, y dice:",
+     "cop": "",
+     "ar": "يلتفت إلى الغرب ويعطي البخور للكهنة والشمامسة والشعب، ثلاث مرات، وهو يقول:"
+    },
+    {
+     "role": "priest",
+     "es": "En cuanto a tu pueblo, que sea bendito, miles y miles, diez miles y diez miles, hagan tu voluntad.",
+     "cop": "",
+     "ar": "وأما شعبك فليكن بالبركة ألوف ألوف وربوات ربوات يصنعون إرادتك."
+    },
+    {
+     "role": "note",
+     "es": "Después, inciensa al este tres veces y dice en voz baja:",
+     "cop": "",
+     "ar": "ثم يبخر شرقاً ثلاث أياد وهو يقول سراً:"
+    },
+    {
+     "role": "priest",
+     "es": "Por la gracia, la compasión …",
+     "cop": "",
+     "ar": "بالنعمة والرأفات..."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "El Credo ortodoxo",
+    "ar": "قانون الإيمان",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Luego se dice el Credo ortodoxo",
+     "cop": "",
+     "ar": "ثم يقال قانون الإيمان"
+    },
+    {
+     "role": "people",
+     "es": "De verdad creemos en un solo Dios Padre Todopoderoso, creador del cielo y de la tierra, de lo visible y de lo invisible.",
+     "cop": "",
+     "ar": "بالحقيقة نؤمن بإله واحد، الله الآب ضابط الكل، خالق السماء والأرض، ما يُرى وما لا يُرى."
+    },
+    {
+     "role": "people",
+     "es": "Creemos en un solo Señor, Jesucristo, Hijo Unigénito de Dios, el nacido del Padre antes de todos los siglos.",
+     "cop": "",
+     "ar": "نؤمن برب واحد، يسوع المسيح، ابن الله الوحيد، المولود من الآب قبل كل الدهور."
+    },
+    {
+     "role": "people",
+     "es": "Luz de Luz, Dios verdadero de Dios verdadero, nacido no creado, consubstancial al Padre, por quien todo fue hecho.",
+     "cop": "",
+     "ar": "نور من نور، إله حق من إله حق، مولود غير مخلوق، مساو للآب في الجوهر، الذي به كان كل شيء."
+    },
+    {
+     "role": "people",
+     "es": "Quien por nosotros los hombres, y por nuestra salvación, descendió del cielo, se encarnó del Espíritu Santo, y de María La Virgen, y se hizo Hombre.",
+     "cop": "",
+     "ar": "هذا الذي من أجلنا نحن البشر، ومن أجل خلاصنا، نزل من السماء، وتجسد من الروح القدس، ومن مريم العذراء وتأنس."
+    },
+    {
+     "role": "people",
+     "es": "Y fué crucificado por nosotros, en tiempos de Poncio Pilatos, padeció y fué sepultado.",
+     "cop": "",
+     "ar": "وصُلب عنا على عهد بيلاطس البنطي، تألم وقُبر."
+    },
+    {
+     "role": "people",
+     "es": "Y resucitó de entre los muertos al tercer día, según las Escrituras.",
+     "cop": "",
+     "ar": "وقام من الأموات في اليوم الثالث، كما في الكتب."
+    },
+    {
+     "role": "people",
+     "es": "Y ascendió a los cielos, y está sentado a la derecha de su Padre. Y de nuevo vendrá con su gloria, para juzgar a los vivos y a los muertos, y su reino no tendrá fin.",
+     "cop": "",
+     "ar": "وصعد إلى السموات، وجلس عن يمين أبيه. وأيضاً يأتي في مجده ليدين الأحياء والأموات، الذي ليس لملكه انقضاء."
+    },
+    {
+     "role": "people",
+     "es": "Sí, creemos en el Espíritu Santo, el Señor vivificante, que procede del Padre, que junto con el Padre y el Hijo se postran ante Él y es glorificado, que habló por los profetas.",
+     "cop": "",
+     "ar": "نعم نؤمن بالروح القدس، الرب المحيي المنبثق من الآب، نسجد له ونمجده مع الآب والابن، الناطق في الأنبياء."
+    },
+    {
+     "role": "people",
+     "es": "Y en una, santa, católica y apostólica iglesia. Reconocemos un solo bautismo para el perdón de los pecados.",
+     "cop": "",
+     "ar": "وبكنيسة واحدة مقدسة جامعة رسولية. ونعترف بمعمودية واحدة لمغفرة الخطايا."
+    },
+    {
+     "role": "people",
+     "es": "Esperamos la resurrección de los muertos y la vida del siglo venidero. Amén.",
+     "cop": "",
+     "ar": "وننتظر قيامة الأموات، وحياة الدهر الآتي. آمين."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "La súplica",
+    "ar": "الطلبة",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "priest",
+     "es": "Oh, Dios grande y eterno, el Señor, el Todopoderoso, a través de tu Verbo, nuestro Señor Jesucristo, el existente desde el principio y para siempre. Tú has creado el mundo con tu sabiduría de la que no se duda, has hecho al hombre a tu imagen y semejanza, lo has llenado con tu bondad, lo has adornado con todo el esplendor, le has dado el espíritu de la sabiduría, del entendimiento y la autoridad sobre todo, lo has dejado trabajar todo el día y te bendice.",
+     "cop": "",
+     "ar": "يا الله العظيم الأبدي، الرب الضابط الكل، الذي من قبل كلمتك، ربنا يسوع المسيح، الكائن منذ البدء وإلى الأبد، خلقت العالم بحكمتك التي لا تستقصى، وكونت الإنسان مثل صورتك ومثالك، وملأته من رحمة صلاحك، وزينته بكل بهاء، وأعطيته روح حكمة وفهماً عقلياً، وسلطته على كل شيء، وتركته ليعمل كل النهار ويباركك."
+    },
+    {
+     "role": "priest",
+     "es": "Por eso, te pedimos y suplicamos tu bondad sobre tu servidor (…) Bendícelo con todas las bendiciones celestiales, oh Señor, bendice también su nacimiento, y que tenga una larga vida según tu gracia. Hasta que crezca y se multiplique a treinta, sesenta y cien. Que haga felices a sus padres y estén contentos con su nacimiento, como Zacarías e Isabel, a quienes les regalaste Juan el Profeta. Y en el tiempo fijado se merezca el baño del nacimiento nuevo para el perdón de sus pecados. Prepárale un templo para tu Espíritu Santo por la gracia, la compasión, el amor de la Humanidad de tu Hijo Unigénito, nuestro Señor, Dios y Salvador, Jesucristo,",
+     "cop": "",
+     "ar": "من أجل هذا نسأل ونتضرع إلى صلاحك عن عبدك (فلان بن فلان). باركه بكل البركات السمائية، وبارك أيضاً يا رب ميلاده وليطل عمره كنعمتك، حتى ينمو ويكثر ثلاثين وستين ومائة. وليفرح به أبواه ويسرا بميلاده مثل زكريا وأليصابات اللذين وهبت لهما يوحنا النبي. وفي الزمان المحدد فليستحق حميم الميلاد الجديد لغفران خطاياه. أعده هيكلاً لروحك القدوس بالنعمة والرأفات ومحبة البشر اللواتي لابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح."
+    },
+    {
+     "role": "priest",
+     "es": "Por quien la gloria, el honor, la magnificencia y la adoración te son debidos junto con Él y el Espíritu Santo, vivificante y consubstancial a ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "هذا الذي من قبله يليق بك المجد والكرامة والعزة والسجود معه مع الروح القدس المحيي المساوي لك الآن وكل أوان وإلى دهر الدهور. آمين."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Cuarto Cántico (Salmos 148, 149 y 150)",
+    "ar": "الهوس الرابع (مزامير ١٤٨، ١٤٩، ١٥٠)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Después el sacerdote canta el Cuarto Cántico (Salmo 148 y 149).",
+     "cop": "",
+     "ar": "ويقول الكاهن الهوس الرابع وهو (مزمور ١٤٨، ١٤٩)."
+    },
+    {
+     "role": "priest",
+     "es": "Alaben al Señor desde los cielos; ¡Aleluya! Alábenlo en las alturas.",
+     "cop": "",
+     "ar": "سبحوا الرب من السموات الليلويا. سبحوه في الأعالي."
+    },
+    {
+     "role": "priest",
+     "es": "Alábenlo, todos sus ángeles; ¡Aleluya! Alábenlo, todos Sus poderes.",
+     "cop": "",
+     "ar": "سبحوه يا جميع ملائكته الليلويا. سبحوه يا جميع جنوده."
+    },
+    {
+     "role": "priest",
+     "es": "Alábenlo, el sol y la luna; ¡Aleluya! Alábenlo, todas las estrellas luminosas.",
+     "cop": "",
+     "ar": "سبحيه أيتها الشمس والقمر الليلويا. سبحيه يا جميع كواكب النور."
+    },
+    {
+     "role": "priest",
+     "es": "Alábenlo, los cielos de los cielos; ¡Aleluya! Y las aguas que están sobre los cielos.",
+     "cop": "",
+     "ar": "سبحيه يا سماء السموات الليلويا. ويا أيتها المياه التي فوق السموات."
+    },
+    {
+     "role": "priest",
+     "es": "Alaben todos el nombre del Señor; ¡Aleluya! Pues Él dijo y fueron.",
+     "cop": "",
+     "ar": "لتسبح جميعها لاسم الرب الليلويا. لأنه قال فكانت."
+    },
+    {
+     "role": "priest",
+     "es": "Él ordenó y fueron creados; ¡Aleluya! Los estableció eternamente y para siempre.",
+     "cop": "",
+     "ar": "وأمر فخلقت الليلويا. أقامها إلى الأبد وإلى أبد الأبد."
+    },
+    {
+     "role": "priest",
+     "es": "Les dio ley que no pasará; ¡Aleluya! Alaben al Señor desde la tierra.",
+     "cop": "",
+     "ar": "وضع لها أمراً فلن تتجاوزه الليلويا. سبحي الرب من الأرض."
+    },
+    {
+     "role": "priest",
+     "es": "Los dragones y todos los abismos; ¡Aleluya! Fuego y granizo, nieve y hielo; viento tempestuoso que cumplen Su palabra;",
+     "cop": "",
+     "ar": "أيتها التنانين وجميع الأعماق الليلويا. النار والبرد والثلج والجليد والريح العاصفة الصانعة كلمته."
+    },
+    {
+     "role": "priest",
+     "es": "Los montes altos y todas las colinas; ¡Aleluya! Los árboles frutales y todos los cedros;",
+     "cop": "",
+     "ar": "الجبال العالية وجميع الآكام الليلويا. الأشجار المثمرة وكل الأرز."
+    },
+    {
+     "role": "priest",
+     "es": "Las fieras y todas las bestias; ¡Aleluya! Los reptiles y las aves que tienen alas;",
+     "cop": "",
+     "ar": "الوحوش وكل البهائم الليلويا. الهوام وكل الطيور ذات الأجنحة."
+    },
+    {
+     "role": "priest",
+     "es": "Los reyes de la tierra y todos los pueblos; ¡Aleluya! Los jefes y todos los gobernantes de la tierra;",
+     "cop": "",
+     "ar": "ملوك الأرض وكل الشعوب الليلويا. الرؤساء وكل حكام الأرض."
+    },
+    {
+     "role": "priest",
+     "es": "Jóvenes y vírgenes; ¡Aleluya! Ancianos y niños.",
+     "cop": "",
+     "ar": "الشبان والعذارى الليلويا. الشيوخ والصبيان."
+    },
+    {
+     "role": "priest",
+     "es": "Alaben todos el nombre del Señor; ¡Aleluya! Porque sólo Su nombre es exaltado;",
+     "cop": "",
+     "ar": "فليسبحوا جميعاً اسم الرب الليلويا. لأنه قد تعالى اسمه وحده."
+    },
+    {
+     "role": "priest",
+     "es": "Su gloria es sobre la tierra y en el cielo; ¡Aleluya! Él ha exaltado el poder de su pueblo,",
+     "cop": "",
+     "ar": "شكره كائن على الأرض وفي السماء الليلويا. ويرفع قرن شعبه."
+    },
+    {
+     "role": "priest",
+     "es": "Alabanza para todos Sus santos; ¡Aleluya! Para los hijos de Israel, el pueblo a Él cercano.",
+     "cop": "",
+     "ar": "سبحاً لجميع قديسيه الليلويا. بني إسرائيل الشعب القريب إليه."
+    },
+    {
+     "role": "priest",
+     "es": "¡Aleluya, Aleluya, Aleluya!",
+     "cop": "",
+     "ar": "الليلويا الليلويا الليلويا"
+    },
+    {
+     "role": "priest",
+     "es": "Canten al Señor un cántico nuevo; ¡Aleluya! Porque Su alabanza en la iglesia de los santos.",
+     "cop": "",
+     "ar": "أنشدوا للرب نشيداً جديداً الليلويا. لأن تسبحته في بيعة القديسين."
+    },
+    {
+     "role": "priest",
+     "es": "Alégrese Israel en Su Creador; ¡Aleluya! Y regocíjense los hijos de Sion en su Rey.",
+     "cop": "",
+     "ar": "فليفرح إسرائيل بخالقه الليلويا. وبنو صهيون فليتهللوا بملكهم."
+    },
+    {
+     "role": "priest",
+     "es": "Alaben Su Santo nombre en coro; ¡Aleluya! Con pandero y flauta a Él canten.",
+     "cop": "",
+     "ar": "فليسبحوا اسمه القدوس بصفوف الليلويا. بدف ومزمار فليرتلوا له."
+    },
+    {
+     "role": "priest",
+     "es": "Porque el Señor se deleita en Su pueblo; ¡Aleluya! Exalta a los humildes con salvación.",
+     "cop": "",
+     "ar": "لأن الرب يسر بشعبه الليلويا. يعلي الودعاء بالخلاص."
+    },
+    {
+     "role": "priest",
+     "es": "Presumen de gloria los santos; ¡Aleluya! Y canten con gozo sobre sus camas.",
+     "cop": "",
+     "ar": "يفتخر القديسون بمجد الليلويا. ويبتهلون على مضاجعهم."
+    },
+    {
+     "role": "priest",
+     "es": "Sean las alabanzas de Dios en sus gargantas; ¡Aleluya! Espadas de dos filos en sus manos.",
+     "cop": "",
+     "ar": "تعليات الله في حناجرهم الليلويا. وسيوف ذات حدين في أيديهم."
+    },
+    {
+     "role": "priest",
+     "es": "Para ejecutar venganza en las naciones; ¡Aleluya! Y reprender a los pueblos.",
+     "cop": "",
+     "ar": "ليصنعوا نقمة في الأمم الليلويا. وتوبيخات في الشعوب."
+    },
+    {
+     "role": "priest",
+     "es": "Para atar a reyes con cadenas; ¡Aleluya! Y a las manos de sus nobles con grillos de hierro.",
+     "cop": "",
+     "ar": "ليوثقوا ملوكهم بقيود الليلويا. وأشرافهم بأغلال للأيدي من حديد."
+    },
+    {
+     "role": "priest",
+     "es": "Para ejecutar en ellos el juicio decretado; ¡Aleluya! Esta gloria está en todos Sus santos.",
+     "cop": "",
+     "ar": "ليصنعوا بهم حكماً مكتوباً الليلويا. هذا المجد كائن في جميع قديسيه."
+    },
+    {
+     "role": "priest",
+     "es": "¡Aleluya, Aleluya, Aleluya!",
+     "cop": "",
+     "ar": "الليلويا الليلويا الليلويا."
+    },
+    {
+     "role": "note",
+     "es": "El pueblo reza el Padre Nuestro, el sacerdote dice las tres Absoluciones, luego hace la señal de la cruz sobre el agua diciendo Uno es el Padre Santo… Y el pueblo canta el Salmo 150.",
+     "cop": "",
+     "ar": "ويقول الشعب أبانا الذي... ويقول الكاهن التحاليل الثلاثة ثم يرشم الماء قائلاً: واحد هو الآب القدوس... ويقول الشعب التوزيع بالمزمور (١٥٠)."
+    },
+    {
+     "role": "people",
+     "es": "Alaben a Dios en todos Sus santos;",
+     "cop": "",
+     "ar": "سبحوا الله في جميع قديسيه."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo en la magnificencia de su firmamento.",
+     "cop": "",
+     "ar": "سبحوه في جلد قوته."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo por Su poder;",
+     "cop": "",
+     "ar": "سبحوه على مقدرته."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo conforme a la muchedumbre de su grandeza.",
+     "cop": "",
+     "ar": "سبحوه ككثرة عظمته."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo con sonido de trompeta;",
+     "cop": "",
+     "ar": "سبحوه بصوت البوق."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo con flauta y arpa;",
+     "cop": "",
+     "ar": "سبحوه بمزمار وقيثارة."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo con panderos y en coros;",
+     "cop": "",
+     "ar": "سبحوه بدفوف وصفوف."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo con instrumentos de cuerda y órgano;",
+     "cop": "",
+     "ar": "سبحوه بأوتار وأرغن."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo con buenos címbalos sonoros;",
+     "cop": "",
+     "ar": "سبحوه بصنوج حسنة الصوت."
+    },
+    {
+     "role": "people",
+     "es": "Alábenlo con címbalos de júbilo;",
+     "cop": "",
+     "ar": "سبحوه بصنوج التهليل."
+    },
+    {
+     "role": "people",
+     "es": "Todo lo que respira alabe el nombre del Señor, nuestro Dios; ¡Aleluya!",
+     "cop": "",
+     "ar": "كل نسمة فلتسبح اسم الرب إلهنا الليلويا."
+    },
+    {
+     "role": "people",
+     "es": "Gloria al Padre, al Hijo y al Espíritu Santo.",
+     "cop": "",
+     "ar": "المجد للآب والابن والروح القدس."
+    },
+    {
+     "role": "people",
+     "es": "Ahora y siempre y por los siglos de los siglos. Amén. ¡Aleluya!",
+     "cop": "",
+     "ar": "الآن وكل أوان وإلى دهر الداهرين آمين الليلويا."
+    },
+    {
+     "role": "people",
+     "es": "¡Aleluya! La gloria a ti nuestro Dios. ¡Aleluya!",
+     "cop": "",
+     "ar": "الليلويا المجد لإلهنا الليلويا."
+    },
+    {
+     "role": "people",
+     "es": "La gloria es a nuestro Dios. ¡Aleluya!",
+     "cop": "",
+     "ar": "المجد لإلهنا الليلويا."
+    },
+    {
+     "role": "people",
+     "es": "Jesucristo Hijo de Dios, escúchanos y ten piedad de nosotros.",
+     "cop": "",
+     "ar": "يا يسوع المسيح ابن الله، اسمعنا وارحمنا."
+    },
+    {
+     "role": "note",
+     "es": "Finalmente, el sacerdote baña al niño en el agua y dice la bendición como siempre.",
+     "cop": "",
+     "ar": "ثم يحمم الكاهن الطفل بالماء ويقول البركة كالعادة."
+    },
+    {
+     "role": "note",
+     "es": "Gloria a nuestro Señor para siempre. Amén.",
+     "cop": "",
+     "ar": "ولربنا المجد دائماً."
+    }
+   ]
+  }
+ ]
+}

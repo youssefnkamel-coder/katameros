@@ -1,0 +1,2117 @@
+{
+ "id": "matrimonio",
+ "service": "sacramentos",
+ "sample": false,
+ "title": {
+  "es": "Compromiso y matrimonio",
+  "ar": "الخطوبة والإكليل"
+ },
+ "sections": [
+  {
+   "title": {
+    "es": "Introducción sobre el ritual del sacramento del primer matrimonio",
+    "ar": "مقدمه عن طقس سر الزواج فى الزيجه الأولى",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "El sínodo santo encargó al comité de rituales conciliares a hacer un estudio detallado sobre el ritual de las propiedades y su relación con el ritual del matrimonio y el ritual de la oración del compromiso en nuestra iglesia copta y a hacer una comparación entre el mismo ritual y las iglesias ortodoxas griegas porque son las más cercanas a nuestras iglesias apostólicas antiguas.",
+     "cop": "",
+     "ar": "كلف المجمع المقدس لجنه الطقوس المجمعية بإجراء دراسة تفصلية عن طقس عقد الإملاك وعلاقته بطقس الإكليل وطقس صلاة الخطوبة فى كنيستنا القبطية مع إجراء مقارنة لنفس الطقس مع كنائس الروم الأرثوذكس بصفتها أقرب الكنائس الرسولية القديمه إلينا ."
+    },
+    {
+     "role": "text",
+     "es": "Y después de examinar el antiguo ritual del matrimonio en los manuscritos coptos, el ritual griego antiguo y el escrito en griego y árabe, de lo que resultó lo siguiente:",
+     "cop": "",
+     "ar": "وبعد بحث طقس الزواج القديم فى المخطوطات القبطية والطقس اليونانى القديم والمستمر باللغتين اليونانية و العربية اتضح ما يلى :"
+    },
+    {
+     "role": "text",
+     "es": "1- El llamado (contrato de propiedad), en la traducción exacta (la señal) del matrimonio, en griego (ARAPONA) y en copto (ARIB). Es el compromiso en el concepto del patrimonio antiguo.",
+     "cop": "",
+     "ar": "1- أن ما يسمى ( عقد الأملاك ) هو فى الترجمه الدقيقه ( عربون ) الزواج ( أرابونا Arabona باليونانية ، و أريب Arib بالقبطية)، وهى الخطبة فى المفهوم التراثى القديم."
+    },
+    {
+     "role": "text",
+     "es": "2-, El Papa Kirolos IV y el Papa Kirolos V juntaron las oraciones del ritual de la señal del matrimonio con las oraciones del ritual del matrimonio. Después el compromiso en su forma actual fue redactado por el arcipreste Philotheos Ibrahim.",
+     "cop": "",
+     "ar": "2-أن الخطبة بوضعها الحالى قد قام بصياغاتها القمص فيلوثاوس إبراهيم وذلك بعد ان قام البابا كيرلس الرابع ( وحذا حذوه البابا كيرلس الخامس ) بضم صلوات طقس عربون الزواج إلى صلوات طقس الإكليل."
+    },
+    {
+     "role": "text",
+     "es": "3- Las oraciones de la señal del matrimonio tradicional en la iglesia griega no tienen las epístolas paulinas ni el evangelio sino que se centra en la bendición de los anillos del compromiso, en ponérselos a la pareja y el cambio de mano de los dos, junto con el ofrecimiento de incienso y otras oraciones como la señal del matrimonio.",
+     "cop": "",
+     "ar": "3- أن صلوات عربون الزواج التراثية عند الكنيسة اليونانيه ليس بها قراءة بولس ولا فصل من الإنجيل بل تتركز أساساً على مباركة خاتمى الخطبة ( الدبلتين) وإلباسهما للخطيبين وتبديلهما ‘ مع رفع البخور وبعض صلوات أخرى كعربون للزواج."
+    },
+    {
+     "role": "text",
+     "es": "Por eso el comité recomendó que preceda al ritual del matrimonio el ritual de la señal del matrimonio ( el contrato propiedades) que incluye: La señal de la cruz sobre los anillos de la boda, oración de acción de gracias, ofrecimiento de incienso, súplica especial para la señal del matrimonio, oración de bendición la ropa, el himno de la ropa espiritual, la vestimenta de la túnica espiritual y los anillos de la boda por el sacerdote, no por los novios. Después comienzan las oraciones del ritual del matrimonio, se lee el capítulo de las Epístolas Paulinas de Éfeso con el ofrecimiento del incienso de las epístolas paulinas, etc.",
+     "cop": "",
+     "ar": "لهذا أوصت اللجنة بأن يسبق طقس الإكليل ‘ طقس عربون الزواج ( عقد الإملاك ) بحيث يتضمن : رشومات الدبلتين وصلاة الشكر ورفع البخور وطلبة خاصة بعربون الزواج وصلاة مباركة الثياب ولحن الحلة الروحانية وإلباس البرنس والدبلتين للعروسين بيد الكاهن وليس بيد العروسين. ثم تبدأ بعد ذلك صلوات طقس الإكليل بقراءة فصل البولس من أفسس مع رفع بخور البولس...الخ."
+    },
+    {
+     "role": "note",
+     "es": "Se hace el ritual de la señal del matrimonio (el contrato de propiedades) y el matrimonio santo como sigue:",
+     "cop": "",
+     "ar": "وبهذا يجرى طقس عربون الزواج ( عقد الإملاك ) والإكليل المقدس كما يلى :"
+    },
+    {
+     "role": "text",
+     "es": "1- Las tres señales de la cruz: en el nombre de nuestro Señor, Dios y Salvador Jesucristo, legislador de la ley de la perfección, autor de la ley de las Virtudes. Anunciamos el matrimonio del hijo bendito ortodoxo (…),etc.",
+     "cop": "",
+     "ar": "1- الرشومات الثلاثه : بأسم ربنا وإلهنا ومخلصنا يسوع المسيح ‘ مشرع شريعة الكمال ‘ وواضع ناموس الأفضال نعقد زواج الأبن المبارك الأرثوذكسى... الخ"
+    },
+    {
+     "role": "text",
+     "es": "2- La oración de acción de gracias, después los versos de los platillos adecuados y el ofrecimiento de incienso.",
+     "cop": "",
+     "ar": "2- صلاة الشكر وبعدها أرباع الناقوس المناسبة ويرفع البخور."
+    },
+    {
+     "role": "text",
+     "es": "3- El sacerdote dice esta oración para la señal del matrimonio (contrato de propiedades) y cuando dice la frase: el novio y su ayudante, hace la señal de la cruz en sus frentes, como la cruz.",
+     "cop": "",
+     "ar": "3- ثم يقول الكاهن هذه الصلاه لعربون الزواج (عقد الإملاك) وعندما يذكر العريس ومعينته يرشم كلا منهما فى جبهته مثال الصليب."
+    },
+    {
+     "role": "text",
+     "es": "¡Oh Dios! Quien creó, solo, al hombre con sus manos y le dio la mujer para que fuera su ayudante y fuerza. Tú también ahora, nuestro Señor, sé un mediador para estos dos novios (el novio y su ayudante) únelos en alianza y dales una señal de su unión para que tengan una sola afinidad en el enlace de amor. Porque Tú dices: Mi paz os la di. Mi paz os voy a dejar. Tú eres toda nuestra paz. A ti elevamos la gloria, y el honor a las alturas junto con tu hijo unigénito y el Espíritu Santo, vivificante. Ahora y siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "يا الله الذى جبل الإنسان بيديه وحده وأعطاه المرأة عوناً وقوة له ، أنت أيضاً الآن يا سيدنا كن وسيطاً لهذين العروسين ( العريس ومعينته ) صلهما بعربون الشركه ، واعطهما علامة اتصالهما ، ليكونا بألفه واحدة برباط المحبة ، إذ تقول لهما سلامى أعطيه لكما. سلامى أنا أتركه معكما فأنت سلامنا جميعاً . ونرسل لك إلى فوق المجد والكرامة مع أبنك الوحيد والروح القدس المحيى الآن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "text",
+     "es": "4- La oración de las túnicas de la boda: ¡Oh! Señor, Jesucristo, nuestro Dios quien ha adornado el cielo con las estrellas, etc. Luego se canta el himno de la túnica espiritual.",
+     "cop": "",
+     "ar": "4- الصلاة على ثياب العرس : أيها السيد الرب يسوع المسيح إلهنا الذى زين السماء بالنجوم . ألخ وبعد ذلك يقال لحن الحلة الروحانية."
+    },
+    {
+     "role": "text",
+     "es": "5- Se canta el himno del incensario de oro y lueso nos postramos ante ti, Cristo… Se lee el capítulo de las epístolas paulinas a Éfeso. Y continua el ritual del matrimonio normal como siempre hasta que se dice lo siguiente:",
+     "cop": "",
+     "ar": "5- يقال لحن طاى شورى وتين أؤوشت ويُقرأ البولس الخاص بالإكليل ( من أفسس) ويستمر طقس الإكليل كالمعتاد إلى أن يقال ما يلى :"
+    },
+    {
+     "role": "text",
+     "es": "Y ahora habéis venido a esta ceremonia ortodoxa en esta hora bendita delante del templo del Señor de los ejércitos y de su altar santo, y este matrimonio bendecido y la corona santa os han unido. Por esta ley y norma, los padres creyentes se han casado con una mujer por pureza e inocencia para pedir y encontrar la natalidad.",
+     "cop": "",
+     "ar": "( والآن قد حضرتما فى هذه الساعة المباركة قدام هيكل رب الصباؤوت ومذبحه المقدس وجمعتكما هذه الزيجة الروحانية والإكليل المكرم فعلى هذا الرسم وهذه الشريعة ، هكذا أتخذ سائر الآباء المؤمنون إمرأة واحدة بطهر ونقاوة ، لطلب الذرية وإيجاد الخلف ."
+    },
+    {
+     "role": "text",
+     "es": "Por eso cada uno tiene que saber el derecho del otro, sujetar a su compañero, y ser honesto con el otro. Como dijo San Pablo el apóstol: La mujer no dispone de su cuerpo, sino el marido. De igual modo, el marido no dispone de su propio cuerpo, sino la mujer. (1 Corintios 7:4).",
+     "cop": "",
+     "ar": "فيجب عليكما أن يعرف بعضكما حق بعض ، ويخضع كل منكا لصاحبه وليكن كل منكما أميناً نحو الآخر كقول معلمنا بولس الرسول ليس للمرأة تسلط على جسدها بل للرجل ، وكذلك للرجل أيضاً ليس له تسلط على جسده بل للمرأة (1 كو 4:7 ) ."
+    },
+    {
+     "role": "note",
+     "es": "Se observa que la última frase se ha añadido al texto por su importancia.",
+     "cop": "",
+     "ar": "ويلاحظ أن الجملة الأخيرة قد أضيفت إلى النص لأهميتها."
+    },
+    {
+     "role": "text",
+     "es": "6- Se continúa con las oraciones del matrimonio y los himnos adecuados que dependen del ritual y concluye como siempre.",
+     "cop": "",
+     "ar": "6- وتستمر صلوات الإكليل والألحان المناسبة بحسب الطقس ثم يقال الختام كالمعتاد ."
+    },
+    {
+     "role": "text",
+     "es": "Estas enmiendas han sido aprobadas por el santo sínodo de la iglesia copta ortodoxa en su comité, la mañana del sábado 29 de Mayo de 1999 - 21 de Bashans de 1715 de los mártires puros. Por su Santidad el Papa Shenouda III en la iglesia de San Antonio en la sede del Papa de la zona de Anba Rewis en el Cairo.",
+     "cop": "",
+     "ar": "وقد تمت موافقة المجمع المقدس للكنيسة القبطية الأرثوذكسية على هذه التعديلات بجلسته المنعقدة صباح السبت 29 مايو 1999 م – 21 بشنس 1715 ش . برئاسة صاحب القداسة البابا شنودة الثالث بكنيسة الأنبا أنطونيوس بالمقر البابوى بمنطقة الأنبا رويس بالقاهرة ."
+    },
+    {
+     "role": "text",
+     "es": "Para asegurarse que este libro incluye todo lo relacionado con los rituales matrimoniales que hemos añadido en esta segunda edición del ritual del segundo matrimonio, tomado del libro de los servicios eclesiásticos, con la misma modificación hecha por el santo sínodo que añadió (1 Corintios, 7:4) en el principio de los mandamientos de los novios, y el orden del mandamiento del esposo, el de la esposa, la bendición final en su lugar habitual y la unción del aceite según el ritual del matrimonio.",
+     "cop": "",
+     "ar": "وحرصاً على أن يضم هذا الكتيب كل ما يخص طقوس الزواج فقد أضفنا فى هذه الطبعة الثانية طقس الزيجة الثانية مأخوذا من كتاب الخدمات الكنسية مع عمل نفس التعديل الذى أجراه المجمع المقدس بإضافة (1كو 4:7 ) فى مقدمة الوصايا للزوجين ، وترتيب وصية الزوج ووصية الزوجة والبركة الختامية فى موضعها المعتاد مع رشم الزيت حسب طقس هذه الزيجة."
+    },
+    {
+     "role": "text",
+     "es": "Y agradecemos a S.E Anba Metaos el obispo y el prelado del monasterio de la Virgen Surian. Por su interés en publicar el ritual del compromiso y el ritual de la señal del matrimonio después de su modificación por el santo sínodo, junto con la publicación del ritual del matrimonio original que incluye la frase añadida por el santo sínodo al texto del mandamiento para el beneficio del clero y el pueblo.",
+     "cop": "",
+     "ar": "ونشكرصاحب النيافة الأنبا متاؤس أسقف ورئيس دير السيدة العذراء (السريان) على إهتمامه بنشر طقس الخطوبة وطقس عربون الزواج بعد التعديل الذى أجراه المجمع المقدس عليه وطقس الزواج الأصيل مع العبارة التى أضافها المجمع المقدس إلى نص الوصية وذلك لمنفعة الإكليروس والشعب."
+    },
+    {
+     "role": "text",
+     "es": "19 de julio de 2003 El Anba Bishoy El metropolitano de Domiat, Kafr el Sheij y el Barary. El prelado del monasterio de Santa Damiana.",
+     "cop": "",
+     "ar": "19 يوليو 2003 م الأنبا بيشوى مطران دمياط وكفر الشيخ والبرارى ورئيس دير القديسة دميانة"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Compromiso",
+    "ar": "الخطوبة",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "El compromiso debe ser entre hombre y mujer creyentes, están de acuerdo en la religión y el credo, y son mayores de edad, tienen la edad mínima para el matrimonio (18 para el hombre y 16 para la mujer) así como no hay obstáculos legales de tipo parental ni personales.",
+     "cop": "",
+     "ar": "تجوز الخطوبة بين ذكر وأنثى ، مؤمنين متفقين فى الدين والعقيدة ، بالغين الحد الأدنى لسن الزواج ( وهو ثمانى عشرة سنة للذكر وست عشر سنة للأنثى ) بحيث لاتمنعهما موانع شرعية من أنواع القرابة ، ولا تعترضهما الموانع الشخصية."
+    },
+    {
+     "role": "note",
+     "es": "Cuando el sacerdote está seguro de todos estos datos y de la aceptación de los novios, escribe un contrato oficial de compromiso en presencia de ellos, indica la edad, la dote, y la fecha del matrimonio firmado por los novios, los agentes y los testigos.",
+     "cop": "",
+     "ar": "فمتى وقف الكاهن على هذه البيانات ، وتأكد من رضى الخطيبين رضاءً تاماً يكتب محضراً رسمياً بحضور الخطيبين مبيناً فيه : السن والشبكة وموعد إتمام الزواج ، ثم يوقع عليه كل من الخطيبين والوكيلين والشهود."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote comienza a rezar la ceremonia del compromiso como sigue :",
+     "cop": "",
+     "ar": "يبدأ الكاهن فى إتمام مراسم الخطبة كالأتى:"
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote proclama el compromiso diciendo:",
+     "cop": "",
+     "ar": "يعلن الكاهن الخطبة قائلاً:"
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre de nuestro Señor, Dios y Salvador Jesucristo, el legislador de la ley de la perfección, y el autor de las leyes de las Virtudes. Anunciamos en esta celebración ortodoxa el compromiso del hijo bendito ortodoxo (…) con la hija ortodoxa (…).",
+     "cop": "",
+     "ar": "بأسم ربنا وإلهنا ومخلصنا يسوع المسيح مشرع شريعة الكمال وواضع ناموس الأفضال ، نعلن فى هذا المحفل الأرثوذكسى خطوبة الأبن المبارك الأرثوذكسى ( فلان) إلى الأبنة الأرثوذكسية (فلانة) ."
+    },
+    {
+     "role": "note",
+     "es": "Hace la señal de la cruz y dice:",
+     "cop": "",
+     "ar": "ويرشم بالصليب ويقول :"
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios.",
+     "cop": "",
+     "ar": "بأسم الآبِ والابنِ والروحِ القدسِ إله واحد."
+    },
+    {
+     "role": "priest",
+     "es": "Bendito sea Dios Padre, Todopoderoso. Amén.",
+     "cop": "",
+     "ar": "مباركٌ اللهُ الآبُ الضابطُ الكلِّ. آمين."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan Amén y rezan Padre nuestro que estás en los cielos…",
+     "cop": "",
+     "ar": "يقول المرتون آمين ثم يصلون أبانا الذى فى السموات ..."
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre de nuestro Señor, Dios y Salvador Jesucristo el legislador de la ley de la perfección, y el autor de las leyes de las Virtudes. Anunciamos en esta celebración ortodoxa el compromiso de la hija bendita ortodoxa (…) con el hijo ortodoxo (…).",
+     "cop": "",
+     "ar": "بأسم ربنا وإلهنا ومخلصنا يسوع المسيح مشرع شريعة الكمال وواضع ناموس الأفضال ، نعلن فى هذا المحفل الأرثوذكسى خطوبة الأبنة المباركة الأرثوذكسية ( فلانة ) إلى ألابن ألأرثوذكسى (فلان) ."
+    },
+    {
+     "role": "priest",
+     "es": "Bendito sea su Hijo Unigénito, Jesucristo nuestro Señor. Amén.",
+     "cop": "",
+     "ar": "مباركٌ إبنُه الوحيد يسوع المسيح ربُّنا. آمين."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan Amén y rezan Padre nuestro que estás en los cielos…",
+     "cop": "",
+     "ar": "يقول المرتلون آمين ثم يصلون أبانا الذى فى السموات ..."
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre de nuestro Señor, Dios y Salvador Jesucristo el legislador de la ley de la perfección, y el autor de las leyes de las Virtudes. Anunciamos en esta celebración ortodoxa el compromiso del hijo bendito ortodoxo (…) con la hija ortodoxa (…).",
+     "cop": "",
+     "ar": "بأسم ربنا وإلهنا ومخلصنا يسوع المسيح مشرع شريعة الكمال وواضع ناموس الأفضال ، نتمم فى هذا المحفل الأرثوذكسى خطوبة الأبن المبارك الأرثوذكسى ( فلان) إلى الأبنة الأرثوذكسية ( فلانة)."
+    },
+    {
+     "role": "priest",
+     "es": "Bendito sea el Espíritu Santo, Paráclito. Amén.",
+     "cop": "",
+     "ar": "مباركٌ الروحُ القدس المعزِّي. آمين."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan Amén y rezan Padre nuestro que estás en los cielos…",
+     "cop": "",
+     "ar": "يقول المرتلون آمين ثم يصلون أبانا الذى فى السموات ..."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote reza la oración de acción de gracias con el ritmo de la alegría:",
+     "cop": "",
+     "ar": "ثم يبتدىء الكاهن صلاة الشكر باللحن الفرايحى قائلاً:"
+    },
+    {
+     "role": "priest",
+     "es": "Orad.",
+     "cop": "",
+     "ar": "صـلِّ."
+    },
+    {
+     "role": "deacon",
+     "es": "Para la Oración, Levantaos.",
+     "cop": "",
+     "ar": "للصلاةِ قفوا."
+    },
+    {
+     "role": "priest",
+     "es": "La paz esté con todos vosotros.",
+     "cop": "",
+     "ar": "السلامُ للكلِّ."
+    },
+    {
+     "role": "people",
+     "es": "Y con tu espíritu",
+     "cop": "",
+     "ar": "ولروحِكَ [أيضاً]."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Oración de acción de gracias",
+    "ar": "صلاة الشكر",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Demos gracias al benefactor Dios misericordioso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "فلنشكرْ صانعَ الخيراتِ، الرحومَ الله أبا ربِّنا وإلَهِنا ومخلصِنا يسوعَ المسيح."
+    },
+    {
+     "role": "text",
+     "es": "Porque nos ha cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
+     "cop": "",
+     "ar": "لأنه سترَنا وأعانَنا وحفِظَنا وقبِلَنا إليه وشفقَ علينا وعضَّـدَنا وأتى بنا إلى هذه الساعةِ."
+    },
+    {
+     "role": "text",
+     "es": "Supliquémosle también a Todopoderoso, el Señor nuestro Dios, que nos conserve en plena paz, en este Santo día y todos los días de nuestra vida.",
+     "cop": "",
+     "ar": "هــو أيضاً فلنسألْهُ أن يحفظَنا في هذا اليومِ المقدسِ، وكلِّ أيامِ حياتِنا بكلِّ سلامٍ، الضابطَ الكلِّ الربَّ إلهَنا."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad.",
+     "cop": "",
+     "ar": "صلُّوا."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "ياربُّ ارحَم."
+    },
+    {
+     "role": "priest",
+     "es": "El señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "أيها السيدُ الربُّ الإلهُ ضابطَ الكلِّ، أبو ربِنا وإلَهِنا ومخلصِنا يسوعَ المسيحِ."
+    },
+    {
+     "role": "priest",
+     "es": "Te damos gracias por toda circunstancia, para toda circunstancia y en toda circunstancia.",
+     "cop": "",
+     "ar": "نشكرُكَ على كلِّ حالٍ، ومن أجلِ كلِّ حالٍ، وفي كلِّ حالٍ."
+    },
+    {
+     "role": "priest",
+     "es": "Porque nos has cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
+     "cop": "",
+     "ar": "لأنكَ سترتَنا وأعنتَنا وحفظتَنا، وقبِلتَنا إليكَ، وشفقتَ علينا وعضَّدتَنا وأتيتَ بنا إلى هذه الساعةِ."
+    },
+    {
+     "role": "deacon",
+     "es": "Implorad para que Dios tenga piedad y se compadezca de nosotros; nos escuche y ayude; acepte las plegarias y súplicas que sus santos le dirigen continuamente en nuestro favor* y perdone nuestros pecados.",
+     "cop": "",
+     "ar": "اطلبوا لكي يرحمَنا الله، ويتراءف علينا، ويسمعَنا، ويعينَنا، ويقبلَ سؤالاتَ وطلباتَ قديسيهِ منهم بالصلاحِ عنا في كلِّ حينٍ،* ويغفرَ لنا خطايانا."
+    },
+    {
+     "role": "note",
+     "es": "*Y en presencia del Papa, el metropolitano o el obispo añade:",
+     "cop": "",
+     "ar": "*وفي وجود الأب البابا أو المطران أو الأسقف يضاف:"
+    },
+    {
+     "role": "deacon",
+     "es": "Y conserve por y sobre nosotros la vida y jefatura de nuestro bienaventurado padre el sumo sacerdote el papa Aba ___ y la de su compañero en el servicio [apostólico], nuestro padre el obispo (metropolitano) Aba____.",
+     "cop": "",
+     "ar": "وأن يحفظَ حياةَ وقيامَ أبينا المكرمِ رئيس الكهنة البابا أنبا ___ وشريكِهِ في الخدمةِ [الرسولية] أبينا الأسقف (المطران) أنبا ___."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "ياربُّ ارحَم."
+    },
+    {
+     "role": "priest",
+     "es": "Por ello, pedimos y suplicamos tu bondad, Amante de la humanidad, concédenos completar este santo día, y todos los días de nuestra vida, en plena paz y con tu temor.",
+     "cop": "",
+     "ar": "من أجلِ هذا نسألُ ونطلبُ من صلاحِكَ يا محبَّ البشرِ، امنحنا أن نكمِّلَ هذا اليومَ المقدس، وكلَّ أيامِ حياتِنا بكلِّ سلامٍ مع خوفِكَ."
+    },
+    {
+     "role": "priest",
+     "es": "Toda envidia, toda tentación, toda obra de Satanás, intriga de los malvados y ataque de los enemigos visibles e invisibles.",
+     "cop": "",
+     "ar": "كلَّ حسدٍ وكلَّ تجربةٍ وكلَّ فعلِ الشيطانِ، ومؤامرةَ الناسِ الأشرارِ، وقيامَ الأعداءِ الخفيينَ والظاهرينَ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote inclina su cabeza hacia el este, y hace la señal de la cruz a si mismo, diciendo:",
+     "cop": "",
+     "ar": "يطامن الكاهن رأسـه إلى الشرق ويرشم ذاته بمثال الصليب قائلاً:"
+    },
+    {
+     "role": "priest",
+     "es": "Aléjalos de nosotros.",
+     "cop": "",
+     "ar": "انزعها عنَّا"
+    },
+    {
+     "role": "note",
+     "es": "Luego se gira hacia el oeste que está a su derecha y hace la señal de la cruz al pueblo y dice.[Si está presente el Papa, el metropolitano o el obispo, él hace la señal de la cruz al pueblo, y dice esto]:",
+     "cop": "",
+     "ar": "ثم يلتفت إلى الغرب عن يمينه ويرشم الشعب قائلاً: [إذا كان الأب البابا أو المطران أو الأسقف حاضراً فهو الذي يرشم الشعب ويقول ذلك]:"
+    },
+    {
+     "role": "priest",
+     "es": "De todo tu pueblo.",
+     "cop": "",
+     "ar": "وعن سائرِ شعبِكَ."
+    },
+    {
+     "role": "priest",
+     "es": "De estos novios",
+     "cop": "",
+     "ar": "وعن هذين العروسين."
+    },
+    {
+     "role": "note",
+     "es": "Y hace la señal de la cruz hacia al norte y al sur y dice:",
+     "cop": "",
+     "ar": "ثم يرشم شمالاً و جنوباً وهو يقول:"
+    },
+    {
+     "role": "priest",
+     "es": "Y de este lugar santo que es tuyo.",
+     "cop": "",
+     "ar": "وعن موضعِكَ المقدس هذا."
+    },
+    {
+     "role": "priest",
+     "es": "Cólmanos con los bienes y los beneficios porque eres Tú quien nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo.",
+     "cop": "",
+     "ar": "أما الصالحاتِ والنافعاتِ فارزقنا إياها لأنكَ أنتَ الذي أعطيتنا السلطانَ أن ندوسَ على الحياتِ والعقاربِ وعلى كلِّ قوةِ العدوِ."
+    },
+    {
+     "role": "priest",
+     "es": "Y no nos dejes caer en la tentación; y líbranos del mal. Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "ولا تُدْخِلْنا في تجربةٍ لكن نَجنا من الشرير بالنعمةِ والرأفات ومحبةِ البشرِ اللواتي لابنِكَ الوحيد ربِّنا وإلهِنا ومخلصِنا يسوع المسيح."
+    },
+    {
+     "role": "priest",
+     "es": "Por quien la gloria, el honor, la magnificencia y la adoración te son debidos con Él y el Espíritu Santo vivificante y consubstancial a Ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "هــذا الذي مــن قِبَلِهِ المجدُ والكرامةُ والعزُّ والسجودُ تليقُ بِكَ معه، ومع الروحِ القدسِ المحيِي المساوِي لكَ. الآن وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين."
+    },
+    {
+     "role": "note",
+     "es": "Después de cantar los diáconos el himno de Acsios (Digno) y lo conveniente a la celebración eclesiástica, el sacerdote dice esta súplica y el pueblo responde: Amén.",
+     "cop": "",
+     "ar": "وبعد أن يرتل الشمامسة لحن أكسيوس وما يلائم الحفل الكنسى يقول الكاهن هذه الطلبة ويجاوبه الشعب أمين ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "La súplica",
+    "ar": "الطلبة",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Oh Señor, Dios verdadero, la palabra de Dios eterno y único, que prometió a la especie humana la alegría eterna a través de su gloriosa encarnación, atractivo de las almas creyentes por el misterio de su cruz vivificante, purificándolas con el bautismo del segundo nacimiento, concediéndoles los talentos del Espíritu Santo, ofreciéndoles la mesa de la vida y el cáliz de la salvación, se convirtió para ellas en la cabeza, el pastor, el Maestro Supremo y el novio celestial, el dador de la alegría grande del reino.",
+     "cop": "",
+     "ar": "أيها السيد الرب الحقيقى ، كلمة الله الأزلى الوحيد ، يا من خطب النوع الإنسانى للفرح الأبدى بتجسده المجيد ، جاذباً إليه الأنفس المؤمنة بسر صليبه المحيى ، ومطهراً إياها بحميم الميلاد الثانى ، واهباً لها مواهب الروح القدس، منعماً عليها بمائدة الحياة وكأس الخلاص ، صائراً لها رأساً وراعياً ورئيساً أسمى وعريساً سمائياً مانحاً لها سعادة الملكوت العظمى ."
+    },
+    {
+     "role": "text",
+     "es": "Te rogamos, oh Unigénito del Padre, a través de todas las mentes imploramos tu generosidad, te suplicamos que desbordes tu satisfacción y las bendiciones de tu favor y caridad. Alégrate de la preparación de la celebración en este lugar. Ordena un buen comienzo y final para nuestro proyecto. Amén.",
+     "cop": "",
+     "ar": "نبتهل إليك يا وحيد الآب ، ضارعين نحو جودك من صميم الألباب، طالبين إليك أن تفيض من سحائب رضوانك ، وبركات فضلك وإحسانك، وسر بما أحتفلنا لإعداده فى هذا المقام ، ومُر لمشروعنا هذا بحسن البداية وحميد الختام آمين ."
+    },
+    {
+     "role": "text",
+     "es": "Oh Dios, que has hecho al hombre libre, noble y le has concedido un estado respetable y sublime. No lo has dejado solo desde su creación, sino que le has dado el deber del matrimonio y el crecimiento, diciendo: No es bueno que el hombre esté solo, voy a hacerle a alguien como él, que le ayude. Proporciona éxito a nuestro proyecto para que sea un compromiso inmaculado y legal y el inicio de un matrimonio espiritual. Llena los corazones de los novios con la felicidad y haz realidad sus deseos con éxito y alegría. Amén.",
+     "cop": "",
+     "ar": "اللهم يا من صنعت الإنسان حراً شريفاً ، ومنحته مقاماً كريماً منيفاً ، ولم تدعه منذ خلقته وحيداً فريداً ، بل تكرمت عليه بواجب الأنس والنمو قائلاً: لا يحسن أن يكون الإنسان وحيداً فاصنع له معيناً نظيره . أقرن مشروعنا هذا بتوفيقاتك الحسنى ، وسانده بيمين جودك الأسنى ، لتكون خطبة طاهرة شرعية ، ومقدمة لمصاهرة روحية مرعية ، املأ قلب الخطبين بالتهانى والحبور ، وبلغهما نيل الأمانى بتوفيق وافر السرور آمين."
+    },
+    {
+     "role": "text",
+     "es": "Oh Dios, bendice a esta hija preciosa, su prometida. Protégelos de toda envidia, y toda tentación, concédeles el amor perfecto mutuo, escolta su compromiso con un buen inicio, otórgales una vida plena y perfecta. Consérvalos mientras te obedecen, pastoréalos con tu cuidado protector, que sean como dos plantas unidas por la raíz de la fe y las virtudes, protegidos de la maldad de la disputa, que sean benditos por la bendiciones que están sobre Abrahán, Isaac, Jacob y tus apóstoles predicadores del Evangelio, concédeles el placer completo en la fecha de la alegría de la celebración del matrimonio. Amén.",
+     "cop": "",
+     "ar": "اللهم بارك هذه الأبنة المصونة مخطوبته ، احفظهما من كل حسد وتجربة ، وهب لهما محبة سليمة متبادلة، اقرن خطوبتهما بحسن الإستقبال ، وامنحهما حياة هنيئه محفوفة بالكمال ، احفظهما ناهجين منهج طاعتك ، وارعهما بحراسة عنايتك ، اجعلهما كغرسين مرتبطين بأصول الإيمان والفضائل ، مصونين من شر الخلاف والرذائل ، مباركين ببركاتك الحالة على ابراهيم وأسحق ويعقوب ، ورسلك الداعين لبشارة الإنجيل ، أنعم عليهما بتمام السرور ، ومتعهما فى موعد الحبور ، بمحفل الإكليل آمين."
+    },
+    {
+     "role": "text",
+     "es": "Oh Dios, conserva la jefatura y la seguridad del Papa bienaventurado Aba (…) Papa y Patriarca de la sede de San Marcos y su compañero en el servicio apostólico Aba (…).",
+     "cop": "",
+     "ar": "اللهم احفظ رئاسة ودوام سلامة البابا المكرم (...) بابا وبطريرك الكرسى المرقسى ، وشريكه فى الخدمة الرسولية(...)."
+    },
+    {
+     "role": "text",
+     "es": "Oh Dios, protege la presencia de los padres espirituales respetados y la seguridad de los hijos y los hermanos creyentes ortodoxos y todos los que están presentes con nosotros en esta celebración, con el espíritu del amor honesto y la manifestación de la perfección, que estén sus días llenos de placer y felicidad. Estamos satisfechos de la dicha y el encanto. Concédenos a todos obtener nuestros deseos y un buen final. Amén.",
+     "cop": "",
+     "ar": "اللهم أدم بحراستك وجود الأباء الروحيين الموقرين وسلامة الأبناء والإخوة المؤمنين الأرثوذكسين ، وجميع المجتمعين معنا فى هذا الإحتفال بروح الود المخلص وسمات الكمال ، ولتكن أيامهم مقرونة بالسعادة والسرور ، حائزين كمال المسرات والحبور ، وانعم على جميعنا بنيل الأمانى وحسن الختام آمين."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote termina con la bendición y el Padre nuestro",
+     "cop": "",
+     "ar": "ثم يختم الكاهن بالبركة والصلاة الربانية"
+    },
+    {
+     "role": "text",
+     "es": "Fin del compromiso.",
+     "cop": "",
+     "ar": "تمت الخطبة"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "La oración del matrimonio santo",
+    "ar": "صلاة الإكليل المقدس",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Esta oración se dice cuando los novios son solteros o cuando uno es viudo y el otro es soltero.",
+     "cop": "",
+     "ar": "لاتقام هذه الصلاة إلا إذا كان العروسان بكرين أو إذا كان أحدهما مترملاً والأخر بكراً ."
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre de nuestro Señor, Dios y Salvador Jesucristo, el legislador de la ley de la perfección y las virtudes. Celebremos el matrimonio del bendito hijo ortodoxo y soltero (…) con su prometida, la hija ortodoxa y soltera (…).",
+     "cop": "",
+     "ar": "بأسم ربنا وإلهنا ومخلصنا يسوع المسيح مشرع شريعة الكمال وواضع ناموس الأفضال ، نعقد زواج الأبن المبارك الأرثوذكسى البكر (فلان) إلى مخطوبته الابنة الأرثوذكسية البكر (فلانة) ."
+    },
+    {
+     "role": "note",
+     "es": "Hace la señal de la cruz y dice:",
+     "cop": "",
+     "ar": "ويرشم بالصليب ويقول:"
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios.",
+     "cop": "",
+     "ar": "بأسم الآب والأبن والروح القدس إله واحد."
+    },
+    {
+     "role": "priest",
+     "es": "Bendito sea Dios Padre, Todopoderoso. Amén.",
+     "cop": "",
+     "ar": "مبارك الله الآب الضابط الكل آمين."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan Amén y rezan: Padre nuestro que estás en los cielos…",
+     "cop": "",
+     "ar": "يقول المرتلون آمين ثم يصلون أبانا الذى فى السموات ..."
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre de nuestro Señor, Dios y Salvador Jesucristo, el legislador de la ley de la perfección y las virtudes. Celebremos el matrimonio de la bendita hija ortodoxa y soltera (…) con el bendito hijo ortodoxo y soltero (…).",
+     "cop": "",
+     "ar": "باسم ربنا وإلهنا ومخلصنا يسوع المسيح مشرع شريعة الكمال وواضع ناموس الأفضال ، نعقد زواج الابنة المباركة الأرثوذكسية البكر (فلانة) إلى الأبن الأرثوذكسى البكر (فلان) ."
+    },
+    {
+     "role": "priest",
+     "es": "Bendito sea su Hijo Unigénito, Jesucristo nuestro Señor. Amén.",
+     "cop": "",
+     "ar": "مبارك أبنه الوحيد يسوع المسيح ربنا آمين."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan Amén y rezan Padre nuestro que estás en los cielos…",
+     "cop": "",
+     "ar": "يقول المرتلون آمين ثم يصلون أبانا الذى فى السموات ..."
+    },
+    {
+     "role": "priest",
+     "es": "En el nombre de nuestro Señor, Dios y Salvador Jesucristo, el legislador de la ley de la perfección y las virtudes. Celebremos el matrimonio del bendito hijo ortodoxo y soltero (…) con la bendita hija ortodoxa y soltera (…).",
+     "cop": "",
+     "ar": "بأسم ربنا وإلهنا ومخلصنا يسوع المسيح مشرع شريعة الكمال وواضع ناموس الأفضال ، نعقد زواج الأبن المبارك الأرثوذكسى البكر ( فلان ) إلى الابنه الأرثوذكسية البكر ( فلانه)."
+    },
+    {
+     "role": "priest",
+     "es": "Bendito sea el Espíritu Santo, Paráclito. Amén.",
+     "cop": "",
+     "ar": "مبارك الروح القدس المعزى أمين ."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan Amén y rezan Padre nuestro que estás en los cielos…",
+     "cop": "",
+     "ar": "يقول المرتلون آمين ثم يصلون أبانا الذى فى السموات..."
+    },
+    {
+     "role": "note",
+     "es": "Mientras tanto, el sacerdote dice:",
+     "cop": "",
+     "ar": "وفى أثناء ذلك يقول الكاهن:"
+    },
+    {
+     "role": "priest",
+     "es": "Gloria y honor; honor y gloria a la Santísima Trinidad: el Padre, el Hijo y el Espíritu Santo.",
+     "cop": "",
+     "ar": "مجداً وإكراماً إكراماً ومجدا ً للثالوث الأقدس الآب والأبن والروح القدس ."
+    },
+    {
+     "role": "priest",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "الآن وكل أوان وإلى دهر الدهور أمين ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote empieza a decir la oración de Acción de Gracias con ritmo alegre.",
+     "cop": "",
+     "ar": "ثم يبتدى الكاهن صلاة الشكر باللحن الفرايحى."
+    },
+    {
+     "role": "note",
+     "es": "Se cantan los versos de los platillos mientras el sacerdote inciensa.",
+     "cop": "",
+     "ar": "ثم تقال أرباع الناقوس بلحن الفرح وفى أثنائها يرفع الكاهن البخور."
+    },
+    {
+     "role": "priest",
+     "es": "Salve a la alcoba decorada con todo tipo de adorno que es del verdadero esposo quien se unificó con la humanidad.",
+     "cop": "",
+     "ar": "السلام للخدر المزين بكل نوع الذى للعريس الحقيقى الذى أتحد بالبشرية."
+    },
+    {
+     "role": "priest",
+     "es": "Para que te alabemos junto con tu Padre Bueno y el Espíritu Santo, porque viniste y nos salvaste, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "لكى نسبحك مع أبيك الصالح والروح القدس لأنك أتيت وخلصتنا أرحمنا."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice esta oración para la alianza. Cuando menciona la frase el novio y su ayudante hace la señal de la cruz en sus frentes.",
+     "cop": "",
+     "ar": "ثم يقول الكاهن هذه الصلاه لعربون الزواج وعندما يذكر العريس ومعينته يرسمهما فى جبهتيهما مثال الصليب"
+    },
+    {
+     "role": "priest",
+     "es": "¡Oh Dios! Quien creó, solo, al hombre con sus manos y le dio la mujer para que fuera su ayudante y fuerza. Tú también ahora, nuestro Señor, sé un mediador para estos dos novios (el novio y su ayudante) únelos en alianza y dales una señal de su unión para que tengan una sola afinidad en el enlace de amor.",
+     "cop": "",
+     "ar": "يا الله الذى جبل الإنسان بيديه وحده وأعطاه المرأة عوناً وقوة له ، أنت أيضاً الآن يا سيدنا كن وسيطاً لهذين العروسين ( العريس ومعينته ) صلهما بعربون الشركة ، وأعطهما علامة أتصالهما ، ليكونا بألفة واحدة برباط المحبة ."
+    },
+    {
+     "role": "priest",
+     "es": "Porque Tú dices: Mi paz os la di. Mi paz os voy a dejar. Tú eres toda nuestra paz. A ti elevamos la gloria, y el honor a las alturas junto con tu hijo unigénito y el Espíritu Santo, vivificante. Ahora y siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "إذ تقول لهما سلامى أعطيه لكما . سلامى أنا أتركه معكما . فأنت سلامنا جميعا. ونرسل لك إلى فوق المجد والكرامة مع أبنك الوحيد والروح القدس المحيى الآن وكل اوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "priest",
+     "es": "¡Oh Cristo! El Verbo del Padre, el único Dios, danos tu paz, que está llena de toda alegría.",
+     "cop": "",
+     "ar": "ايها المسيح كلمة الآب الإله الوحيد اعطنا سلامك هذا المملوء من كل فرح."
+    },
+    {
+     "role": "note",
+     "es": "Esta oración se dice sobre las túnicas de la boda.",
+     "cop": "",
+     "ar": "ثم تقال هذه الصلاة على ثياب العرس ( حلل مثل البرنس)."
+    },
+    {
+     "role": "priest",
+     "es": "¡Oh! Señor, Jesucristo, nuestro Dios quien ha adornado el cielo con las estrellas y ha mostrado la tierra con el esplendor de todo tipo de flores fructíferas. Quien ha concedido a la humanidad los celestiales y le ha dado el descanso de la tierra.",
+     "cop": "",
+     "ar": "أيها السيد الرب يسوع المسيح إلهنا الذى زين السماء بالنجوم وأظهر الأرض ببهاء الأزهار المثمرة ذات الأنواع الكثيرة . الذى أنعم على البشرية بالسمائيات وأعطاهم راحة الأرض ."
+    },
+    {
+     "role": "priest",
+     "es": "Tú ahora también, oh Bueno, Amante de la humanidad, te pedimos bendecir estas túnicas para que sean puestas a tus siervos con la alegría de tu bondad.",
+     "cop": "",
+     "ar": "أنت الآن أيضاً أيها الصالح محب البشر نسألك أن تبارك هذه الحُلل الموضوعة لكى تصير لعبيدك اللذين يلبسانهما بمسرة صلاحك."
+    },
+    {
+     "role": "priest",
+     "es": "Túnicas de la gloria y la salvación. (Amén).",
+     "cop": "",
+     "ar": "حُلل المجد والخلاص ( أمين) ."
+    },
+    {
+     "role": "priest",
+     "es": "Túnicas de la alegría y júbilo. (Amén).",
+     "cop": "",
+     "ar": "حُلل الفرح والتهليل (أمين )."
+    },
+    {
+     "role": "priest",
+     "es": "Consérvalos puros en el alma, el cuerpo y el espíritu. (Amén).",
+     "cop": "",
+     "ar": "وأحفظهما نقيين فى النفس والجسد والروح ( أمين )."
+    },
+    {
+     "role": "priest",
+     "es": "Para que su vida tenga salud, paz y pureza a través de la acción de la justicia. Concédeles el descanso celestial y terrenal para que se enriquezcan con las labores de la justicia. Y llena sus casas y sus almacenes con todos los bienes y que se merezcan satisfacerte en cada momento, porque Tú eres misericordioso y justo.",
+     "cop": "",
+     "ar": "لتكون حياتهما فى صحه وسلام وعفاف بواسطة فعل البر هب لهما الراحة السمائية والأرضية ليستغنيا بأفعال البر ، وإملأ منزلهما ومخازنهما من كل الخيرات ، وليستحقا أن يعملا رضاك كل حين، لأنك رحيم كثير الرحمة وبار."
+    },
+    {
+     "role": "priest",
+     "es": "A ti son debidos la gloria junto con tu Padre Bueno y el Espíritu Santo vivificante y consubstancial a ti. Ahora y siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "ويليق بك المجد مع أبيك الصالح والروح القدس المحيى المساوى لك الآن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos dicen este cántico con la misma melodía de los cánticos que se dicen en el domingo de Ramos.",
+     "cop": "",
+     "ar": "يقول المرتلون هذا اللحن بالشعانينى"
+    },
+    {
+     "role": "priest",
+     "es": "La túnica espiritual que se puso Miguel junto con un cinturón de joyas.",
+     "cop": "",
+     "ar": "الحله الروحانية الملتحف بها ميخائيل والمنطقة الجوهرية تمنطق بها ميخائيل ."
+    },
+    {
+     "role": "priest",
+     "es": "La túnica de la pureza que se ha dado a este novio, y la corona de la alegría se ha puesto encima de su cabeza.",
+     "cop": "",
+     "ar": "حلة العفاف ُأُعطيت لهذا العريس وإكليل البهجة وضع على رأسه ."
+    },
+    {
+     "role": "priest",
+     "es": "Según lo dicho por David el salmista: le has puesto la corona de la alegría y la dignidad.",
+     "cop": "",
+     "ar": "مثل الذى قاله داود المرتل مجداً وكرامة جعلتها تاجاً عليه."
+    },
+    {
+     "role": "priest",
+     "es": "Le ha alcanzado la bendición de tu bondad y le has puesto la corona de la piedra preciosa.",
+     "cop": "",
+     "ar": "أدركته ببركة صلاحك ووضعت على رأسه إكليلاً من حجر كريم ."
+    },
+    {
+     "role": "priest",
+     "es": "Te ha pedido vida, ¡Oh! Señor, y se la has dado todos los días y para siempre. Amén.",
+     "cop": "",
+     "ar": "سألك حياة يارب فأعطيته طول الأيام إلى أبد الآبدين آمين."
+    },
+    {
+     "role": "priest",
+     "es": "Y durante este cántico el sacerdote les pone las túnicas y los anillos a los novios.",
+     "cop": "",
+     "ar": "( وأثناء هذا اللحن يتم إلباس البرنس والدبلتين للعروسين بيد الكاهن )."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan",
+     "cop": "",
+     "ar": "يقول الشمامسة لحن طاى شورى"
+    },
+    {
+     "role": "priest",
+     "es": "Este incensario de oro puro que lleva el aroma, está en las manos de Aarón el sacerdote. Inciensa el altar.",
+     "cop": "",
+     "ar": "هذه المجمرة الذهب النقى الحاملة العنبر التى فى يدى هارون الكاهن يرفع بخوراً على المذبح ."
+    },
+    {
+     "role": "priest",
+     "es": "Nos postramos ante Ti, Cristo, junto con tu Padre bueno y el Espíritu Santo, porque (viniste) y nos salvaste. Ten piedad de nosotros.",
+     "cop": "",
+     "ar": "نسجد لك أيها المسيح مع أبيك الصالح والروح القدس لأنك أتيت وخلصتنا أرحمنا ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Las epístolas paulinas a Efesios (5:22-33) (6:1-3)",
+    "ar": "البولس من رسالة أفسس ( 5: 22-33 )( 6 :1-3)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Las mujeres, a sus maridos, como al Señor; porque el marido es cabeza de la mujer, como Cristo es cabeza de la Iglesia; él, que es el salvador del cuerpo. Como la Iglesia se somete a Cristo, así también las mujeres a sus maridos en todo.",
+     "cop": "",
+     "ar": "والنساء فليخضعن لرجالهن كما للرب، لأن الرجل هو رأس المرأة كما أن المسيح أيضاً رأس الكنيسة وهو مخلص الجسد ولكن كما تخضع الكنيسة للمسيح ، كذلك النساء لرجالهن فى كل شىء."
+    },
+    {
+     "role": "text",
+     "es": "Maridos, amad a vuestras mujeres como Cristo amó a su Iglesia: Él se entregó a sí mismo por ella, para consagrarla, purificándola con el baño del agua y la palabra, y para presentársela gloriosa, sin mancha ni arruga ni nada semejante, sino santa e inmaculada. Así deben también los maridos amar a sus mujeres, como cuerpos suyos que son. Amar a su mujer es amarse a sí mismo.",
+     "cop": "",
+     "ar": "أيها الرجال أحبوا نساءكم كما أحب المسيح أيضاً الكنيسة وأسلم نفسه لأجلها ، لكى يقدسها مطهراً إياها بغسل الماء بالكلمه لكى يحضر لها لنفسه كنيسة مجيده لا دنس فيها ولا غضن أو شىء من مثل ذلك بل تكون مقدسة وبلا عيب . كذلك يجب على الرجال أن يحبوا نساءهم كأجسادكم. من يحب إمرأته يحب نفسه ."
+    },
+    {
+     "role": "text",
+     "es": "Pues nadie jamás ha odiado su propia carne, sino que le da alimento y calor, como Cristo hace con la Iglesia, porque somos miembros de su cuerpo. Por eso dejará el hombre a su padre y a su madre, y se unirá a su mujer y serán los dos una sola carne. Es este un gran misterio: y yo lo refiero a Cristo y a la Iglesia. En una palabra, que cada uno de vosotros ame a su mujer como a sí mismo, y que la mujer respete al marido.",
+     "cop": "",
+     "ar": "فإنه لم يبغض أحد جسده قط بل يقوته ويربيه كما الرب أيضاً للكنيسة . لأننا أعضاء جسمه من لحمه ومن عظامه . من أجل هذا يترك الرجل أباه وأمه ويلتصق بإمرأته ويكون الإثنان جسداً واحداً. هذا السر عظيم ، ولكننى أنا أقول من نحو المسيح والكنيسة. وأما أنتم الأفراد فليحب كل واحد إمرأته هكذا كنفسه . وأما المرأة فلتهب رجلها ."
+    },
+    {
+     "role": "text",
+     "es": "Hijos, obedeced a vuestros padres en el Señor, porque eso es justo. Honra a tu padre y a tu madre es el primer mandamiento al que se añade una promesa: Te irá bien y vivirás largo tiempo en la tierra.",
+     "cop": "",
+     "ar": "أيها الأولاد أطيعوا والديكم فى الرب لأن هذا حق . أكرم أباك وأمك التى هى أول وصية بوعد لكى يكون لكم خير وتكونوا طوال الأعمار على الأرض."
+    },
+    {
+     "role": "text",
+     "es": "Que la gracia de Dios Padre os sea concedida a todos nosotros, Amén.",
+     "cop": "",
+     "ar": "نعمة الله الآب تحل على جميعنا آمين."
+    },
+    {
+     "role": "note",
+     "es": "Luego los diáconos cantan el descenso del Espíritu Santo",
+     "cop": "",
+     "ar": "ثم يقول المرتلون لحن حلول الروح القدس"
+    },
+    {
+     "role": "text",
+     "es": "El espíritu paráclito quien se posó sobre los apóstoles en el Pentecostés y ellos hablaron en muchas lenguas.",
+     "cop": "",
+     "ar": "الروح المعزى الذى حل على الرسل فى عيد الخمسين حتى نطقوا بألسنة كثيرة."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Paralix",
+    "ar": "برلكس",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Cuando se completaron los días de Pentecostés. Los doce apóstoles se reunieron todos juntos.",
+     "cop": "",
+     "ar": "كان لما كملت أيام الخمسين كانوا مجتمعين كلهم معاً الأثنى عشر رسولاً."
+    },
+    {
+     "role": "text",
+     "es": "El espíritu Paráclito cuando descendió del cielo fue sobre cada uno, entonces hablaron en muchas lenguas.",
+     "cop": "",
+     "ar": "الروح المعزى لما نزل من السماء إنبسط على كل واحد فنطقوا بألسنة كثيرة."
+    },
+    {
+     "role": "text",
+     "es": "Fue un gran temor, vino una voz del cielo que llenó el lugar donde estaban los discípulos de Cristo.",
+     "cop": "",
+     "ar": "وكانت مخافة عظيمة وصار صوت من السماء فملأ الموضع الذى فيه تلاميذ المسيح."
+    },
+    {
+     "role": "note",
+     "es": "Y se posó sobre ellos como lenguas de fuego. Y todas fueron divididas sobre cada uno de los bienaventurados discípulos.",
+     "cop": "",
+     "ar": "وظهر لهم مثل ألسنة نار كانت منقسمة جميعها على كل واحد من التلاميذ الكرام."
+    },
+    {
+     "role": "text",
+     "es": "El Espíritu Santo llenó a los doce discípulos y hablaron en muchas lenguas por orden del Espíritu Santo.",
+     "cop": "",
+     "ar": "الروح القدس ملأ الإثنى عشر تلميذا فتكلموا بألسنة كثيرة كأمر الروح القدس."
+    },
+    {
+     "role": "note",
+     "es": "Luego los diáconos cantan el Trisagio con ritmo alegre.",
+     "cop": "",
+     "ar": "ثم يقول المرتلون لحن الثلاثة تقديسات بلحن الفرح."
+    },
+    {
+     "role": "text",
+     "es": "Santo Dios, Santo Fuerte, Santo Inmortal, quien nació de la Virgen, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "قدوس الله قدوس القوى قدوس الذى لا يموت الذى ولد من العذراء ارحمنا ."
+    },
+    {
+     "role": "text",
+     "es": "Santo Dios, Santo Fuerte, Santo Inmortal, quien fue crucificado por nosotros, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "قدوس الله قدوس القوى قدوس الذى لايموت الذى صلب عنا ارحمنا ."
+    },
+    {
+     "role": "text",
+     "es": "Santo Dios, Santo Fuerte, Santo Inmortal, quien resucitó de entre los muertos y ascendió a los cielos, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "قدوس الله قدوس القوى قدوس الذى لايموت الذى قام من الأموات وصعد إلى السموات ارحمنا ."
+    },
+    {
+     "role": "text",
+     "es": "Gloria al Padre, al Hijo y al Espíritu. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "المجد للآب والأبن والروح القدس الآن وكل أوان وإلى دهر الداهرين آمين ."
+    },
+    {
+     "role": "text",
+     "es": "Oh Santísima Trinidad, ten piedad de nosotros.",
+     "cop": "",
+     "ar": "أيها الثالوث القدوس ارحمنا."
+    },
+    {
+     "role": "note",
+     "es": "Después el sacerdote coge el incensario y se para frente al santuario y dice la letanía del Evangelio:",
+     "cop": "",
+     "ar": "ثم يأخذ الكاهن المجمرة ويقف أمام باب الهيكل ويقول أوشية الإنجيل:"
+    },
+    {
+     "role": "priest",
+     "es": "Orad.",
+     "cop": "",
+     "ar": "صلُّوا."
+    },
+    {
+     "role": "deacon",
+     "es": "Para la oración, levantaos.",
+     "cop": "",
+     "ar": "للصلاةِ قفوا."
+    },
+    {
+     "role": "priest",
+     "es": "La paz esté con todos vosotros.",
+     "cop": "",
+     "ar": "السلامُ للكلِّ."
+    },
+    {
+     "role": "people",
+     "es": "Y con tu espíritu.",
+     "cop": "",
+     "ar": "ولروحِكَ [أيضاً]."
+    },
+    {
+     "role": "priest",
+     "es": "Señor Dios Jesucristo, nuestro Dios, quien dijo a Sus santos discípulos bienaventurados, y a sus puros apóstoles:",
+     "cop": "",
+     "ar": "أيها السيدُ الربُّ يسوعُ المسيحُ إلَهُنا، الذي قال لتلاميذِهِ القديسين المكرمين ورسلِهِ الأطهارِ:"
+    },
+    {
+     "role": "priest",
+     "es": "“Muchos profetas y justos desearon ver lo que estáis viendo, y no lo vieron; y oír lo que estáis oyendo, y no lo oyeron.",
+     "cop": "",
+     "ar": "”إن أنبياءً وأبراراً كثيرين اشْتَهَوْا أن يَرَوْا ما أنتم تَرَوْن ولم يَرَوْا، وأن يسمعوا ما أنتم تسمعون ولم يسمعوا."
+    },
+    {
+     "role": "priest",
+     "es": "Pero bienaventurados vuestros ojos porque ven; y vuestros oídos porque oyen”.",
+     "cop": "",
+     "ar": "أما أنتم فطُوبى لأعيُنِكم لأنها تُبصِرُ، ولأذانِكم لأنها تَسْمَع.“"
+    },
+    {
+     "role": "priest",
+     "es": "Haznos dignos de escuchar y practicar tus santos Evangelios, a través de las súplicas de tus santos.",
+     "cop": "",
+     "ar": "فلنستحق أن نسمَعَ ونعمَلَ بأناجيلِك المقدسة بطلباتِ قديسيك."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por el Santo Evangelio.",
+     "cop": "",
+     "ar": "صلُّوا من أجلِ الإنجيلِ المقدس."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "ياربُّ ارحَم."
+    },
+    {
+     "role": "priest",
+     "es": "Acuérdate también, nuestro Señor, de todos aquellos que nos han pedido acordarnos de ellos, en nuestras súplicas y nuestros ruegos que Te dirigimos. ¡Oh, Señor, nuestro Dios!",
+     "cop": "",
+     "ar": "اذكر أيضاً يا سيدَنا كلَّ الذين أوصونا أن نذكرَهُم في تضرعاتِنا وطلباتِنا التي نُصعِدها إليك أيها الربُّ إلَهُنا."
+    },
+    {
+     "role": "priest",
+     "es": "A aquellos que nos han precedido y han fallecido, concédeles el descanso; a los enfermos, sánalos.",
+     "cop": "",
+     "ar": "الذين سبقوا فرقدوا، نيحهم. المرضى اشفهم."
+    },
+    {
+     "role": "priest",
+     "es": "Porque Tú eres la vida, la salvación, la esperanza, la curación y la resurrección de todos nosotros.",
+     "cop": "",
+     "ar": "لأنك أنتَ حياتُنا كلِّنا، وخلاصُنا كلِّنا، ورجاؤُنا كُلِّنا، وشفاؤُنا كلِّنا، وقيامتُنا كلِّنا."
+    },
+    {
+     "role": "priest",
+     "es": "A Ti elevamos la gloria, el honor y la adoración, así como a tu Padre bueno y el Espíritu Santo vivificante y consubstancial a ti.",
+     "cop": "",
+     "ar": "وأنتَ الذي نرسل لكَ إلى فوق المجدَ والإكرامَ والسجودَ، مع أبيكَ الصالحِ والروحِ القدسِ المحيِي المساوِي لكَ."
+    },
+    {
+     "role": "priest",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "الآن وكلَّ أوان وإلى دهر الدهور كلِّها. آمين."
+    },
+    {
+     "role": "note",
+     "es": "Luego se lee el Salmo y el Evangelio.",
+     "cop": "",
+     "ar": "ثم يُقرأ المزمور والإنجيل."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Salmo (18:5-6)",
+    "ar": "المزمور ( 18 : 5 - 6 )",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Él sale como el esposo de su alcoba, contento como un héroe, a recorrer su camino. ¡Aleluya!",
+     "cop": "",
+     "ar": "مثل العريس الخارج من خدره يتهلل ،مثل الجبار المسرع في طريقه. هلليلويا."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Salmo (127:3-4)",
+    "ar": "مزمور ( 127 : 3 - 4 )",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Tu mujer, como parra fecunda, en medio de tu casa; tus hijos, como renuevos de olivo, alrededor de tu mesa. ¡Aleluya!",
+     "cop": "",
+     "ar": "إمرأتك تكون كالكرمة التي تزهر في جوانب بيتك، وبنوك مثل غروس الزيتون محيطين بمائدتك هلليلويا."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "El Evangelio (Mateo, 19:1-6)",
+    "ar": "الإنجيل (متى 19 : 1-6)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Cuando acabó Jesús estos discursos, partió de Galilea y vino a la región de Judea, al otro lado del Jordán. Lo seguía una gran multitud y él los curaba allí.",
+     "cop": "",
+     "ar": "وَلَمَّا أَكْمَلَ يَسُوعُ هَذَا الْكَلاَمَ جميعه انْتَقَلَ مِنَ الْجَلِيلِ وَجَاءَ إِلَى تُخُومِ الْيَهُودِيَّةِ مِنْ عَبْرِ الأُرْدُنِّ وَتَبِعَتْهُ جُمُوعٌ كَثِيرَةٌ فَشَفَاهُمْ هُنَاكَ."
+    },
+    {
+     "role": "note",
+     "es": "Se acercaron a Jesús unos fariseos y le preguntaron, para ponerlo a prueba: « ¿Es lícito a un hombre repudiar a su mujer por cualquier motivo?». Él les respondió: «¿No habéis leído que el Creador, en el principio, los creó hombre y mujer,",
+     "cop": "",
+     "ar": "وَجَاءَ إِلَيْهِ الْفَرِّيسِيُّونَ لِيُجَرِّبُوهُ قَائِلِينَ لَهُ: «هَلْ يَحِلُّ لِلرَّجُلِ أَنْ يُطَلِّقَ امْرَأَتَهُ لِكُلِّ سَبَبٍ؟» فَأَجَابَ وَقَالَ لَهُمْ: «أَمَا قَرَأْتُمْ أَنَّ مِنَ الْبَدْءِ خَلَقَهُمَا ذَكَراً وَ أُنْثَى؟"
+    },
+    {
+     "role": "text",
+     "es": "Y dijo: “Por eso dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán los dos una sola carne”. De modo que ya no son dos, sino una sola carne. Pues lo que Dios ha unido, que no lo separe el hombre».",
+     "cop": "",
+     "ar": "وَقَالَ مِنْ أَجْلِ هَذَا يَتْرُكُ الرَّجُلُ أَبَاهُ وَأُمَّهُ وَيَلْتَصِقُ بِامْرَأَتِهِ، وَيَكُونُ الاِثْنَانِ جَسَداً وَاحِداً. إِذاً لَيْسَا بَعْدُ اثْنَيْنِ بَلْ جَسَدٌ وَاحِدٌ. فَالَّذِي جَمَعَهُ اللَّهُ لاَ يُفَرِّقُهُ اْلإنسَانٌ»."
+    },
+    {
+     "role": "text",
+     "es": "Gloria a Dios para siempre.",
+     "cop": "",
+     "ar": "والمجد لله دائماً."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan:",
+     "cop": "",
+     "ar": ": يرد الشمامسة"
+    },
+    {
+     "role": "text",
+     "es": "Aquellos que hizo el Espíritu Santo juntos como una arpa, alaban todo el tiempo a Dios.",
+     "cop": "",
+     "ar": "هؤلاء الذين ألفهم الروح القدس معاً مثل قيثارة ، يسبحون الله كل حين ."
+    },
+    {
+     "role": "text",
+     "es": "Con salmos, alabanzas y glorificaciones espirituales, día y noche, con corazón sincero.",
+     "cop": "",
+     "ar": "بمزامير وتسابيح وتماجيد روحية النهار والليل بقلب لا يسكت ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote reza estas súplicas, y al fin de cada una los diáconos dicen: Señor, ten piedad",
+     "cop": "",
+     "ar": "يقول الكاهن هذه الطلبات وفى آخر كل طلبة يجاوبه المرتلون : يارب أرحم."
+    },
+    {
+     "role": "text",
+     "es": "Señor Dios todopoderoso que estás en el cielo, Dios de nuestros padres. Te pedimos que nos escuches y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "أيها الرب الإله ضابط الكل الكائن فى السماء إله آبائنا . نطلب إليك أن تسمعنا وترحمنا . يارب أرحم."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has creado el cielo, la tierra, el mar y todo lo que encierran, y los has decorado con tu sabiduría. Señor, te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من خلق السماء والأرض والبحر وكل ما فيها وزينتها بحكمتك ، نطلب إليك يارب أن تسمعنا وترحمنا . يارب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has creado al hombre a su imagen y semejanza y lo has hecho en el paraíso del gozo. Señor, te pedimos que nos respondas, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من صنع الإنسان على صورته ومثاله . وجعله فى فردوس النعيم نسألك يارب أن تستجيب لنا وترحمنا . يا رب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has creado a la mujer de la costilla de Adán y le has dado una ayudante. Te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من خلق المرأة من جنب أدم وأعطاها له معينة نظيره ، نطلب إليك أن تسمعنا وترحمنا. يارب أرحم."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has bendecido a Abrahán y Sara, y la has hecho su esposa, y le has dado el rango de patriarca de los padres. Te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من بارك إبراهيم وسارة ، وجلعها له زوجة ، ومنحه رتبة رئاسة الآباء ، نطلب إليك أن تسمعنا وترحمنا . يارب أرحم."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has protegido a Isaac, y le has elegido a Rebeca y lo has salvado de sus enemigos. Te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من حفظ أسحق ووفق له رفقة وأنقذه من أعدائه ، نطلب إليك يارب أن تسمعنا وترحمنا .يا رب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has bendecido a Jacob en su matrimonio y lo has designado heredero de la promesa. Señor, te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من بارك يعقوب فى زواجه ، وجعله وارثا للموعد نسألك يارب أن تسمعنا وترحمنا . يارب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que le has exaltado a José y le has elegido a Asenat como su esposa, a través de él has conservado toda la tierra de Egipto. Señor, te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من رفع يوسف ووهب له أسنات زوجه ، وبواسطته عُلت كل أرض مصر نطلب إليك يارب أن تسمعنا وترحمنا . يارب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has querido nacer de virgen en los últimos días, y has iluminado a la raza humana. Señor, te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من سُر فى أخر الأيام أن يولد من عذراء وأضاء على جنس البشر ، نسألك يارب أن تسمعنا وترحمنا . يارب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has asistido a la boda de Caná de Galilea bendice este matrimonio como has bendecido aquel matrimonio. Señor, te rogamos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من حضر فى عرس قانا الجليل ، بارك هذا الزواج مثل ما باركت ذاك الزواج ، نتضرع إليك يارب أن تسمعنا وترحمنا . يارب أرحم ."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has estado en la boda de Caná de Galilea, y has bendecido aquel matrimonio con la autoridad de tu divinidad, bendice y cubre este matrimonio de tus servidores (… y…) con paz, cariño, amor, y vigílalos. Señor, te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "يا من حل فى عرس قانا الجليل ، وبارك ذاك العرس ، بسلطان لاهوته ، بارك واستر هذا العرس الذى لعبيدك ( فلان وفلانه) بسلامه وألفة ومحبة وأحرسهما نطلب إليك يارب أن تسمعنا وترحمنا . يارب أرحم."
+    },
+    {
+     "role": "text",
+     "es": "Oh, el generoso, el compasivo, el bondadoso y el cariñoso. Señor, amante de humanidad concédenos glorificar tu bondad. Señor, te pedimos que nos escuches, y ten piedad de nosotros. (Señor ten piedad).",
+     "cop": "",
+     "ar": "أيها المحسن الرؤوف الكثير الصلاح والتحنن ، يارب اجعلنا أن نمجد صلاحك يا محب البشر نسألك يارب أن تسمعنا وترحمنا . يارب أرحم."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos cantan:",
+     "cop": "",
+     "ar": "يقول المرتلون هذا المرد:"
+    },
+    {
+     "role": "text",
+     "es": "Oh, Cristo, el Verbo del Padre único Dios, danos tu paz que está llena de toda alegría.",
+     "cop": "",
+     "ar": "أيها المسيح كلمة الآب الإله الوحيد ، أعطنا سلامك هذا المملوء من كل فرح ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice las tres letanías pequeñas: la paz, los padres y las asambleas.",
+     "cop": "",
+     "ar": "ثم يقول الكاهن الثلاث أواشى الصغار السلام والأباء والإجتماعات."
+    },
+    {
+     "role": "text",
+     "es": "También, pidamos a Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo. Pedimos y suplicamos Tu bondad, oh Amante de la humanidad,",
+     "cop": "",
+     "ar": "وأيضاً فلنسأل الله ضابط الكل أبا ربنا وإلهنا ومخلصنا يسوع المسيح . نسأل ونطلب من صلاحك يا محب البشر ."
+    },
+    {
+     "role": "text",
+     "es": "Acuérdate Señor de la paz de tu una, única, santa, católica y apostólica iglesia.",
+     "cop": "",
+     "ar": "أذكر يارب سلام كنيستك الواحده الوحيده المقدسة الجامعة الرسولية ."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por la paz de la santa, única, católica, apostólica y ortodoxa iglesia de Dios.",
+     "cop": "",
+     "ar": "صلوا من أجل سلام الواحدة الوحيدة المقدسة الجامعة الرسولية الأرثوذكسية كنيسة الله."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "يا رب أرحم"
+    },
+    {
+     "role": "people",
+     "es": "Ésta que existe de un extremo del mundo al otro.",
+     "cop": "",
+     "ar": "هذه الكائنة من أقاصى المسكونة إلى أقاصيها ."
+    },
+    {
+     "role": "people",
+     "es": "Acuérdate Señor, de nuestro Patriarca, el bienaventurado Padre, el Sumo sacerdote, el Papa Aba ___, Y su compañero en el servicio [apostólico], nuestro padre el obispo (metropolitano) Aba ___.",
+     "cop": "",
+     "ar": "أذكر يارب بطريركنا الأب المكرم رئيس الكهنة البابا أنبا ___ وشريكَهُ في الخدمةِ [الرسولية] أبانا الأسقف (المطران) المكرم أنبا ___."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por nuestro sumo sacerdote, el Papa Aba ___; Papa, Patriarca y Arzobispo de la Megalópolis de Alejandría, Y su compañero en el servicio [apostólico], nuestro padre el obispo (metropolitano) Aba ___. Y por todos nuestros obispos ortodoxos.",
+     "cop": "",
+     "ar": "صلُّوا من أجلِ رئيسِ كهنتِنا البابا أنبا___ بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية، وشريكِهِ في الخدمة [الرسولية] أبينا الأسقف (المطران) المكرم أنبا ___. و[سائرِ] أساقفتنا الأرثوذكسيين."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "يارب أرحم"
+    },
+    {
+     "role": "priest",
+     "es": "Consérvanos los muchos años y en tiempos de paz.",
+     "cop": "",
+     "ar": "حفظاً احفظه لنا سنين كثيرة وأزمنة سلامية ."
+    },
+    {
+     "role": "priest",
+     "es": "Acuérdate Señor de nuestras asambleas",
+     "cop": "",
+     "ar": "أذكر يا رب إجتماعتنا"
+    },
+    {
+     "role": "note",
+     "es": "Aquí, el sacerdote se gira a la derecha en dirección oeste, hace la señal de la cruz al pueblo, y dice:",
+     "cop": "",
+     "ar": "ههنا يلتفت عن يمينه إلى الغرب ويرشم الشعب رشماً واحداً بمثال الصليب وهو يقول:"
+    },
+    {
+     "role": "priest",
+     "es": "Bendícelas.",
+     "cop": "",
+     "ar": "باركها."
+    },
+    {
+     "role": "deacon",
+     "es": "Orad por esta santa iglesia y por nuestras asambleas.",
+     "cop": "",
+     "ar": "صلوا من أجل هذه البيعة المقدسة وإجتماعتنا ."
+    },
+    {
+     "role": "people",
+     "es": "Señor, ten piedad.",
+     "cop": "",
+     "ar": "يارب أرحم ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote coge el incensario y dice:",
+     "cop": "",
+     "ar": "يأخذ الكاهن المجمرة ويقول:"
+    },
+    {
+     "role": "people",
+     "es": "Concédenoslas sin impedimentos ni obstáculos para que las hagamos conforme a tu santa bendita voluntad.",
+     "cop": "",
+     "ar": "أعط أن تكون لنا بغير مانع ولا عائق لنصنعها كمشيئتك المقدسة الطوباوية ."
+    },
+    {
+     "role": "people",
+     "es": "Señor, concédenos casas de oración, de pureza y de bendición a nosotros y a tus siervos que vienen después, para siempre.",
+     "cop": "",
+     "ar": "بيوت صلاة بيوت طهارة بيوت بركة أنعم بها يارب لنا ولعبيدك الأتين بعدنا إلى الأبد ."
+    },
+    {
+     "role": "people",
+     "es": "Levántate, Señor Dios. Que todos tus enemigos sean diseminados y que se escapen de tu rostro, todos los que odian tu santo nombre.",
+     "cop": "",
+     "ar": "قم أيها الرب الإله ولتتفرق جميع أعدائك وليهرب من قدام وجهك كل مبغضى اسمك القدوس ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote se gira al oeste, inciensa tres veces a los sacerdotes, los diáconos y el pueblo, y dice:",
+     "cop": "",
+     "ar": "يلتفت إلى الغرب ويُعطي البخور للكهنة والشمامسة والشعب، ثلاث مرات، وهو يقول:"
+    },
+    {
+     "role": "people",
+     "es": "En cuanto a tu pueblo, que sea bendito, miles y miles, diez miles y diez miles, hagan tu voluntad.",
+     "cop": "",
+     "ar": "وأما شعبك فليكن بالبركة ألوف ألوف وربوات ربوات يصنعون إرادتك ."
+    },
+    {
+     "role": "note",
+     "es": "Después, inciensa al este tres veces y dice en voz baja:",
+     "cop": "",
+     "ar": "ثم يبخر شرقا ثلاث أياد وهو يقول سراً:"
+    },
+    {
+     "role": "people",
+     "es": "Por la gracia, la compasión…",
+     "cop": "",
+     "ar": "بالنعمةِ والرأفاتِ..."
+    },
+    {
+     "role": "deacon",
+     "es": "Escuchad con la sabiduría de Dios. Señor, ten piedad. Señor, ten piedad. De verdad___.",
+     "cop": "",
+     "ar": "انصتوا بحكمة الله يارب ارحم يارب ارحم بالحقيقة ___."
+    },
+    {
+     "role": "note",
+     "es": "Luego se dice el Credo y al final el pueblo canta.",
+     "cop": "",
+     "ar": "ثم يقال قانون الإيمان وعند نهايته يقول الشعب باللحن."
+    },
+    {
+     "role": "deacon",
+     "es": "Esperamos la resurrección de los muertos y la vida del siglo venidero. Amén.",
+     "cop": "",
+     "ar": "وننتظر قيامة الأموات وحياة الدهر الآتى أمين ."
+    },
+    {
+     "role": "note",
+     "es": "",
+     "cop": "",
+     "ar": "ثم يقول الكاهن هذه الصلاة:"
+    },
+    {
+     "role": "priest",
+     "es": "Oh Dios permanente y eterno para siempre sin inicio, su sabiduría sin límite, su fuerza sin fin, que has hecho al hombre de la tierra, le has creado a su mujer de su costilla, como ayudante, según quiera tu señoría y tu bondad.",
+     "cop": "",
+     "ar": "اللهم الأزلى الدائم إلى الأبد بغير إبتداء ، الذى لا حد لحكمته ولا إنتهاء لقوته ، الذى صنع الإنسان من الأرض ، وجعل له أمرأة من جنبه ، ووفقها له معينة نظيره ، كما يرضى ربوبيتك وصلاحك ،"
+    },
+    {
+     "role": "priest",
+     "es": "Porque no es bueno que el hombre esté solo. Ahora también, nuestro Rey, te pedimos que unas a tus servidores (… y…) para que sean unidos en una sola carne y entren en la alegría y vivan en las enseñanzas honestas. Concédeles un fruto vivificante del vientre para que se alegren del nacimiento de buenos niños, y tiempos de paz y calma. Prepáralos para toda obra buena por Cristo Jesús, nuestro Señor.",
+     "cop": "",
+     "ar": "لأنه لا يحسن أن يكون الرجل وحده. أنت الآن ايضاً يا ملكنا نسألك أن تصل عبديك ( فلان وفلانة) لكى يتصلا ببعضهما بعضاً بجسد واحد ، وليدخلا إلى ناموس الفرح ، وليكونا في تعاليم صادقة . هب لهما ثمرة محيية من البطن ليبتهجا بولادة البنين الحسنة والأزمنة الهادئة السالمة. هيئهما في كل عمل صالح بالمسيح يسوع ربنا ."
+    },
+    {
+     "role": "priest",
+     "es": "La gloria, el honor y la adoración te son debidos junto con Él y el Espíritu Santo. Ahora y siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "هذا الذى ينبغى لك معه مع الروح القدس المجد والإكرام والسجود الآن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos:",
+     "cop": "",
+     "ar": "ويقول المرتلون:"
+    },
+    {
+     "role": "priest",
+     "es": "Como has dado a tus santos discípulos, dinos como a ellos: mi paz está con vosotros.",
+     "cop": "",
+     "ar": "كما أعطيت لتلاميذك القديسين قل لنا مثلهم سلامى أعطيكم ."
+    },
+    {
+     "role": "priest",
+     "es": "La puerta que está en el oriente, es María la Virgen, la alcoba pura del novio purificado.",
+     "cop": "",
+     "ar": "الباب الذى في المشارق هو مريم العذراء ، الخدر الطاهر الذى للختن النقى ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "La segunda oración del matrimonio",
+    "ar": "الصلاة الثانية للزواج",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Oh Señor, hacedor de todas las naturalezas, que has creado al hombre de la tierra y has hecho a su ayudante de su costilla. Los has unido en el matrimonio para la vida y el aumento de la raza humana. Les has dicho: sed fecundos y multiplicaos, llenad la tierra y controladla. Tú también, Bueno Amante de la humanidad, bendice la unión de tus servidores (… y…) quienes se han unido según tu voluntad.",
+     "cop": "",
+     "ar": "أيها الرب إلهنا جابل كل الطبائع الذى جبل الإنسان من الأرض وأصلحت له معينة من الضلع الذى أخذته منه ، ووفقتهما لشركة الزواج للحياة والنمو الدائم في جنس البشر وقلت لهما اثمروا واكثروا واملأوا الأرض وتسلطوا عليها . أنت أيضاً أيها الصالح محب البشر ، بارك اتحاد عبيدك ( فلان وفلانة) اللذين إتصلا ببعضهما بعضاً حسب إرادتك"
+    },
+    {
+     "role": "text",
+     "es": "Bendíceles para que sean fecundos como has bendecido a nuestros patriarcas: Abrahán, Isaac y Jacob. Bendíceles como has bendecido a Abrahán y Sara. Exáltalos como a Isaac y Rebeca. Multiplícalos como a Jacob y su descendencia. Glorifícalos como a José en Egipto.",
+     "cop": "",
+     "ar": "باركهما وليكثرا كما باركت أباءنا الأولين إبراهيم وإسحق و يعقوب . باركهما كما باركت إبراهيم و سارة. ارفعهما مثل إسحق ورفقة . أكثرهما كما أكثرت يعقوب وزرعه. ومجدهما كما مجدت يوسف بمصر ."
+    },
+    {
+     "role": "text",
+     "es": "Concédeles pureza y que sean fecundos, como a Elcaná y Ana a quienes los has bendecido. Y le has concedido a Samuel el profeta honesto.",
+     "cop": "",
+     "ar": "هب لهما طهارة. أكثرهما مثل ألقانة وحنة اللذين باركتهما وأنعمت عليهما بصموئيل النبى الأمين ."
+    },
+    {
+     "role": "text",
+     "es": "Hazlos dignos de la anunciación del Arcángel puro como Zacarías e Isabel, a quienes has concedido el nacimiento de Juan, el más grande de los nacidos de las mujeres, que fue el Precursor de tu Hijo Unigénito.",
+     "cop": "",
+     "ar": "أجعلهما أهلاً لبشارة رئيس الملائكة الطاهر مثل زكريا وأليصابات اللذين أنعمت عليهما بولادة يوحنا أعظم مواليد النساء ، الذى صار سابقاً قدام ابنك الوحيد الجنس ."
+    },
+    {
+     "role": "text",
+     "es": "Tú, también, Señor Dios como has bendecido a Joaquín y Ana y les has dado el Arca mental, María la Madre de Dios, de la que se ha encarnado tu hijo unigénito, que ha venido al mundo y ha bendecido la boda de Caná de Galilea.",
+     "cop": "",
+     "ar": "وأنت أيضاً أيها السيد الرب باركت يواقيم وحنة وصنعت منهما التابوت العقلى والدة الإله مريم ، الذى تجسد منها ابنك الوحيد وجاء إلى العالم ، وبارك عرس قانا الجليل ."
+    },
+    {
+     "role": "text",
+     "es": "Bendice a tus servidores (… y…) quienes se han unido en esta hora. Concédeles prosperidad, sabiduría y las bendiciones de la salvación para que sean un mismo cuerpo y un mismo espíritu, con fe y pureza. Y para que se merezcan tu bendición y glorifiquen tu nombre santo junto con tu Hijo unigénito y el Espíritu Santo. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "بارك عبديك ( فلان و فلانة) اللذين اقترنا في هذه الساعة . انعم عليهما بالرخاء والحكمة وبركات الخلاص لكى يكونا بكل تقوى وكل عفاف متصلين بجسدهما وروحهما ويستحقا البركة التى من قبلك ويمجدا اسمك القدوس مع ابنك الوحيد والروح القدس الآن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "deacon",
+     "es": "Mi paz que he aceptado de mi padre os la dejaré con vosotros ahora y siempre.",
+     "cop": "",
+     "ar": "سلامى خاصة الذى قبلته من أبى أنا أتركه معكم من الأن وإلى الأبد."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Respuesta para la madre de Dios Santa María",
+    "ar": "مرد لأجل والدة الإله القديسة مريم",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Todos los reyes de la tierra caminan en tu luz y todas las naciones en tu esplendor, Oh, María la madre de Dios.",
+     "cop": "",
+     "ar": "كافة ملوك الأرض يسيرون في نورك ، والأمم في ضيائك يا مريم أم الله ."
+    },
+    {
+     "role": "text",
+     "es": "Salomón te llama en el Cantar de los Cantares: Hermana mía, mi ciudad verdadera Jerusalén.",
+     "cop": "",
+     "ar": "سليمان يدعوك في نشيد الأنشاد قائلاً : أختى حبيبتى ، مدينتى الحقيقية أورشليم ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "La tercera oración del matrimonio",
+    "ar": "الصلاة الثالثة للزواج",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Oh, Señor nuestro Dios, grande y eterno. Que has formado la vida de la nada, has creado el universo a través de tu palabra y has creado al hombre con tu mano pura a tu imagen y semejanza, y de uno has creado a la otra. Como has dicho, no es bueno que el hombre este solo, Entonces has hecho caer un letargo sobre Adán, que se ha dormido, le has sacado una costilla y le has cerrado el sitio con carne. Por eso abandonará el hombre a su padre y a su madre, se unirá a su mujer y serán los dos una sola carne. Pues lo que Dios ha unido, que no lo separe el hombre.",
+     "cop": "",
+     "ar": "أيها الرب إلهنا العظيم الأبدى ، الذى كونت الحياة مما لم يكن ، وخلقت الكون بكلمتك ، وجبلت الإنسان بيدك الطاهرة كصورتك ومثالك ، ومن الواحد أقمت الآخر إذ قلت أنه لايحسن أن يكون الرجل وحده ، فأتيت بنعاس على آدم فرقد وأخرجت ضلعاً من جنبه وملأت موضعها لحماً عوضاً عنها . لهذا يترك الرجل أباه وأمه ويلتصق بإمرأته ويكونان كلاهما جسداً واحداً وما جمعه الله لايفرقه إنسان."
+    },
+    {
+     "role": "text",
+     "es": "Tú que has bendecido a Abrahán con Sara, Isaac con Rebeca y Jacob en su matrimonio y has purificado a todos los que se han reunido, con la bendición. Ahora también mira a tus servidores (… y…) su ayudante, fortalece su unión, guarda su cama pura, cubre a ellos y a su casa con tu diestra victoriosa.",
+     "cop": "",
+     "ar": "فيا من بارك إبراهيم مع سارة وإسحق مع رفقة ويعقوب فى زواجه وطهرت كل الذين اجتمعوا بالبركة الآن أيضاً ايها السيد الرب أطلع على عبديك (فلان وفلانه ) معينته ثبت إتصالهما. أحرس مضجعهما نقياً استرهما مع بيتهما بيمينك غير المغلوبة ."
+    },
+    {
+     "role": "text",
+     "es": "Líbrales de toda envidia, toda intriga. Consérvalos unidos y en paz. Concédeles la alegría y el placer para mostrártelo, Oh Dios Vivificante, el fruto de la vida del vientre.",
+     "cop": "",
+     "ar": "نجهما من كل حسد وكل مكيدة . احفظهما بإمتزاج واحد وسلام . هب لهما فرحاً وسروراً ليظهرا لك يا الله الحى ثمرة الحياة من البطن."
+    },
+    {
+     "role": "text",
+     "es": "Oh Dios, bendícelos como has bendecido a Abrahán con Sara, Isaac con Rebeca y Jacob en su matrimonio. También a los hombres y mujeres que están con nosotros, bendícelos en el nombre de nuestro Señor, Dios y Salvador Jesucristo, La gloria que te es debida junto con Él y el Espíritu Santo. Ahora y siempre, y por los siglos de los siglos .Amén.",
+     "cop": "",
+     "ar": "باركهما يا الله كما باركت إبراهيم مع سارة وإسحق مع رفقة ويعقوب فى زواجه . أما الرجال والنساء الذين ها هنا معنا ، فباركهم باسم ربنا وإلهنا ومخلصنا يسوع المسيح. هذا الذى من قبله يليق بك معه المجد مع الروح القدس الآن وكل أوان وإلى دهر الدهور آمين."
+    },
+    {
+     "role": "deacon",
+     "es": "No te olvides de tu Alianza la cual has decidido junto con nuestros padres santos Abrahán, Isaac y Jacob.",
+     "cop": "",
+     "ar": "لا تنس عهدك الذى قررته مع أبائنا إبراهيم وإسحق ويعقوب قديسيك ."
+    },
+    {
+     "role": "deacon",
+     "es": "Oh Ángel de este día, que te elevas a lo alto con esta alabanza. Acuérdate de nosotros delante del Señor para que perdone nuestros pecados.",
+     "cop": "",
+     "ar": "يا ملاك هذا اليوم الطائر إلى العلو بهذه التسبحة ، أذكرنا أمام الرب ليغفر لنا خطايانا."
+    },
+    {
+     "role": "deacon",
+     "es": "Tú estás más iluminada que el sol, tú estás en el oriente, la cual esperamos los justos con alegría y placer.",
+     "cop": "",
+     "ar": "مضيئة أكثر من الشمس ، أنت هى ناحية المشرق ، التى ينتظرها الأبرار بفرح وتهليل ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice la oración de sumisión",
+     "cop": "",
+     "ar": "يقول الكاهن صلاة خضوع"
+    },
+    {
+     "role": "deacon",
+     "es": "Atiende señor y escúchanos pecadores e indignos. Fortalece el contacto de tus siervos (… y…) su ayudante. Líbralos de todos los malvados y alarga sus vidas. Y que vivan con humildad, calma, tolerancia, sumisión, sin culpa ni pecado. Ilumina sus corazones y su entendimiento para que hagan tu voluntad siempre. Porque Tú eres muy misericordioso con todos los que te proclamamos. A Ti, elevamos la gloria, el honor y la adoración, junto con tu Padre Bueno y el Espíritu Santo. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "أمل سمعك يا رب واسمعنا نحن الخطاة غير المستحقين ، وثبت إتصال عبديك ( فلان وفلانة) معينته. نجهما من كل شر وليطل عمرهما بكثرة الأيام . وليعيشا بدعة وهدوء وإحتمال وخضوع وهما بلا لوم ولا عثرة . أنر أعين قلبيهما وفهميهما ليصنعا إرادتك كل حين ، لأنك رحيم كثير الرحمة لكل الصارخين إليك ونرسل لك المجد والكرامة والسجود مع أبيك الصالح والروح القدس الآن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "deacon",
+     "es": "Dios nos bendiga. Te bendecimos, su santo nombre. Siempre su alabanza en nuestras bocas.",
+     "cop": "",
+     "ar": "يباركنا الله فلنبارك اسمه القدوس في كل حين تسحبته دائمة في أفواهنا ."
+    },
+    {
+     "role": "deacon",
+     "es": "Bendito sea el Padre, el Hijo, el Espíritu Santo, la Trinidad perfecta. Que ante ella nos postramos y glorificamos.",
+     "cop": "",
+     "ar": "لانه مبارك الآب والابن والروح القدس ، الثالوث الكامل . نسجد له ونمجده ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice esta oración al aceite antes de ungir y en cada una de las veces los diáconos dicen: Amén.",
+     "cop": "",
+     "ar": "يقول الكاهن هذه الصلاة على الزيت قبل دهنهما ويرد المرتلون فى كل مرة : آمين ."
+    },
+    {
+     "role": "deacon",
+     "es": "Oh Señor, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo, quien del fruto del olivo has ungido a sacerdotes, reyes y profetas. Señor, Amante de la Humanidad, te pedimos para que bendigas este aceite para que el aceite santifique a tus servidores (… y…) Amén.",
+     "cop": "",
+     "ar": "أيها السيد الرب الإله ضابط الكل ، أبو ربنا وإلهنا ومخلصنا يسوع المسيح ، الذى من ثمرة شجرة الزيتون الدسم مسحت كهنة وملوكاً وأنبياء نبتهل إليك أيها الرب محب البشر الصالح ، لكى تبارك هذا الزيت تبريكاً ليكون زيتاً لتقديس عبيدك( فلان وفلانة) آمين ."
+    },
+    {
+     "role": "deacon",
+     "es": "Instrumento de justicia y derecho. Amén. Unción de la pureza y la incorrupción. Amén. Luz y belleza que no se desvanece. Amén. Alegría, decoración y consuelo verdadero. Amén. Fuerza, salvación y victoria ante todos los actos del enemigo. Amén. Renovación y salvación para sus almas, cuerpos y espíritus. Amén. Riqueza con cada fruto de las obras buenas. Amén.",
+     "cop": "",
+     "ar": "سلاح البر والعدل آمين . مسحة الطهارة وعدم الفساد آمين . نوراً وجمالاً لا يذبل آمين . فرحاً وزينة وعزاء حقيقاً آمين . قوة وخلاصا وغلبة على كل أفعال المضاد آمين. تجديدا ًوخلاصاً لنفسيهما وجسديهما وروحيهما آمين .غنى مع كل ثمرة الأفعال الحسنة آمين."
+    },
+    {
+     "role": "deacon",
+     "es": "Gloria y honor a tu Santo nombre junto con tu Hijo unigénito y el Espíritu Santo vivificante consubstancial a Ti. Ahora y siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "مجدا وإكراماً لإسمك القدوس مع أبنك الوحيد والروح القدس المحيى المساوى لك الآن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "note",
+     "es": "Luego el sacerdote unge al novio con el aceite mientras los diáconos dicen :",
+     "cop": "",
+     "ar": "ثم يدهن الكاهن العريس بالزيت بينما يقول المرتلون :"
+    },
+    {
+     "role": "deacon",
+     "es": "Este aceite invalida a los demonios. Este aceite es contra los malos espíritus. Este aceite de los espíritus santos. Este aceite contra la resistencia de los espíritus inmundos, a través de Jesucristo, el Rey de la gloria.",
+     "cop": "",
+     "ar": "ليبطل هذا الدهن الشياطين . هذا الدهن ضد الأرواح الرديئة. هذا دهن الأرواح المقدسة . هذا الدهن ضد مقاومة الأرواح النجسة ، بيسوع المسيح ملك المجد ."
+    },
+    {
+     "role": "deacon",
+     "es": "Bendito sea el Padre, el Hijo y el Espíritu Santo, la Trinidad perfecta. Que ante ella nos postramos y glorificamos.",
+     "cop": "",
+     "ar": "لأنه مبارك الآب والابن والروح القدس ، الثالوث الكامل . نسجد له ونمجده ."
+    },
+    {
+     "role": "note",
+     "es": "Y cuando unge a la novia, dicen los diáconos:",
+     "cop": "",
+     "ar": "وعندما يدهن العروس يقول المرتلون :"
+    },
+    {
+     "role": "deacon",
+     "es": "Me unges la cabeza con aceite, y mi copa rebosa. Tu misericordia me acompaña todos los días de mi vida.",
+     "cop": "",
+     "ar": "دهنت بالزيت رأسى وكأسك اسكرتنى مثل الصرف . ورحمتك تدركنى جميع أيام حياتى."
+    },
+    {
+     "role": "deacon",
+     "es": "Todas las naciones la honran y dicen: Amén, así sea.",
+     "cop": "",
+     "ar": "تطوبها الأمم جميعها قائلين سيكون ( آمين )."
+    },
+    {
+     "role": "deacon",
+     "es": "El Señor envió a su ángel, me tomó en el rebaño de mi Padre y me ungió con su óleo.",
+     "cop": "",
+     "ar": "الرب أرسل ملاكه وأخذنى من غنم أبى ومسحنى بدهن مسحته."
+    },
+    {
+     "role": "deacon",
+     "es": "Mis hermanos son buenos y gloriosos, me honran diciendo: Amén, así sea.",
+     "cop": "",
+     "ar": "إخوتى حسان وهم عظماء يغبطوننى قائلين سيكون سيكون ( آمين)."
+    },
+    {
+     "role": "deacon",
+     "es": "Bendito sea el Padre, el Hijo y el Espíritu Santo, la Trinidad perfecta que ante ella nos postramos y glorificamos.",
+     "cop": "",
+     "ar": "لأنه مبارك الآب والأبن والروح القدس ، الثالوث الكامل . نسجد له ونمجده ."
+    },
+    {
+     "role": "note",
+     "es": "",
+     "cop": "",
+     "ar": "ثم يقول الكاهن هذه الصلاة :"
+    },
+    {
+     "role": "priest",
+     "es": "Oh, Señor Dios de los ejércitos, innumerable en su misericordia, el incomprendido en su bondad. Acepta nuestras súplicas. Cubre a tus servidores (… y…), fortalece su unión y conserva su cama pura.",
+     "cop": "",
+     "ar": "أيها الرب إله القوات ، الذى لا تحصى مراحمه ، غير المدرك في صلاحه ، إقبل إليك تضرعنا، أستر على عبديك ( فلان وفلانة) واحرس اتصالهما ، وأحفظ مضجعهما نقياً."
+    },
+    {
+     "role": "priest",
+     "es": "Protégelos con tus ángeles puros y envíanos de tu riqueza, compasión. Elimina nuestras muchas ofensas con tu bondad y concédenos también que estemos en los lugares del reposo de tus santos en el reino de los cielos.",
+     "cop": "",
+     "ar": "حصنهما بملائكتك الأطهار وارسل علينا من مسكنك المستعد كثرة رأفاتك . بدد زلاتنا الكثيرة بصلاحك، وأنعم علينا أيضاً أن نكون في أماكن راحة قديسيك في ملكوت السموات ."
+    },
+    {
+     "role": "priest",
+     "es": "Por tu Hijo unigénito, Jesucristo. Que a ti son debidos la gloria y el honor junto con él y el Espirito Santo vivificante y consubstancial a Ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "بإبنك الوحيد يسوع المسيح هذا الذى يليق بك المجد والإكرام معه ومع الروح القدس المحيى المساوى لك الآن وكل أوان وإلى دهر الدهور أمين."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote reza sobre las coronas y cada una de las veces, los diáconos dicen: Amén.",
+     "cop": "",
+     "ar": "يمسك الكاهن بالأكاليل ويصلى عليها هذه الصلاة وفى كل مرة يرد المرتلون أمين."
+    },
+    {
+     "role": "priest",
+     "es": "Oh Dios Santo que has coronado a tus santos con coronas que no se desvanecen y has conciliado a los celestiales con los terrenales y los has unido. Ahora Tú también, nuestro Señor, bendice estas coronas que hemos preparado para ponerlas sobre tus servidores, que sean coronas de gloria y dignidad para ellos. Amén.",
+     "cop": "",
+     "ar": "يا الله القدوس الذى كلل قديسيه بأكاليل لا تذبل ، وصالح السمائيين مع الأرضيين ووحدهما . أنت أيضاً الآن يا سيدنا بارك هذه الكاليل التى هيأناها لنضعها على عبديك ، لتكون لهما أكاليل مجد وكرامة آمين."
+    },
+    {
+     "role": "priest",
+     "es": "Coronas de bendición y salvación. Amén. Coronas de alegría y placer. Amén. Coronas de regocijo y júbilo. Amén. Coronas de virtud y justicia. Amén. Coronas de sabiduría y corazón comprensivo. Amén. Coronas de consuelo y estabilidad. Amén.",
+     "cop": "",
+     "ar": "أكاليل بركة وخلاص آمين . أكاليل فرح ومسرة آمين . أكاليل تهليل وبهجة آمين . أكاليل فضيلة وعدل آمين . أكاليل حكمة وفهم قلب آمين . أكاليل عزاء وثبات آمين ."
+    },
+    {
+     "role": "priest",
+     "es": "Concede a tus servidores, quienes las llevan, el ángel de la paz y el vínculo del amor. Protégelos de todo mal pensamiento y deseo. Líbralos de toda malicia y de toda intriga satánica. Que esté tu misericordia sobre ellos. Escucha sus súplicas, pon tu temor en sus corazones y dirige sus vidas sin demora hasta la senectud. Haz que se alegren al ver a los niños y las niñas que tienen. Hazlos útiles en tu una, santa, católica y apostólica iglesia, y firmes en la fe ortodoxa hasta el fin. Guíalos en el camino de tu justicia por la alegría de tu buen Padre y el Espíritu Santo. Ahora, siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "هب لعبديك اللذين يلبسانها ملاك السلامة ورباط المحبة وأنقذهما من كل فكر قبيح وشهوة رديئة ، ونجهما من كل ثقل الخبث ومن كل محنة شيطانية . ولتكن رحمتك عليهما . استمع صوت طلبتهما . اطرح مخافتك في قلبيهما . دبر حياتهما بغير تأخير إلى حد الشيخوخة . اجعلهما يفرحان بنظر البنين والبنات اللذين يلدانهما . إئت بهم نافعين في كنيستك الواحدة المقدسة الجامعة الرسولية ثابتين في الإيمان الأرثوذكسى إلى الإنقضاء . دبرهما في سبيل برك. بمسرة ابيك الصالح والروح القدس الآن وكل آوان وإلى الأبد أمين ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote pone las coronas sobre ellos y dice esta oración. Y los diáconos responden: Amén.",
+     "cop": "",
+     "ar": "يضع الكاهن عليهما الأكاليل وهو يقول هذه الصلاة ويرد المرتلون آمين."
+    },
+    {
+     "role": "priest",
+     "es": "Pon, Señor, sobre tus servidores las coronas de gracia no derrotada. Amén. Coronas de gloria elevada e inmortal. Amén. Coronas de buena honestidad, a las que nada se opone ni combate. Y bendice todas sus obras. Amén. Porque Tú, Cristo nuestro Dios, eres el Dador de los bienes.",
+     "cop": "",
+     "ar": "ضع يا رب على عبديك اكاليل النعمة غير المغلوبة أمين .أكاليل مجد مرتفع وغير فان آمين . أكاليل أمانة حسنة غير مضادة ولا محاربة وبارك جميع أعمالهما آمين . لأنك أنت المعطى الخيرات أيها المسيح إلهنا ،"
+    },
+    {
+     "role": "priest",
+     "es": "Y a ti son debidos la gloria y el honor junto con tu Padre Bueno y el Espíritu Santo vivificante consubstancial a ti. Ahora y siempre y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "ويليق بك المجد والإكرام مع أبيك الصالح وروحك القدوس المحيى المساوى لك الأن وكل أوان وإلى دهر الدهور آمين ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote acerca las cabezas de los novios diciendo las siguientes oraciones y con cada una hace la señal de la cruz encima de sus cabezas y los diáconos dicen: Amén.",
+     "cop": "",
+     "ar": "يضم الكاهن رأس العريس إلى رأس العروس ويقول العبارات الثلاث الآتية ومع كل عبارة يرشم بالصليب على رأسيهما ويرد الشمامسة قائلين آمين ."
+    },
+    {
+     "role": "priest",
+     "es": "Corónales por la gloria y el honor. Oh, Padre. Amén. Bendíceles, oh, Hijo Unigénito. Amén. Santifícales, Oh, Espíritu Santo. Amén.",
+     "cop": "",
+     "ar": "كللهما بالمجد والكرامة أيها الآب آمين . باركهما آيها الابن الوحيد آمين . قدسهما أيها الروح القدس آمين."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos:",
+     "cop": "",
+     "ar": "يقول المرتلون:"
+    },
+    {
+     "role": "priest",
+     "es": "Digno (3) Novio y novia",
+     "cop": "",
+     "ar": "مستحق (3) العريس وعروسه"
+    },
+    {
+     "role": "note",
+     "es": "Y luego se canta según el ritmo de Adán.",
+     "cop": "",
+     "ar": "ثم تقال هذه المديحة بلحن أدام."
+    },
+    {
+     "role": "priest",
+     "es": "Coronas eternas, que le ha dado el Señor al novio que es de Jesucristo.",
+     "cop": "",
+     "ar": "أكاليل لاتبلى ، منحها الرب لهذا العريس الذى ليسوع المسيح ."
+    },
+    {
+     "role": "priest",
+     "es": "Sea iluminado, sea iluminado el novio junto con tu verdadera novia que está en tu lugar preparado.",
+     "cop": "",
+     "ar": "استضىء، استضىء ايها العريس مع عروسك الحقيقة التى في موضعك المستعد ."
+    },
+    {
+     "role": "priest",
+     "es": "Acepta la alegría y el don de Dios que te ha dado Cristo nuestro Dios.",
+     "cop": "",
+     "ar": "اقبل الفرح وموهبة الله التى أعطاها لك المسيح إلهنا ."
+    },
+    {
+     "role": "priest",
+     "es": "Pasa alegremente a tu alcoba decorada de todo tipo.",
+     "cop": "",
+     "ar": "إمض بفرح إلى خدرك المزين بكل نوع ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote pone la cruz santa sobre la cabeza del novio y hace la señal de la cruz diciendo:",
+     "cop": "",
+     "ar": "يضع الكاهن الصليب المقدس على رأس العريس ويرشم قائلاً:"
+    },
+    {
+     "role": "priest",
+     "es": "El que ha bendecido a Adán, Noé, Abrahán y Moisés en la tierra de Madián te bendice, oh novio y a tu ayudante. El que ha bendecido a Isaac, el amado, a Abel, el primero y recto, a Salomón y a su padre David, te bendice, oh novio, y a tu ayudante. El que ha bendecido a nuestro padre Jacob y a Job, el justo, te bendice siete veces, oh novio, y a tu ayudante.",
+     "cop": "",
+     "ar": "الذى بارك أبانا أدم ونوح وإبراهيم وموسى في أرض مديان يباركك أيها العريس ومعينتك . الذى بارك إسحق الحبيب وهابيل الصديق الأول وسليمان وأبية داود، يباركك أيها العريس ومعينتك .الذى بارك أبانا يعقوب والصديق أيوب ، يباركك سبعة أضعاف أيها العريس ومعينتك"
+    },
+    {
+     "role": "priest",
+     "es": "También hace la señal de la cruz sobre la novia diciendo:",
+     "cop": "",
+     "ar": "وهكذا أيضاً يرشم العروس ويقول:"
+    },
+    {
+     "role": "priest",
+     "es": "El que ha bendecido a nuestro padre Adán y a Eva, Abrahán con Sara e Isaac con Rebeca, bendice este matrimonio. El que ha bendecido a Jacob en su matrimonio y a Ana la madre de Samuel, bendice este matrimonio. El que ha bendecido a José con Asenat, Zacarías con Isabel, a María, madre del novio, y a todas las mujeres benditas, bendice este matrimonio.",
+     "cop": "",
+     "ar": "الذى بارك أبانا أدم وحواء وابراهيم مع سارة وإسحق مع رفقة . يبارك هذا الزواج . الذى بارك يعقوب في زواجه، وحنة أم صموئيل ، يبارك هذا الزواج . الذى بارك يوسف مع أسينات ، وزكريا مع أليصابات ، ومريم أم الختن وكافة النساء المباركات يبارك هذا الزواج."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos:",
+     "cop": "",
+     "ar": "يقول المرتلون:"
+    },
+    {
+     "role": "priest",
+     "es": "Los querubines lo adoran y los serafines lo glorifican, proclamando y diciendo: Santo, Santo, Santo, Señor de miles, y honrado por diez miles. Tú eres el incienso, oh nuestro Salvador, porque viniste y nos salvaste. Ten piedad de nosotros.",
+     "cop": "",
+     "ar": "الشاروبيم يسجدون له والسيرافيم يمجدونه صارخين قائلين قدوس قدوس قدوس الرب في الألوف ومكرم في الربوات .أنت هو البخور يا مخلصنا لأنك أتيت وخلصتنا أرحمنا ."
+    },
+    {
+     "role": "priest",
+     "es": "Y ahora habéis venido a esta ceremonia ortodoxa en esta hora bendita delante del templo del Señor de los ejércitos y de su altar santo, y este matrimonio bendecido y la corona santa os han unido. Por esta ley y norma, los padres creyentes se han casado con una mujer por pureza e inocencia para pedir y encontrar la natalidad. Por eso cada uno tiene que saber el derecho del otro, sujetar a su compañero, y ser honesto con el otro. Como dijo San Pablo el apóstol: La mujer no dispone de su cuerpo, sino el marido. De igual modo, el marido no dispone de su propio cuerpo, sino la mujer. (1 Corintios 7:4).",
+     "cop": "",
+     "ar": "والآن قد حضرتما في هذه الساعة المباركة قدام هيكل رب الصباؤوت ومذبحه المقدس في هذا المحفل الأرثوذكسي وجمعتكما هذه الزيجة المباركة والإكليل المقدس . فعلى هذا الرسم وهذه الشريعة ، هكذا اتخذ سائر الأباء المؤمنون إمرأة واحدة بطهر ونقاوة، لطلب الذرية وإيجاد الخلف . فيجب عليكما أن يعرف بعضكما حق بعض ويخضع كل منكما لصاحبه . وليكن كل منكما اميناً نحو الآخر . كقول معلمنا بولس الرسول ليس للمرأة تسلط على جسدها بل للرجل وكذلك الرجل أيضاً ليس له تسلط على جسده بل للمراة (1 كو 7: 4 )."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos:",
+     "cop": "",
+     "ar": "يقول المرتلون:"
+    },
+    {
+     "role": "priest",
+     "es": "Mi paz que he aceptado de mi padre la dejaré con vosotros, ahora y para siempre.",
+     "cop": "",
+     "ar": "سلامى خاصة الذى قبلته من أبى أنا أتركه معكم من الآن وإلى ألأبد ."
+    },
+    {
+     "role": "priest",
+     "es": "Novio recibe a tu novia que es tuya, Jesucristo te la ha dado, a través del sacerdote la has cogido y os ha bendecido por su Santo nombre.",
+     "cop": "",
+     "ar": "استلم يا عريس عروسك وهى لك يسوع المسيح أعطاها لك وبيد الكاهن سلمها لك وبارككما باسمه القدوس ."
+    },
+    {
+     "role": "priest",
+     "es": "Señor escúchanos, Señor ten piedad de nosotros, Señor bendícenos.",
+     "cop": "",
+     "ar": "يارب أسمعنا يا رب أرحمنا يارب باركنا."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote entrega la novia al novio. Luego dice este mandamientos al esposo:",
+     "cop": "",
+     "ar": "يسلم الكاهن العروس لعريسها ثم يقول هذه الوصية للعريس ."
+    },
+    {
+     "role": "priest",
+     "es": "Hijo bendito por la gracia del Espíritu Santo, en esta hora bendita debes recibir a tu esposa con conciencia buena, alma pura, corazón recto y esfuérzate en hacer el bien a ella y sé cariñoso con ella y hazla feliz, porque tú eres el responsable de ella después de sus padres. Habéis coronado con la corona celestial, el matrimonio espiritual y la gracia de Dios se posó sobre vosotros. Si aceptas todo lo que te he mandado, el Señor tomará tu mano, aumentará tu sustento, te dará hijos benditos, te concederá una larga y rica vida y te hará prosperar al fin de esta y la otra vida.",
+     "cop": "",
+     "ar": "يجب عليك أيها الأبن المبارك ، المؤيد بنعمة الروح القدس ، ان تتسلم زوجتك فى هذه الساعة المباركة بنية خالصة ، ونفس طاهرة وقلب سليم وتجتهد فيما يعود لصالحها وتكون حنوناً عليها وتسرع إلى ما يسر قلبها. فأنت اليوم المسئول عنها بعد والديها . وقد تكللتما بالإكليل السمائى والزيجة الروحانية ، وحلت عليكما نعمة الله ومتى قبلت ما أوصيت به أخذ الرب بيدك ، وأوسع فى رزقك ويرزقك اولاداً مباركين يقر الله بهم عينيك ويمنحك العمر الطويل والعيش الرغد ، ويحسن لك العاقبة فى الدنيا والآخرة ."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos :",
+     "cop": "",
+     "ar": "يقول المرتلون:"
+    },
+    {
+     "role": "priest",
+     "es": "Escucha hija mía, mira e inclina tu oído, olvida tu pueblo y la casa de tu padre. El rey deseó tu hermosura porque es tu Señor.",
+     "cop": "",
+     "ar": "اسمعى يا أبنتى وانظرى وميلى بسمعك وأنسى شعبك وبيت أبيك فإن الملك قد أشتهى حسنك لأنه هو ربك."
+    },
+    {
+     "role": "priest",
+     "es": "Escucha esposa, entiende e inclina tu oído, el esposo deseó tu pureza, como es tu hombre tienes que obedecerlo.",
+     "cop": "",
+     "ar": "اسمعى يا عروس وافهمى وميلى بسمعك لأن العريس قد أشتهى طهرك لأنه رجلك فيجب أن تطيعه."
+    },
+    {
+     "role": "priest",
+     "es": "Escucha esposa y atiende bien, olvida tu pueblo y la casa de tu padre, el esposo deseó tu pureza, como es tu esposo debes someterte a él.",
+     "cop": "",
+     "ar": "اسمعى يا عروس واصغى بسمعك وانسى شعبك وبيت أبيك فإن العريس قد راق له طهرك فهو زوجك وله تخضعين ."
+    },
+    {
+     "role": "priest",
+     "es": "Señor escúchanos, Señor ten piedad de nosotros, Señor bendícenos.",
+     "cop": "",
+     "ar": "يارب اسمعنا يارب ارحمنا يارب باركنا ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice este mandamiento a la esposa:",
+     "cop": "",
+     "ar": "يقول الكاهن هذه الوصية للعروس:"
+    },
+    {
+     "role": "priest",
+     "es": "Y tú, hija bendita, la esposa feliz, has escuchado el mandamiento de tu esposo, debes honrarle y respetarle, no contradigas su opinión sino que aumenta tu obediencia en todo lo que manda. Te has unido a él, y él es el responsable de ti después de tus padres, Por eso tienes que recibirlo con alegría y júbilo. No te enfades con él, no rechaces sus derechos y teme a Dios en todas las cosas junto con él.",
+     "cop": "",
+     "ar": "وأنت أيتها الأبنة المباركة العروس السعيدة قد سمعت ما أوصى به زوجك . فيجب عليك أن تكرميه وتهابيه ، ولاتخالفى رأيه ، بل زيدى في طاعته على ما أوصى به أضعافاً فقد صرت اليوم منفردة معه وهو المسئول عنك بعد والديك. فيجب عليك أن تقابليه بالبشاشة والترحاب ، ولا تضجرى في وجهه ، ولا تضيعى شيئاً من حقوقه عليك وتتقى الله في سائر امورك معه ."
+    },
+    {
+     "role": "priest",
+     "es": "Porque Dios te ha mandado someterte y obedecerle después de tus padres, estate con él, como nuestra madre Sara había obedecido a nuestro padre Abrahán y lo llamaba: oh, mi señor. Dios vio su obediencia a él, la bendijo, le dio a Isaac en su ancianidad e hizo su descendencia como las estrellas del cielo y la arena en la playa. Si escuchas todo esto, Dios tomará tu mano, aumentará tu sustento, posará las bendiciones en tu casa y te dará hijos benditos.",
+     "cop": "",
+     "ar": "لأن الله أوصاك بالخضوع له وأمرك بطاعته بعد والديك فكونى معه كما كانت أمنا سارة مطيعة لأبينا إبراهيم وكانت تخاطبه يا سيدى . فنظر الله إلى طاعاتها له وبارك عليها وأعطاها إسحق بعد الكبر وجعل نسلها مثل نجوم السماء والرمل الذى على شاطىء البحر. فإذا سمعت ما اوصيناك به وأتبعت جميع الأوامر أخذ الرب بيدك ووسع في رزقك وحلت البركات في منزلك ورزقك أولاداً مباركين يقر الله بهم عينك ."
+    },
+    {
+     "role": "note",
+     "es": "Los diáconos :",
+     "cop": "",
+     "ar": "يقول المرتلون:"
+    },
+    {
+     "role": "priest",
+     "es": "Rey de la paz concédenos tu paz, establece tu paz y perdona nuestros pecados.",
+     "cop": "",
+     "ar": "يا ملك السلام امنحنا سلامك وقرر لنا سلامك وأغفر لنا خطايانا ."
+    },
+    {
+     "role": "priest",
+     "es": "Matrimonio puro, matrimonio venerado, se ha bendecido por el sacerdote de Emmanuel. La bendición de nuestro Señor en la boda de Caná de Galilea. Al esposo (…) y a la esposa (…).",
+     "cop": "",
+     "ar": "زواج طاهر وإكليل جليل باركته يا كاهن عمانوئيل بركة ربنا في عرس قانا الجليل (لفلان) العريس و(فلانة) العروس."
+    },
+    {
+     "role": "priest",
+     "es": "Señor escúchanos. Señor ten piedad de nosotros. Señor bendícenos.",
+     "cop": "",
+     "ar": "يارب اسمعنا يارب ارحمنا يارب باركنا ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice sobre las cabezas de los esposos mientras están inclinados delante del templo santo.",
+     "cop": "",
+     "ar": "يقول الكاهن ( على رأس العروسين وهما ساجدان معاً أمام الهيكل المقدس )."
+    },
+    {
+     "role": "priest",
+     "es": "También el Señor te bendice hermano y bendice a tu esposa como ha bendecido a Noé y a su esposa cuando salieron de la barca y multiplicó la tierra a través de su descendencia. Y como ha bendecido a Abrahán con Sara, a Isaac con Rebeca y Jacob en su matrimonio y la bendición del Señor, el grande, en la boda de Caná de Galilea posa sobre vosotros y en su casa, concilia entre vosotros, hace el amor espiritual en su corazones, eterniza su sustento, llena su casa y les da larga y feliz vida con los hijos benditos.",
+     "cop": "",
+     "ar": "كذلك يباركك الرب أيها الأخ ويبارك زوجتك كما بارك نوح وزوجته عند خروجهما من السفينة وعمر الأرض من ذريتهما . وكما بارك لإبراهيم في سارة ولإسحق فى رفقة وليعقوب في زواجه وبركة الرب جل أسمه الحالة في عرس قانا الجليل تحل عليكما وفى منزلكما وتوفق بينكما وتجعل المحبة الروحانية في قلبكما وتديم أرزاقكما ، وتعمّر منزلكما وتمنحكما العمر الطويل والحياة الهنيئة مع الأولاد المباركين."
+    },
+    {
+     "role": "priest",
+     "es": "Y le pedimos que reciba las oraciones de este matrimonio bendito y concédenos lo incorrupto en lugar de lo corrupto y lo celestial en vez de lo terrenal. Y perdona nuestros pecados, nuestras ofensas y nuestras faltas. Y protégenos del mal. Apoya nuestro gobierno y conserva con su diestra fuerte a todos los hermanos presentes junto con nosotros todos los días de su vida. Llena sus casas, líbralos de las tentaciones del enemigo y dales la alegría celestial e infinita.",
+     "cop": "",
+     "ar": "وإياه نسأل أن يتقبل منا صلوات هذا الإكليل المبارك ويعوضنا عن الفانيات بالباقيات وعن الأرضيات بالسمائيات ويغفر لنا خطايانا وذنوبنا وزلاتنا ويكفينا مكائد ومكاره العدو الشيطان الشرير . ويؤيد حكومتنا ويحفظ كافة الإخوه الحاضرين معنا بيمينه الحصين كل أيام حياتهم . ويعمر منازلهم . ويكفيهم تجارب العدو . ويعطيهم الفرح السمائى الذى لا يشوبه كدر."
+    },
+    {
+     "role": "priest",
+     "es": "Por las intersecciones de nuestra Señora de todos y el orgullo de nuestra raza, la Virgen Purísima, la Madre del Salvador, la elegida del ser humano, Santa María, la Pura. Y el mártir el bienaventurado, el elegido, el evangelista el apóstol, Marcos y todos los mártires y santos puros. Amén.",
+     "cop": "",
+     "ar": "بشفاعة سيدتنا كلنا وفخر جنسنا السيدة العذراء الطاهرة ، والدة الخلاص الزكية المفضله على سائر جنس البشر القديسة مريم النقية ، والشهيد المكرم المختار مرقس الأنجيلى الرسول وكافة الشهداء الأبرار و القديسين الأطهار آمين ."
+    },
+    {
+     "role": "note",
+     "es": "Todos dicen: Padre nuestro. Y el sacerdote dice las tres absoluciones sobre las cabezas de los novios, finaliza bendiciendo y se despide.",
+     "cop": "",
+     "ar": "ثم يصلى الجميع أبانا الذى في السموات ويقول الكاهن التحاليل الثلاثة على رأس العروسين ويختم بالبركة ثم التسريح ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "La oración del segundo matrimonio para los viudos",
+    "ar": "صلاة الزيجة الثانية للأرامل",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "priest",
+     "es": "Ten piedad de nosotros…, padre nuestro, demos gracias e inciensa. Luego se dice el Salmo 50 y después los diáconos cantan lo que conviene (como el himno del incensario de oro…).",
+     "cop": "",
+     "ar": "إليسون إيماس ... وأبانا الذى فى السموات وصلاة الشكر ويرفع البخور ويقال المزمور الخمسون . ثم يرتل الشمامسة بما يناسب ( مثل لحن تى شورى...)"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "De las Epístolas paulinas A los Hebreos (13:1-6)",
+    "ar": "البولس من الرسالة إلى العبرانين (13 : 1-6 )",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Conservad el amor fraterno y no olvidéis la hospitalidad: por ella algunos, sin saberlo, hospedaron a ángeles. Acordaos de los presos como si estuvierais presos con ellos; de los que son maltratados como si estuvierais en su carne. Que todos respeten el matrimonio; el lecho nupcial, que nadie lo mancille, porque a los impuros y adúlteros Dios los juzgará.",
+     "cop": "",
+     "ar": "لتثبت المحبة الأخوية . لاتنسوا إضافة الغرباء لأن بها أضاف أناس ملائكة وهم لا يدرون . أذكروا المقيدين كأنكم مقيدون معهم، والمذلين كأنكم أنتم أيضاً فى الجسد. ليكن الزواج مكرماً عند كل واحد ، والمضجع ايضاً غير نجس . وأما العاهرون والزناة فسيدينهم الله ."
+    },
+    {
+     "role": "text",
+     "es": "Vivid sin ansia de dinero, contentándoos con lo que tengáis, pues él mismo dijo: Nunca te dejaré ni te abandonaré; así tendremos valor para decir: El Señor es mi auxilio: nada temo; ¿qué podrá hacerme el hombre?",
+     "cop": "",
+     "ar": "لتكن سيرتكم خالية من محبة المال. كونوا مكتفين بما عندكم لأنه قال لا أهملك ولا أتركك حتى أننا نقول واثقين : الرب معين لى فلا أخاف ، ماذا يصنع بى إنسان ."
+    },
+    {
+     "role": "text",
+     "es": "Que la gracia de Dios Padre sea concedido a nosotros. Amén.",
+     "cop": "",
+     "ar": "نعمة الله الآب تحل على جميعنا آمين."
+    },
+    {
+     "role": "note",
+     "es": "O se lee esta parte",
+     "cop": "",
+     "ar": "أو يقولون هذا الفصل إن أرادوا"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "De las Epístolas paulinas 1 Corintios (7:7-9)",
+    "ar": "البولس من كورنثوس الأولى (7:7-9)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Aunque deseo que todos los hombres fueran como yo mismo. Pero cada cual tiene su propio don de Dios, unos de un modo y otros de otro. Ahora bien, a los no casados y a las viudas les digo: es bueno que se mantengan como yo. Pero si no se contienen, cásense; es mejor casarse que abrasarse.",
+     "cop": "",
+     "ar": "لأنى أريد أن يكون جميع الناس كما انا . لكن كل واحد له موهبته الخاصة من الله ، الواحد هكذا والأخر هكذا. ولكن أقول لغير المتزوجين وللأرامل أنه حسن لهم إذا لبثوا كما أنا ولكن إن لم يضبطوا أنفسهم فليتزوجوا لأن التزوج أصلح من التحرق."
+    },
+    {
+     "role": "text",
+     "es": "Que la gracia de Dios Padre sea concedido a nosotros. Amén.",
+     "cop": "",
+     "ar": "نعمة الله الآب تحل على جميعنا آمين."
+    },
+    {
+     "role": "note",
+     "es": "Luego los diáconos cantan el Trisagio. Entonces el sacerdote reza la Letanía del Evangelio y posteriormente, los diáconos cantan este Salmo.",
+     "cop": "",
+     "ar": "ثم يقول المرتلون لحن الثلاثة تقديسات وأوشية الإنجيل وهذا المزمور."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Salmo (127:3)",
+    "ar": "المزمور (127 :3)",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Tu mujer, como parra fecunda, en medio de tu casa; tus hijos, como renuevos de olivo, alrededor de tu mesa. Aleluya.",
+     "cop": "",
+     "ar": "إمرأتك تكون كالكرمة التى تزهر فى جوانب بيتك ، وبنوك مثل غروس الزيتون محيطين بمائدتك هلليلويا."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "El evangelio según nuestro maestro San Juan (3:27-29)",
+    "ar": "الإنجيل من معلمنا يوحنا ( 3 : 27 – 29 )",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Contestó Juan: «Nadie puede tomarse algo para sí si no se lo dan desde el cielo. Vosotros mismos sois testigos de que yo dije: “Yo no soy el Mesías, sino que he sido enviado delante de él”.",
+     "cop": "",
+     "ar": "أجاب يوحنا وقال لايقدر إنسان أن يأخذ شيئاً من ذاته إن لم يكن قد أعطى من السماء. أنتم تشهدون لى إنى قلت لكم أنا لست المسيح بل إنى مرسل أمامه ."
+    },
+    {
+     "role": "text",
+     "es": "El que tiene la esposa es el esposo; en cambio, el amigo del esposo, que asiste y lo oye, se alegra con la voz del esposo; pues esta alegría mía está colmada.",
+     "cop": "",
+     "ar": "من له العروس فهو العريس وأما صديق العريس الذى يقف ويسمعه فيفرح فرحاً من أجل صوت العريس . إذن فرحى هذا كمل ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Respuesta del evangelio",
+    "ar": "مرد الأنجيل",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Oh Juan el Bautista, y el pariente de Emmanuel, estos son tu alegría y tu júbilo que han sido completados.",
+     "cop": "",
+     "ar": "ها هوذا فرحك وتهليلك قد تم يا يوحنا المعمدان نسيب عمانوئيل ."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice las tres letanías pequeñas la paz, los padres, las asambleas, el Credo ortodoxo y esta oración:",
+     "cop": "",
+     "ar": "ثم يقول الكاهن الثلاث أواشى الصغار السلام والآباء والإجتماعات وقانون الإيمان وهذه الصلاة :"
+    },
+    {
+     "role": "text",
+     "es": "Oh Señor, Dios todopoderoso, Padre de nuestro Señor, Dios y salvador Jesucristo, que has creado al hombre de la tierra y le has dado una ayudante como él, la has creado de él, para ser su mujer, su compañera y su ayudante, para dar a luz niños y niñas, para aumentar la especie de la humanidad.",
+     "cop": "",
+     "ar": "أيها السيد الرب الإله ضابط الكل، أبو ربنا وإلهنا ومخلصنا يسوع المسيح ، الذى جبل الإنسان من الأرض وأعطاه معينه مثله ، خلقها منه لتكون له إمرأة وشريكة ومساعدة له لتلد البنين والبنات ، لينمو جنس البشر."
+    },
+    {
+     "role": "text",
+     "es": "Y también Pablo el apóstol de tu hijo unigénito Jesucristo, ordena diciendo a los que no están casados y están viudos: Mejor para ellos que se queden así, pero si no pueden asumir la castidad, entonces mejor que se casen.",
+     "cop": "",
+     "ar": "وبولس أيضاً رسول أبنك الوحيد يسوع المسيح يأمر قائلاً للذين لم يتزوجوا وللأرامل : أنه خير لهم أن يكونوا هكذا فإن لم يحتملوا التعفف فالأفضل أن يتزوجوا."
+    },
+    {
+     "role": "text",
+     "es": "Por eso, te pedimos y suplicamos tu bondad, amante de la humanidad para tus servidores (… y…) quienes están reunidos en esta hora pidiendo tu gracia. Ahora también nuestro rey y redentor, concédeles la libertad y el perdón, cúbrelos con tu diestra, líbralos de toda envidia, guárdalos en un solo corazón, concédeles la alegría y el placer durante muchos años, y tiempos de tranquilidad en paz, con amor y justicia.",
+     "cop": "",
+     "ar": "فلهذا نسأل ونطلب من صلاحك يا محب البشر من أجل عبديك ( فلان وفلانه) اللذين اجتمعا فى هذه الساعه راجين نعمتك ، الأن أيضاً يا ملكنا وفادينا أنعم عليهما بحرية وغفران . وأسترهما بيمينك . نجهما من كل حسد . أحرسهما بقلب واحد. وأنعم عليهما ببهجة وفرح سنين كثيرة وأزمنة هادئه ، بسلامة ومحبة وعدل ."
+    },
+    {
+     "role": "text",
+     "es": "Bendíceles como has bendecido a Jacob en su matrimonio y como Alcaná con Ana. Protégelos de todo mal. Bendice a los hombres y las mujeres que están aquí con nosotros y a sus casas. A mí también, purifícame de toda mancha, líbrame de mis propios pecados porque Tú eres misericordioso con todos los que te suplican.",
+     "cop": "",
+     "ar": "باركهما كما باركت يعقوب فى زواجه ، ومثل القانة مع حنة . احفظهما من كل شر . أما الرجال والنساء الذين ها هنا معنا فباركهم وبارك منازلهم . وأنا أيضاً نقنى من كل دنس غريب . وأعتقنى من خطاياى الخاصة لأنك رحيم كثير الرحمة لكل الذين يدعونك."
+    },
+    {
+     "role": "text",
+     "es": "A ti, te elevamos la gloria, el honor y la adoración, así como a tu hijo unigénito, Jesucristo nuestro Dios, y el Espíritu Santo Vivificante. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "وأنت الذى نرسل لك إلى فوق المجد والكرامة والسجود مع أبنك الوحيد يسوع المسيح ربنا والروح القدس المحيى ، الآن وكل آوان وإلى دهر الدهور أمين."
+    },
+    {
+     "role": "note",
+     "es": "El sacerdote dice estos mandamientos :",
+     "cop": "",
+     "ar": "ثم يقول الكاهن هذه الوصايا :"
+    },
+    {
+     "role": "text",
+     "es": "En esta hora bendita habéis venido en el nombre del Señor Dios para el matrimonio espiritual. Cada uno de vosotros debe convivir con su pareja en el temor de Dios, una buena vida, un buen trato, y estén en un solo corazón y un solo espíritu.",
+     "cop": "",
+     "ar": "وها أنتما الآن قد حضرتما فى هذه الساعة المباركة بأسم الرب الإله للزيجة الروحية فيجب على كل منكما أن يعاشر قرينه بخوف الله ومراقبته ، وبجميل السيرة وبحسن السلوك فى معاشرته ، وتكونا قلباً واحداً وروحاً واحداً."
+    },
+    {
+     "role": "text",
+     "es": "A partir de ahora no son dos, sino una sola carne, como dijo nuestro Señor Cristo en su Santo Evangelio. Y no haya ninguna separación después de este enlace cristiano.",
+     "cop": "",
+     "ar": "فإنكما من الآن لستما أثنين بل جسداً واحداً كما قال سيدنا المسيح فى إنجيله المقدس، ولم يبق لكما بعد هذا الإرتباط المسيحى إفتراق ولا إنفصال بمشيئة الله ."
+    },
+    {
+     "role": "text",
+     "es": "Lo que Dios ha unido, que no lo separe el hombre. Cada uno de vosotros tiene que ser honesto con el otro como dice san Pablo el apóstol: La mujer no dispone de su cuerpo, sino el marido; de igual modo, tampoco el marido dispone de su propio cuerpo, sino la mujer (1 Corintios 7:4).",
+     "cop": "",
+     "ar": "لأن ما أزوجه الله لا يقدر الإنسان أن يفرقه وليكن كل منكما أميناً نحو الآخر كقول معلمنا بولس الرسول : ليس للمرأة تسلط على جسدها بل للرجل . وكذلك الرجل أيضا ًليس تسلط على جسده بل للمرأة ( 1كو 7-4)."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Mandamiento para el Esposo",
+    "ar": "وصية الزوج",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Y tú, hijo bendito debes recibir a tu esposa con corazón perfecto y esfuérzate en satisfacerla y hacer el bien para ella, como sigue diciendo san Pablo el apóstol: Maridos amad a vuestras mujeres como vuestros cuerpos.",
+     "cop": "",
+     "ar": "وأنت أيها الأبن المبارك يجب عليك أن تتسلم زوجتك بقلب سليم وأن تسرع لإرضائها وتعمل على خيرها ، متمماً قول بولس الرسول : أيها الرجال أحبوا نساءكم كأجسادكم ."
+    },
+    {
+     "role": "text",
+     "es": "Y debes darle todo el honor, la reverencia y háblale con cariño, como manda San Pedro que dice: honrad a las mujeres que están con vosotros, porque son delicadas, y así como también coherederas son, junto con vosotros de la gracia de la vida.",
+     "cop": "",
+     "ar": "وعليك أيضاً أن تكرمها وتوقرها وتخاطبها بالحسنى لأن معلمنا بطرس يوصى قائلا : النساء اللواتى معكم أكرموهن فهن آنية ضعيفة ، وهن شريكات معكم فى نعمة الحياة ."
+    },
+    {
+     "role": "text",
+     "es": "Así pues se te aplicarán las palabras de David el profeta: Bienaventurado el hombre que tema a Dios, su mujer será como vid que lleva fruto a su casa, sus hijos como planta de olivo alrededor de su mesa y dios se bendice y ve los bienes todos los días de su vida.",
+     "cop": "",
+     "ar": "وبهذا يحق عليك قول داود النبى القائل : طوبى للإنسان الذى يتقى الله ، فإن زوجتة تكون مثل الكرمة التى تزهر فى مسكنة ، ويكون أولاده كأغصان الزيتون حول مائدته ويباركه الله ويرى الخيرات كل أيام حياته ."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Mandamiento para la esposa",
+    "ar": "وصية الزوجة",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Y tú, hija bendita tienes que ser sumisa a tu marido y obediente a él, sabiendo que él se ha convertido en tu guía y el responsable, y recuerda las palabras del San Pablo, el apóstol: las mujeres sometidas a sus maridos, como al Señor. Y tienes que honrarlo y respetarlo, como Sara honró a nuestro padre Abrahán diciéndole mi señor.",
+     "cop": "",
+     "ar": "وأنت أيتها الأبنة المباركة كونى خاضعة لزوجك ومطيعة له عالمة أنه قد أنفرد بقيادتك ، وصار حاكماً عليك وتذكرى قول بولس الرسول : أيتها النساء أخضعن لأزواجكن كخضوعكن للرب جل أسمه وكونى مبجلة موقرة لشأنه ، كما كانت سارة توقر أبانا إبراهيم وتدعوه سيدأً لها."
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Mandamiento final",
+    "ar": "وصية ختامية",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "text",
+     "es": "Sabéis que, si hacéis lo que se os mandó y seguís vuestro matrimonio con pureza y temor de Dios, alargará vuestra edad, multiplicará vuestro sustento, os dará hijos benditos que os plazcan. Dios os guardará de todo mal y Dios de la paz, os concederá su gracia y os bendicirá como bendijo a Noé y su mujer llenando la tierra con su descendencia. Y como bendijo a Abrahán con Sara, a Isaac con Rebeca, y Jacob en su matrimonio. . Y su bendición en la boda de Caná de Galilea esté sobre vosotros y en vuestras casas. Aleja al mal y al diablo de vosotros y os vigila. Y perdona vuestros pecados, por las intercesiones de la Virgen la madre del salvador del mundo. Y de todos los Apóstoles, los mártires y los santos. Amén.",
+     "cop": "",
+     "ar": "وأعلما أنكما إذا فعلتما ما أوصيتما به وحفظتما زيجتكما بالطهارة وخوف الله ، أطال عمركما ووسع فى رزقكما وأعطاكما اولاداً مباركين يسرونكما ويقرون اعينكما ويحفظكما الله من كل سوء . وإله السلام يمن عليكما بنعمته ، ويبارككما كما بارك نوح وزوجتة وعَمر الأرض من ذريتهما . وكما بارك لإبراهيم فى سارة و لإسحق فى رفقة ، وليعقوب فى زواجه . وبركته الحاله فى عرس قانا الجليل تحل عليكما ، وفى منزلكما ، ويدفع السوء عنكما ويبعد الشيطان من بينكما ويحرسكما ، ويغفر لكما خطاياكم ، بشفاعة العذراء البتول والدة خلاص العالم وجميع الرسل والشهداء والقديسين آمين ."
+    },
+    {
+     "role": "note",
+     "es": "Después el sacerdote les unge con el aceite y dice el Padre Nuestro, las absoluciones, la bendición y concluye como siempre.",
+     "cop": "",
+     "ar": "ثم يدهنهما الكاهن بالزيت ويقول أبانا الذى فى السموات والتحاليل والبركة والختام كالمعتاد."
+    }
+   ]
+  }
+ ]
+}
