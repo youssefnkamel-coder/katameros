@@ -400,6 +400,12 @@
 "ar": "صلُّوا من أجل هذه القرابين المقدسةِ الكريمةِ، وتقدماتنا والذين قَدَّموها. ياربُّ ارحم."
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Acuérdate señor, de todos aquellos que nos han pedido acordarnos de ellos, en nuestras súplicas y nuestros ruegos. El Señor les recuerda en su reino que está en los cielos.",
 "cop": "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲁⲩϩⲟⲛϩⲉⲛ ⲛⲁⲛ ⲉ̀ⲉⲣⲡⲟⲩⲙⲉⲩⲓ̀ ϧⲉⲛ ⲛⲉⲛϯϩⲟ ⲛⲉⲙ ⲛⲉⲛⲧⲱⲃϩ: Ⲡϭⲟⲓⲥ ⲉϥⲉ̀ⲉⲣⲡⲟⲩⲙⲉⲩⲓ̀ ϧⲉⲛ ⲧⲉϥⲙⲉⲧⲟⲩⲣⲟ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀.",
@@ -551,27 +557,27 @@
 },
 {
 "role": "deacon",
-"es": "آمين واحد هو الآب القدوس، واحد هو الابن القدوس، واحد هو الروح القدس. آمين.",
+"es": "Amén. Uno es el Padre Santo, Uno es el Hijo Santo, uno es el Espíritu Santo. Amén.",
 "cop": "Ⲁⲙⲏⲛ: ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ: ⲓⲥ Ⲩⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲉⲛ Ⲡⲛⲉⲩⲙⲁ ⲁ̀ⲅⲓⲟⲛ. ⲁ̀ⲙⲏⲛ.",
-"ar": "Amén. Uno es el Padre Santo, Uno es el Hijo Santo, uno es el Espíritu Santo. Amén."
+"ar": "آمين واحد هو الآب القدوس، واحد هو الابن القدوس، واحد هو الروح القدس. آمين."
 },
 {
 "role": "deacon",
-"es": "معك الرياسة فى يوم قوتك فى بهاء القديسين من البطن قبل كوكب الصبح ولدتك.",
+"es": "Contigo es la jefatura en el día de tu pureza, en el brillo de los santos. En el vientre, antes de la estrella de la mañana, Yo te engendré.",
 "cop": "Ⲥϣⲟⲡ ⲛⲉⲙⲁⲕ ⲛ̀ϫⲉ ϯⲁⲣⲭⲏ ϧⲉⲛ ⲡ̀ⲉ̀ϩⲟⲟⲩ ⲛ̀ⲧⲉ ⲧⲉⲕϫⲟⲙ ϧⲉⲛ ⲫ̀ⲟⲩⲱⲓⲛⲓ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ: ⲉ̀ⲃⲟⲗϧⲉⲛ ⲑ̀ⲛⲉϫⲓ ϧⲁϫⲱϥ ⲙ̀ⲡⲓⲥⲓⲟⲩ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ: ⲁ̀ⲛⲟⲕ ⲁⲓϫ̀ⲫⲟⲕ.",
-"ar": "Contigo es la jefatura en el día de tu pureza, en el brillo de los santos. En el vientre, antes de la estrella de la mañana, Yo te engendré."
+"ar": "معك الرياسة فى يوم قوتك فى بهاء القديسين من البطن قبل كوكب الصبح ولدتك."
 },
 {
 "role": "deacon",
-"es": "أقسم الرب ولن يندم أنك أنت الكاهن إلى الأبد على طقس ملكى صادق.",
+"es": "El Señor ha jurado y no se lamentará: “Tú eres sacerdote para siempre según el orden de Melquisedec.”",
 "cop": "Ⲁϥⲱⲣⲕ ⲛ̀ϫⲉ Ⲡϭⲟⲓⲥ: ⲟⲩⲟϩ ⲛ̀ⲛⲉϥⲟⲩⲱⲙ ⲛ̀ϩ̀ⲑⲏϥ: ϫⲉ ⲛ̀ⲑⲟⲕ ⲡⲉ ⲫ̀ⲟⲩⲏⲃ ϣⲁ ⲉ̀ⲛⲉϩ: ⲕⲁⲧⲁ ⲧ̀ⲧⲁⲝⲓⲥ ⲙ̀Ⲙⲉⲗⲭⲓⲥⲉⲇⲉⲕ.",
-"ar": "El Señor ha jurado y no se lamentará: “Tú eres sacerdote para siempre según el orden de Melquisedec.”"
+"ar": "أقسم الرب ولن يندم أنك أنت الكاهن إلى الأبد على طقس ملكى صادق."
 },
 {
 "role": "deacon",
-"es": "يا أبانا القديس رئيس الكهنة البابا انبا ___.",
+"es": "Nuestro padre Santo el sumo sacerdote,el Papa Aba___.",
 "cop": "Ⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ ___.",
-"ar": "Nuestro padre Santo el sumo sacerdote,el Papa Aba___."
+"ar": "يا أبانا القديس رئيس الكهنة البابا انبا ___."
 },
 {
 "role": "note",
@@ -581,9 +587,9 @@
 },
 {
 "role": "deacon",
-"es": "وشريكه في الخدمة الرسولية أبينا القديس انبا ___.",
+"es": "Y su compañero en el servicio [apostólico], nuestro padre santo Aba ___.",
 "cop": "Ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ ⲁⲃⲃⲁ ___.",
-"ar": "Y su compañero en el servicio [apostólico], nuestro padre santo Aba ___."
+"ar": "وشريكه في الخدمة الرسولية أبينا القديس انبا ___."
 },
 {
 "role": "note",
@@ -593,39 +599,39 @@
 },
 {
 "role": "deacon",
-"es": "إله السماء يثبته (يثبتهما / يثبتهم) على كرسيه (كرسيهما / كراسيهم) سنين عديدة وأزمنة سالمة.",
+"es": "Dios del cielo los afirme en sus tronos muchos años y en tiempos de paz.",
 "cop": "Ⲫⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ: ⲉϥⲉ̀ⲧⲁϫⲣⲟϥ (ⲉϥⲉ̀ⲧⲁϫⲣⲱⲟⲩ) ϩⲓϫⲉⲛ ⲡⲉϥⲑ̀ⲣⲟⲛⲟⲥ (ⲛⲟⲩⲑ̀ⲣⲟⲛⲟⲥ): ⲛ̀ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲟⲙⲡⲓ: ⲛⲉⲙ ϩⲁⲛⲥⲏⲟⲩ ⲛ̀ϩⲓⲣⲏⲛⲓⲕⲟⲛ.",
-"ar": "Dios del cielo los afirme en sus tronos muchos años y en tiempos de paz."
+"ar": "إله السماء يثبته (يثبتهما / يثبتهم) على كرسيه (كرسيهما / كراسيهم) سنين عديدة وأزمنة سالمة."
 },
 {
 "role": "deacon",
-"es": "ويُخضع جميعَ أعدائه (أعدائهما / أعدائهم) تحت أقدامه (أقدامهما / أقدامهم) سريعاً.",
+"es": "Y que someta a todos sus enemigos bajo sus pies rápidamente.",
 "cop": "Ⲛⲧⲉϥⲑⲉⲃⲓⲟ̀ ⲛ̀ⲛⲉϥϫⲁϫⲓ (ⲛ̀ⲛⲟⲩϫⲁϫⲓ) ⲧⲏⲣⲟⲩ ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲉϥϭⲁⲗⲁⲩϫ (ⲛ̀ⲛⲟⲩϭⲁⲗⲁⲩϫ) ⲛ̀ⲭⲱⲗⲉⲙ.",
-"ar": "Y que someta a todos sus enemigos bajo sus pies rápidamente."
+"ar": "ويُخضع جميعَ أعدائه (أعدائهما / أعدائهم) تحت أقدامه (أقدامهما / أقدامهم) سريعاً."
 },
 {
 "role": "deacon",
-"es": "أطلب (أطلبا / أطلبوا) من المسيح عنا ليغفر لنا خطايانا بسلامٍ كعظيمِ رحمتِهِ.",
+"es": "Implorad a Cristo por nosotros, para que perdone nuestros pecados en paz, según su gran misericordia.",
 "cop": "Ⲧⲱⲃϩ ⲉ̀Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲕⲁⲧⲁ ⲡⲉϥⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.",
-"ar": "Implorad a Cristo por nosotros, para que perdone nuestros pecados en paz, según su gran misericordia."
+"ar": "أطلب (أطلبا / أطلبوا) من المسيح عنا ليغفر لنا خطايانا بسلامٍ كعظيمِ رحمتِهِ."
 },
 {
 "role": "deacon",
-"es": "مباركٌ الربُّ الإلهُ إلى الأبدِ. آمين.",
+"es": "Bendito sea el Señor, Dios para siempre. Amén.",
 "cop": "Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ. ⲁ̀ⲙⲏⲛ.",
-"ar": "Bendito sea el Señor, Dios para siempre. Amén."
+"ar": "مباركٌ الربُّ الإلهُ إلى الأبدِ. آمين."
 },
 {
 "role": "deacon",
-"es": "يا جميعَ الأمم باركوا الرب. ولتباركه جميعُ الشعوبِ. لأن رحمتَه ثَبَتَتْ علينا. وحقُ الربِ يدوم إلى الأبد. آمين. هلليلويا.",
+"es": "Todas las naciones, bendigan al Señor y que le bendigan todos los pueblos. Porque su misericordia se ha afirmado sobre nosotros y la justicia del Señor permanezca para siempre. Amén. Aleluya.",
 "cop": "Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ ⲥ̀ⲙⲟⲩ ⲉ̀Ⲡϭⲟⲓⲥ: ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲛ̀ϫⲉ ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ: ϫⲉ ⲁ̀ ⲡⲉϥⲛⲁⲓ ⲧⲁϫⲣⲟ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲟⲩⲟϩ ϯⲙⲉⲑⲙⲏⲓ ⲛ̀ⲧⲉ Ⲡϭⲟⲓⲥ ϣⲟⲡ ϣⲁ ⲉ̀ⲛⲉϩ: ⲁ̀ⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
-"ar": "Todas las naciones, bendigan al Señor y que le bendigan todos los pueblos. Porque su misericordia se ha afirmado sobre nosotros y la justicia del Señor permanezca para siempre. Amén. Aleluya."
+"ar": "يا جميعَ الأمم باركوا الرب. ولتباركه جميعُ الشعوبِ. لأن رحمتَه ثَبَتَتْ علينا. وحقُ الربِ يدوم إلى الأبد. آمين. هلليلويا."
 },
 {
 "role": "people",
-"es": "المجدُ للآبِ والابنِ والروحِ القدسِ، الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ. آمين. هلليويا.",
+"es": "Gloria al Padre, al Hijo y al Espíritu Santo. Ahora y siempre, y por los siglos de los siglos. Amén. ¡Aleluya!",
 "cop": "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩⲓⲱ ⲕⲉ ⲁ̀ⲅⲓⲱ Ⲡⲛⲉⲩⲙⲁⲧⲓ: ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ: ⲁⲙⲏⲛ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ.",
-"ar": "Gloria al Padre, al Hijo y al Espíritu Santo. Ahora y siempre, y por los siglos de los siglos. Amén. ¡Aleluya!"
+"ar": "المجدُ للآبِ والابنِ والروحِ القدسِ، الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ. آمين. هلليويا."
 },
 {
 "role": "note",
@@ -856,6 +862,12 @@
 "es": "El sacerdote recita en voz baja la oración de la ofrenda del pan y el cáliz para el Hijo:",
 "cop": "",
 "ar": "يقول الكاهن صلاة تقدمة الخبز والكأس هذه سراً للابن:"
+},
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
 },
 {
 "role": "priest",
@@ -1468,6 +1480,12 @@
 "ar": "وفي أثناء قراءته يقول الكاهن الشريك هذه الأوشية سراً للابن وإن لم يكن حاضراً كاهن معه فيقولها هو:"
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Señor del conocimiento, que concedes la sabiduría, descubres las profundidades de las tinieblas y das la palabra poderosa a los predicadores.",
 "cop": "Ⲡϭⲟⲓⲥ ⲛ̀ⲧⲉ ϯⲅ̀ⲛⲱⲥⲓⲥ: ⲟⲩⲟϩ ⲡⲓⲣⲉϥⲥⲁϩⲛⲓ ⲛ̀ⲧⲉ ϯⲥⲟⲫⲓⲁ: ⲫⲏⲉⲧϭⲱⲣⲡ ⲛ̀ⲛⲏⲉⲧϣⲏⲕ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲡ̀ⲭⲁⲕⲓ: ⲟⲩⲟϩ ⲉⲧϯ ⲛ̀ⲟⲩⲥⲁϫⲓ ⲛ̀ⲛⲏⲉⲧϩⲓϣⲉⲛⲛⲟⲩϥⲓ ϧⲉⲛ ⲟⲩⲛⲓϣϯ ⲛ̀ϫⲟⲙ.",
@@ -1564,6 +1582,12 @@
 "es": "Mientras se lee las epístolas católicas, el sacerdote o el compañero sacerdote dice la siguiente oración en voz baja para el Padre:",
 "cop": "",
 "ar": "وفي أثناء قراءة الكاثوليكون يقول الكاهن الشريك أو الخديم هذه الصلاة للآب سراً وهي كما يأتي:"
+},
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
 },
 {
 "role": "priest",
@@ -2080,6 +2104,12 @@
 "ar": "يلتفت الكاهن نحو الإنجيل ويعطي البخور له وهو يقول (سراً):"
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Postraros ante el Evangelio de Jesucristo. Por las oraciones del salmista David el profeta, oh Señor, concédenos el perdón de nuestros pecados.",
 "cop": "Ⲟⲩⲱϣⲧ ⲙ̀ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲛ̀ⲧⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ⲡⲓⲓⲉⲣⲟⲯⲁⲗⲧⲏⲥ Ⲇⲁⲩⲓⲇ ⲡⲓⲡ̀ⲣⲟⲫⲏⲧⲏⲥ: Ⲡϭⲟⲓⲥ ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ.",
@@ -2204,6 +2234,12 @@
 "es": "Dios del cielo lo afirme en su trono muchos años y en tiempos de paz. Y que someta a todos sus enemigos bajo sus pies rápidamente. Le conceda tiempos tranquilos y maravillosos, y nos dé gracia y misericordia por sus oraciones y súplicas.",
 "cop": "",
 "ar": "إلهُ السماءِ يُثَبِّتْهُ على كرسيه سنيناً كثيرةً وأزمنة سلامية، ويُخضع جميع أعدائه تحت قدميه سريعاً، ويعطيه زماناً هادئاً بهيجاً ويعطينا نعمةً ورحمةً بصلُّواتِهِ وطلباتِهِ."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "يقرأ الكاهن الإنجيل، وفي مقدمته يقول:"
 },
 {
 "role": "priest",
@@ -2467,6 +2503,12 @@
 "ar": "صلاة الحجاب"
 },
 "rows": [
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
 {
 "role": "priest",
 "es": "Dios, que por tu amor inefable por los hombres enviaste a Tu Hijo Unigénito al mundo para que vuelva a ti la oveja perdida.",
@@ -2992,6 +3034,12 @@
 "ar": "وعند ما يقول Vai e~te يعطي البخور إلى الشرقِ ثلاث مرات. ثم يعطي المجمرة للشماس."
 },
 {
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "ثم يقول الشماس:"
+},
+{
 "role": "deacon",
 "es": "Escuchad con la sabiduría de Dios. Señor, ten piedad. Señor, ten piedad. De verdad___.",
 "cop": "Ⲉⲛⲥⲟⲫⲓⲁ Ⲑⲉⲟⲩ ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ: Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ___.",
@@ -3005,6 +3053,12 @@
 "ar": "الأمانة الأرثوذكسية (قانون الإيمان)"
 },
 "rows": [
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "ويجاوبه الشعب قائلين:"
+},
 {
 "role": "people",
 "es": "Creemos en un solo Dios Padre Todopoderoso, creador del cielo y de la tierra, de lo visible y de lo invisible.",
@@ -3078,6 +3132,12 @@
 "ar": "وفي أثناء قراءه الامانه يغسل الكاهن يديه في جانب المذبح البحري ثلاث مرات وهو يقول في المرة الأولى:"
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سرا)ً:"
+},
+{
 "role": "priest",
 "es": "Rocíame con el hisopo: quedaré limpio; lávame: quedaré más blanco que la nieve. ]Salmo51:9[",
 "cop": "Ⲉⲕⲉ̀ⲛⲟⲩϫϧ ⲉ̀ϫⲱⲓ ⲙ̀ⲡⲉⲕϣⲉⲛϩⲩⲥⲱⲡⲟⲛ ⲉⲓⲉ̀ⲧⲟⲩⲃⲟ: ⲉⲕⲉ̀ⲣⲁϧⲧ ⲉⲓⲉ̀ⲟⲩⲃⲁϣ ⲉ̀ϩⲟⲧⲉ ⲟⲩⲭⲓⲱⲛ.",
@@ -3114,6 +3174,12 @@
 "ar": "ثم يلتفت إلى الغرب وينفض يديه أمام جميع الشعب وينشفها في ستر نظيف."
 },
 {
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "ثم يقول الكاهن:"
+},
+{
 "role": "priest",
 "es": "Orad.",
 "cop": "Ϣⲗⲏⲗ.",
@@ -3136,6 +3202,12 @@
 "es": "La paz esté con todos vosotros.",
 "cop": "Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.",
 "ar": "السلامُ للكلِّ."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "ويجاوبه الشعب قائلين:"
 },
 {
 "role": "people",
@@ -3273,45 +3345,45 @@
 },
 {
 "role": "deacon",
-"es": "قبلوا بعضكم بعضا بقبلة مقدسة. يارب ارحم. يارب ارحم. يارب ارحم.",
+"es": "Daos mutuamente un beso sagrado. Señor, ten piedad; Señor, ten piedad; Señor, ten piedad.",
 "cop": "Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ ⲉⲛ ⲫⲓⲗⲏⲙⲁⲧⲓ ⲁ̀ⲅⲓⲱ: ⲁ̀ⲙⲏⲛ Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ: Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-"ar": "Daos mutuamente un beso sagrado. Señor, ten piedad; Señor, ten piedad; Señor, ten piedad."
+"ar": "قبلوا بعضكم بعضا بقبلة مقدسة. يارب ارحم. يارب ارحم. يارب ارحم."
 },
 {
 "role": "deacon",
-"es": "نعم يارب الذي هو يسوع المسيح ابن الله اسمعنا وارحمنا.",
+"es": "Sí, Señor, que es Jesucristo, Hijo de Dios, escúchanos y ten piedad de nosotros.",
 "cop": "Ⲉⲧⲉ ⲫⲁⲓ ⲡⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: Ⲡϣⲏⲣⲓ ⲙ̀Ⲫⲛⲟⲩϯ: ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ: ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ.",
-"ar": "Sí, Señor, que es Jesucristo, Hijo de Dios, escúchanos y ten piedad de nosotros."
+"ar": "نعم يارب الذي هو يسوع المسيح ابن الله اسمعنا وارحمنا."
 },
 {
 "role": "deacon",
-"es": "فلنقفْ حسناً، لنقفْ بتقوَى، نقفْ باتصالٍ، نقف بسلامٍ، نقفْ بخوفِ اللهِ ورعدةٍ وخُشُوعٍ.",
+"es": "Pongámonos de pie bien y reverencialmente. Pongámonos de pie encarecidamente y en paz. Pongámonos de pie con temor de Dios, con temblor y sumisión.",
 "cop": "Ⲥⲧⲱⲙⲉⲛ ⲕⲁⲗⲱⲥ: ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲩⲗⲁⲃⲱⲥ: ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲕⲧⲉⲛⲱⲥ: ⲥ̀ⲧⲱⲙⲉⲛ ⲉⲛⲓ̀ⲣⲏⲛⲏ: ⲥ̀ⲧⲱⲙⲉⲛ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲕⲉ ⲧ̀ⲣⲟⲙⲟⲩ ⲕⲉ ⲕⲁⲧⲁⲛⲩⲝⲉⲱⲥ.",
-"ar": "Pongámonos de pie bien y reverencialmente. Pongámonos de pie encarecidamente y en paz. Pongámonos de pie con temor de Dios, con temblor y sumisión."
+"ar": "فلنقفْ حسناً، لنقفْ بتقوَى، نقفْ باتصالٍ، نقف بسلامٍ، نقفْ بخوفِ اللهِ ورعدةٍ وخُشُوعٍ."
 },
 {
 "role": "deacon",
-"es": "أيها الإكليروس وكل الشعب بطلبة وشكر، بهدوء وسكوت.",
+"es": "Oh clero, y todo el pueblo, con súplica, gracias, tranquilidad y silencio.",
 "cop": "Ⲡⲓⲕ̀ⲗⲏⲣⲟⲥ ⲛⲉⲙ ⲡⲓⲗⲁⲟⲥ ⲧⲏⲣϥ: ϧⲉⲛ ⲟⲩⲧⲱⲃϩ ⲛⲉⲙ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ: ⲛⲉⲙ ⲟⲩⲥⲉⲙⲛⲓ ⲛⲉⲙ ⲟⲩⲭⲁⲣⲱϥ.",
-"ar": "Oh clero, y todo el pueblo, con súplica, gracias, tranquilidad y silencio."
+"ar": "أيها الإكليروس وكل الشعب بطلبة وشكر، بهدوء وسكوت."
 },
 {
 "role": "deacon",
-"es": "ارفعوا أعينكم ناحية المشرق، لتنظروا المذبح وجسد ودم عمانوئيل الهنا موضوعين عليه.",
+"es": "Levantad vuestros ojos hacia el este, para mirar el altar, el cuerpo y la sangre de Emmanuel, nuestro Dios, los cuales están sobre él.",
 "cop": "Ϥⲁⲓ ⲛ̀ⲛⲉⲧⲉⲛⲃⲁⲗ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ⲡ̀ⲥⲁ ⲛ̀ϯⲁ̀ⲛⲁⲧⲟⲗⲏ: ⲛ̀ⲧⲉⲧⲉⲛⲛⲁⲩ ⲉ̀ⲡⲓⲑⲩⲥⲓⲁⲥ ⲧⲏⲣⲓⲟⲛ: ⲉ̀ⲣⲉ ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ ⲭⲏ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ.",
-"ar": "Levantad vuestros ojos hacia el este, para mirar el altar, el cuerpo y la sangre de Emmanuel, nuestro Dios, los cuales están sobre él."
+"ar": "ارفعوا أعينكم ناحية المشرق، لتنظروا المذبح وجسد ودم عمانوئيل الهنا موضوعين عليه."
 },
 {
 "role": "deacon",
-"es": "الملائكة ورؤساء الملائكة قيام. السارافيم ذوو الستة أجنحة والشاروبيم الممتلئون أعيناً يسترون وجوههم من بهاء عظمة مجده غير المنظور ولا منطوق به.",
+"es": "Los Ángeles y los Arcángeles están de pie. Los serafines de seis alas y los querubines con ojos múltiples, cubren sus caras del esplendor de su gran gloria, la cual es invisible e inefable.",
 "cop": "Ⲉⲣⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ: ⲛⲉⲙ ⲛⲓⲁⲣⲭⲓⲁⲅⲅⲉⲗⲟⲥ: ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲛⲁ ⲡⲓⲥⲟⲟⲩ ⲛ̀ⲧⲉⲛϩ: ⲛⲉⲙ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲉⲑⲙⲉϩ ⲙ̀ⲃⲁⲗ: ⲉⲩϩⲱⲃⲥ ⲛ̀ⲛⲟⲩϩⲟ: ⲉⲑⲃⲉ ⲙ̀ⲙⲉⲧⲁⲥⲁⲓⲉ̀ ⲛ̀ⲧⲉ ⲡⲉϥⲛⲓϣϯ ⲛ̀ⲱ̀ⲟⲩ: ⲛ̀ⲁⲧϣ̀ⲉⲣⲑⲉⲱⲣⲓⲛ ⲙ̀ⲙⲟϥ: ⲟⲩⲟϩ ⲛ̀ⲁⲧϣ̀ⲥⲁϫⲓ ⲙ̀ⲙⲟϥ.",
-"ar": "Los Ángeles y los Arcángeles están de pie. Los serafines de seis alas y los querubines con ojos múltiples, cubren sus caras del esplendor de su gran gloria, la cual es invisible e inefable."
+"ar": "الملائكة ورؤساء الملائكة قيام. السارافيم ذوو الستة أجنحة والشاروبيم الممتلئون أعيناً يسترون وجوههم من بهاء عظمة مجده غير المنظور ولا منطوق به."
 },
 {
 "role": "deacon",
-"es": "يسبحون بصوت واحد صارخين قائلين: قدوس قدوس قدوس رب الصباؤوت السماء والأرض مملوءتان من مجدك الأقدس.",
+"es": "Alaben en una sola voz, proclamando y diciendo: “Santo, Santo, Santo, Señor de Sabaot (ejércitos), el cielo y la tierra están llenos de tu santa gloria”.",
 "cop": "Ⲉⲩϩⲱⲥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲟⲩⲱⲧ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ⲅⲏ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ.",
-"ar": "Alaben en una sola voz, proclamando y diciendo: “Santo, Santo, Santo, Señor de Sabaot (ejércitos), el cielo y la tierra están llenos de tu santa gloria”."
+"ar": "يسبحون بصوت واحد صارخين قائلين: قدوس قدوس قدوس رب الصباؤوت السماء والأرض مملوءتان من مجدك الأقدس."
 },
 {
 "role": "note",
@@ -3500,6 +3572,12 @@
 "es": "Santo, Santo, Santo eres Tú, Señor Todopoderoso. El cielo y la tierra están llenos de tu gloria y tu dignidad.",
 "cop": "Ϫⲉ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ ⲭ̀ⲟⲩⲁⲃ: Ⲡϭⲟⲓⲥ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ ⲙⲉϩ ⲉ̀ⲃⲟⲗ: ϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲉⲕⲧⲁⲓⲟ.",
 "ar": "قدوس قدوس قدوس أيها الربُّ الضابطُ الكلِّ، السماءُ والأرضُ مملوءَتانِ من مجدِكَ وكرامتِكَ."
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "ثم يقول الشعب:"
 },
 {
 "role": "people",
@@ -3760,6 +3838,12 @@
 "es": "Agioc",
 "cop": "",
 "ar": ""
+},
+{
+"role": "note",
+"es": "",
+"cop": "",
+"ar": "ثم يقول الكاهن:"
 },
 {
 "role": "priest",
@@ -4254,6 +4338,12 @@
 "ar": "يقول الكاهن أوشية حلول الروح القدس سراً وهو ساجد وباسط يديه، وهي هذه:"
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Nosotros, tus siervos pecadores e indignos te imploramos, Señor, nuestro Dios.",
 "cop": "Ⲟⲩⲟϩ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ Ⲡϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ: ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ ⲟⲩⲟϩ ⲛ̀ⲁⲧⲉⲙⲡ̀ϣⲁ ⲛ̀ⲉ̀ⲃⲓⲁⲓⲕ ⲛ̀ⲧⲁⲕ.",
@@ -4314,6 +4404,12 @@
 "ar": "يبسط الكاهن يديه ويخضع برأسه للرب ويقول:"
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Nuestro Señor, Dios y Salvador Jesucristo se da para el perdón de los pecados y vida eterna a los que lo comulgan.",
 "cop": "Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ⲉⲩϯ ⲙ̀ⲙⲟϥ ⲉ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ: ⲛⲉⲙ ⲟⲩⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ ⲛ̀ⲛⲏⲉⲑⲛⲁϭⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧϥ.",
@@ -4348,6 +4444,12 @@
 "es": "El sacerdote levanta sus manos e inclina su cabeza a Dios, diciendo:",
 "cop": "",
 "ar": "يبسط الكاهن يديه ويخضع برأسه للرب ويقول:"
+},
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
 },
 {
 "role": "priest",
@@ -4993,51 +5095,57 @@
 "rows": [
 {
 "role": "priest",
-"es": "بصلُّوات وشفاعات ذات كل قداسة الممجدة الطاهره المباركة سيدتنا والدة الإله الدائمة البتولية مريم.",
+"es": "Por las oraciones y las intersecciones de la Santísima, Gloriosa, Purísima, Bendita, nuestra señora la madre de Dios, siempre Virgen, María.",
 "cop": "Ⲉⲩⲭⲉⲥ ⲕⲉ ⲡ̀ⲣⲉⲥⲃⲓⲉⲥ ⲧⲏⲥ ⲡⲁⲛⲁ̀ⲅⲓⲁⲥ ⲩ̀ⲡⲉⲣⲉⲛ ⲇⲟⲝⲟⲩ ⲁⲭⲣⲁⲛⲧⲟⲩ ⲩ̀ⲡⲉⲣⲉⲩⲗⲟⲅⲏⲙⲉⲛⲏⲥ ⲇⲉⲥⲡⲓⲛⲏⲥ ⲏ̀ⲙⲱⲛ ⲑⲉⲟ̀ⲧⲟⲕⲟⲩ ⲕⲉ ⲁ̀ⲓ̀ ⲡⲁⲣⲑⲉⲛⲟⲩ Ⲙⲁⲣⲓⲁⲥ.",
-"ar": "Por las oraciones y las intersecciones de la Santísima, Gloriosa, Purísima, Bendita, nuestra señora la madre de Dios, siempre Virgen, María."
+"ar": "بصلُّوات وشفاعات ذات كل قداسة الممجدة الطاهره المباركة سيدتنا والدة الإله الدائمة البتولية مريم."
 },
 {
 "role": "priest",
-"es": "والقديس النبى السابق المعمدان الشهيد يوحنا.",
+"es": "Y San Juan, el profeta Precursor, el Bautista y mártir.",
 "cop": "Ⲕⲉ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲡ̀ⲣⲟⲫⲏⲧⲟⲩ ⲕⲉ ⲡ̀ⲣⲟⲇⲣⲟⲙⲟⲩ ⲃⲁⲡⲧⲓⲥⲧⲟⲩ ⲕⲉ ⲙⲁⲣⲧⲩⲣⲟⲥ Ⲓⲱⲁⲛⲛⲟⲩ.",
-"ar": "Y San Juan, el profeta Precursor, el Bautista y mártir."
+"ar": "والقديس النبى السابق المعمدان الشهيد يوحنا."
 },
 {
 "role": "priest",
-"es": "والقديس استفانوس رئيس الشمامسة وأول الشهداء.",
+"es": "Y San Esteban, el Archidiácono, y primer mártir.",
 "cop": "Ⲕⲉ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ Ⲥⲧⲉⲫⲁⲛⲟⲩ ⲧⲟⲩ ⲁⲣⲭⲓⲇⲓⲁ̀ⲕⲟⲛⲟⲩ ⲕⲉ ⲡ̀ⲣⲱⲧⲟⲙⲁⲣⲧⲩⲣⲟⲥ.",
-"ar": "Y San Esteban, el Archidiácono, y primer mártir."
+"ar": "والقديس استفانوس رئيس الشمامسة وأول الشهداء."
 },
 {
 "role": "priest",
-"es": "والقديسين الرسل الممجدين والأنبياء، والحسنى الظفر الشهداء وكل مصاف القديسين.",
+"es": "Los Santos Apósteles gloriosos y profetas, los mártires triunfantes, y todos los coros de los santos.",
 "cop": "Ⲕⲉ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲁ̀ⲡⲟⲥⲧⲟⲗⲱⲛ ⲉⲛⲇⲟⲝⲱⲛ: ⲡ̀ⲣⲟⲫⲏⲧⲱⲛ: ⲕⲉ ⲕⲁⲗⲗⲓⲛⲓⲕⲱⲛ ⲙⲁⲣⲧⲩⲣⲱⲛ: ⲕⲉ ⲡⲁⲛⲧⲱⲛ ⲧⲱⲛ ⲭⲟⲣⲱⲛ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲥⲟⲩ.",
-"ar": "Los Santos Apósteles gloriosos y profetas, los mártires triunfantes, y todos los coros de los santos."
+"ar": "والقديسين الرسل الممجدين والأنبياء، والحسنى الظفر الشهداء وكل مصاف القديسين."
 },
 {
 "role": "priest",
-"es": "أنبا ___ السيد رئيس أساقفة المدينة العظمى الإسكندرية وأساقفتنا الارثوذكسيين المشكورين.",
+"es": "Aba ___ el señor arzobispo de la megápolis de Alejandría, y de nuestros agradecidos obispos ortodoxos.",
 "cop": "Ⲁⲃⲃⲁ ___ ⲕⲩⲣⲓⲟⲩ ⲧⲟⲩ ⲁⲣⲭⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟ ⲡⲟⲗⲉⲱⲥ Ⲁⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ: ⲕⲉ ⲧⲱⲛ ⲟⲣⲑⲟⲇⲟⲝⲱⲛ ⲏ̀ⲙⲱⲛ ⲉ̀ⲡⲓⲥⲕⲟⲡⲱⲛ ⲧⲱⲛ ⲉⲩⲭⲁⲣⲓⲥⲧⲏⲣⲓⲱⲛ.",
-"ar": "Aba ___ el señor arzobispo de la megápolis de Alejandría, y de nuestros agradecidos obispos ortodoxos."
+"ar": "أنبا ___ السيد رئيس أساقفة المدينة العظمى الإسكندرية وأساقفتنا الارثوذكسيين المشكورين."
 },
 {
 "role": "priest",
-"es": "ومن أجل الراقدين ونياحتهم وآبائنا القديسين.",
+"es": "Y por los difuntos, y su descanso y nuestros padres santos.",
 "cop": "Ⲕⲉ ⲩ̀ⲡⲉⲣ ⲅⲩⲙⲛⲉⲥⲉⲱⲥ ⲕⲉ ⲁ̀ⲛⲁⲡⲁⲩⲥⲉⲱⲥ ⲕⲉ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲡⲁⲧⲉⲣⲱⲛ ⲏ̀ⲙⲱⲛ.",
-"ar": "Y por los difuntos, y su descanso y nuestros padres santos."
+"ar": "ومن أجل الراقدين ونياحتهم وآبائنا القديسين."
 },
 {
 "role": "priest",
-"es": "(اولاً) القديس مرقس الرسول الإنجيلى رئيس الأساقفة والشهيد.",
+"es": "(En primer lugar), el evangelista, San Marcos, el apóstol, arzobisto y mártir.",
 "cop": "(1) Ⲙⲁⲣⲕⲟⲩ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲟⲩ ⲁⲣⲭⲓ ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲕⲉ ⲙⲁⲣⲧⲩⲣⲟⲥ.",
-"ar": "(En primer lugar), el evangelista, San Marcos, el apóstol, arzobisto y mártir."
+"ar": "(اولاً) القديس مرقس الرسول الإنجيلى رئيس الأساقفة والشهيد."
 },
 {
 "role": "priest",
-"es": "وجميعِ الذين علَّمُوا كلمةَ الحقِّ باستقامةٍ، الأساقفةِ الأرثوذكسيين والقسوسِ والشمامسة والاكليروسِ والعلمانيين. هؤلاءِ وجميعِ الأرثوذكسيين. آمين.",
+"es": "Todos aquellos que han enseñado rectamente la palabra de la verdad, los obispos ortodoxos, los sacerdotes, los diáconos, el clero y el lego. Estos y todos los ortodoxos. Amén.",
 "cop": "Ⲕⲉ ⲡⲁⲛⲧⲱⲛ ⲧⲱⲛ ⲟⲣⲑⲱⲥ ⲇⲓⲇⲁⲝⲁⲛⲧⲱⲛ ⲧⲟⲛ ⲗⲟⲅⲟⲛ ⲧⲏⲥ ⲁ̀ⲗⲏⲑⲓⲁⲥ: ⲟⲣⲑⲟⲇⲟⲝⲱⲛ ⲉ̀ⲡⲓⲥⲕⲟⲡⲱⲛ ⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲱⲛ ⲇⲓⲁ̀ⲕⲟⲛⲱⲛ ⲕ̀ⲗⲏⲣⲓⲕⲱⲛ ⲕⲉ ⲗⲁⲓ̀ⲕⲱⲛ: ⲕⲉ ⲧⲟⲩⲧⲱⲛ ⲕⲉ ⲡⲁⲛⲧⲱⲛ ⲟⲣⲑⲟⲇⲟⲝⲱⲛ: ⲁ̀ⲙⲏⲛ.",
-"ar": "Todos aquellos que han enseñado rectamente la palabra de la verdad, los obispos ortodoxos, los sacerdotes, los diáconos, el clero y el lego. Estos y todos los ortodoxos. Amén."
+"ar": "وجميعِ الذين علَّمُوا كلمةَ الحقِّ باستقامةٍ، الأساقفةِ الأرثوذكسيين والقسوسِ والشمامسة والاكليروسِ والعلمانيين. هؤلاءِ وجميعِ الأرثوذكسيين. آمين."
+},
+{
+"role": "note",
+"es": "El diácono dice (si lo desea):",
+"cop": "",
+"ar": ""
 },
 {
 "role": "deacon",
@@ -5322,6 +5430,12 @@
 },
 "rows": [
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سرا):"
+},
+{
 "role": "priest",
 "es": "Sí, Te pedimos, Padre Santísimo, Bueno y Amante de la bondad, no nos dejes caer en la tentación y que toda iniquidad no tenga poder alguno sobre nosotros.",
 "cop": "Ⲥⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ Ⲫⲓⲱⲧ ⲉⲑⲟⲩⲁⲃ: ⲡⲓⲁ̀ⲅⲁⲑⲟⲥ ⲫⲏⲉⲑⲙⲉⲓ ⲛ̀ϯⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ: ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ ⲟⲩⲇⲉ ⲙ̀ⲡⲉⲛⲑ̀ⲣⲟⲩⲉⲣϭⲟⲓⲥ ⲉ̀ⲣⲟⲛ ⲛ̀ϫⲉ ⲁ̀ⲛⲟⲙⲓⲁ̀ ⲛⲓⲃⲉⲛ.",
@@ -5358,6 +5472,12 @@
 "ar": "احنوا رؤوسَكم للربِّ."
 },
 {
+"role": "note",
+"es": "El pueblo inclina su cabeza y dice:",
+"cop": "",
+"ar": "يحني الشعب رأسه ويقول:"
+},
+{
 "role": "people",
 "es": "Delante de Ti, Señor.",
 "cop": "Ⲉⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ̀.",
@@ -5371,6 +5491,12 @@
 "ar": "صلاة خضوع للآب"
 },
 "rows": [
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
 {
 "role": "priest",
 "es": "Los dones de la beneficiencia de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo, han sido consumados.",
@@ -5433,6 +5559,12 @@
 "ar": "صلاة التحليل للآب"
 },
 "rows": [
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
 {
 "role": "priest",
 "es": "Señor Dios, Dios Todopoderoso, sanador de nuestras almas, de nuestros cuerpos y de nuestros espíritus.",
@@ -5812,6 +5944,12 @@
 "ar": "المجدُ لكَ مع أبيكَ الصالحِ والروحِ القدسِ، إلى الأبدِ. آمين."
 },
 {
+"role": "note",
+"es": "Y después dice:",
+"cop": "",
+"ar": ""
+},
+{
 "role": "priest",
 "es": "Padre nuestro…",
 "cop": "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ...",
@@ -6180,6 +6318,12 @@
 "ar": "احنوا رؤوسَكم للربِّ."
 },
 {
+"role": "note",
+"es": "El pueblo inclina su cabeza y dice:",
+"cop": "",
+"ar": "يحني الشعب رأسه ويقول:"
+},
+{
 "role": "people",
 "es": "Delante de Ti, Señor.",
 "cop": "Ⲉⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ.",
@@ -6287,57 +6431,57 @@
 },
 {
 "role": "people",
-"es": "نلت نعمة موسى وكهنوت ملكي صادق.",
+"es": "Tú has obtenido la gracia de Moisés y el sacerdocio de Melquisedec.",
 "cop": "ⲧ̀ⲭⲁⲣⲓⲟⲥ ⲙ̀ⲙⲱⲩ̀ⲥⲏⲥ : ϯⲙⲉⲧⲟⲩⲏⲃ ⲛ̀ⲧⲉ Ⲙⲉⲗⲭⲓⲥⲉⲇⲉⲕ.",
-"ar": "Tú has obtenido la gracia de Moisés y el sacerdocio de Melquisedec."
+"ar": "نلت نعمة موسى وكهنوت ملكي صادق."
 },
 {
 "role": "people",
-"es": "وشيخوخة يعقوب وطول عمر متوشالح.",
+"es": "La vejez de Jacob y la longevidad de Matusalén.",
 "cop": "Ϯⲙⲉⲧϧⲉⲗⲗⲟ ⲛ̀ⲧⲉ ⲓⲁⲕⲉⲃ : ⲡⲓⲛⲟϫ ⲛ̀ⲁ̀ϩⲓ ⲛ̀ⲧⲉ Ⲙⲁⲑⲟⲩⲥⲁⲗⲁ.",
-"ar": "La vejez de Jacob y la longevidad de Matusalén."
+"ar": "وشيخوخة يعقوب وطول عمر متوشالح."
 },
 {
 "role": "people",
-"es": "والفهم المختار الذي لداود وحكمة سليمان.",
+"es": "El entendimiento elegido de David, la sabiduría de Salomón.",
 "cop": "Ⲡⲓⲕⲁϯ ⲉⲧⲥⲱⲧⲡ ⲛ̀ⲧⲉ Ⲇⲁⲩⲓⲇ : ϯⲥⲟⲫⲓⲁ ⲛ̀ⲧⲉ ⲥⲟⲗⲟⲙⲱⲛ.",
-"ar": "El entendimiento elegido de David, la sabiduría de Salomón."
+"ar": "والفهم المختار الذي لداود وحكمة سليمان."
 },
 {
 "role": "people",
-"es": "والروح المعزى الذي حل على الرسل.",
+"es": "Y el Paráclito que se posó sobre los Apóstoles.",
 "cop": "Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ ⲫⲏⲉⲧⲁϥⲓ̀ ⲉ̀ϫⲉⲛ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ.",
-"ar": "Y el Paráclito que se posó sobre los Apóstoles."
+"ar": "والروح المعزى الذي حل على الرسل."
 },
 {
 "role": "people",
-"es": "الرب يحفظ حياة وقيام أبينا المكرم رئيس الكهنة البابا أنبا ___.",
+"es": "El Señor conserve la vida y la jefatura de nuestro bienaventurado padre, el sumo sacerdote, el Papa Aba ___.",
 "cop": "Ⲡϭⲟⲓⲥ ⲉ̀ϥⲉ̀ⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲛⲉⲙ ⲡ̀ⲧⲁϩⲟ ⲉ̀ⲣⲁⲧϥ ⲙ̀ⲡⲉⲛⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ ___.",
-"ar": "El Señor conserve la vida y la jefatura de nuestro bienaventurado padre, el sumo sacerdote, el Papa Aba ___."
+"ar": "الرب يحفظ حياة وقيام أبينا المكرم رئيس الكهنة البابا أنبا ___."
 },
 {
 "role": "people",
-"es": "وأبينا الأسقف (المطران) انبا___.",
+"es": "Y nuestro padre el obispo (metropolitano) Aba___.",
 "cop": "Ⲛⲉⲙ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ(ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ) ⲁⲃⲃⲁ ___.",
-"ar": "Y nuestro padre el obispo (metropolitano) Aba___."
+"ar": "وأبينا الأسقف (المطران) انبا___."
 },
 {
 "role": "people",
-"es": "اله السماء يثبتهما على كرسيهما سنين كثيرة وأزمنة سلامية.",
+"es": "Dios del cielo los afirme en sus tronos muchos años y en tiempos de paz.",
 "cop": "Ⲫⲛⲟⲩϯ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲉϥⲉ̀ⲧⲁϫⲣⲱⲟⲩ ϩⲓϫⲉⲛ ⲛⲟⲩⲑ̀ⲣⲟⲛⲟⲥ : ⲛ̀ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲟⲙⲡⲓ ⲛⲉⲙ ϩⲁⲛⲥⲏⲟⲩ ⲛ̀ϩⲓⲣⲏⲛⲓⲕⲟⲛ.",
-"ar": "Dios del cielo los afirme en sus tronos muchos años y en tiempos de paz."
+"ar": "اله السماء يثبتهما على كرسيهما سنين كثيرة وأزمنة سلامية."
 },
 {
 "role": "people",
-"es": "ويخضع جميع أعدائهما تحت اقدمهما سريعا.",
+"es": "Y que someta a todos sus enemigos bajo sus pies rápidamente.",
 "cop": "Ⲛⲧⲉϥⲑⲉⲃⲓⲟ ⲛ̀ⲛⲟϫⲁϫⲓ ⲧⲏⲣⲟⲩ ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲟⲩϭⲁⲗⲁⲩϫ ⲛ̀ⲭⲱⲗⲉⲙ.",
-"ar": "Y que someta a todos sus enemigos bajo sus pies rápidamente."
+"ar": "ويخضع جميع أعدائهما تحت اقدمهما سريعا."
 },
 {
 "role": "people",
-"es": "اطلبوا من المسيح عنا ليغفر لنا خطايانا بسلام كعظيم رحمته.",
+"es": "Implorad a Cristo por nosotros, para que perdone nuestros pecados en paz, según su gran misericordia.",
 "cop": "Ⲧⲱⲃϩ ⲉ̀Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ : ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲕⲁⲧⲁ ⲡⲉϥⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.",
-"ar": "Implorad a Cristo por nosotros, para que perdone nuestros pecados en paz, según su gran misericordia."
+"ar": "اطلبوا من المسيح عنا ليغفر لنا خطايانا بسلام كعظيم رحمته."
 }
 ]
 },
@@ -6474,6 +6618,12 @@
 "ar": "آمين. يكونُ."
 },
 {
+"role": "note",
+"es": "El sacerdote se gira al este y dice:",
+"cop": "",
+"ar": "يلتفت الكاهن الي الشرق ويقول:"
+},
+{
 "role": "priest",
 "es": "Rey de la paz, concédenos tu paz. Establece entre nosotros tu paz y perdona nuestros pecados, porque tuyos son el poder, la gloria, la bendición y la magnificencia para siempre. Amén.",
 "cop": "Ⲡⲟⲩⲣⲟ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ: ⲙⲟⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲥⲉⲙⲛⲓ ⲛⲁⲛ ⲛ̀ⲧⲉⲕϩⲓⲣⲏⲛⲏ: ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲥ̀ⲙⲟⲩ ⲛⲉⲙ ⲡⲓⲁ̀ⲙⲁϩⲓ ϣⲁ ⲉ̀ⲛⲉϩ: ⲁ̀ⲙⲏⲛ.",
@@ -6498,10 +6648,16 @@
 "ar": "يا أبانا ..."
 },
 {
+"role": "note",
+"es": "El sacerdote se gira al oeste y dice:",
+"cop": "",
+"ar": "ثم يلتفت الكاهن الي الغرب ويقول:"
+},
+{
 "role": "priest",
-"es": "محبةُ اللهِ الآبِ، ونعمةُ الإبنِ الوحيدِ، ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ، وشركةُ وموهبةُ الروحِ القدسِ تكونُ مع جميعِكم.",
+"es": "Que el amor de Dios Padre, y la gracia del Hijo Únigenito, nuestro Señor, Dios y Salvador Jesucristo, y que el compañerismo y el don del Espíritu Santo, sean con todos vosotros.",
 "cop": "Ⲏ ⲁ̀ⲅⲁⲡⲏ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲕⲉ Ⲡⲁⲧⲣⲟⲥ: ⲕⲉ ⲏ̀ ⲭⲁⲣⲓⲥ ⲧⲟⲩ ⲙⲟⲛⲟⲅⲉⲛⲟⲩⲥ Ⲩⲓⲟⲩ Ⲕⲩⲣⲓⲟⲩ ⲇⲉ ⲕⲉ Ⲑⲉⲟⲩ ⲕⲉ ⲥⲱⲧⲏⲣⲟⲥ ⲏⲙⲱⲛ: Ⲓⲏⲥⲟⲩ Ⲭⲣⲓⲥⲧⲟⲩ: ⲕⲉ ⲏ̀ ⲕⲟⲓⲛⲱⲛⲓⲁ̀ ⲕⲉ ⲏ̀ ⲇⲱⲣⲉⲁ̀ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ Ⲡⲛⲉⲩⲙⲁⲧⲟⲥ: ⲓ̀ⲏ̀ ⲙⲉⲧⲁ ⲡⲁⲛⲧⲱⲛ ⲩ̀ⲙⲱⲛ.",
-"ar": "Que el amor de Dios Padre, y la gracia del Hijo Únigenito, nuestro Señor, Dios y Salvador Jesucristo, y que el compañerismo y el don del Espíritu Santo, sean con todos vosotros."
+"ar": "محبةُ اللهِ الآبِ، ونعمةُ الإبنِ الوحيدِ، ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ، وشركةُ وموهبةُ الروحِ القدسِ تكونُ مع جميعِكم."
 },
 {
 "role": "priest",

@@ -631,6 +631,12 @@
 "ar": "ولروحِكَ [أيضاً]."
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن )سراً(:"
+},
+{
 "role": "priest",
 "es": "Cristo, nuestro Dios, el grande, el temible verdadero, Hijo Unigénito y el Verbo de Dios Padre. Un perfume derramado es tu Santo Nombre al que, en cada lugar, se ofrece incienso y sacrificio puro en tu Santo Nombre.",
 "cop": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲡⲉⲛⲛⲟⲩϯ ⲡⲓⲛⲓϣϯ ⲉⲧⲟⲓ ⲛ̀ϩⲟϯ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ: ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ ⲟⲩⲟϩ ⲛ̀Ⲗⲟⲅⲟⲥ ⲛ̀ⲧⲉ Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ. Ⲟⲩⲥⲟϫⲉⲛ ⲉϥⲫⲏⲛ ⲉ̀ⲃⲟⲗ ⲡⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: ⲟⲩⲟϩ ϧⲉⲛ ⲙⲁⲓ ⲛⲓⲃⲉⲛ ⲥⲉⲓ̀ⲛⲓ ⲛ̀ⲟⲩⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲟⲩⲑⲩⲥⲓⲁ ⲉⲥⲧⲟⲩⲃⲏⲟⲩⲧ.",
@@ -1137,6 +1143,12 @@
 "ar": "ياربُّ ارحَم."
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
 "cop": "Ϧⲉⲛ ⲡⲓϩ̀ⲙⲟⲧ ⲛⲉⲙ ⲛⲓⲙⲉⲧϣⲉⲛϩⲏⲧ ⲛⲉⲙ ϯⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ.",
@@ -1265,6 +1277,12 @@
 "ar": "ياربُّ ارحَم."
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
 "cop": "Ϧⲉⲛ ⲡⲓϩ̀ⲙⲟⲧ ⲛⲉⲙ ⲛⲓⲙⲉⲧϣⲉⲛϩⲏⲧ ⲛⲉⲙ ϯⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ.",
@@ -1343,6 +1361,12 @@
 "es": "Señor, ten piedad.",
 "cop": "Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
 "ar": "ياربُّ ارحَم."
+},
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
 },
 {
 "role": "priest",
@@ -1509,6 +1533,12 @@
 "es": "Bueno es reconocer al Señor, cantar a tu Nombre, oh Altísimo, proclamar tu misericordia en las mañanas, y tu verdad cada noche.",
 "cop": "",
 "ar": "جيّد هو الإعتراف للرب والترتيل لإسمك أيها العلي. أن يُخبّر برحمتك فى الغدوات وحقك فى كل ليلة."
+},
+{
+"role": "note",
+"es": "Pero en Prima, el pueblo dice la alabanza de los Ángeles “Alabemos con los Ángeles…”",
+"cop": "",
+"ar": "بينما في باكر يقول الشعب تسبحة الملائكة ”فلنسبح مع الملائكة...“"
 }
 ]
 },
@@ -1951,8 +1981,7 @@
 {
 "title": {
 "es": "6 -OTRA DOXOLOGÍA DE JUAN EL BAUTISTA",
-"ar": "6 -OTRA DOXOLOGÍA DE JUAN EL BAUTISTA",
-"cop": "6- ذوكصولوجية أخرى ليوحنا المعمدان"
+"ar": "6- ذوكصولوجية أخرى ليوحنا المعمدان"
 },
 "rows": [
 {
@@ -2538,6 +2567,12 @@
 "ar": "أما الكاهن فانه بعد تمام الأوشية يصعد إلى الهيكل برجله اليمنى، ويقبل المذبح ويرشم درج البخور رشماً واحداً بمثال الصليب وهو يقول (مجداً وإكراماً، إكراماً ومجداً...). ويضع يد بخور واحدة، ويرفع البخور فوق المذبح ثلاث أياد إلى الشرق قائلاً في اليد الأولى:"
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Nos postramos ante Tí, Cristo, junto con tu Padre bueno y el Espíritu Santo, porque )viniste( y nos salvaste.",
 "cop": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
@@ -3045,69 +3080,69 @@
 },
 {
 "role": "priest",
-"es": "أيها الطويلُ الأناةِ، الكثيرُ الرحمةِ الحقيقيُ، اقبل سؤالاتنا وطلباتنا منَّا، اقبل ابتهالَنا منَّا، وتوبتَنَا واعترافَنَا على مذبَحِكَ المقدس غير الدنس السمائي.",
+"es": "Tú que eres el Paciente y el misericordioso verdadero, acepta nuestras peticiones y nuestras súplicas; acepta nuestras imploraciones, nuestra penitencia, nuestra confesión sobre tu altar santo, puro y celestial.",
 "cop": "Ⲡⲓⲣⲉϥⲱ̀ⲟⲩⲛ̀ϩⲏⲧ: ⲫⲁ ⲡⲓⲙⲏϣ ⲛ̀ⲛⲁⲓ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ: ϭⲓ ⲛ̀ⲛⲉⲛϯϩⲟ ⲛⲉⲙ ⲛⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲟⲧⲉⲛ: ϭⲓ ⲛ̀ⲧⲉⲛⲡⲁⲣⲁⲕⲗⲏⲥⲓⲥ ⲛ̀ⲧⲟⲧⲉⲛ: ⲛⲉⲙ ⲧⲉⲛⲙⲉⲧⲁ̀ⲛⲟⲓⲁ: ⲛⲉⲙ ⲡⲉⲛⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ: ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲙⲁⲛ̀ⲉⲣϣⲱⲟⲩϣⲓ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲁⲧⲑⲱⲗⲉⲃ: ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ.",
-"ar": "Tú que eres el Paciente y el misericordioso verdadero, acepta nuestras peticiones y nuestras súplicas; acepta nuestras imploraciones, nuestra penitencia, nuestra confesión sobre tu altar santo, puro y celestial."
+"ar": "أيها الطويلُ الأناةِ، الكثيرُ الرحمةِ الحقيقيُ، اقبل سؤالاتنا وطلباتنا منَّا، اقبل ابتهالَنا منَّا، وتوبتَنَا واعترافَنَا على مذبَحِكَ المقدس غير الدنس السمائي."
 },
 {
 "role": "priest",
-"es": "فلنستحق سماعَ أناجيلك المقدسة ونحفظ وصاياكَ وأوامرَك.",
+"es": "Y seamos dignos de escuchar tus santos Evangelios, de guardar tus mandamientos y tus preceptos.",
 "cop": "Ⲙⲁⲣⲉⲛⲉⲣⲡ̀ⲉⲙⲡ̀ϣⲁ ⲙ̀ⲡⲓⲥⲱⲧⲉⲙ ⲛ̀ⲧⲉ ⲛⲉⲕⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ: ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛⲁ̀ⲣⲉϩ ⲉ̀ⲛⲉⲕⲉⲛⲧⲟⲗⲏ ⲛⲉⲙ ⲛⲉⲕⲟⲩⲁϩⲥⲁϩⲛⲓ.",
-"ar": "Y seamos dignos de escuchar tus santos Evangelios, de guardar tus mandamientos y tus preceptos."
+"ar": "فلنستحق سماعَ أناجيلك المقدسة ونحفظ وصاياكَ وأوامرَك."
 },
 {
 "role": "priest",
-"es": "ونثمر فيها بمئةٍ وستينَ وثلاثين، بالمسيحِ يسوع ربِّنا.",
+"es": "Y que demos frutos ciento, sesenta y treinta, por Cristo Jesús, nuestro Señor.",
 "cop": "Ⲟⲩⲟϩ ⲛ̀ⲧⲉⲛϯⲟⲩⲧⲁϩ ⲛ̀ϧⲏⲧⲟⲩ ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲣ̅ (ϣⲉ) ⲛⲉⲙ ⲝ̅ (ⲥⲉ) ⲛⲉⲙ ⲗ̅ (ⲙⲁⲡ): ϧⲉⲛ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ.",
-"ar": "Y que demos frutos ciento, sesenta y treinta, por Cristo Jesús, nuestro Señor."
+"ar": "ونثمر فيها بمئةٍ وستينَ وثلاثين، بالمسيحِ يسوع ربِّنا."
 },
 {
 "role": "deacon",
-"es": "صلوا من أجل الأحياء.",
+"es": "Orad por los vivos.",
 "cop": "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲍⲱⲛⲧⲱⲛ.",
-"ar": "Orad por los vivos."
+"ar": "صلوا من أجل الأحياء."
 },
 {
 "role": "people",
-"es": "ياربُّ ارحَم.",
+"es": "Señor, ten piedad.",
 "cop": "Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-"ar": "Señor, ten piedad."
+"ar": "ياربُّ ارحَم."
 },
 {
 "role": "priest",
-"es": "اذكر ياربُّ مرضى شعبِك، افتقدهم بالمراحم والرأفات، اشفهم.",
+"es": "Acuérdate, Señor, de los enfermos de tu pueblo. Atiéndelos con misericordia y compasión, sánalos.",
 "cop": "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲏⲉⲧϣⲱⲛⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲗⲁⲟⲥ: ⲉ̀ⲁⲕϫⲉⲙⲡⲟⲩϣⲓⲛⲓ ϧⲉⲛ ϩⲁⲛⲛⲁⲓ ⲛⲉⲙ ϩⲁⲛⲙⲉⲧϣⲉⲛϩⲏⲧ ⲙⲁⲧⲁⲗϭⲱⲟⲩ.",
-"ar": "Acuérdate, Señor, de los enfermos de tu pueblo. Atiéndelos con misericordia y compasión, sánalos."
+"ar": "اذكر ياربُّ مرضى شعبِك، افتقدهم بالمراحم والرأفات، اشفهم."
 },
 {
 "role": "deacon",
-"es": "صلوا من أجل المرضى .",
+"es": "Orad por los enfermos.",
 "cop": "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲛⲟⲥⲟⲩⲛⲧⲱⲛ.",
-"ar": "Orad por los enfermos."
+"ar": "صلوا من أجل المرضى ."
 },
 {
 "role": "people",
-"es": "ياربُّ ارحَم.",
+"es": "Señor, ten piedad.",
 "cop": "Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-"ar": "Señor, ten piedad."
+"ar": "ياربُّ ارحَم."
 },
 {
 "role": "priest",
-"es": "أذكر ياربُّ أباءنا وإخوتَنا المسافرين، ردهم إلى أوطَانِهم بسلامٍ وعافيةٍ.",
+"es": "Acuérdate, Señor, de nuestros padres y hermanos que estén viajando, devuélvelos a sus patrias sanos y en paz.",
 "cop": "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲉⲛⲓⲟϯ ⲛⲉⲙ ⲛⲉⲛⲥ̀ⲛⲏⲟⲩ ⲉ̀ⲧⲁⲩϣⲉ ⲉ̀ⲡ̀ϣⲉⲙⲙⲟ: ⲙⲁⲧⲁⲥⲑⲱⲟⲩ ⲉ̀ⲛⲏⲉ̀ⲧⲉ ⲛⲟⲩⲟⲩ ⲙ̀ⲙⲁⲛ̀ϣⲱⲡⲓ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲟⲩϫⲁⲓ.",
-"ar": "Acuérdate, Señor, de nuestros padres y hermanos que estén viajando, devuélvelos a sus patrias sanos y en paz."
+"ar": "أذكر ياربُّ أباءنا وإخوتَنا المسافرين، ردهم إلى أوطَانِهم بسلامٍ وعافيةٍ."
 },
 {
 "role": "deacon",
-"es": "صلوا من أجل المسافرين.",
+"es": "Orad por los viajantes.",
 "cop": "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲁ̀ⲡⲟⲇⲏⲙⲱⲛ.",
-"ar": "Orad por los viajantes."
+"ar": "صلوا من أجل المسافرين."
 },
 {
 "role": "people",
-"es": "ياربُّ ارحَم.",
+"es": "Señor, ten piedad.",
 "cop": "Ⲕⲩⲣⲓⲉ̀ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ.",
-"ar": "Señor, ten piedad."
+"ar": "ياربُّ ارحَم."
 },
 {
 "role": "priest",
@@ -3723,9 +3758,9 @@
 },
 {
 "role": "priest",
-"es": "الآن يا سيدي تُطلق عبدَكَ بسلامٍ كقولِكَ، لأن عينَيَّ قد أبصرتا خلاصَكَ الذي أعددتَه قدامَ جميعِ الشعوبِ، نورَ إعلانٍ للأممِ ومجداً لشعبِك إسرائيل.",
+"es": "Ahora, Señor, según tu promesa, puedes dejar a tu siervo irse en paz. Porque mis ojos han visto a tu Salvador, a quien has presentado ante todos los pueblos: luz para alumbrar a las naciones y gloria de tu pueblo Israel.",
 "cop": "Ϯⲛⲟⲩ ⲡⲁⲛⲏⲃ ⲭ̀ⲛⲁⲭⲁ ⲡⲉⲕⲃⲱⲕ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲕⲁⲧⲁ ⲡⲉⲕⲥⲁϫⲓ: ϫⲉ ⲁⲩⲛⲁⲩ ⲛ̀ϫⲉ ⲛⲁⲃⲁⲗ ⲉ̀ⲡⲉⲕⲛⲟϩⲉⲙ: ⲫⲏⲉ̀ⲧⲁⲕⲥⲉⲃⲧⲱⲧϥ ⲙ̀ⲡⲉⲙ̀ⲑⲟ ⲛ̀ⲛⲓⲗⲁⲟⲥ ⲧⲏⲣⲟⲩ: ⲟⲩⲟⲩⲱⲓⲛⲓ ⲉⲩϭⲱⲣⲡ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ϩⲁⲛⲉⲑⲛⲟⲥ: ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲕⲗⲁⲟⲥ Ⲡⲓⲥⲣⲁⲏⲗ.",
-"ar": "Ahora, Señor, según tu promesa, puedes dejar a tu siervo irse en paz. Porque mis ojos han visto a tu Salvador, a quien has presentado ante todos los pueblos: luz para alumbrar a las naciones y gloria de tu pueblo Israel."
+"ar": "الآن يا سيدي تُطلق عبدَكَ بسلامٍ كقولِكَ، لأن عينَيَّ قد أبصرتا خلاصَكَ الذي أعددتَه قدامَ جميعِ الشعوبِ، نورَ إعلانٍ للأممِ ومجداً لشعبِك إسرائيل."
 },
 {
 "role": "note",
@@ -3735,9 +3770,9 @@
 },
 {
 "role": "priest",
-"es": "اسجدوا لإنجيلِ يسوعَ المسيح ابن الله الحي، له المجد إلى الأبد.",
+"es": "Postraros ante el Evangelio de Jesucristo, el Hijo de Dios vivo, gloria a Él para siempre.",
 "cop": "Ⲟⲩⲱϣⲧ ⲙ̀ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲛ̀ⲧⲉ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀Ⲫⲛⲟⲩϯ ⲉⲧⲟⲛϧ: ⲡⲓⲱ̀ⲟⲩ ⲛⲁϥ ϣⲁ ⲉ̀ⲛⲉϩ.",
-"ar": "Postraros ante el Evangelio de Jesucristo, el Hijo de Dios vivo, gloria a Él para siempre."
+"ar": "اسجدوا لإنجيلِ يسوعَ المسيح ابن الله الحي، له المجد إلى الأبد."
 },
 {
 "role": "note",
@@ -3747,9 +3782,9 @@
 },
 {
 "role": "priest",
-"es": "أما أنتم فطوبى لأعينِكم لأنها تبصر، ولآذانِكم لأنها تسمع، فلنستحق أن نسمعَ ونعملَ بأناجيلِك المقدسةِ بطلباتِ قديسيك.",
+"es": "“Pero bienaventurados vuestros ojos porque ven; y vuestros oídos porque oyen”. Haznos dignos de escuchar y practicar tus Santos Evangelios, a través de las súplicas de tus santos.",
 "cop": "Ⲛⲑⲱⲧⲉⲛ ⲇⲉ ⲱ̀ⲟⲩⲛⲓⲁⲧⲟⲩ ⲛ̀ⲛⲉⲧⲉⲛⲃⲁⲗ ϫⲉ ⲥⲉⲛⲁⲩ: ⲛⲉⲙ ⲛⲉⲧⲉⲛⲙⲁϣϫ ϫⲉ ⲥⲉⲥⲱⲧⲉⲙ: ⲙⲁⲣⲉⲛⲉⲣⲡ̀ⲉⲙⲡ̀ϣⲁ ⲛ̀ⲥⲱⲧⲉⲙ ⲟⲩⲟϩ ⲉ̀ⲓ̀ⲣⲓ ⲛ̀ⲛⲉⲕⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ: ϧⲉⲛ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ.",
-"ar": "“Pero bienaventurados vuestros ojos porque ven; y vuestros oídos porque oyen”. Haznos dignos de escuchar y practicar tus Santos Evangelios, a través de las súplicas de tus santos."
+"ar": "أما أنتم فطوبى لأعينِكم لأنها تبصر، ولآذانِكم لأنها تسمع، فلنستحق أن نسمعَ ونعملَ بأناجيلِك المقدسةِ بطلباتِ قديسيك."
 },
 {
 "role": "note",
@@ -4462,6 +4497,12 @@
 "ar": "وفي أثناء ذلك يأخذ الكاهن الصليب، ويحوِّل وجهه إلى الشرق ويقول هذه الصلوات الثلاث للابن، أول ذلك: (إذا كان البطريرك أو المطران أو الأسقف حاضراً فهو الذي يقول هذه الصلوات الثلاث للابن ويرشم الشعب بالصليب)."
 },
 {
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
+{
 "role": "priest",
 "es": "Sí, Señor, que nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo.",
 "cop": "Ⲥⲉ Ⲡϭⲟⲓⲥ Ⲡϭⲟⲓⲥ ⲫⲏⲉ̀ⲧⲁϥϯ ⲙ̀ⲡⲓⲉⲣϣⲓϣⲓ ⲛⲁⲛ: ⲉ̀ϩⲱⲙⲓ ⲉ̀ϫⲉⲛ ⲛⲓϩⲟϥ ⲛⲉⲙ ⲛⲓϭⲗⲏ: ⲛⲉⲙ ⲉ̀ϫⲉⲛ ϯϫⲟⲙ ⲧⲏⲣⲥ ⲛ̀ⲧⲉ ⲡⲓϫⲁϫⲓ.",
@@ -4511,6 +4552,12 @@
 "ar": "صلاة خضوع للابن"
 },
 "rows": [
+{
+"role": "note",
+"es": "El sacerdote (dice en voz baja):",
+"cop": "",
+"ar": "يقول الكاهن (سراً):"
+},
 {
 "role": "priest",
 "es": "Dios, eres Tú quien has hecho inclinar a los cielos, has descendido y te has encarnado por la salvación de la especie humana.",
@@ -4966,6 +5013,12 @@
 "es": "Amén. Así sea.",
 "cop": "Ⲁⲙⲏⲛ ⲉⲥⲉ̀ϣⲱⲡⲓ.",
 "ar": "يقول الشعب آمين يكونُ."
+},
+{
+"role": "note",
+"es": "El sacerdote se gira al este y dice:",
+"cop": "",
+"ar": "يلتفت الكاهن إلي الشرق ويقول:"
 },
 {
 "role": "priest",
