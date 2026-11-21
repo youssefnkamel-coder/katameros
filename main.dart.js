@@ -96572,7 +96572,7 @@ j=A.amu(A.pz(b.f?B.anN:A.W(A.G("Entrar",B.f),new A.bP(0,t.f3),a,a,a,a,a,a,a,a),h
 i=A.G(u.d,B.f)
 q.push(new A.jn(A.aQ(A.b([p,B.bp,o,k,B.bG,j,B.bG,A.W(i,a,a,a,a,a,A.aZ(a,a,l?n.k3:m,a,a,a,a,a,a,a,a,a,a,a,a,a,1.4,!0,a,a,a,a,a,a,a,a),B.al,a,a)],r),B.a5,a,B.l,B.o),120,a))
 q=A.aQ(q,B.a5,a,B.d6,B.o)
-s=A.b([new A.J_(new A.ds(new A.aa(0,1/0,s,1/0),q,a),a),B.bG,B.QK,B.b7,A.cY(A.W("Test -21-11-2026 D",a,a,a,a,a,A.aZ(a,a,(l?n.k3:m).az(0.7),a,a,a,a,a,a,a,a,12,a,a,a,a,a,!0,a,0.5,a,a,a,a,a,a),a,a,a),a,a)],r)
+s=A.b([new A.J_(new A.ds(new A.aa(0,1/0,s,1/0),q,a),a),B.bG,B.QK,B.b7,A.cY(A.W("Test -21-11-2026 E",a,a,a,a,a,A.aZ(a,a,(l?n.k3:m).az(0.7),a,a,a,a,a,a,a,a,12,a,a,a,a,a,!0,a,0.5,a,a,a,a,a,a),a,a,a),a,a)],r)
 if(a0.gaI3()){q=n.y
 p=A.k4(q.az(0.07),n.k2)
 o=A.G("MODO DEMOSTRACI\xd3N",B.f)
@@ -98215,7 +98215,7 @@ a0.push(B.c7)
 a0.push(B.nV)
 a0.push(B.b7)
 b=r.rx
-a0.push(A.cY(A.W("La Palabra de Dios \xb7 Test -21-11-2026 D",f,f,f,f,f,A.aZ(f,f,b==null?r.k3:b,f,f,f,f,f,f,f,f,12.5,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f,f))
+a0.push(A.cY(A.W("La Palabra de Dios \xb7 Test -21-11-2026 E",f,f,f,f,f,A.aZ(f,f,b==null?r.k3:b,f,f,f,f,f,f,f,f,12.5,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f,f))
 return A.aqb(A.b([new A.f2(new A.A8(d,c,f,f,f),760,f),new A.f2(new A.as(B.f0,A.aQ(A.b0W(a0),B.a5,f,B.l,B.o),f),760,f)],a),B.oN)},
 $S:621}
 A.aAF.prototype={

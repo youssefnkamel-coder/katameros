@@ -47,7 +47,7 @@ if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then((rs) => rs.forEach((r) => r.unregister()));
   if (window.caches) caches.keys().then((ks) => ks.forEach((k) => caches.delete(k)));
 }
-const appBuild = "2923604079" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+const appBuild = "1210444423" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
 for (const b of _flutter.buildConfig.builds) {
   b.mainJsPath = (b.mainJsPath || 'main.dart.js') + '?v=' + appBuild;
 }
