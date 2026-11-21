@@ -16,9 +16,9 @@
    "rows": [
     {
      "role": "text",
-     "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios. Amén. Señor ten piedad, Señor ten piedad, Señor bendice. Amén. Gloria al Padre, al Hijo y al Espíritu Santo. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios. Amén. Señor ten piedad, Señor ten piedad, Señor bendice. Amén.",
      "cop": "",
-     "ar": "† باسم الآب والابن والروح القدس الإله الواحد آمين. يا رب ارحم. يا رب ارحم. يا رب بارك. آمين. المجد للآب والابن والروح القدس الآن وكل أوان وإلى دهر الدهور آمين."
+     "ar": "† باسم الآب والابن والروح القدس الإله الواحد آمين يا رب ارحم. يا رب ارحم. يا رب بارك. آمين. المجد للآب والابن والروح القدس الآن وكل أوان وإلى دهر الدهور آمين"
     }
    ]
   },
@@ -31,9 +31,15 @@
    "rows": [
     {
      "role": "text",
-     "es": "Padre nuestro, que estás en los cielos, santificado sea tu nombre . Venga a nosotros tu reino. Hágase tu voluntad, así en la tierra, como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas; así como también nosotros; perdonamos a los que nos ofenden; no nos dejes caer en la tentación; y líbranos del mal. Por Cristo Jesús nuestro Señor; porque tuyos son el reino, el poder y la gloria para siempre. Amén.",
+     "es": "Padre nuestro, que estás en los cielos, santificado sea tu nombre . Venga a nosotros tu reino. Hágase tu voluntad, así en la tierra, como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas; así como también nosotros;",
      "cop": "",
-     "ar": "اللهم اجعلنا مستحقين أن نقول بشكر: أبانا الذي في السموات. ليتقدس اسمك. ليأت ملكوتك. لتكن مشيئتك. كما في السماء كذلك على الأرض. خبزنا الذي للغد أعطنا اليوم. وأغفر لنا ذنوبنا كما نغفر نحن أيضا للمذنبين إلينا. ولا تدخلنا في تجربة. لكن نجنا من الشرير. بالمسيح يسوع ربنا لأن لك الملك والقوة والمجد إلى الأبد. آمين."
+     "ar": "اللهم اجعلنا مستحقين أن نقول بشكر: أبانا الذي في السموات. ليتقدس اسمك. ليأت ملكوتك. لتكن مشيئتك. كما في السماء كذلك على الأرض. خبزنا الذي للغد أعطنا اليوم."
+    },
+    {
+     "role": "text",
+     "es": "perdonamos a los que nos ofenden; no nos dejes caer en la tentación; y líbranos del mal. Por Cristo Jesús nuestro Señor; porque tuyos son el reino, el poder y la gloria para siempre. Amén.",
+     "cop": "",
+     "ar": "وأغفر لنا ذنوبنا كما نغفر نحن أيضا للمذنبين إلينا. ولا تدخلنا في تجربة. لكن نجنا من الشرير. بالمسيح يسوع ربنا لأن لك الملك والقوة والمجد إلى الأبد. آمين"
     }
    ]
   },
@@ -46,21 +52,45 @@
    "rows": [
     {
      "role": "text",
-     "es": "Demos gracias al benefactor Dios misericordioso, Padre de nuestro Señor, Dios y Salvador Jesucristo. Porque nos ha cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora. Supliquémosle también, a Todopoderoso, el Señor nuestro Dios, que nos conserve en plena paz, en este Santo día y todos los días de nuestra vida. El señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo. Te damos gracias por toda circunstancia, para toda circunstancia y en toda circunstancia.",
+     "es": "Demos gracias al benefactor Dios misericordioso, Padre de nuestro Señor, Dios y Salvador Jesucristo. Porque nos ha cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
      "cop": "",
-     "ar": "فلنشكر صانع الخيرات الرحوم الله، أبا ربنا وإلهنا ومخلصنا يسوع المسيح، لأنه سترنا وأعاننا، وحفظنا، وقبلنا إليه وأشفق علينا وعضدنا، وأتى بنا إلى هذه الساعة. هو أيضا فلنسأله أن يحفظنا في هذا اليوم المقدس وكل أيام حياتنا بكل سلام. الضابط الكل الرب إلهنا. أيها السيد الإله ضابط الكل أبو ربنا وإلهنا ومخلصنا يسوع المسيح، نشكرك على كل حال ومن أجل كل حال، وفى كل حال، لأنك سترتنا، وأعنتنا، وحفظتنا، وقبلتنا إليك، وأشفقت علينا، وعضدتنا، وأتيت بنا إلى هذه الساعة."
+     "ar": "فلنشكر صانع الخيرات الرحوم الله، أبا ربنا وإلهنا ومخلصنا يسوع المسيح، لأنه سترنا وأعاننا، وحفظنا، وقبلنا إليه وأشفق علينا وعضدنا، وأتى بنا إلى هذه الساعة."
     },
     {
      "role": "text",
-     "es": "Porque nos has cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora. Por ello, pedimos y suplicamos tu bondad, Amante de la humanidad, concédenos completar este santo día, y todos los días de nuestra vida, en plena paz y con tu temor. Toda envidia, toda tentación, toda obra de Satanás, intriga de los malvados y ataque de los enemigos visibles e invisibles. Aléjalos de nosotros, De todo tu pueblo. De este lugar santo que es tuyo. Cólmanos con los bienes y los beneficios porque eres Tú quien nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo.",
+     "es": "Supliquémosle también, a Todopoderoso, el Señor nuestro Dios, que nos conserve en plena paz, en este Santo día y todos los días de nuestra vida. El señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
      "cop": "",
-     "ar": "من أجل هذا نسأل ونطلب من صلاحك يا محب البشر، امنحنا أن نكمل هذا اليوم المقدس وكل أيام حياتنا بكل سلام مع خوفك. كل حسد، وكل تجربة وكل فعل الشيطان ومؤامرة الناس الأشرار، وقيام الأعداء الخفيين والظاهريين، انزعها عنا وعن سائر شعبك، وعن موضعك المقدس هذا. أما الصالحات والنافعات فارزقنا إياها."
+     "ar": "هو أيضا فلنسأله أن يحفظنا في هذا اليوم المقدس وكل أيام حياتنا بكل سلام. الضابط الكل الرب إلهنا أيها السيد الإله ضابط الكل أبو ربنا وإلهنا ومخلصنا يسوع المسيح، نشكرك على كل حال ومن أجل كل حال، وفى كل حال،"
     },
     {
      "role": "text",
-     "es": "Y no nos dejes caer en la tentación; y líbranos del mal. Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo. Por quien la gloria, el honor, la magnificencia y la adoración te son debidos con Él y el Espíritu Santo vivificante y consubstancial a Ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "es": "Te damos gracias por toda circunstancia, para toda circunstancia y en toda circunstancia. Porque nos has cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
      "cop": "",
-     "ar": "لأنك أنت الذي أعطيتنا السلطان أن ندوس الحيات والعقارب وكل قوة العدو. ولا تدخلنا في تجربة، لكن نجنا من الشرير. بالنعمة والرأفات ومحبة البشر اللواتي لابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح. هذا الذي من قبله المجد والإكرام والعزة والسجود تليق بك معه مع الروح القدس المحيي المساوي لك الآن وكل أوان وإلى دهر الدهور آمين."
+     "ar": "لأنك سترتنا، وأعنتنا، وحفظتنا، وقبلتنا إليك، وأشفقت علينا، وعضدتنا، وأتيت بنا إلى هذه الساعة من أجل هذا نسأل ونطلب من صلاحك يا محب البشر،"
+    },
+    {
+     "role": "text",
+     "es": "Por ello, pedimos y suplicamos tu bondad, Amante de la humanidad, concédenos completar este santo día, y todos los días de nuestra vida, en plena paz y con tu temor. Toda envidia, toda tentación, toda obra de Satanás, intriga de los malvados y ataque de los enemigos visibles e invisibles.",
+     "cop": "",
+     "ar": "امنحنا أن نكمل هذا اليوم المقدس وكل أيام حياتنا بكل سلام مع خوفك. كل حسد، وكل تجربة وكل فعل الشيطان ومؤامرة الناس الأشرار، وقيام الأعداء الخفيين والظاهريين، انزعها عنا وعن سائر شعبك، وعن موضعك المقدس هذا."
+    },
+    {
+     "role": "text",
+     "es": "Aléjalos de nosotros, De todo tu pueblo. De este lugar santo que es tuyo. Cólmanos con los bienes y los beneficios porque eres Tú quien nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo.",
+     "cop": "",
+     "ar": "أما الصالحات والنافعات فارزقنا إياها. لأنك أنت الذي أعطيتنا السلطان أن ندوس الحيات والعقارب وكل قوة العدو."
+    },
+    {
+     "role": "text",
+     "es": "Y no nos dejes caer en la tentación; y líbranos del mal. Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
+     "cop": "",
+     "ar": "ولا تدخلنا في تجربة، لكن نجنا من الشرير بالنعمة والرأفات ومحبة البشر اللواتي لابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح."
+    },
+    {
+     "role": "text",
+     "es": "Por quien la gloria, el honor, la magnificencia y la adoración te son debidos con Él y el Espíritu Santo vivificante y consubstancial a Ti.",
+     "cop": "",
+     "ar": "هذا الذي من قبله المجد والإكرام والعزة والسجود تليق بك معه مع الروح القدس المحيي المساوي لك الآن وكل أوان وإلى دهر الدهور آمين"
     }
    ]
   },
@@ -73,15 +103,39 @@
    "rows": [
     {
      "role": "text",
-     "es": "Misericordia, Dios mío, por tu bondad, por tu inmensa compasión borra mi culpa; Lava del todo mi delito, limpia mi pecado. Pues yo reconozco mi culpa, tengo siempre presente mi pecado. Contra ti, contra ti solo pequé, cometí la maldad en tu presencia. En la sentencia tendrás razón, en el juicio resultarás inocente. Mira, en la culpa nací, pecador me concibió mi madre. Te gusta un corazón sincero, y en mi interior me inculcas sabiduría. Rocíame con el hisopo: quedaré limpio; lávame: quedaré más blanco que la nieve. Hazme oír el gozo y la alegría, que se alegren los huesos quebrantados. Aparta de mi pecado tu vista, borra en mí toda culpa. Oh Dios, crea en mí un corazón puro, renuévame por dentro con espíritu firme No me arrojes lejos de tu rostro, no me quites tu santo espíritu.",
+     "es": "Misericordia, Dios mío, por tu bondad, por tu inmensa compasión borra mi culpa; Lava del todo mi delito, limpia mi pecado. Pues yo reconozco mi culpa, tengo siempre presente mi pecado. Contra ti, contra ti solo pequé, cometí la maldad en tu presencia.",
      "cop": "",
-     "ar": "ارحمني يا الله كعظيم رحمتك، ومثل كثرة رأفتك تمحو إثمي. اغسلني كثيرا من إثمي ومن خطيتي طهرني، لأني أنا عارف بإثمي وخطيتي أمامي في كل حين. لك وحدك أخطأت، والشر قدامك صنعت. لكي تتبرر في أقوالك. وتغلب إذا حوكمتُ. لأني هاأنذا بالإثم حبل بي، وبالخطايا ولدتني أمي. لأنك هكذا قد أحببت الحق، إذ أوضحت لي غوامض حكمتك ومستوراتها. تنضح على بزوفاك فأطهر، تغسلني فأبيض أكثر من الثلج. تسمعني سرورا وفرحا، فتبتهج عظامي المنسحقة. اصرف وجهك عن خطاياي، وامح كل آثامي. قلبا نقيا اخلق في يا الله، وروحا مستقيما جدده في أحشائي."
+     "ar": "ارحمني يا الله كعظيم رحمتك، ومثل كثرة رأفتك تمحو إثمي. اغسلني كثيرا من إثمي ومن خطيتي طهرني، لأني أنا عارف بإثمي وخطيتي أمامي في كل حين. لك وحدك أخطأت، والشر قدامك صنعت."
     },
     {
      "role": "text",
-     "es": "Devuélveme la alegría de tu salvación, afiánzame con espíritu generoso. Enseñaré a los malvados tus caminos, los pecadores volverán a ti. Líbrame de la sangre, oh Dios, Dios, Salvador mío, y cantará mi lengua tu justicia. Señor, me abrirás los labios, y mi boca proclamará tu alabanza. Los sacrificios no te satisfacen: si te ofreciera un holocausto, no lo querrías. El sacrificio agradable a Dios es un espíritu quebrantado; un corazón quebrantado y humillado, tú, oh Dios, tú no lo desprecias. Señor, por tu bondad, favorece a Sión, reconstruye las murallas de Jerusalén: Entonces aceptarás los sacrificios rituales, ofrendas y holocaustos, sobre tu altar se inmolarán novillos. ¡Aleluya!.",
+     "es": "En la sentencia tendrás razón, en el juicio resultarás inocente. Mira, en la culpa nací, pecador me concibió mi madre. Te gusta un corazón sincero, y en mi interior me inculcas sabiduría. Rocíame con el hisopo: quedaré limpio; lávame: quedaré más blanco que la nieve.",
      "cop": "",
-     "ar": "لا تطرحني من قدام وجهك وروحك القدوس لا تنزعه منى. امنحني بهجة خلاصك، وبروح رئاسي عضدني فأعلم الأثمة طرقك والمنافقون إليك يرجعون، نجني من الدماء يا الله إله خلاصي، فيبتهج لساني بعدلك. يا رب افتح شفتي، فيخبر فمي بتسبيحك. لأنك لو آثرت الذبيحة لكنت الآن أعطي، ولكنك لا تسر بالمحرقات، فالذبيحة لله روح منسحق. القلب المنكسر والمتواضع لا يرذله الله، أنعم يا رب بمسرتك على صهيون، ولتبن أسوار أورشليم. حينئذ تسر بذبائح البر قربانا ومحرقات ويقربون على مذابحك العجول. هلليلويا."
+     "ar": "لكي تتبرر في أقوالك. وتغلب إذا حوكمتُ. لأني هاأنذا بالإثم حبل بي، وبالخطايا ولدتني أمي. لأنك هكذا قد أحببت الحق، إذ أوضحت لي غوامض حكمتك ومستوراتها. تنضح على بزوفاك فأطهر، تغسلني فأبيض أكثر من الثلج."
+    },
+    {
+     "role": "text",
+     "es": "Hazme oír el gozo y la alegría, que se alegren los huesos quebrantados. Aparta de mi pecado tu vista, borra en mí toda culpa. Oh Dios, crea en mí un corazón puro, renuévame por dentro con espíritu firme No me arrojes lejos de tu rostro, no me quites tu santo espíritu.",
+     "cop": "",
+     "ar": "تسمعني سرورا وفرحا، فتبتهج عظامي المنسحقة. اصرف وجهك عن خطاياي، وامح كل آثامي. قلبا نقيا اخلق في يا الله، وروحا مستقيما جدده في أحشائي."
+    },
+    {
+     "role": "text",
+     "es": "Devuélveme la alegría de tu salvación, afiánzame con espíritu generoso. Enseñaré a los malvados tus caminos, los pecadores volverán a ti. Líbrame de la sangre, oh Dios, Dios, Salvador mío, y cantará mi lengua tu justicia.",
+     "cop": "",
+     "ar": "لا تطرحني من قدام وجهك وروحك القدوس لا تنزعه منى. امنحني بهجة خلاصك، وبروح رئاسي عضدني فأعلم الأثمة طرقك والمنافقون إليك يرجعون، نجني من الدماء يا الله إله خلاصي، فيبتهج لساني بعدلك."
+    },
+    {
+     "role": "text",
+     "es": "Señor, me abrirás los labios, y mi boca proclamará tu alabanza. Los sacrificios no te satisfacen: si te ofreciera un holocausto, no lo querrías. El sacrificio agradable a Dios es un espíritu quebrantado; un corazón quebrantado y humillado, tú, oh Dios, tú no lo desprecias.",
+     "cop": "",
+     "ar": "يا رب افتح شفتي، فيخبر فمي بتسبيحك. لأنك لو آثرت الذبيحة لكنت الآن أعطي، ولكنك لا تسر بالمحرقات، فالذبيحة لله روح منسحق."
+    },
+    {
+     "role": "text",
+     "es": "Señor, por tu bondad, favorece a Sión, reconstruye las murallas de Jerusalén: Entonces aceptarás los sacrificios rituales, ofrendas y holocaustos, sobre tu altar se inmolarán novillos. ¡Aleluya!.",
+     "cop": "",
+     "ar": "القلب المنكسر والمتواضع لا يرذله الله، أنعم يا رب بمسرتك على صهيون، ولتبن أسوار أورشليم. حينئذ تسر بذبائح البر قربانا ومحرقات ويقربون على مذابحك العجول. هلليلويا"
     }
    ]
   },
@@ -96,7 +150,7 @@
      "role": "text",
      "es": "Alabanza de Tercia del día bendito. La Presento a Cristo, mi Rey y Dios . Le ruego que perdone mis pecados. De los Salmos de nuestro maestro David el profeta y el rey. Que su bendición esté sobre nosotros. Amén.",
      "cop": "",
-     "ar": "تسبحة الساعة الثالثة من النهار المبارك، أقدمها للمسيح ملكي وإلهى، وأرجوه أن يغفر لي خطاياي."
+     "ar": "تسبحة الساعة الثالثة من النهار المبارك، أقدمها للمسيح ملكي وإلهى، وأرجوه أن يغفر لي خطاياي"
     }
    ]
   },
@@ -109,9 +163,21 @@
    "rows": [
     {
      "role": "text",
-     "es": "Que te escuche el Señor el día del peligro que te sostenga el nombre del Dios de Jacob ; que te envíe auxilio desde el santuario que te apoye desde el monte de Sión . Que se acuerde de todas tus ofrendas que le agraden tus sacrificios ; que cumpla el deseo de tu corazón, que dé éxito a todos tus planes. Nos alegraremos con tu salvación y en el nombre de nuestro Dios alzaremos estandartes; que el Señor te conceda todo lo que pides. Ahora reconozco que el Señor da la victoria a su Ungido, que lo ha escuchado desde su santo cielo, con los prodigios de su mano victoriosa. Unos confían en sus carros, otros en su caballería; nosotros invocamos el nombre del Señor, Dios nuestro. Ellos cayeron derribados, nosotros nos mantenemos en pie. Señor, da la victoria al rey y escúchanos cuando te invocamos ¡Aleluya!",
+     "es": "Que te escuche el Señor el día del peligro que te sostenga el nombre del Dios de Jacob ; que te envíe auxilio desde el santuario que te apoye desde el monte de Sión . Que se acuerde de todas tus ofrendas que le agraden tus sacrificios ; que cumpla el deseo de tu corazón, que dé éxito a todos tus planes.",
      "cop": "",
-     "ar": "يستجيب لك الرب في يوم شدتك، ينصرك اسم إله يعقوب. يرسل لك عونا من قدسه، ومن صهيون يعضدك. يذكر جميع ذبائحك، ويستسمن محرقاتك. يعطيك الرب حسب قلبك، ويتمم كل مشورتك. نعترف لك يا رب بخلاصك، وباسم إلهنا ننمو. يكمل الرب كل سؤالك. الآن علمت أن الرب قد خلص مسيحه، واستجاب له من سماء قدسه بجبروت خلاص يمينه. هؤلاء بمركبات وهؤلاء بخيل، ونحن باسم الرب إلهنا ننمو. هم عثروا وسقطوا، ونحن قمنا وانتصبنا. يا رب خلص مَلِكك واستجب لنا يوم ندعوك. هلليلويا."
+     "ar": "يستجيب لك الرب في يوم شدتك، ينصرك اسم إله يعقوب. يرسل لك عونا من قدسه، ومن صهيون يعضدك. يذكر جميع ذبائحك، ويستسمن محرقاتك. يعطيك الرب حسب قلبك، ويتمم كل مشورتك."
+    },
+    {
+     "role": "text",
+     "es": "Nos alegraremos con tu salvación y en el nombre de nuestro Dios alzaremos estandartes; que el Señor te conceda todo lo que pides. Ahora reconozco que el Señor da la victoria a su Ungido, que lo ha escuchado desde su santo cielo, con los prodigios de su mano victoriosa.",
+     "cop": "",
+     "ar": "نعترف لك يا رب بخلاصك، وباسم إلهنا ننمو. يكمل الرب كل سؤالك. الآن علمت أن الرب قد خلص مسيحه، واستجاب له من سماء قدسه بجبروت خلاص يمينه."
+    },
+    {
+     "role": "text",
+     "es": "Unos confían en sus carros, otros en su caballería; nosotros invocamos el nombre del Señor, Dios nuestro. Ellos cayeron derribados, nosotros nos mantenemos en pie. Señor, da la victoria al rey y escúchanos cuando te invocamos ¡Aleluya!",
+     "cop": "",
+     "ar": "هؤلاء بمركبات وهؤلاء بخيل، ونحن باسم الرب إلهنا ننمو. هم عثروا وسقطوا، ونحن قمنا وانتصبنا. يا رب خلص مَلِكك واستجب لنا يوم ندعوك. هلليلويا"
     }
    ]
   },
@@ -124,9 +190,15 @@
    "rows": [
     {
      "role": "text",
-     "es": "El Señor es mi pastor, nada me falta: en verdes praderas me hace recostar; me conduce hacia fuentes tranquilas Y repara mis fuerzas; me guía por el sendero justo, por el honor de su nombre . Aunque camine por cañadas oscuras, nada temo, porque tú vas conmigo: tu vara y tu cayado me sosiegan . Preparas una mesa ante mí, enfrente de mis enemigos; me unges la Cabeza con perfume, y mi copa rebosa . Tu bondad y tu misericordia me acompañan todos los días de mi Vida, y habitaré en la casa del Señor por años sin término ¡Aleluya!",
+     "es": "El Señor es mi pastor, nada me falta: en verdes praderas me hace recostar; me conduce hacia fuentes tranquilas Y repara mis fuerzas; me guía por el sendero justo, por el honor de su nombre . Aunque camine por cañadas oscuras, nada temo, porque tú vas conmigo: tu vara y tu cayado me sosiegan .",
      "cop": "",
-     "ar": "الرب يرعاني فلا يعوزني شئ. في مراع خضر يسكنني، إلى ماء الراحة يوردني. يرد نفسي. يهدني إلى سبل البر من أجل اسمه. إن سلكت في وسط ظلال الموت فلا أخاف شرا، لأنك أنت معي. عصاك وعكازك هما يعزيانني. هيأت قدامى مائدة تجاه مضايقي. مسحت بالزيت رأسي، وكأسك روتني بقوة. ورحمتك تدركني جميع أيام حياتي، ومسكني في بيت الرب إلى مدى الأيام. هلليلويا."
+     "ar": "الرب يرعاني فلا يعوزني شئ. في مراع خضر يسكنني، إلى ماء الراحة يوردني. يرد نفسي. يهدني إلى سبل البر من أجل اسمه. إن سلكت في وسط ظلال الموت فلا أخاف شرا، لأنك أنت معي. عصاك وعكازك هما يعزيانني."
+    },
+    {
+     "role": "text",
+     "es": "Preparas una mesa ante mí, enfrente de mis enemigos; me unges la Cabeza con perfume, y mi copa rebosa . Tu bondad y tu misericordia me acompañan todos los días de mi Vida, y habitaré en la casa del Señor por años sin término ¡Aleluya!",
+     "cop": "",
+     "ar": "هيأت قدامى مائدة تجاه مضايقي. مسحت بالزيت رأسي، وكأسك روتني بقوة. ورحمتك تدركني جميع أيام حياتي، ومسكني في بيت الرب إلى مدى الأيام. هلليلويا"
     }
    ]
   },
@@ -139,9 +211,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Del Señor es la tierra y cuanto la llena, el orbe y todos sus habitantes : Él la fundó sobre los mares, él la afianzó sobre los ríos. Quién puede subir al monte del Señor ? Quién puede estar en el Recinto sacro ? El hombre de manos inocentes y puro corazón, que no confía en Los ídolos ni jura con engaño . Ese recibirá la bendición del Señor, le hará justicia el Dios de Salvación. Esta es la generación que busca al Señor, que busca tu rostro, Dios de Jacob. ¡Portones!, alzad los dinteles, que se alcen las puertas eternales: va a Entrar el Rey de la gloria . ¿Quién es ese Rey de la gloria? El Señor, héroe valeroso, el Señor valeroso en la batalla . ¡Portones!, alzad los dinteles, que se alcen las puertas eternales: va a Entrar el Rey de la gloria . ¿Quién es ese Rey de la gloria? El Señor, Dios del universo, él Es el Rey de la gloria ¡Aleluya!",
+     "es": "Del Señor es la tierra y cuanto la llena, el orbe y todos sus habitantes : Él la fundó sobre los mares, él la afianzó sobre los ríos. Quién puede subir al monte del Señor ? Quién puede estar en el Recinto sacro ? El hombre de manos inocentes y puro corazón, que no confía en Los ídolos ni jura con engaño .",
      "cop": "",
-     "ar": "للرب الأرض وملؤها، المسكونة وجميع الساكنين فيها. هو على البحار أسسها، وعلى الأنهار هيأها. من يصعد إلى جبل الرب، أو من يقوم في موضع قدسه؟ الطاهر اليدين، النقي القلب. الذي لم يحمل نفسه إلى الباطل ولم يحلف بالغش. هذا ينال بركة من الرب، ورحمة من الله مخلصه، هذا هو جيل الذين يطلبون الرب ويبتغون وجه إله يعقوب. ارفعوا أيها الرؤساء أبواكم، وارتفعي أيتها الأبواب الدهرية، فيدخل ملك المجد. من هو هذا ملك المجد؟ الرب العزيز القدير، الرب القوى في الحروب. ارفعوا أيها الرؤساء أبوابكم، وارتفعي أيتها الأبواب الدهرية، فيدخل ملك المجد. من هو هذا ملك المجد؟ رب القوات، هذا هو ملك المجد. هلليلويا."
+     "ar": "للرب الأرض وملؤها، المسكونة وجميع الساكنين فيها. هو على البحار أسسها، وعلى الأنهار هيأها. من يصعد إلى جبل الرب، أو من يقوم في موضع قدسه؟ الطاهر اليدين، النقي القلب."
+    },
+    {
+     "role": "text",
+     "es": "Ese recibirá la bendición del Señor, le hará justicia el Dios de Salvación. Esta es la generación que busca al Señor, que busca tu rostro, Dios de Jacob.",
+     "cop": "",
+     "ar": "الذي لم يحمل نفسه إلى الباطل ولم يحلف بالغش. هذا ينال بركة من الرب، ورحمة من الله مخلصه، هذا هو جيل الذين يطلبون الرب ويبتغون وجه إله يعقوب ارفعوا أيها الرؤساء أبواكم، وارتفعي أيتها الأبواب الدهرية، فيدخل ملك المجد."
+    },
+    {
+     "role": "text",
+     "es": "¡Portones!, alzad los dinteles, que se alcen las puertas eternales: va a Entrar el Rey de la gloria . ¿Quién es ese Rey de la gloria? El Señor, héroe valeroso, el Señor valeroso en la batalla .",
+     "cop": "",
+     "ar": "من هو هذا ملك المجد؟ الرب العزيز القدير، الرب القوى في الحروب."
+    },
+    {
+     "role": "text",
+     "es": "¡Portones!, alzad los dinteles, que se alcen las puertas eternales: va a Entrar el Rey de la gloria . ¿Quién es ese Rey de la gloria? El Señor, Dios del universo, él Es el Rey de la gloria ¡Aleluya!",
+     "cop": "",
+     "ar": "ارفعوا أيها الرؤساء أبوابكم، وارتفعي أيتها الأبواب الدهرية، فيدخل ملك المجد. من هو هذا ملك المجد؟ رب القوات، هذا هو ملك المجد. هلليلويا"
     }
    ]
   },
@@ -154,9 +244,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Hazme justicia, Señor, que camino en la inocencia; confiando en el Señor, no me he desviado. Escrútame, Señor, ponme a prueba, sondea mis entrañas y mi corazón, Porque tengo ante los ojos tu bondad y camino en tu verdad. No me siento con gente falsa , no me junto con mentirosos ; Detesto las bandas de malhechores no tomo asiento con los impíos. Lavo en la inocencia mis manos, y rodeo tu altar, Señor , Proclamando tu alabanza, enumerando tus maravillas. Señor, yo amo la belleza de tu casa, el lugar donde reside tu gloria. No arrebates mi alma con los pecadores, ni mi vida con los sanguinarios , Que en su izquierda llevan infamias . y su derecha está llena de sobornos Yo , en cambio, camino en la integridad sálvame, ten misericordia de mí . Mi pie se mantiene en el camino llano; en la asamblea bendeciré al Señor ¡Aleluya!",
+     "es": "Hazme justicia, Señor, que camino en la inocencia; confiando en el Señor, no me he desviado. Escrútame, Señor, ponme a prueba, sondea mis entrañas y mi corazón, Porque tengo ante los ojos tu bondad y camino en tu verdad.",
      "cop": "",
-     "ar": "احكم لي يا رب فإني بدعتي سلكت، وعلى الرب توكلت فلا أضعف. اختبرني يا رب وجربنى، نقِّ قلبي وكليتي. لأن رحمتك أمام عيني، وقد ارتضيت بحقك. لم أجلس مع محفل باطل، ومع مخالفي الناموس لم أدخل. أبغضتُ مجمع الأشرار، ومع المنافقين لم أجلس. أغسل يدي بالنقاوة، وأطوف بمذبحك يا رب. لأسَمِّع صوت تسبيحك، وأنطق بجميع عجائبك. يا رب أحببت جمال بيتك، وموضع مسكن مجدك. فلا تهلك مع المنافقين نفسي، ولا مع رجال الدماء حياتي. الذين في أيديهم الإثم، ويمينهم امتلأت رشوة. أما أنا فبدعتي سلكت. أنقذني وارحمني لأن رجلي وقفت في الاستقامة. في الجماعات أباركك يا رب. هلليلويا."
+     "ar": "احكم لي يا رب فإني بدعتي سلكت، وعلى الرب توكلت فلا أضعف. اختبرني يا رب وجربنى، نقِّ قلبي وكليتي. لأن رحمتك أمام عيني، وقد ارتضيت بحقك. لم أجلس مع محفل باطل، ومع مخالفي الناموس لم أدخل."
+    },
+    {
+     "role": "text",
+     "es": "No me siento con gente falsa , no me junto con mentirosos ; Detesto las bandas de malhechores no tomo asiento con los impíos. Lavo en la inocencia mis manos, y rodeo tu altar, Señor , Proclamando tu alabanza, enumerando tus maravillas.",
+     "cop": "",
+     "ar": "أبغضتُ مجمع الأشرار، ومع المنافقين لم أجلس. أغسل يدي بالنقاوة، وأطوف بمذبحك يا رب. لأسَمِّع صوت تسبيحك، وأنطق بجميع عجائبك."
+    },
+    {
+     "role": "text",
+     "es": "Señor, yo amo la belleza de tu casa, el lugar donde reside tu gloria. No arrebates mi alma con los pecadores, ni mi vida con los sanguinarios , Que en su izquierda llevan infamias .",
+     "cop": "",
+     "ar": "يا رب أحببت جمال بيتك، وموضع مسكن مجدك. فلا تهلك مع المنافقين نفسي، ولا مع رجال الدماء حياتي. الذين في أيديهم الإثم، ويمينهم امتلأت رشوة."
+    },
+    {
+     "role": "text",
+     "es": "y su derecha está llena de sobornos Yo , en cambio, camino en la integridad sálvame, ten misericordia de mí . Mi pie se mantiene en el camino llano; en la asamblea bendeciré al Señor ¡Aleluya!",
+     "cop": "",
+     "ar": "أما أنا فبدعتي سلكت. أنقذني وارحمني لأن رجلي وقفت في الاستقامة. في الجماعات أباركك يا رب. هلليلويا"
     }
    ]
   },
@@ -169,9 +277,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Hijos de Dios, aclamad al Señor, aclamad la gloria y el poder del Señor, aclamad la gloria del nombre del Señor, postraos ante el Señor en el atrio sagrado. La voz del Señor sobre las aguas, el Dios de la gloria ha tornado el Señor sobre las aguas torrenciales . La voz del Señor es potente, la voz del Señor es magnífica , La voz del Señor descuaja los cedros, el Señor descuaja los cedros del Líbano . Hace brincar al Líbano como un novillo, al sarión como a una cría de. Búfalo. La voz del Señor lanza llamas de fuego, la voz del Señor sacude el desierto, el Señor sacude el desierto de cadés. La voz del Señor retuerce los robles, el Señor descorteza las selvas . En su templo, un grito unánime: «¡Gloria!».El Señor se sienta sobre las aguas del diluvio, el Señor se sienta como rey eterno . El Señor da fuerza a su pueblo, el Señor bendice a su pueblo con la paz ¡Aleluya!",
+     "es": "Hijos de Dios, aclamad al Señor, aclamad la gloria y el poder del Señor, aclamad la gloria del nombre del Señor, postraos ante el Señor en el atrio sagrado. La voz del Señor sobre las aguas, el Dios de la gloria ha tornado el Señor sobre las aguas torrenciales .",
      "cop": "",
-     "ar": "قدموا للرب يا أبناء الله. قدموا للرب أبناء الكباش. قدموا للرب مجدا وكرامة. قدموا للرب مجدا لاسمه. اسجدوا للرب في دار قدسه. صوت الرب على المياه. إله المجد أرعدَ. الرب على المياه الكثيرة. صوت الرب بقوة. صوت الرب بجلال عظيم. صوت الرب يحطم الأرز. الرب يكسر أرز لبنان ويسحقها مثل عجلٍ، لبنان، وسِريون، مثل ابن وحيد القرن. صوت الرب يقطع لهيب النار. صوت الرب يزلزل القفر. الرب يزلزل برية قادش. صوت الرب يولد الأيائل ويكشف الغابات. وفى هيكله المقدس كل واحد ينطق بالمجد. الرب يسكن في الطوفان، الرب يجلس ملكا إلى الأبد. الرب يعطى شعبه قوة، الرب يبارك شعبه بالسلام. هلليلويا."
+     "ar": "قدموا للرب يا أبناء الله. قدموا للرب أبناء الكباش. قدموا للرب مجدا وكرامة. قدموا للرب مجدا لاسمه. اسجدوا للرب في دار قدسه صوت الرب على المياه."
+    },
+    {
+     "role": "text",
+     "es": "La voz del Señor es potente, la voz del Señor es magnífica , La voz del Señor descuaja los cedros, el Señor descuaja los cedros del Líbano . Hace brincar al Líbano como un novillo, al sarión como a una cría de.",
+     "cop": "",
+     "ar": "إله المجد أرعدَ. الرب على المياه الكثيرة. صوت الرب بقوة. صوت الرب بجلال عظيم. صوت الرب يحطم الأرز. الرب يكسر أرز لبنان ويسحقها مثل عجلٍ، لبنان، وسِريون، مثل ابن وحيد القرن."
+    },
+    {
+     "role": "text",
+     "es": "Búfalo. La voz del Señor lanza llamas de fuego, la voz del Señor sacude el desierto, el Señor sacude el desierto de cadés. La voz del Señor retuerce los robles, el Señor descorteza las selvas .",
+     "cop": "",
+     "ar": "صوت الرب يقطع لهيب النار. صوت الرب يزلزل القفر. الرب يزلزل برية قادش. صوت الرب يولد الأيائل ويكشف الغابات."
+    },
+    {
+     "role": "text",
+     "es": "En su templo, un grito unánime: «¡Gloria!».El Señor se sienta sobre las aguas del diluvio, el Señor se sienta como rey eterno . El Señor da fuerza a su pueblo, el Señor bendice a su pueblo con la paz ¡Aleluya!",
+     "cop": "",
+     "ar": "وفى هيكله المقدس كل واحد ينطق بالمجد. الرب يسكن في الطوفان، الرب يجلس ملكا إلى الأبد. الرب يعطى شعبه قوة، الرب يبارك شعبه بالسلام. هلليلويا"
     }
    ]
   },
@@ -184,9 +310,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Te ensalzaré, Señor, porque me has librado y no has dejado que mis enemigos se rían de mí . Señor, Dios mío, a ti grité, y tú me sanaste . Señor, sacaste mi vida del abismo, me hiciste revivir cuando bajaba a la fosa. Tañed para el Señor, fieles suyos celebrad el recuerdo de su nombre santo ; su cólera dura un instante; su bondad, de por vida; al atardecer nos Visita el llanto; por la mañana, el júbilo. Yo pensaba muy seguro: «No vacilaré jamás» . Tu bondad, Señor, me aseguraba el honor y la fuerza; pero escondiste tu rostro, y quedé desconcertado . A ti, Señor, llamé, supliqué a mi Dios« ¿Qué ganas con mi muerte, con que yo baje a la fosa? ¿Te va a dar Gracias el polvo o va a proclamar tu lealtad? Escucha, Señor, y ten piedad de mí; Señor, socórreme » . Cambiaste mi luto en danzas, me desataste el sayal y me has vestido de fiesta ; te cantará mi alma sin callarse. Señor, Dios mío, te daré gracias por siempre ¡Aleluya!",
+     "es": "Te ensalzaré, Señor, porque me has librado y no has dejado que mis enemigos se rían de mí . Señor, Dios mío, a ti grité, y tú me sanaste . Señor, sacaste mi vida del abismo, me hiciste revivir cuando bajaba a la fosa. Tañed para el Señor, fieles suyos celebrad el recuerdo de su nombre santo ;",
      "cop": "",
-     "ar": "أعظمك يا رب لأنك احتضنتني، ولم تشمت بي أعدائي. أيها الرب إلهي، صرخت إليك فشفيتني. يا رب أصعدتَ من الجحيم نفسي، وخلصتني من الهابطين في الجب. رتلوا للرب يا جميع قديسيه، واعترفوا لذكر قدسه. لأن سخطا في غضبه، وحياة في رضاه. في العشاء يحل البكاء، وفى الصباح السرور. أنا قلت في نعيمي لا أتزعزع إلى الدهر، يا رب بمسرتك أعطيتَ جمالي قوة. صرفت وجهك عنى، فصرتُ قلقا. إليك يا رب أصرخ، وإلى إلهي أتضرع. أية منفعة من دمى إذا هبطتُ إلى الجحيم؟ هل يعترف لك التراب أو يخبر بحقك؟ سمع الرب فرحمني، الرب صار لي عونا. حولت نوحي إلى فرح لي، مزقت مسحي ومنطقتني سرورا. لكي ترتل لك نفسي ولا يحزن قلبي. أيها الرب إلهي إلى الأبد أعترف لك. هلليلويا."
+     "ar": "أعظمك يا رب لأنك احتضنتني، ولم تشمت بي أعدائي. أيها الرب إلهي، صرخت إليك فشفيتني. يا رب أصعدتَ من الجحيم نفسي، وخلصتني من الهابطين في الجب رتلوا للرب يا جميع قديسيه، واعترفوا لذكر قدسه."
+    },
+    {
+     "role": "text",
+     "es": "su cólera dura un instante; su bondad, de por vida; al atardecer nos Visita el llanto; por la mañana, el júbilo. Yo pensaba muy seguro: «No vacilaré jamás» . Tu bondad, Señor, me aseguraba el honor y la fuerza;",
+     "cop": "",
+     "ar": "لأن سخطا في غضبه، وحياة في رضاه. في العشاء يحل البكاء، وفى الصباح السرور أنا قلت في نعيمي لا أتزعزع إلى الدهر، يا رب بمسرتك أعطيتَ جمالي قوة."
+    },
+    {
+     "role": "text",
+     "es": "pero escondiste tu rostro, y quedé desconcertado . A ti, Señor, llamé, supliqué a mi Dios« ¿Qué ganas con mi muerte, con que yo baje a la fosa? ¿Te va a dar Gracias el polvo o va a proclamar tu lealtad?",
+     "cop": "",
+     "ar": "صرفت وجهك عنى، فصرتُ قلقا. إليك يا رب أصرخ، وإلى إلهي أتضرع. أية منفعة من دمى إذا هبطتُ إلى الجحيم؟ هل يعترف لك التراب أو يخبر بحقك؟ سمع الرب فرحمني، الرب صار لي عونا."
+    },
+    {
+     "role": "text",
+     "es": "Escucha, Señor, y ten piedad de mí; Señor, socórreme » . Cambiaste mi luto en danzas, me desataste el sayal y me has vestido de fiesta ; te cantará mi alma sin callarse. Señor, Dios mío, te daré gracias por siempre ¡Aleluya!",
+     "cop": "",
+     "ar": "حولت نوحي إلى فرح لي، مزقت مسحي ومنطقتني سرورا. لكي ترتل لك نفسي ولا يحزن قلبي. أيها الرب إلهي إلى الأبد أعترف لك. هلليلويا"
     }
    ]
   },
@@ -199,21 +343,45 @@
    "rows": [
     {
      "role": "text",
-     "es": "Bendigo al Señor en todo momento, su alabanza está siempre en mi boca; mi alma se gloría en el Señor: que los humildes lo escuchen y sea legren . . Proclamad conmigo la grandeza del Señor, ensalcemos Juntos su nombre. Yo consulté al Señor, y me respondió me libró de todas mis ansias . Contempladlo, y quedaréis radiantes, vuestro rostro no se avergonzará . El afligido invocó al Señor, él lo escuchó y lo salvó de sus angustias. El ángel del Señor acampa en torno a quienes lo temen y los protege . Gustad y ved qué bueno es el Señor, dichoso el que se acoge a él .",
+     "es": "Bendigo al Señor en todo momento, su alabanza está siempre en mi boca; mi alma se gloría en el Señor: que los humildes lo escuchen y sea legren . . Proclamad conmigo la grandeza del Señor, ensalcemos Juntos su nombre. Yo consulté al Señor, y me respondió me libró de todas mis ansias .",
      "cop": "",
-     "ar": "أبارك الرب في كل وقت، وفى كل حين تسبحته في فمي، بالرب تفتخر نفسي، يسمع الودعاء فيفرحون. عظموا الرب معي، لنرفع اسمه جميعا. طلبتُ إلى الرب فاستجاب لي، ومن جميع مخاوفي نجاني. تقدموا إليه واستنيروا، ووجوهكم لا تخزى. هذا المسكين صرخ فاستمعه الرب، ومن جميع ضيقاته خلصه. يعسكر ملاك الرب حول كل خائفيه وينجيهم. ذوقوا وانظروا ما أطيبَ الربَ! طوبى للإنسان المتكل عليه. اتقوا الرب يا جميع قديسيه، فإن الذين يتقونه لا يعوزهم شيء."
+     "ar": "أبارك الرب في كل وقت، وفى كل حين تسبحته في فمي، بالرب تفتخر نفسي، يسمع الودعاء فيفرحون. عظموا الرب معي، لنرفع اسمه جميعا. طلبتُ إلى الرب فاستجاب لي، ومن جميع مخاوفي نجاني."
     },
     {
      "role": "text",
-     "es": "Todos sus santos, temed al Señor, porque nada les falta a los que lo temen; los ricos empobrecen y pasan hambre, los que buscan al Señor no carecen de nada. Venid, hijos, escuchadme: os instruiré en el temor del Señor . ¿Hay alguien que ame la vida y desee días de prosperidad ? Guarda tu lengua del mal, tus labios de la falsedad; apártate del mal, obra el bien, busca la paz y corre tras ella.los ojos del Señor miran a los justos, sus oídos escuchan sus gritos ; pero el Señor se enfrenta con los malhechores, para borrar de la tierra su memoria.",
+     "es": "Contempladlo, y quedaréis radiantes, vuestro rostro no se avergonzará . El afligido invocó al Señor, él lo escuchó y lo salvó de sus angustias. El ángel del Señor acampa en torno a quienes lo temen y los protege .",
      "cop": "",
-     "ar": "الأغنياء افتقروا وجاعوا، أما الذين يبتغون الرب فلا يعوزهم أي خير. هلم أيها البنون استمعوا لي، فأعلمكم مخافة الرب. من هو الإنسان الذي يهوى الحياة، ويحب أن يرى أياما صالحة؟ صن لسانك عن الشر، وشفتيك عن النطق بالغش. حد عن الشر واصنع الخير، اطلب السلامة واتبعها. فإن عيني الرب على الصديقين، وأذنيه مصغيتان إلى طلبتهم."
+     "ar": "تقدموا إليه واستنيروا، ووجوهكم لا تخزى. هذا المسكين صرخ فاستمعه الرب، ومن جميع ضيقاته خلصه. يعسكر ملاك الرب حول كل خائفيه وينجيهم. ذوقوا وانظروا ما أطيبَ الربَ!"
     },
     {
      "role": "text",
-     "es": "Cuando uno grita, el Señor lo escucha y lo libra de sus angustias; el Señor está cerca de los atribulados, salva a los abatidos . Aunque el justo sufra muchos males, de todos lo libra el Señor ; Él cuida de todos sus huesos, y ni uno solo se quebrará . La maldad da muerte al malvado, los que odian al justo serán castigados El Señor redime a sus siervos, no será castigado quien se acoge a él ¡Aleluya!",
+     "es": "Gustad y ved qué bueno es el Señor, dichoso el que se acoge a él . Todos sus santos, temed al Señor, porque nada les falta a los que lo temen; los ricos empobrecen y pasan hambre, los que buscan al Señor no carecen de nada.",
      "cop": "",
-     "ar": "وجْه الرب ضد صانعي الشر، ليمحو من الأرض ذكرهم. الصديقون صرخوا والرب استجاب لهم، ومن جميع شدائدهم نجاهم. قريب هو الرب من منسحقي القلب، ويخلص المتواضعين بالروح. كثيرة هي أحزان الصديقين، ومن جميعها ينجيهم الرب. يحفظ الرب جميع عظامهم، وواحدة منها لا تنكسر. يموت الخطاة بشرهم، ومبغضو الصديق يندمون. الرب ينقذ نفوس عبيده، ولا يندم جميع المتكلين عليه. هلليلويا."
+     "ar": "طوبى للإنسان المتكل عليه. اتقوا الرب يا جميع قديسيه، فإن الذين يتقونه لا يعوزهم شيء. الأغنياء افتقروا وجاعوا، أما الذين يبتغون الرب فلا يعوزهم أي خير هلم أيها البنون استمعوا لي، فأعلمكم مخافة الرب."
+    },
+    {
+     "role": "text",
+     "es": "Venid, hijos, escuchadme: os instruiré en el temor del Señor . ¿Hay alguien que ame la vida y desee días de prosperidad ? Guarda tu lengua del mal, tus labios de la falsedad;",
+     "cop": "",
+     "ar": "من هو الإنسان الذي يهوى الحياة، ويحب أن يرى أياما صالحة؟ صن لسانك عن الشر، وشفتيك عن النطق بالغش."
+    },
+    {
+     "role": "text",
+     "es": "apártate del mal, obra el bien, busca la paz y corre tras ella.los ojos del Señor miran a los justos, sus oídos escuchan sus gritos ; pero el Señor se enfrenta con los malhechores, para borrar de la tierra su memoria.",
+     "cop": "",
+     "ar": "حد عن الشر واصنع الخير، اطلب السلامة واتبعها. فإن عيني الرب على الصديقين، وأذنيه مصغيتان إلى طلبتهم. وجْه الرب ضد صانعي الشر، ليمحو من الأرض ذكرهم."
+    },
+    {
+     "role": "text",
+     "es": "Cuando uno grita, el Señor lo escucha y lo libra de sus angustias; el Señor está cerca de los atribulados, salva a los abatidos . Aunque el justo sufra muchos males, de todos lo libra el Señor ;",
+     "cop": "",
+     "ar": "الصديقون صرخوا والرب استجاب لهم، ومن جميع شدائدهم نجاهم قريب هو الرب من منسحقي القلب، ويخلص المتواضعين بالروح. كثيرة هي أحزان الصديقين، ومن جميعها ينجيهم الرب."
+    },
+    {
+     "role": "text",
+     "es": "Él cuida de todos sus huesos, y ni uno solo se quebrará . La maldad da muerte al malvado, los que odian al justo serán castigados El Señor redime a sus siervos, no será castigado quien se acoge a él ¡Aleluya!",
+     "cop": "",
+     "ar": "يحفظ الرب جميع عظامهم، وواحدة منها لا تنكسر. يموت الخطاة بشرهم، ومبغضو الصديق يندمون. الرب ينقذ نفوس عبيده، ولا يندم جميع المتكلين عليه. هلليلويا"
     }
    ]
   },
@@ -226,15 +394,33 @@
    "rows": [
     {
      "role": "text",
-     "es": "Dichoso el que cuida del pobre; en el día aciago lo pondrá a salvo el Señor. El Señor lo guarda y lo conserva en vida, para que sea dichoso en la tierra, y no lo entrega a la saña de sus enemigos . El Señor lo sostendrá en el lecho del dolor, calmará los dolores de su enfermedad. Yo dije: «Señor, ten misericordia, sáname, porque he pecado contra ti» . Mis enemigos me desean lo peor: «A ver si se muere, y se acaba su apellido». El que viene a verme habla con fingimiento, disimula su mala Intención, y, cuando sale afuera, la dice. Mis adversarios se reúnen a murmurar contra mí, hacen cálculos Siniestros:",
+     "es": "Dichoso el que cuida del pobre; en el día aciago lo pondrá a salvo el Señor. El Señor lo guarda y lo conserva en vida, para que sea dichoso en la tierra, y no lo entrega a la saña de sus enemigos . El Señor lo sostendrá en el lecho del dolor, calmará los dolores de su enfermedad.",
      "cop": "",
-     "ar": "طوبى لمن يتعطف على المسكين، في يوم الشر ينجيه الرب. الرب يحفظه ويحييه، ويجعله في الأرض مغبوطا، ولا يسلمه لأيدي أعدائه. الرب يعينه على سرير وجعه، إنك رتبت مضجعه كله في مرضه. أنا قلت يا رب ارحمني، اشف نفسي لأني قد أخطأتُ إليك. أعدائي تقوّلوا على شرا: متى يموت ويباد اسمه؟ الذي دخل ليراني كان يتكلم بالرياء، وقلبه يضمر له شرا، ثم كان يخرج خارجا ويتكلم علىّ. تهامس على جميع أعدائي، وتشاوروا على بالسوء."
+     "ar": "طوبى لمن يتعطف على المسكين، في يوم الشر ينجيه الرب. الرب يحفظه ويحييه، ويجعله في الأرض مغبوطا، ولا يسلمه لأيدي أعدائه. الرب يعينه على سرير وجعه، إنك رتبت مضجعه كله في مرضه."
     },
     {
      "role": "text",
-     "es": "«Padece un mal sin remedio, se acostó para no levantarse». Incluso mi amigo, de quien yo me fiaba, que compartía mi pan, es el primero en traicionarme, Pero tú, Señor, apiádate de mí; haz que pueda levantarme, para que Yo les dé su merecido . En esto conozco que me amas: en que mi enemigo no triunfa de mí . A mí, en cambio, me conservas la salud, me mantienes siempre en tu presencia Bendito el Señor, Dios de Israel, desde siempre y por siempre. Amén, ¡Aleluya!",
+     "es": "Yo dije: «Señor, ten misericordia, sáname, porque he pecado contra ti» . Mis enemigos me desean lo peor: «A ver si se muere, y se acaba su apellido». El que viene a verme habla con fingimiento, disimula su mala Intención, y, cuando sale afuera, la dice.",
      "cop": "",
-     "ar": "وكلاما مخالفا للناموس رتبوا علىّ، قالوا: \"ألا يعود الراقد أن يقوم؟\" حتى إنسان سلامتي الذي وثقت به، الذي أكل خبزي رفع علىّ عقبه. وأنت يا رب ارحمني وأقمني فأجازيهم. بهذا علمت أنك هويتني، لأن عدوي لن يسر بي. أما أنا فمن أجل دعتي قبلتني، وثبتني أمامك إلى الأبد. مبارك الرب إله إسرائيل، من الأزل وإلى الأبد يكون. هلليلويا."
+     "ar": "أنا قلت يا رب ارحمني، اشف نفسي لأني قد أخطأتُ إليك. أعدائي تقوّلوا على شرا: متى يموت ويباد اسمه؟ الذي دخل ليراني كان يتكلم بالرياء، وقلبه يضمر له شرا، ثم كان يخرج خارجا ويتكلم علىّ."
+    },
+    {
+     "role": "text",
+     "es": "Mis adversarios se reúnen a murmurar contra mí, hacen cálculos Siniestros: «Padece un mal sin remedio, se acostó para no levantarse».",
+     "cop": "",
+     "ar": "تهامس على جميع أعدائي، وتشاوروا على بالسوء. وكلاما مخالفا للناموس رتبوا علىّ، قالوا:"
+    },
+    {
+     "role": "text",
+     "es": "Incluso mi amigo, de quien yo me fiaba, que compartía mi pan, es el primero en traicionarme, Pero tú, Señor, apiádate de mí; haz que pueda levantarme, para que Yo les dé su merecido . En esto conozco que me amas:",
+     "cop": "",
+     "ar": "\"ألا يعود الراقد أن يقوم؟\" حتى إنسان سلامتي الذي وثقت به، الذي أكل خبزي رفع علىّ عقبه وأنت يا رب ارحمني وأقمني فأجازيهم. بهذا علمت أنك هويتني، لأن عدوي لن يسر بي."
+    },
+    {
+     "role": "text",
+     "es": "en que mi enemigo no triunfa de mí . A mí, en cambio, me conservas la salud, me mantienes siempre en tu presencia Bendito el Señor, Dios de Israel, desde siempre y por siempre. Amén, ¡Aleluya!",
+     "cop": "",
+     "ar": "أما أنا فمن أجل دعتي قبلتني، وثبتني أمامك إلى الأبد. مبارك الرب إله إسرائيل، من الأزل وإلى الأبد يكون. هلليلويا"
     }
    ]
   },
@@ -247,9 +433,21 @@
    "rows": [
     {
      "role": "text",
-     "es": "Hazme justicia, oh Dios, defiende mi causa contra gente sin piedad , sálvame del hombre traidor y malvado. Tú eres mi Dios y protector ¿por qué me rechazas? ¿por qué voy andando sombrío, hostigado por mi enemigo ? Envía tu luz y tu verdad: que ellas me guíen y me conduzcan hasta tu monte santo, hasta tu morada . Me acercaré al altar de Dios, al Dios de mi alegría, y te daré gracias al son de la cítara, Dios, Dios mío. Por qué te acongojas, alma mía, por qué gimes dentro de mí? Espera en Dios, que volverás a alabarlo: «Salud de mi rostro, Dios mío» ¡Aleluya!",
+     "es": "Hazme justicia, oh Dios, defiende mi causa contra gente sin piedad , sálvame del hombre traidor y malvado. Tú eres mi Dios y protector ¿por qué me rechazas? ¿por qué voy andando sombrío, hostigado por mi enemigo ?",
      "cop": "",
-     "ar": "احكم لي يا رب وانتقم لمظلمتي، من أمة غير بارة. ومن إنسان ظالم وغاش نجني، لأنك أنت هو إلهي وقوتي. لماذا أقصيتني؟ ولماذا أسلك كئيبا من مضايقة عدوي؟ أرسل نورك وحقك، فإنهما يهديانني ويصعدانني إلى جبلك المقدس وإلى مسكنك. فأدخل إلى مذبح الله، تجاه وجه الله الذي يفرح شبابي. أعترف لك بالقيثارة يا الله إلهي. لماذا أنت حزينة يا نفسي، ولماذا تزعجينني؟ توكلي على الله فإني أعترف له، خلاص وجهي هو إلهي. هلليلويا."
+     "ar": "احكم لي يا رب وانتقم لمظلمتي، من أمة غير بارة. ومن إنسان ظالم وغاش نجني، لأنك أنت هو إلهي وقوتي. لماذا أقصيتني؟ ولماذا أسلك كئيبا من مضايقة عدوي؟"
+    },
+    {
+     "role": "text",
+     "es": "Envía tu luz y tu verdad: que ellas me guíen y me conduzcan hasta tu monte santo, hasta tu morada . Me acercaré al altar de Dios, al Dios de mi alegría, y te daré gracias al son de la cítara, Dios, Dios mío.",
+     "cop": "",
+     "ar": "أرسل نورك وحقك، فإنهما يهديانني ويصعدانني إلى جبلك المقدس وإلى مسكنك. فأدخل إلى مذبح الله، تجاه وجه الله الذي يفرح شبابي."
+    },
+    {
+     "role": "text",
+     "es": "Por qué te acongojas, alma mía, por qué gimes dentro de mí? Espera en Dios, que volverás a alabarlo: «Salud de mi rostro, Dios mío» ¡Aleluya!",
+     "cop": "",
+     "ar": "أعترف لك بالقيثارة يا الله إلهي. لماذا أنت حزينة يا نفسي، ولماذا تزعجينني؟ توكلي على الله فإني أعترف له، خلاص وجهي هو إلهي. هلليلويا"
     }
    ]
   },
@@ -262,21 +460,51 @@
    "rows": [
     {
      "role": "text",
-     "es": "Me brota del corazón un poema bello recito mis versos a un rey; mi lengua es ágil pluma de escribano. Eres el más bello de los hombres, en tus labios se derrama la gracia, el Señor te bendice eternamente. Cíñete al flanco la espada, valiente: es tu gala y tu orgullo ; cabalga victorioso por la verdad, la mansedumbre y la justicia, tu diestra te enseñe a realizar proezas . Tus flechas son agudas, los pueblos se te rinden, se acobardan los enemigos del rey. Tu trono, oh Dios, permanece para siempre, cetro de rectitud es tu cetro real ; has amado la justicia y odiado la impiedad:",
+     "es": "Me brota del corazón un poema bello recito mis versos a un rey; mi lengua es ágil pluma de escribano. Eres el más bello de los hombres, en tus labios se derrama la gracia, el Señor te bendice eternamente.",
      "cop": "",
-     "ar": "فاض قلبي بكلام صالح. إني أخبر الملكَ بأفعالي، لساني قلمُ كاتبٍ ماهر. إنك أبرع جمالا من بنى البشر. وقد انسكبت النعمة على شفتيك، فلذلك باركك الله إلى الدهر. تقلد سيفك على فخدك أيها القوى جلالك وجمالك. استله وانجح واملك من أجل الحق والدعة والعدل، وتهديك بالعجب يمينك. نبلك مسنونة في قلب أعداء الملك أيها الجبار، الشعوب تحتك يسقطون. كرسيك يا الله إلى دهر الدهر، قضيب الاستقامة هو قضيب ملكك."
+     "ar": "فاض قلبي بكلام صالح. إني أخبر الملكَ بأفعالي، لساني قلمُ كاتبٍ ماهر. إنك أبرع جمالا من بنى البشر. وقد انسكبت النعمة على شفتيك، فلذلك باركك الله إلى الدهر."
     },
     {
      "role": "text",
-     "es": "por eso Dios, tu Dios, te ha ungido con aceite de júbilo entre todos tus compañeros. A mirra, áloe y acacia huelen tus vestidos, desde los palacios de marfiles te deleitan las arpas . Hijas de reyes salen a tu encuentro, de pie a tu derecha está la reina , Enjoyada con oro de Ofir . Escucha, hija, mira: inclina el oído, olvida tu pueblo y la casa paterna; prendado está el rey de tu belleza: póstrate ante él, que él es tu señor .",
+     "es": "Cíñete al flanco la espada, valiente: es tu gala y tu orgullo ; cabalga victorioso por la verdad, la mansedumbre y la justicia, tu diestra te enseñe a realizar proezas . Tus flechas son agudas, los pueblos se te rinden, se acobardan los enemigos del rey.",
      "cop": "",
-     "ar": "لأنك أحببتَ البر وأبغضتَ الإثم. من أجل هذا مسحك الله إلهك بزيت البهجة أفضلَ من رفقائك. المر والميعة والسليخة طيب ثيابك. من قصور العاج التي أبهجتك. بنات الملوك في تكريمك. قامت الملكة عن يمينك، مشتملة بثوب موشى بالذهب، مزينة بأنواع كثيرة. اسمعي يا ابنتي وانظري وأميلي أذنك، وانسَيْ شعبك وبيت أبيك. فإن الملكَ قد اشتهى حسنك، لأنه هو ربك وله تسجدين. وله تسجد بنات صورَ بالهدايا، ويترجّى وجهَه أغنياءُ شعب الأرض."
+     "ar": "تقلد سيفك على فخدك أيها القوى جلالك وجمالك. استله وانجح واملك من أجل الحق والدعة والعدل، وتهديك بالعجب يمينك. نبلك مسنونة في قلب أعداء الملك أيها الجبار، الشعوب تحتك يسقطون كرسيك يا الله إلى دهر الدهر، قضيب الاستقامة هو قضيب ملكك."
     },
     {
      "role": "text",
-     "es": "La ciudad de Tiro viene con regalos, los pueblos más ricos buscan tu favor. Ya entra la princesa, bellísima, vestida de perlas y brocado ; la llevan ante el rey, con séquito de vírgenes, la siguen sus compañeras :las traen entre alegría y algazara, van entrando en el palacio real. «A cambio de tus padres tendrás hijos, que nombrarás príncipes por toda la tierra» . Quiero hacer memorable tu nombre por generaciones y generaciones, y los pueblos te alabarán por los siglos de los siglos ¡Aleluya!",
+     "es": "Tu trono, oh Dios, permanece para siempre, cetro de rectitud es tu cetro real ; has amado la justicia y odiado la impiedad:",
      "cop": "",
-     "ar": "كل مجد ابنة الملك من داخل، مشتملة بأطراف موشاة بالذهب، مزينة بأشكال كثيرة. تدخُل إلى الملك عذارى في إثرها، جميع قريباتها إليه يُقدَّمْن. يَبْلغن بفرح وابتهاج، يَدخُلن إلى هيكل الملك. ويكون لك أبناءٌ عوضا عن آبائك، تقيمهم رؤساء على سائر الأرض، ويذكرون اسمك جيلا بعد جيل. من أجل ذلك تعترف لك الشعوب يا الله إلى الدهر، وإلى دهر الدهور. هلليلويا."
+     "ar": "لأنك أحببتَ البر وأبغضتَ الإثم. من أجل هذا مسحك الله إلهك بزيت البهجة أفضلَ من رفقائك."
+    },
+    {
+     "role": "text",
+     "es": "por eso Dios, tu Dios, te ha ungido con aceite de júbilo entre todos tus compañeros. A mirra, áloe y acacia huelen tus vestidos, desde los palacios de marfiles te deleitan las arpas .",
+     "cop": "",
+     "ar": "المر والميعة والسليخة طيب ثيابك. من قصور العاج التي أبهجتك. بنات الملوك في تكريمك. قامت الملكة عن يمينك، مشتملة بثوب موشى بالذهب، مزينة بأنواع كثيرة اسمعي يا ابنتي وانظري وأميلي أذنك، وانسَيْ شعبك وبيت أبيك."
+    },
+    {
+     "role": "text",
+     "es": "Hijas de reyes salen a tu encuentro, de pie a tu derecha está la reina , Enjoyada con oro de Ofir . Escucha, hija, mira: inclina el oído, olvida tu pueblo y la casa paterna; prendado está el rey de tu belleza:",
+     "cop": "",
+     "ar": "فإن الملكَ قد اشتهى حسنك، لأنه هو ربك وله تسجدين."
+    },
+    {
+     "role": "text",
+     "es": "póstrate ante él, que él es tu señor . La ciudad de Tiro viene con regalos, los pueblos más ricos buscan tu favor. Ya entra la princesa, bellísima, vestida de perlas y brocado ;",
+     "cop": "",
+     "ar": "وله تسجد بنات صورَ بالهدايا، ويترجّى وجهَه أغنياءُ شعب الأرض كل مجد ابنة الملك من داخل، مشتملة بأطراف موشاة بالذهب، مزينة بأشكال كثيرة."
+    },
+    {
+     "role": "text",
+     "es": "la llevan ante el rey, con séquito de vírgenes, la siguen sus compañeras :las traen entre alegría y algazara, van entrando en el palacio real. «A cambio de tus padres tendrás hijos, que nombrarás príncipes por toda la tierra»",
+     "cop": "",
+     "ar": "تدخُل إلى الملك عذارى في إثرها، جميع قريباتها إليه يُقدَّمْن. يَبْلغن بفرح وابتهاج، يَدخُلن إلى هيكل الملك. ويكون لك أبناءٌ عوضا عن آبائك، تقيمهم رؤساء على سائر الأرض، ويذكرون اسمك جيلا بعد جيل."
+    },
+    {
+     "role": "text",
+     "es": ". Quiero hacer memorable tu nombre por generaciones y generaciones, y los pueblos te alabarán por los siglos de los siglos ¡Aleluya!",
+     "cop": "",
+     "ar": "من أجل ذلك تعترف لك الشعوب يا الله إلى الدهر، وإلى دهر الدهور. هلليلويا"
     }
    ]
   },
@@ -289,9 +517,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Dios es nuestro refugio y nuestra fuerza, poderoso defensor en el peligro . Por eso no tememos aunque tiemble la tierra, y los montes se desplomen en el mar . Que hiervan y bramen sus olas, que sacudan a los montes con su furia : el Señor del universo está con nosotros, nuestro alcázar es el Dios de Jacob. Un río y sus canales alegran la ciudad de Dios, el Altísimo consagra su morada. Teniendo a Dios en medio, no vacila; Dios la socorre al despuntar la aurora. Los pueblos se amotinan, los reyes se rebelan; pero él lanza su trueno, y se tambalea la tierra. El Señor del universo está con nosotros, nuestro alcázar es el Dios de Jacob. . Venid a ver las obras del Señor, las maravillas que hace en la tierra: pone fin a la guerra hasta el extremo del orbe, rompe los arcos , Quiebra las lanzas, prende fuego a los escudos. «Rendíos, reconoced que yo soy Dios: más alto que los pueblos , más alto que la tierra». El Señor del universo está con nosotros, nuestro alcázar es el Dios de Jacob ¡Aleluya!",
+     "es": "Dios es nuestro refugio y nuestra fuerza, poderoso defensor en el peligro . Por eso no tememos aunque tiemble la tierra, y los montes se desplomen en el mar . Que hiervan y bramen sus olas, que sacudan a los montes con su furia : el Señor del universo está con nosotros, nuestro alcázar es el Dios de Jacob.",
      "cop": "",
-     "ar": "إلهنا ملجأنا وقوتنا، ومعيننا في شدائدنا التي أصابتنا جدا. لذلك لا نخشى إذا تزعزعت الأرض، وانقلبت الجبال إلى قلب البحار. تعج المياه وتجيش، وتتزعزع الجبال بعزته. مجارى الأنهار تفرح مدينة الله. لقد قدس العلي مسكنه، والله في وسطها فلن تتزعزع. يعين الله وجهها. اضطربت الأمم، وماجت الممالك. أبدى صوته، فتزلزلت الأرض. الرب إله القوات معنا، ناصرنا هو إله يعقوب. هلم فانظروا أعمال الرب، التي جعلها آيات على الأرض. الذي ينزع الحروب من أقاصي الأرض. يسحق قسيهم ويكسر سلاحهم، ويحرق أتراسهم بالنار. ثابروا واعلموا أنى أنا هو الله، أرتفع بين الأمم وأتعالى في الأرض. الرب إله القوات معنا، ناصرنا هو إله يعقوب. هلليلويا."
+     "ar": "إلهنا ملجأنا وقوتنا، ومعيننا في شدائدنا التي أصابتنا جدا. لذلك لا نخشى إذا تزعزعت الأرض، وانقلبت الجبال إلى قلب البحار. تعج المياه وتجيش، وتتزعزع الجبال بعزته."
+    },
+    {
+     "role": "text",
+     "es": "Un río y sus canales alegran la ciudad de Dios, el Altísimo consagra su morada. Teniendo a Dios en medio, no vacila; Dios la socorre al despuntar la aurora. Los pueblos se amotinan, los reyes se rebelan;",
+     "cop": "",
+     "ar": "مجارى الأنهار تفرح مدينة الله. لقد قدس العلي مسكنه، والله في وسطها فلن تتزعزع. يعين الله وجهها. اضطربت الأمم، وماجت الممالك. أبدى صوته، فتزلزلت الأرض."
+    },
+    {
+     "role": "text",
+     "es": "pero él lanza su trueno, y se tambalea la tierra. El Señor del universo está con nosotros, nuestro alcázar es el Dios de Jacob. . Venid a ver las obras del Señor, las maravillas que hace en la tierra: pone fin a la guerra hasta el extremo del orbe, rompe los arcos , Quiebra las lanzas, prende fuego a los escudos.",
+     "cop": "",
+     "ar": "الرب إله القوات معنا، ناصرنا هو إله يعقوب هلم فانظروا أعمال الرب، التي جعلها آيات على الأرض. الذي ينزع الحروب من أقاصي الأرض. يسحق قسيهم ويكسر سلاحهم، ويحرق أتراسهم بالنار."
+    },
+    {
+     "role": "text",
+     "es": "«Rendíos, reconoced que yo soy Dios: más alto que los pueblos , más alto que la tierra». El Señor del universo está con nosotros, nuestro alcázar es el Dios de Jacob ¡Aleluya!",
+     "cop": "",
+     "ar": "ثابروا واعلموا أنى أنا هو الله، أرتفع بين الأمم وأتعالى في الأرض. الرب إله القوات معنا، ناصرنا هو إله يعقوب. هلليلويا"
     }
    ]
   },
@@ -304,9 +550,21 @@
    "rows": [
     {
      "role": "text",
-     "es": "Pueblos todos, batid palmas, aclamad a Dios con gritos de júbilo; porque el Señor altísimo es terrible, emperador de toda la tierra. Él nos somete los pueblos y nos sojuzga las naciones; Él nos escogió por heredad suya: gloria de Jacob, su amado. Dios asciende entre aclamaciones; el Señor, al son de trompetas: tocad para Dios, tocad; tocad para nuestro Rey, tocad. Porque Dios es el rey del mundo: tocad con maestría. Dios reina sobre las naciones, Dios se sienta en su trono sagrado. Los príncipes de los gentiles se reúnen con el pueblo del Dios de Abrahán; porque de Dios son los grandes de la tierra, y él es excelso ¡Aleluya!",
+     "es": "Pueblos todos, batid palmas, aclamad a Dios con gritos de júbilo; porque el Señor altísimo es terrible, emperador de toda la tierra. Él nos somete los pueblos y nos sojuzga las naciones; Él nos escogió por heredad suya:",
      "cop": "",
-     "ar": "يا جميع الأمم صفقوا بأيديكم، هللوا لله بصوت الابتهاج. لأن الرب عال ومرهوب، ملك كبير على كافة الأرض. أخضع الشعوب لنا، والأمم تحت أقدامنا، اختارنا ميراثا له، جمال يعقوب الذي أحبه. صعد الله بتهليل، والرب بصوت البوق. رتلوا لإلهنا رتلوا، رتلوا لمليكنا رتلوا، لأن الرب هو ملك الأرض كلها. رتلوا بفهم لأن الرب قد ملك على جميع الأمم. الله جلس على كرسيه المقدس. رؤساء الشعوب اجتمعوا مع إله إبراهيم، لأن أعزاء الله قد ارتفعوا في الأرض جدا. هلليلويا."
+     "ar": "يا جميع الأمم صفقوا بأيديكم، هللوا لله بصوت الابتهاج. لأن الرب عال ومرهوب، ملك كبير على كافة الأرض. أخضع الشعوب لنا، والأمم تحت أقدامنا، اختارنا ميراثا له، جمال يعقوب الذي أحبه صعد الله بتهليل، والرب بصوت البوق."
+    },
+    {
+     "role": "text",
+     "es": "gloria de Jacob, su amado. Dios asciende entre aclamaciones; el Señor, al son de trompetas: tocad para Dios, tocad; tocad para nuestro Rey, tocad. Porque Dios es el rey del mundo: tocad con maestría. Dios reina sobre las naciones, Dios se sienta en su trono sagrado.",
+     "cop": "",
+     "ar": "رتلوا لإلهنا رتلوا، رتلوا لمليكنا رتلوا، لأن الرب هو ملك الأرض كلها. رتلوا بفهم لأن الرب قد ملك على جميع الأمم."
+    },
+    {
+     "role": "text",
+     "es": "Los príncipes de los gentiles se reúnen con el pueblo del Dios de Abrahán; porque de Dios son los grandes de la tierra, y él es excelso ¡Aleluya!",
+     "cop": "",
+     "ar": "الله جلس على كرسيه المقدس. رؤساء الشعوب اجتمعوا مع إله إبراهيم، لأن أعزاء الله قد ارتفعوا في الأرض جدا. هلليلويا"
     }
    ]
   },
@@ -318,16 +576,40 @@
    },
    "rows": [
     {
-     "role": "text",
-     "es": "Introducción: Gloria a nuestro Dios. Santo, Santo, Santo. Un capítulo del Evangelio según nuestro maestro , San Juan el Evangelista. Que su bendición esté sobre nosotros. Amén. Evangelio según San Juan (14:26 - 15:4) pero el Paráclito, el Espíritu Santo, que enviará el Padre en mi nombre, será quien os lo enseñe todo y os vaya recordando todo lo que os he dicho. La paz os dejo, mi paz os doy; no os la doy yo como la da el mundo Que no se turbe vuestro corazón ni se acobarde. Me habéis oído decir: “Me voy y vuelvo a vuestro lado”. Si me amarais, os alegraríais de que vaya al Padre, porque el Padre es mayor que yo. Os lo he dicho ahora , antes de que suceda, para que cuando suceda creáis. Ya no hablaré mucho con vosotros, pues se acerca el príncipe de este mundo; no es que él tenga poder sobre mí, pero es necesario que el mundo comprenda que yo amo al Padre, y que, como el Padre me ha ordenado, así actúo.",
+     "role": "note",
+     "es": "Gloria a nuestro Dios. Santo, Santo, Santo. Un capítulo del Evangelio según nuestro maestro , San Juan el Evangelista. Que su bendición esté sobre nosotros. Amén.",
      "cop": "",
-     "ar": "متى جاء المعزى الروح القدس الذي سيرسله الآب باسمي، فهو يعلمكم كل شيء ويذكركم بكل ما قلته لكم. سلامي أترك لكم. سلامي أنا أعطيكم. ليس كما يعطى العالمُ أعطيكم. لا تضطرب قلوبكم ولا تجزع. سمعتم أنى قلت لكم إني أمضى ثم آتى إليكم. لو كنتم تحبونني لكنتم تفرحون لأني أمضى إلى الآب، لأن أبى أعظمُ منى. وقد قلتُ لكم الآن قبل أن يكون، حتى متى كان تؤمنون. لست أكلمكم كلاما كثيرا بعد، لأن رئيس هذا العالم آتٍ وليس له في شيءٌ."
+     "ar": ""
     },
     {
      "role": "text",
-     "es": "Levantaos , vámonos de aquí . Yo soy la verdadera vid, y mi Padre es el labrador. A todo sarmiento que no da fruto en mí lo arranca, y a todo el que da fruto lo poda, para que dé más fruto. Vosotros ya estáis limpios por la palabra que os he hablado; permaneced en mí, y yo en vosotros. Gloria a Dios para siempre. Que se cumpla en paz la palabra de Dios. Nos postramos ante Ti, Cristo, junto con tu Padre bueno y el Espíritu Santo porque viniste y nos salvaste. Ten piedad de nosotros.",
+     "es": "pero el Paráclito, el Espíritu Santo, que enviará el Padre en mi nombre, será quien os lo enseñe todo y os vaya recordando todo lo que os he dicho. La paz os dejo, mi paz os doy; no os la doy yo como la da el mundo Que no se turbe vuestro corazón ni se acobarde.",
      "cop": "",
-     "ar": "لكن لكي يعلمَ العالمُ أنني أحب أبى، وكما أوصاني أبى هكذا أفعل، قوموا ننطلق من ههنا. أنا هو الكرمة الحقيقية وأبى الكرام. كل غصن فيّ لا يأتي بثمر يقطعه. وكل ما يأتي بثمر ينقيه ليأتي بثمر أكثر. وأنتم من قبْل أنقياءُ من أجل الكلام الذي كلمتكم به. اثبتوا في وأنا أيضا فيكم. (والمجد لله دائما)"
+     "ar": "متى جاء المعزى الروح القدس الذي سيرسله الآب باسمي، فهو يعلمكم كل شيء ويذكركم بكل ما قلته لكم. سلامي أترك لكم. سلامي أنا أعطيكم. ليس كما يعطى العالمُ أعطيكم."
+    },
+    {
+     "role": "text",
+     "es": "Me habéis oído decir: “Me voy y vuelvo a vuestro lado”. Si me amarais, os alegraríais de que vaya al Padre, porque el Padre es mayor que yo. Os lo he dicho ahora , antes de que suceda, para que cuando suceda creáis.",
+     "cop": "",
+     "ar": "لا تضطرب قلوبكم ولا تجزع. سمعتم أنى قلت لكم إني أمضى ثم آتى إليكم. لو كنتم تحبونني لكنتم تفرحون لأني أمضى إلى الآب، لأن أبى أعظمُ منى."
+    },
+    {
+     "role": "text",
+     "es": "Ya no hablaré mucho con vosotros, pues se acerca el príncipe de este mundo; no es que él tenga poder sobre mí, pero es necesario que el mundo comprenda que yo amo al Padre, y que, como el Padre me ha ordenado, así actúo. Levantaos , vámonos de aquí .",
+     "cop": "",
+     "ar": "وقد قلتُ لكم الآن قبل أن يكون، حتى متى كان تؤمنون. لست أكلمكم كلاما كثيرا بعد، لأن رئيس هذا العالم آتٍ وليس له في شيءٌ. لكن لكي يعلمَ العالمُ أنني أحب أبى، وكما أوصاني أبى هكذا أفعل، قوموا ننطلق من ههنا أنا هو الكرمة الحقيقية وأبى الكرام."
+    },
+    {
+     "role": "text",
+     "es": "Yo soy la verdadera vid, y mi Padre es el labrador. A todo sarmiento que no da fruto en mí lo arranca, y a todo el que da fruto lo poda, para que dé más fruto. Vosotros ya estáis limpios por la palabra que os he hablado;",
+     "cop": "",
+     "ar": "كل غصن فيّ لا يأتي بثمر يقطعه."
+    },
+    {
+     "role": "text",
+     "es": "permaneced en mí, y yo en vosotros. Gloria a Dios para siempre. Que se cumpla en paz la palabra de Dios. Nos postramos ante Ti, Cristo, junto con tu Padre bueno y el Espíritu Santo porque viniste y nos salvaste. Ten piedad de nosotros.",
+     "cop": "",
+     "ar": "وكل ما يأتي بثمر ينقيه ليأتي بثمر أكثر. وأنتم من قبْل أنقياءُ من أجل الكلام الذي كلمتكم به. اثبتوا في وأنا أيضا فيكم. (والمجد لله دائما)"
     }
    ]
   },
@@ -340,21 +622,87 @@
    "rows": [
     {
      "role": "text",
-     "es": "Oh, Dios, que mandaste tu Espíritu Santo a tus santos discípulos y tus bien aventurados apóstoles en la tercera hora . Éste que no nos arrebates, oh, Bueno ,pero renuévalo dentro de nosotros. Oh Dios , crea un corazón puro dentro de mí , y renueva el espíritu recto en mi interior. No me eches lejos de tu rostro, y no me quites tu Espíritu Santo. Gloria al Padre, al Hijo y al Espíritu Santo. Oh, Señor que has mandado a tu Espíritu Santo a tus santos discípulos y a tus bien aventurados apóstoles a la tercera hora . Éste que no nos arrebates, oh, Bueno, pero te pedimos renovarlo dentro de nosotros. Oh nuestro Señor Jesucristo, hijo de Dios la palabra: Espíritu Recto y Vivificador.",
+     "es": "Oh, Dios, que mandaste tu Espíritu Santo a tus santos discípulos y tus bien aventurados apóstoles en la tercera hora . Éste que no nos arrebates, oh, Bueno ,pero renuévalo dentro de nosotros.",
      "cop": "",
-     "ar": "روحك القدوس يا رب الذي أرسلته على تلاميذك القديسين ورسلك المكرمين في الساعة الثالثة، هذا لا تنزعه منا أيها الصالح، لكن جدده في أحشائنا. قلبا نقيا اخلق فيَّ يا الله، وروحا مستقيما جدد في أحشائي. لا تطرحني من قدام وجهك، وروحك القدوس لا تنزعه منى. (ذوكصابترى..). أيها الرب الذي أرسلتَ روح قدسك على تلاميذك القديسين ورسلك المكرمين في الساعة الثالثة، هذا لا تنزعه منا أيها الصالح. لكن نسألك أن تجدده في أحشائنا، يا ربنا يسوع المسيح ابن الله الكلمة، روحا مستقيما ومحييا، روح النبوءة والعفة، روح القداسة والعدالة والسلطة، أيها القادر على كل شيء، لأنك أنت هو ضياء نفوسنا."
+     "ar": "روحك القدوس يا رب الذي أرسلته على تلاميذك القديسين ورسلك المكرمين في الساعة الثالثة، هذا لا تنزعه منا أيها الصالح، لكن جدده في أحشائنا."
     },
     {
      "role": "text",
-     "es": "Espíritu de la Profecía y la Virginidad, Espíritu de la Santidad, la justicia y la Autoridad. Oh Poderoso sobre todas las cosas, porque eres Tú la luz de nuestras almas . Tú eres quien ilumina a cada humano que viene al mundo. Ten piedad de nosotros. Ahora y siempre, y por los siglos de los siglos. Amén Oh, madre de Dios, Tú eres la parra verdadera que lleva el racimo de la vida. Te pedimos oh, llena de gracia junto con los apóstoles por la salvación de nuestras almas. Bendito sea el Señor nuestro Dios, bendito sea el Señor día tras día. Allana nuestro camino porque Él es Dios de nuestra salvación. Ahora y siempre, y por los siglos de los siglos.",
+     "es": "Oh Dios , crea un corazón puro dentro de mí , y renueva el espíritu recto en mi interior. No me eches lejos de tu rostro, y no me quites tu Espíritu Santo.",
      "cop": "",
-     "ar": "يا من يضئ لكل إنسان آت إلى العالم، ارحمنا. (كى نين.. ). يا والدة الإله أنت هي الكرمة الحقيقية الحاملة عنقود الحياة، نسألك أيتها المملوءة نعمة، مع الرسل، من أجل خلاص نفوسنا. مبارك الرب إلهنا. مبارك الرب يوما فيوما، يهيئ طريقنا لأنه إله خلاصنا (كى نين.. ). أيها الملك السمائي المعزى، روح الحق، الحاضر في كل مكان والمالئ الكل، كنز الصالحات، ومعطى الحياة، هلم تفضل وحل فينا، وطهرنا من كل دنس أيها الصالح، وخلص نفوسنا."
+     "ar": "قلبا نقيا اخلق فيَّ يا الله، وروحا مستقيما جدد في أحشائي. لا تطرحني من قدام وجهك، وروحك القدوس لا تنزعه منى"
+    },
+    {
+     "role": "note",
+     "es": "Gloria al Padre, al Hijo y al Espíritu Santo.",
+     "cop": "",
+     "ar": "المجد للآب والابن والروح القدس."
     },
     {
      "role": "text",
-     "es": "Amén Oh el rey celestial y consolador, espíritu de la verdad, el presente en todo sitio y el que lo llena todo. Tesoro de los beneficios, y el que ha dado la vida. Oh Bueno, ven a nosotros , purifícanos de toda mancha y salva a nuestras almas. Gloria al Padre, al Hijo y al Espíritu Santo. Oh, Salvador , tal como has estado con tus discípulos y les has dado la paz, también estés con nosotros, concédenos tu paz, sálvanos y libra nuestras almas. Ahora y siempre, y por los siglos de los siglos. Amén Cuando nos presentamos de pie en tu santuario, nos consideramos en el cielo . Oh Madre de Dios, tú eres la puerta del cielo, ábrenos la puerta de la misericordia.",
+     "es": "Oh, Señor que has mandado a tu Espíritu Santo a tus santos discípulos y a tus bien aventurados apóstoles a la tercera hora . Éste que no nos arrebates, oh, Bueno, pero te pedimos renovarlo dentro de nosotros. Oh nuestro Señor Jesucristo, hijo de Dios la palabra: Espíritu Recto y Vivificador.",
      "cop": "",
-     "ar": "(ذوكصابترى … ). كما كنت مع تلاميذك أيها المخلص وأعطيتهم السلام، هلم أيضا كن معنا وامنحنا سلامك وخلصنا ونج نفوسنا. (كى نين.. ) إذا ما وقفنا في هيكلك المقدس نحسب كالقيام في السماء. يا والدة الإله، أنت هي باب السماء، افتحي لنا باب الرحمة. كيريى ليسون ٤١ مرة"
+     "ar": "أيها الرب الذي أرسلتَ روح قدسك على تلاميذك القديسين ورسلك المكرمين في الساعة الثالثة، هذا لا تنزعه منا أيها الصالح. لكن نسألك أن تجدده في أحشائنا، يا ربنا يسوع المسيح ابن الله الكلمة، روحا مستقيما ومحييا، روح النبوءة والعفة، روح القداسة والعدالة والسلطة، أيها القادر على كل شيء، لأنك أنت هو ضياء نفوسنا."
+    },
+    {
+     "role": "text",
+     "es": "Espíritu de la Profecía y la Virginidad, Espíritu de la Santidad, la justicia y la Autoridad. Oh Poderoso sobre todas las cosas, porque eres Tú la luz de nuestras almas . Tú eres quien ilumina a cada humano que viene al mundo. Ten piedad de nosotros.",
+     "cop": "",
+     "ar": "يا من يضئ لكل إنسان آت إلى العالم، ارحمنا"
+    },
+    {
+     "role": "note",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "الآن وكل أوان وإلى دهر الدهور. آمين."
+    },
+    {
+     "role": "text",
+     "es": "Oh, madre de Dios, Tú eres la parra verdadera que lleva el racimo de la vida. Te pedimos oh, llena de gracia junto con los apóstoles por la salvación de nuestras almas. Bendito sea el Señor nuestro Dios, bendito sea el Señor día tras día. Allana nuestro camino porque Él es Dios de nuestra salvación.",
+     "cop": "",
+     "ar": "يا والدة الإله أنت هي الكرمة الحقيقية الحاملة عنقود الحياة، نسألك أيتها المملوءة نعمة، مع الرسل، من أجل خلاص نفوسنا. مبارك الرب إلهنا. مبارك الرب يوما فيوما، يهيئ طريقنا لأنه إله خلاصنا"
+    },
+    {
+     "role": "note",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "الآن وكل أوان وإلى دهر الدهور. آمين."
+    },
+    {
+     "role": "text",
+     "es": "Oh el rey celestial y consolador, espíritu de la verdad, el presente en todo sitio y el que lo llena todo. Tesoro de los beneficios, y el que ha dado la vida. Oh Bueno, ven a nosotros , purifícanos de toda mancha y salva a nuestras almas.",
+     "cop": "",
+     "ar": "أيها الملك السمائي المعزى، روح الحق، الحاضر في كل مكان والمالئ الكل، كنز الصالحات، ومعطى الحياة، هلم تفضل وحل فينا، وطهرنا من كل دنس أيها الصالح، وخلص نفوسنا"
+    },
+    {
+     "role": "note",
+     "es": "Gloria al Padre, al Hijo y al Espíritu Santo.",
+     "cop": "",
+     "ar": "المجد للآب والابن والروح القدس."
+    },
+    {
+     "role": "text",
+     "es": "Oh, Salvador , tal como has estado con tus discípulos y les has dado la paz, también estés con nosotros, concédenos tu paz, sálvanos y libra nuestras almas.",
+     "cop": "",
+     "ar": "كما كنت مع تلاميذك أيها المخلص وأعطيتهم السلام، هلم أيضا كن معنا وامنحنا سلامك وخلصنا ونج نفوسنا"
+    },
+    {
+     "role": "note",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "cop": "",
+     "ar": "الآن وكل أوان وإلى دهر الدهور. آمين."
+    },
+    {
+     "role": "text",
+     "es": "Cuando nos presentamos de pie en tu santuario, nos consideramos en el cielo . Oh Madre de Dios, tú eres la puerta del cielo, ábrenos la puerta de la misericordia.",
+     "cop": "",
+     "ar": "إذا ما وقفنا في هيكلك المقدس نحسب كالقيام في السماء. يا والدة الإله، أنت هي باب السماء، افتحي لنا باب الرحمة"
+    },
+    {
+     "role": "note",
+     "es": "Señor, ten piedad (41 veces).",
+     "cop": "",
+     "ar": "كيرياليسون (يا رب ارحم) ٤١ مرة"
     }
    ]
   },
@@ -367,9 +715,21 @@
    "rows": [
     {
      "role": "text",
-     "es": "Santo, Santo, Santo es el Señor de los ejércitos. El cielo y la tierra están llenos de tu gloria y tu dignidad. Ten piedad de nosotros, Dios Padre Todopoderoso. Santísima Trinidad. Ten piedad de nosotros. Dios de los ejércitos, quédate con nosotros, porque no tenemos ayudantes en nuestras aflicciones y angustias, sino tú. Absuelve, perdona y remite, oh Dios, nuestras faltas, que hemos cometido voluntariamente y las que no han sido involuntariamente. Esas que hemos hecho a sabiendas y las que hemos hecho sin saberlo, las visibles y las invisibles. Señor, perdónanosla, por tu Santo Nombre, que ha sido invocado sobre nosotros. Según tu misericordia, Señor, y no según nuestros pecados. Haznos dignos de decir en gracia: Padre nuestro, que estás en los cielos…",
+     "es": "Santo, Santo, Santo es el Señor de los ejércitos. El cielo y la tierra están llenos de tu gloria y tu dignidad. Ten piedad de nosotros, Dios Padre Todopoderoso. Santísima Trinidad. Ten piedad de nosotros. Dios de los ejércitos, quédate con nosotros, porque no tenemos ayudantes en nuestras aflicciones y angustias, sino tú.",
      "cop": "",
-     "ar": "قدوس، قدوس، قدوس، رب الصباؤوت. السماء والأرض مملوءتان من مجدك وكرامتك. ارحمنا يا الله الآب ضابط الكل. أيها الثالوث القدوس ارحمنا. أيها الرب إله القوات كن معنا، لأنه ليس لنا معين في شدائدنا وضيقاتنا سواك. حل واغفر واصفح لنا يا الله عن سيئاتنا، التي صنعناها بإرادتنا والتي صنعناها بغير إرادتنا، التي فعلناها بمعرفة والتي فعلناها بغير معرفة، الخفية والظاهرة. يا رب اغفرها لنا، من أجل اسمك القدوس الذي دعي علينا. كرحمتك يا رب وليس كخطايانا. واجعلنا مستحقين أن نقول بشكر: أبانا الذي في السموات.."
+     "ar": "قدوس، قدوس، قدوس، رب الصباؤوت. السماء والأرض مملوءتان من مجدك وكرامتك. ارحمنا يا الله الآب ضابط الكل. أيها الثالوث القدوس ارحمنا. أيها الرب إله القوات كن معنا، لأنه ليس لنا معين في شدائدنا وضيقاتنا سواك حل واغفر واصفح لنا يا الله عن سيئاتنا، التي صنعناها بإرادتنا والتي صنعناها بغير إرادتنا، التي فعلناها بمعرفة والتي فعلناها بغير معرفة، الخفية والظاهرة."
+    },
+    {
+     "role": "text",
+     "es": "Absuelve, perdona y remite, oh Dios, nuestras faltas, que hemos cometido voluntariamente y las que no han sido involuntariamente. Esas que hemos hecho a sabiendas y las que hemos hecho sin saberlo, las visibles y las invisibles.",
+     "cop": "",
+     "ar": "يا رب اغفرها لنا، من أجل اسمك القدوس الذي دعي علينا."
+    },
+    {
+     "role": "text",
+     "es": "Señor, perdónanosla, por tu Santo Nombre, que ha sido invocado sobre nosotros. Según tu misericordia, Señor, y no según nuestros pecados. Haznos dignos de decir en gracia: Padre nuestro, que estás en los cielos…",
+     "cop": "",
+     "ar": "كرحمتك يا رب وليس كخطايانا واجعلنا مستحقين أن نقول بشكر: أبانا الذي في السموات"
     }
    ]
   },
@@ -382,9 +742,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Oh, Dios de todas las compasiones y Señor de todo consuelo, quien nos has consolado en todo momento con tu Espíritu Santo. Te damos gracias porque nos has levantado para rezar en esta santa hora, en la cual fluye en abundancia la gracia de tu Espíritu Santo como lenguas de fuego sobre tus santos discípulos y tus honorados y bienaventurados apóstoles. Te pedimos y te suplicamos oh, Amante de la humanidad, acepta nuestras oraciones, perdona nuestros pecados, y mándanos la gracia de tu Espíritu Santo. Purifícanos de toda mancha del cuerpo y del espíritu. Y llévanos a la vida espiritual, para que vivamos por el Espíritu y no sigamos por el deseo del cuerpo. Haznos dignos de servirte con pureza y justicia todos los días de nuestra vida . Porque a ti son debidos la gloria, el honor y la magnificencia junto con tu Padre Bueno y el Espíritu Santo . Ahora y siempre, y por los siglos de los siglos . Amén.",
+     "es": "Oh, Dios de todas las compasiones y Señor de todo consuelo, quien nos has consolado en todo momento con tu Espíritu Santo. Te damos gracias porque nos has levantado para rezar en esta santa hora, en la cual fluye en abundancia la gracia de tu Espíritu Santo como lenguas de fuego sobre tus santos discípulos y tus honorados y bienaventurados apóstoles.",
      "cop": "",
-     "ar": "يا إله كل الرأفات ورب كل عزاء، الذي عزانا كل حين بعزاء روحك القدوس، نشكرك لأنك أقمتنا للصلاة في هذه الساعة المقدسة، التي فيها أفضت نعمة روحك القدوس بغنى على تلاميذك القديسين ورسلك المكرمين الطوباويين مثل ألسنة نار. نسأل ونطلب منك يا محب البشر، اقبل إليك صلواتنا، واغفر خطايانا، وأرسل علينا نعمة روحك القدوس، وطهرنا من كل دنس الجسد والروح، وانقلنا إلى سيرة روحانية، لكي نسلك بالروح ولا نكمل شهوة الجسد. واجعلنا مستحقين أن نخدمك بطهارة وبر كل أيام حياتنا. لأنه يليق بك المجد والكرامة والعزة، مع أبيك الصالح والروح القدس، الآن وكل أوان وإلى الأبد أمين."
+     "ar": "يا إله كل الرأفات ورب كل عزاء، الذي عزانا كل حين بعزاء روحك القدوس، نشكرك لأنك أقمتنا للصلاة في هذه الساعة المقدسة، التي فيها أفضت نعمة روحك القدوس بغنى على تلاميذك القديسين ورسلك المكرمين الطوباويين مثل ألسنة نار."
+    },
+    {
+     "role": "text",
+     "es": "Te pedimos y te suplicamos oh, Amante de la humanidad, acepta nuestras oraciones, perdona nuestros pecados, y mándanos la gracia de tu Espíritu Santo.",
+     "cop": "",
+     "ar": "نسأل ونطلب منك يا محب البشر، اقبل إليك صلواتنا، واغفر خطايانا، وأرسل علينا نعمة روحك القدوس، وطهرنا من كل دنس الجسد والروح، وانقلنا إلى سيرة روحانية، لكي نسلك بالروح ولا نكمل شهوة الجسد."
+    },
+    {
+     "role": "text",
+     "es": "Purifícanos de toda mancha del cuerpo y del espíritu. Y llévanos a la vida espiritual, para que vivamos por el Espíritu y no sigamos por el deseo del cuerpo. Haznos dignos de servirte con pureza y justicia todos los días de nuestra vida .",
+     "cop": "",
+     "ar": "واجعلنا مستحقين أن نخدمك بطهارة وبر كل أيام حياتنا."
+    },
+    {
+     "role": "text",
+     "es": "Porque a ti son debidos la gloria, el honor y la magnificencia junto con tu Padre Bueno y el Espíritu Santo . Ahora y siempre, y por los siglos de los siglos . Amén.",
+     "cop": "",
+     "ar": "لأنه يليق بك المجد والكرامة والعزة، مع أبيك الصالح والروح القدس، الآن وكل أوان وإلى الأبد أمين"
     }
    ]
   },
@@ -397,15 +775,27 @@
    "rows": [
     {
      "role": "text",
-     "es": "Ten piedad de nosotros, oh Dios, ten piedad. Tú que eres adorado y glorificado en todo tiempo y a cada hora, en el cielo y en la tierra. Cristo, nuestro Dios Bueno, paciente, misericordioso y bondadoso. Quien ama a los rectos y tiene piedad de los pecadores entre los que yo soy el primero. Quien no desea la muerte del pecador, sino que vuelve a Ti para vivir. Quien llama a todos a la salvación, para que se beneficien de la promesa de los bienes esperados. Oh Dios, acepta nuestras súplicas en esta hora y a cada hora, facilita nuestra vida, guíanos para actuar según tus mandamientos, santifica nuestros espíritus, purifica nuestros cuerpos, danos buenos pensamientos, purifica nuestras intenciones, cura nuestras enfermedades, perdona nuestros pecados y líbranos de toda mala tristeza y angustia.",
+     "es": "Ten piedad de nosotros, oh Dios, ten piedad. Tú que eres adorado y glorificado en todo tiempo y a cada hora, en el cielo y en la tierra. Cristo, nuestro Dios Bueno, paciente, misericordioso y bondadoso. Quien ama a los rectos y tiene piedad de los pecadores entre los que yo soy el primero.",
      "cop": "",
-     "ar": "ارحمنا يا الله ثم ارحمنا. يا من في كل وقت وكل ساعة، في السماء وعلى الأرض، مسجود له وممجد. المسيح إلهنا الصالح، الطويل الروح، الكثير الرحمة، الجزيل التحنن، الذي يحب الصديقين ويرحم الخطاة الذين أولهم أنا. الذي لا يشاء موت الخاطئ مثل ما يرجع ويحيا. الداعي الكل إلى الخلاص لأجل الموعد بالخيرات المنتظرة. يا رب اقبل منا في هذه الساعة وكل ساعة طلباتنا."
+     "ar": "ارحمنا يا الله ثم ارحمنا. يا من في كل وقت وكل ساعة، في السماء وعلى الأرض، مسجود له وممجد. المسيح إلهنا الصالح، الطويل الروح، الكثير الرحمة، الجزيل التحنن، الذي يحب الصديقين ويرحم الخطاة الذين أولهم أنا."
+    },
+    {
+     "role": "text",
+     "es": "Quien no desea la muerte del pecador, sino que vuelve a Ti para vivir. Quien llama a todos a la salvación, para que se beneficien de la promesa de los bienes esperados. Oh Dios, acepta nuestras súplicas en esta hora y a cada hora, facilita nuestra vida, guíanos para actuar según tus mandamientos, santifica nuestros espíritus,",
+     "cop": "",
+     "ar": "الذي لا يشاء موت الخاطئ مثل ما يرجع ويحيا. الداعي الكل إلى الخلاص لأجل الموعد بالخيرات المنتظرة يا رب اقبل منا في هذه الساعة وكل ساعة طلباتنا."
+    },
+    {
+     "role": "text",
+     "es": "purifica nuestros cuerpos, danos buenos pensamientos, purifica nuestras intenciones, cura nuestras enfermedades, perdona nuestros pecados y líbranos de toda mala tristeza y angustia.",
+     "cop": "",
+     "ar": "سهل حياتنا، وأرشدنا إلى العمل بوصاياك. قدس أرواحنا. طهر أجسامنا. قوم أفكارنا. نق نياتنا. اشف أمراضنا واغفر خطايانا. ونجنا من كل حزن رديء ووجع قلب."
     },
     {
      "role": "text",
      "es": "Rodéanos de tus ángeles santos, para que seamos protegidos y guiados por ellos. Así llegaremos a la unidad de la Fe y al conocimiento de tu gloria imperceptible e infinita. Tú eres bendecido para siempre. Amén.",
      "cop": "",
-     "ar": "سهل حياتنا، وأرشدنا إلى العمل بوصاياك. قدس أرواحنا. طهر أجسامنا. قوم أفكارنا. نق نياتنا. اشف أمراضنا واغفر خطايانا. ونجنا من كل حزن رديء ووجع قلب. أحطنا بملائكتك القديسين، لكي نكون بمعسكرهم محفوظين ومرشدين، لنصل إلى اتحاد الإيمان وإلى معرفة مجدك غير المحسوس وغير المحدود، فإنك مبارك إلى الأبد. أمين."
+     "ar": "أحطنا بملائكتك القديسين، لكي نكون بمعسكرهم محفوظين ومرشدين، لنصل إلى اتحاد الإيمان وإلى معرفة مجدك غير المحسوس وغير المحدود، فإنك مبارك إلى الأبد. أمين"
     }
    ]
   }
