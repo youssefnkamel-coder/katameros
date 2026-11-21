@@ -47,8 +47,28 @@ if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then((rs) => rs.forEach((r) => r.unregister()));
   if (window.caches) caches.keys().then((ks) => ks.forEach((k) => caches.delete(k)));
 }
-const appBuild = "3905244656" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+const appBuild = "3123398213" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
 for (const b of _flutter.buildConfig.builds) {
   b.mainJsPath = (b.mainJsPath || 'main.dart.js') + '?v=' + appBuild;
 }
 _flutter.loader.load();
+
+// Avisar de versiones nuevas en móvil, tableta y ordenador: al volver a la app
+// y cada 5 minutos se lee version.txt (sin caché); si cambió, se recarga una vez.
+(function watchUpdates() {
+  const current = String(appBuild);
+  async function check() {
+    try {
+      const r = await fetch('version.txt?t=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) return;
+      const latest = (await r.text()).trim();
+      if (!latest || latest === current) return;
+      if (sessionStorage.getItem('reloadedFor') === latest) return; // evita bucles
+      sessionStorage.setItem('reloadedFor', latest);
+      location.reload();
+    } catch (_) {}
+  }
+  document.addEventListener('visibilitychange', () => { if (!document.hidden) check(); });
+  window.addEventListener('focus', check);
+  setInterval(check, 5 * 60 * 1000);
+})();
