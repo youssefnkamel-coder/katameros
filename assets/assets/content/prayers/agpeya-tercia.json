@@ -3,8 +3,8 @@
  "service": "agpeya",
  "sample": false,
  "title": {
-  "es": "Agpia · Oración de Tercia",
-  "ar": "الأجبية · صلاة الساعة الثالثة"
+  "es": "Oración de Tercia",
+  "ar": "صلاة الساعة الثالثة"
  },
  "sections": [
   {
@@ -313,7 +313,7 @@
   {
    "title": {
     "es": "Evangelio (Juan 14:26-15:4)",
-    "ar": "لإنجيل (إنجيل يوحنا ص ١٤ :٢٦-١٥:٣)",
+    "ar": "الإنجيل (إنجيل يوحنا ص ١٤ :٢٦-١٥:٣)",
     "cop": ""
    },
    "rows": [

@@ -3,8 +3,8 @@
  "service": "agpeya",
  "sample": false,
  "title": {
-  "es": "Agpia · Oración de Sexta",
-  "ar": "الأجبية · صلاة الساعة السادسة"
+  "es": "Oración de Sexta",
+  "ar": "صلاة الساعة السادسة"
  },
  "sections": [
   {
@@ -307,7 +307,7 @@
   {
    "title": {
     "es": "Evangelio (Mateo 5:1-16)",
-    "ar": "لإنجيل (إنجيل متى ص ٥: ١-١٦)",
+    "ar": "الإنجيل (إنجيل متى ص ٥: ١-١٦)",
     "cop": ""
    },
    "rows": [

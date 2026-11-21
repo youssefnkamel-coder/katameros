@@ -3,8 +3,8 @@
  "service": "agpeya",
  "sample": false,
  "title": {
-  "es": "Agpia · Oración de Completas",
-  "ar": "الأجبية · صلاة النوم"
+  "es": "Oración de Completas",
+  "ar": "صلاة النوم"
  },
  "sections": [
   {
@@ -289,7 +289,7 @@
   {
    "title": {
     "es": "Evangelio (Lucas 2:25-32)",
-    "ar": "لإنجيل (إنجيل لوقا ص ٢: ٢٥-٣٢)",
+    "ar": "الإنجيل (إنجيل لوقا ص ٢: ٢٥-٣٢)",
     "cop": ""
    },
    "rows": [

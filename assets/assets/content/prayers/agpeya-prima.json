@@ -3,8 +3,8 @@
  "service": "agpeya",
  "sample": false,
  "title": {
-  "es": "Agpia · Oración de Prima",
-  "ar": "الأجبية · صلاة باكر"
+  "es": "Oración de Prima",
+  "ar": "صلاة باكر"
  },
  "sections": [
   {
@@ -475,7 +475,7 @@
   {
    "title": {
     "es": "Evangelio (Juan 1:1-17)",
-    "ar": "لإنجيل (إنجيل يوحنا ص ١: ١-١٧)",
+    "ar": "الإنجيل (إنجيل يوحنا ص ١: ١-١٧)",
     "cop": ""
    },
    "rows": [

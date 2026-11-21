@@ -3,8 +3,8 @@
  "service": "agpeya",
  "sample": false,
  "title": {
-  "es": "Agpia · Oración de Nona",
-  "ar": "الأجبية · صلاة الساعة التاسعة"
+  "es": "Oración de Nona",
+  "ar": "صلاة الساعة التاسعة"
  },
  "sections": [
   {
@@ -130,7 +130,7 @@
    "rows": [
     {
      "role": "text",
-     "es": "¡   El Señor reina, la tierra goza, se alegran las islas innumerables. Tiniebla y nube lo rodean, justicia y derecho sostienen su trono. Delante de él avanza el fuego, abrasando en torno a los enemigos; sus relámpagos deslumbran el orbe, y, viéndolos, la tierra se estremece. Los montes se derriten como cera ante el Señor, ante el Señor de toda la tierra; los cielos pregonan su justicia, y todos los pueblos contemplan su gloria. Los que adoran estatuas se sonrojan, los que ponen su orgullo en los ídolos.",
+     "es": "¡  El Señor reina, la tierra goza, se alegran las islas innumerables. Tiniebla y nube lo rodean, justicia y derecho sostienen su trono. Delante de él avanza el fuego, abrasando en torno a los enemigos; sus relámpagos deslumbran el orbe, y, viéndolos, la tierra se estremece. Los montes se derriten como cera ante el Señor, ante el Señor de toda la tierra; los cielos pregonan su justicia, y todos los pueblos contemplan su gloria. Los que adoran estatuas se sonrojan, los que ponen su orgullo en los ídolos.",
      "cop": "",
      "ar": "الرب قد ملك فلتتهلل الأرض، ولتفرح الجزائر الكثيرة. سحاب وضباب حوله، العدل والقضاء قوام كرسيه، النار تسبق فتسلك أمامه، وبلهيب تحرق أعداءه الذين حوله. أضاءت بروقه المسكونة. نظرت الأرض فتزلزلت، ذابت الجبال مثل الشمع من قدام وجه الرب، من أمام وجه رب الأرض كلها. أخبرت السموات بعدله، وعاينت جميع الشعوب مجده . يخزى جميع الساجدين لصنعة الأيدي، المفتخرين بأصنامهم."
     },
@@ -295,7 +295,7 @@
   {
    "title": {
     "es": "Evangelio (Lucas 9:10-17)",
-    "ar": "لإنجيل (إنجيل لوقا ص ٩: ٠١-١٧)",
+    "ar": "الإنجيل (إنجيل لوقا ص ٩: ٠١-١٧)",
     "cop": ""
    },
    "rows": [
