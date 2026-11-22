@@ -45,6 +45,22 @@
 
   <title>La palabra de Dios</title>
   <link rel="manifest" href="manifest.json">
+  <!-- Sin selección ni copia del texto (pedido de la diócesis). -->
+  <style>
+    html, body, flt-glass-pane, flt-semantics-host, flt-semantics * {
+      -webkit-user-select: none !important; user-select: none !important;
+      -webkit-touch-callout: none !important;
+    }
+    input, textarea { -webkit-user-select: text !important; user-select: text !important; }
+  </style>
+  <script>
+    (function () {
+      var editable = function (e) { var t = e.target; return t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA'); };
+      ['copy', 'cut', 'contextmenu', 'selectstart', 'dragstart'].forEach(function (ev) {
+        document.addEventListener(ev, function (e) { if (!editable(e)) e.preventDefault(); }, true);
+      });
+    })();
+  </script>
 </head>
 <body>
   <!--
