@@ -1,0 +1,530 @@
+[
+{
+"n": 1,
+"ar": "التكوين",
+"es": "Génesis",
+"en": "Genesis",
+"ch": 50,
+"nt": false
+},
+{
+"n": 2,
+"ar": "الخروج",
+"es": "Éxodo",
+"en": "Exodus",
+"ch": 40,
+"nt": false
+},
+{
+"n": 3,
+"ar": "اللاويين",
+"es": "Levítico",
+"en": "Leviticus",
+"ch": 27,
+"nt": false
+},
+{
+"n": 4,
+"ar": "العدد",
+"es": "Números",
+"en": "Numbers",
+"ch": 36,
+"nt": false
+},
+{
+"n": 5,
+"ar": "التثنية",
+"es": "Deuteronomio",
+"en": "Deuteronomy",
+"ch": 34,
+"nt": false
+},
+{
+"n": 6,
+"ar": "يشوع",
+"es": "Josué",
+"en": "Joshua",
+"ch": 24,
+"nt": false
+},
+{
+"n": 7,
+"ar": "القضاة",
+"es": "Jueces",
+"en": "Judges",
+"ch": 21,
+"nt": false
+},
+{
+"n": 8,
+"ar": "راعوث",
+"es": "Rut",
+"en": "Ruth",
+"ch": 4,
+"nt": false
+},
+{
+"n": 9,
+"ar": "صموئيل الأول",
+"es": "1 Samuel",
+"en": "1 Samuel",
+"ch": 31,
+"nt": false
+},
+{
+"n": 10,
+"ar": "صموئيل الثاني",
+"es": "2 Samuel",
+"en": "2 Samuel",
+"ch": 24,
+"nt": false
+},
+{
+"n": 11,
+"ar": "الملوك الأول",
+"es": "1 Reyes",
+"en": "1 Kings",
+"ch": 22,
+"nt": false
+},
+{
+"n": 12,
+"ar": "الملوك الثاني",
+"es": "2 Reyes",
+"en": "2 Kings",
+"ch": 25,
+"nt": false
+},
+{
+"n": 13,
+"ar": "أخبار الأيام الأول",
+"es": "1 Crónicas",
+"en": "1 Chronicles",
+"ch": 29,
+"nt": false
+},
+{
+"n": 14,
+"ar": "أخبار الأيام الثاني",
+"es": "2 Crónicas",
+"en": "2 Chronicles",
+"ch": 36,
+"nt": false
+},
+{
+"n": 15,
+"ar": "عزرا",
+"es": "Esdras",
+"en": "Ezra",
+"ch": 10,
+"nt": false
+},
+{
+"n": 16,
+"ar": "نحميا",
+"es": "Nehemías",
+"en": "Nehemiah",
+"ch": 13,
+"nt": false
+},
+{
+"n": 17,
+"ar": "أستير",
+"es": "Ester",
+"en": "Esther",
+"ch": 10,
+"nt": false
+},
+{
+"n": 18,
+"ar": "أيوب",
+"es": "Job",
+"en": "Job",
+"ch": 42,
+"nt": false
+},
+{
+"n": 19,
+"ar": "المزامير",
+"es": "Salmos",
+"en": "Psalms",
+"ch": 150,
+"nt": false
+},
+{
+"n": 20,
+"ar": "الأمثال",
+"es": "Proverbios",
+"en": "Proverbs",
+"ch": 31,
+"nt": false
+},
+{
+"n": 21,
+"ar": "الجامعة",
+"es": "Eclesiastés",
+"en": "Ecclesiastes",
+"ch": 12,
+"nt": false
+},
+{
+"n": 22,
+"ar": "نشيد الأنشاد",
+"es": "Cantares",
+"en": "Song of Songs",
+"ch": 8,
+"nt": false
+},
+{
+"n": 23,
+"ar": "إشعياء",
+"es": "Isaías",
+"en": "Isaiah",
+"ch": 66,
+"nt": false
+},
+{
+"n": 24,
+"ar": "إرميا",
+"es": "Jeremías",
+"en": "Jeremiah",
+"ch": 52,
+"nt": false
+},
+{
+"n": 25,
+"ar": "مراثي إرميا",
+"es": "Lamentaciones",
+"en": "Lamentations",
+"ch": 5,
+"nt": false
+},
+{
+"n": 26,
+"ar": "حزقيال",
+"es": "Ezequiel",
+"en": "Ezekiel",
+"ch": 48,
+"nt": false
+},
+{
+"n": 27,
+"ar": "دانيال",
+"es": "Daniel",
+"en": "Daniel",
+"ch": 12,
+"nt": false
+},
+{
+"n": 28,
+"ar": "هوشع",
+"es": "Oseas",
+"en": "Hosea",
+"ch": 14,
+"nt": false
+},
+{
+"n": 29,
+"ar": "يوئيل",
+"es": "Joel",
+"en": "Joel",
+"ch": 3,
+"nt": false
+},
+{
+"n": 30,
+"ar": "عاموس",
+"es": "Amós",
+"en": "Amos",
+"ch": 9,
+"nt": false
+},
+{
+"n": 31,
+"ar": "عوبديا",
+"es": "Abdías",
+"en": "Obadiah",
+"ch": 1,
+"nt": false
+},
+{
+"n": 32,
+"ar": "يونان",
+"es": "Jonás",
+"en": "Jonah",
+"ch": 4,
+"nt": false
+},
+{
+"n": 33,
+"ar": "ميخا",
+"es": "Miqueas",
+"en": "Micah",
+"ch": 7,
+"nt": false
+},
+{
+"n": 34,
+"ar": "ناحوم",
+"es": "Nahúm",
+"en": "Nahum",
+"ch": 3,
+"nt": false
+},
+{
+"n": 35,
+"ar": "حبقوق",
+"es": "Habacuc",
+"en": "Habakkuk",
+"ch": 3,
+"nt": false
+},
+{
+"n": 36,
+"ar": "صفنيا",
+"es": "Sofonías",
+"en": "Zephaniah",
+"ch": 3,
+"nt": false
+},
+{
+"n": 37,
+"ar": "حجي",
+"es": "Hageo",
+"en": "Haggai",
+"ch": 2,
+"nt": false
+},
+{
+"n": 38,
+"ar": "زكريا",
+"es": "Zacarías",
+"en": "Zechariah",
+"ch": 14,
+"nt": false
+},
+{
+"n": 39,
+"ar": "ملاخي",
+"es": "Malaquías",
+"en": "Malachi",
+"ch": 4,
+"nt": false
+},
+{
+"n": 40,
+"ar": "متى",
+"es": "Mateo",
+"en": "Matthew",
+"ch": 28,
+"nt": true
+},
+{
+"n": 41,
+"ar": "مرقس",
+"es": "Marcos",
+"en": "Mark",
+"ch": 16,
+"nt": true
+},
+{
+"n": 42,
+"ar": "لوقا",
+"es": "Lucas",
+"en": "Luke",
+"ch": 24,
+"nt": true
+},
+{
+"n": 43,
+"ar": "يوحنا",
+"es": "Juan",
+"en": "John",
+"ch": 21,
+"nt": true
+},
+{
+"n": 44,
+"ar": "أعمال الرسل",
+"es": "Hechos",
+"en": "Acts",
+"ch": 28,
+"nt": true
+},
+{
+"n": 45,
+"ar": "رومية",
+"es": "Romanos",
+"en": "Romans",
+"ch": 16,
+"nt": true
+},
+{
+"n": 46,
+"ar": "كورنثوس الأولى",
+"es": "1 Corintios",
+"en": "1 Corinthians",
+"ch": 16,
+"nt": true
+},
+{
+"n": 47,
+"ar": "كورنثوس الثانية",
+"es": "2 Corintios",
+"en": "2 Corinthians",
+"ch": 13,
+"nt": true
+},
+{
+"n": 48,
+"ar": "غلاطية",
+"es": "Gálatas",
+"en": "Galatians",
+"ch": 6,
+"nt": true
+},
+{
+"n": 49,
+"ar": "أفسس",
+"es": "Efesios",
+"en": "Ephesians",
+"ch": 6,
+"nt": true
+},
+{
+"n": 50,
+"ar": "فيلبي",
+"es": "Filipenses",
+"en": "Philippians",
+"ch": 4,
+"nt": true
+},
+{
+"n": 51,
+"ar": "كولوسي",
+"es": "Colosenses",
+"en": "Colossians",
+"ch": 4,
+"nt": true
+},
+{
+"n": 52,
+"ar": "تسالونيكي الأولى",
+"es": "1 Tesalonicenses",
+"en": "1 Thessalonians",
+"ch": 5,
+"nt": true
+},
+{
+"n": 53,
+"ar": "تسالونيكي الثانية",
+"es": "2 Tesalonicenses",
+"en": "2 Thessalonians",
+"ch": 3,
+"nt": true
+},
+{
+"n": 54,
+"ar": "تيموثاوس الأولى",
+"es": "1 Timoteo",
+"en": "1 Timothy",
+"ch": 6,
+"nt": true
+},
+{
+"n": 55,
+"ar": "تيموثاوس الثانية",
+"es": "2 Timoteo",
+"en": "2 Timothy",
+"ch": 4,
+"nt": true
+},
+{
+"n": 56,
+"ar": "تيطس",
+"es": "Tito",
+"en": "Titus",
+"ch": 3,
+"nt": true
+},
+{
+"n": 57,
+"ar": "فليمون",
+"es": "Filemón",
+"en": "Philemon",
+"ch": 1,
+"nt": true
+},
+{
+"n": 58,
+"ar": "العبرانيين",
+"es": "Hebreos",
+"en": "Hebrews",
+"ch": 13,
+"nt": true
+},
+{
+"n": 59,
+"ar": "يعقوب",
+"es": "Santiago",
+"en": "James",
+"ch": 5,
+"nt": true
+},
+{
+"n": 60,
+"ar": "بطرس الأولى",
+"es": "1 Pedro",
+"en": "1 Peter",
+"ch": 5,
+"nt": true
+},
+{
+"n": 61,
+"ar": "بطرس الثانية",
+"es": "2 Pedro",
+"en": "2 Peter",
+"ch": 3,
+"nt": true
+},
+{
+"n": 62,
+"ar": "يوحنا الأولى",
+"es": "1 Juan",
+"en": "1 John",
+"ch": 5,
+"nt": true
+},
+{
+"n": 63,
+"ar": "يوحنا الثانية",
+"es": "2 Juan",
+"en": "2 John",
+"ch": 1,
+"nt": true
+},
+{
+"n": 64,
+"ar": "يوحنا الثالثة",
+"es": "3 Juan",
+"en": "3 John",
+"ch": 1,
+"nt": true
+},
+{
+"n": 65,
+"ar": "يهوذا",
+"es": "Judas",
+"en": "Jude",
+"ch": 1,
+"nt": true
+},
+{
+"n": 66,
+"ar": "رؤيا يوحنا",
+"es": "Apocalipsis",
+"en": "Revelation",
+"ch": 22,
+"nt": true
+}
+]
