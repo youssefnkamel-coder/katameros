@@ -9,22 +9,31 @@
  "sections": [
   {
    "title": {
+    "es": "Introducción",
+    "ar": "مقدمة",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "las cinco de la tarde. Para conmemorar la hora en la que se descendió el cuerpo del Salvador de la cruz. También damos gracias al Señor para que nos proteja hasta la tarde.",
+     "cop": "",
+     "ar": "تقابل الخامسة بعد الظهر بالتوقيت الفرنجي. رتبت بمناسبة إنزال جسد المخلص من على الصليب. وفيها نشكر الرب على حفظه إيانا إلى المساء"
+    }
+   ]
+  },
+  {
+   "title": {
     "es": "Comienzo de cada hora",
     "ar": "مقدمة كل ساعة",
     "cop": ""
    },
    "rows": [
     {
-     "role": "text",
-     "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios.",
+     "role": "note",
+     "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios. Amén. Señor ten piedad, Señor ten piedad, Señor bendice. Amén. Gloria al Padre, al Hijo y al Espíritu Santo. Ahora y siempre, y por los siglos de los siglos. Amén.",
      "cop": "",
-     "ar": "للتَّسَابِيحِ والصَّلواتِ، كُلَّ حينٍ وفي كُلِّ مكانٍ. نُمجِّدُ اسْمَكَ القُدُّوسَ في كُلِّ شيءٍ، مَع الآبِ غَيْرِ المُدْرَكِ ولا بدايَةَ لهُ، والرُّوحِ القُدُسِ المُحيي المُسَاوي لكَ، الآنَ وكُلَّ أوانٍ وإلى دَهرِ الدُّهُورِ."
-    },
-    {
-     "role": "text",
-     "es": "Amén. Señor ten piedad, Señor ten piedad, Señor bendice. Amén.",
-     "cop": "",
-     "ar": "آمين."
+     "ar": "بِاسم الآب والابن والرُّوح القُدُس الإله الواحد. آمين. ياربُّ ارحمْ. ياربُّ ارحمْ. ياربُّ بارِكْ. آمين. المَجْدُ للآبِ والابنِ والرُّوحِ القُدُسِ، الآنَ وكلَّ أوانٍ وإلى دَهْرِ الدُّهورِ. آمين."
     }
    ]
   },
@@ -36,91 +45,49 @@
    },
    "rows": [
     {
-     "role": "text",
-     "es": "Padre nuestro, que estás en los cielos, santificado sea tu nombre . Venga a nosotros tu reino. Hágase tu voluntad, así en la tierra, como en el cielo.",
+     "role": "note",
+     "es": "Haznos dignos de decir en gracia:",
      "cop": "",
-     "ar": "اللَّهُمَّ اجعلْنا مُستحقِّينَ أن نقولَ بِشُكرٍ: أبَانَا الذي في السَّمَواتِ، لِيتقدَّسِ اسْمُكَ، ليَأتِ مَلكوتُكَ، لِتَكُنْ مشيئتُكَ كما في السَّماءِ كذلكَ على الأرضِ."
+     "ar": "اللَّهُمَّ اجعلْنا مُستحقِّينَ أن نقولَ بِشُكرٍ:"
     },
     {
      "role": "text",
-     "es": "Danos hoy nuestro pan de cada día; perdona nuestras ofensas; así como también nosotros; perdonamos a los que nos ofenden; no nos dejes caer en la tentación;",
+     "es": "Padre nuestro, que estás en los cielos, santificado sea tu nombre. Venga a nosotros tu reino. Hágase tu voluntad, así en la tierra, como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas; así como también nosotros; perdonamos a los que nos ofenden; no nos dejes caer en la tentación; y líbranos del mal. Por Cristo Jesús nuestro Señor; porque tuyos son el reino, el poder y la gloria para siempre. Amén.",
      "cop": "",
-     "ar": "خُبزَنَا الذي للغدِ أعْطِنَا اليومَ، واغفِرْ لنا ذُنُوبنَا كمَا نَغْفِرُ نَحنُ أيضاً للمُذنِبينَ إلينا. ولا تُدْخِلْنَا في تَجْرِبَةٍ، لكِنْ نَجِّنَا مِنَ الشِّرِّيرِ."
-    },
-    {
-     "role": "text",
-     "es": "y líbranos del mal. Por Cristo Jesús nuestro Señor; porque tuyos son el reino, el poder y la gloria para siempre. Amén.",
-     "cop": "",
-     "ar": "بالمسيحِ يسوعَ ربِّنا، لأنَّ لكَ المُلْكَ والقوَّةَ والمَجْدَ إلى الأبَدِ. آمين."
+     "ar": "أبَانَا الذي في السَّمَواتِ، لِيتقدَّسِ اسْمُكَ، ليَأتِ مَلكوتُكَ، لِتَكُنْ مشيئتُكَ كما في السَّماءِ كذلكَ على الأرضِ. خُبزَنَا الذي للغدِ أعْطِنَا اليومَ، واغفِرْ لنا ذُنُوبنَا كمَا نَغْفِرُ نَحنُ أيضاً للمُذنِبينَ إلينا. ولا تُدْخِلْنَا في تَجْرِبَةٍ، لكِنْ نَجِّنَا مِنَ الشِّرِّيرِ. بالمسيحِ يسوعَ ربِّنا، لأنَّ لكَ المُلْكَ والقوَّةَ والمَجْدَ إلى الأبَدِ. آمين."
     }
    ]
   },
   {
    "title": {
-    "es": "Oración de acción de gracias",
+    "es": "Oración de Acción de gracias",
     "ar": "صلاة الشكر",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Demos gracias al benefactor Dios misericordioso, Padre de nuestro Señor, Dios y Salvador Jesucristo. Porque nos ha cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
+     "es": "Demos gracias al benefactor Dios misericordioso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
      "cop": "",
-     "ar": "فَلنشكُرْ صانِعَ الخَيراتِ الرَّحومَ اللَّهَ، أبَا ربِّنا وإلهِنا ومُخَلِّصنَا يسوعَ المسيحِ؛ لأنَّهُ سَتَرَنا، وأعانَنا، وحفِظَنا، وقبِلَنا إليه، وأشفَقَ علينا، وعضَّدَنا، وأتى بنا إلى هذه السَّاعةِ."
+     "ar": "فَلنشكُرْ صانِعَ الخَيراتِ الرَّحومَ اللَّهَ، أبَا ربِّنا وإلهِنا ومُخَلِّصنَا يسوعَ المسيحِ؛"
     },
     {
      "role": "text",
-     "es": "Supliquémosle también, a Todopoderoso, el Señor nuestro Dios, que nos conserve en plena paz, en este Santo día y todos los días de nuestra vida.",
+     "es": "Porque nos ha cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
      "cop": "",
-     "ar": "هو أيضاً فَلنسألْهُ أن يحفظَنا في هذا اليومِ المُقدَّسِ وكلِّ أيَّامِ حياتِنا بِكُلِّ سلامٍ."
+     "ar": "لأنَّهُ سَتَرَنا، وأعانَنا، وحفِظَنا، وقبِلَنا إليه، وأشفَقَ علينا، وعضَّدَنا، وأتى بنا إلى هذه السَّاعةِ."
     },
     {
      "role": "text",
-     "es": "El señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo.",
+     "es": "Supliquémosle también,",
      "cop": "",
-     "ar": "الضابطُ الكُلِّ الرَّبُّ إلَهُنا. أيُّهَا السَّيِّدُ الرَّبُّ الإلَهُ ضابطُ الكُلِّ أبو ربِّنا وإلهِنا ومُخَلِّصنَا يسوعَ المسيحِ، نشكُرُكَ على كُلِّ حالٍ، ومن أجلِ كُلِّ حالٍ،"
+     "ar": "هو أيضاً فلنسألْهُ أن يحفظَنا في هذا اليومِ المقدسِ، وكلِّ أيامِ حياتِنا بكلِّ سلامٍ،"
     },
     {
      "role": "text",
-     "es": "Te damos gracias por toda circunstancia, para toda circunstancia y en toda circunstancia. Porque nos has cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora.",
+     "es": "a Todopoderoso, el Señor nuestro Dios, que nos conserve en plena paz, en este Santo día y todos los días de nuestra vida. El señor Dios, Dios Todopoderoso, Padre de nuestro Señor, Dios y Salvador Jesucristo. Te damos gracias por toda circunstancia, para toda circunstancia y en toda circunstancia. Porque nos has cubierto, ayudado, conservado, aceptado, tratado con misericordia, apoyado y hecho llegar hasta esta hora. Por ello, pedimos y suplicamos tu bondad, Amante de la humanidad, concédenos completar este santo día, y todos los días de nuestra vida, en plena paz y con tu temor. Toda envidia, toda tentación, toda obra de Satanás, intriga de los malvados y ataque de los enemigos visibles e invisibles. Aléjalos de nosotros, De todo tu pueblo. De este lugar santo que es tuyo. Cólmanos con los bienes y los beneficios porque eres Tú quien nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo. Y no nos dejes caer en la tentación; y líbranos del mal. Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo. Por quien la gloria, el honor, la magnificencia y la adoración te son debidos con Él y el Espíritu Santo vivificante y consubstancial a Ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
      "cop": "",
-     "ar": "وفي كُلِّ حالٍ، لأنَّكَ سَترْتَنا، وأعَنْتَنا، وحفِظْتَنا، وقَبِلْتَنا إليكَ، وأشفَقْتَ علينا، وعَضَّدتْنا، وأتيتَ بنا إلى هذه السَّاعةِ."
-    },
-    {
-     "role": "text",
-     "es": "Por ello, pedimos y suplicamos tu bondad, Amante de la humanidad, concédenos completar este santo día, y todos los días de nuestra vida, en plena paz y con tu temor.",
-     "cop": "",
-     "ar": "مِنْ أجْلِ هذا نسألُ ونطلُبُ مِنْ صلاحِكَ يا مُحبَّ البَشَرِ: امنحْنا أن نُكمِّلَ هذا اليومَ المُقدَّسَ، وكُلَّ أيَّامِ حياتِنا، بكُلِّ سَلامٍ، معَ خوفِكَ."
-    },
-    {
-     "role": "text",
-     "es": "Toda envidia, toda tentación, toda obra de Satanás, intriga de los malvados y ataque de los enemigos visibles e invisibles.",
-     "cop": "",
-     "ar": "كلُّ حسدٍ، وكُلُّ تجْرِبَةٍ، وكُلُّ فعلِ الشَّيطانِ، ومؤامرةُ النَّاسِ الأشرارِ، وقيامُ الأعداءِ الخَفِيِّينَ والظَّاهِرينَ."
-    },
-    {
-     "role": "text",
-     "es": "Aléjalos de nosotros, De todo tu pueblo. De este lugar santo que es tuyo. Cólmanos con los bienes y los beneficios porque eres Tú quien nos has dado la autoridad de aplastar las serpientes, los escorpiones y todo el poder del enemigo.",
-     "cop": "",
-     "ar": "انزَعْهَا عنَّا وعن سائِرِ شَعبِكَ، وعَنْ موضِعِكَ المُقدَّسِ هذا. أمَّا الصَّالحاتُ والنافعاتُ فارزُقنا إيَّاها. لأنَّك أنتَ الذي أعْطَيتَنا السُّلْطانَ أنْ نَدوسَ الحَيَّاتِ والعَقاربَ وكُلَّ قوَّةِ العَدوِّ."
-    },
-    {
-     "role": "text",
-     "es": "Y no nos dejes caer en la tentación;",
-     "cop": "",
-     "ar": "ولا تُدخِلْنا في تَجْرِبَةٍ، لَكِنْ نَجِّنا مِنَ الشِّريرِ. بالنِّعْمَةِ والرَّأفاتِ ومحبَّةِ البَشَرِ اللَّوَاتِي لاِبنِكَ الوَحيدِ رَبِّنا وإلهِنا ومُخَلِّصِنَا يَسُوعَ المَسِيحِ."
-    },
-    {
-     "role": "text",
-     "es": "y líbranos del mal. Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
-     "cop": "",
-     "ar": "هذا الذي مِنْ قِبَلِهِ المَجْدُ والإكرامُ والعِزَّةُ والسُّجودُ، تليقُ بكَ مَعهُ، مع الرُّوحِ القُدسِ المُحْيي المُساوِي لكَ، الآنَ وكُلَّ أوانٍ وإلى دَهْرِ الدُّهُورِ."
-    },
-    {
-     "role": "text",
-     "es": "Por quien la gloria, el honor, la magnificencia y la adoración te son debidos con Él y el Espíritu Santo vivificante y consubstancial a Ti.",
-     "cop": "",
-     "ar": "آمين."
+     "ar": "ضابطَ الكلِّ الربَّ إلهَنا. أيُّهَا السَّيِّدُ الرَّبُّ الإلَهُ ضابطُ الكُلِّ أبو ربِّنا وإلهِنا ومُخَلِّصنَا يسوعَ المسيحِ نشكُرُكَ على كُلِّ حالٍ، ومن أجلِ كُلِّ حالٍ، وفي كُلِّ حالٍ. لأنَّكَ سَترْتَنا، وأعَنْتَنا، وحفِظْتَنا، وقَبِلْتَنا إليكَ، وأشفَقْتَ علينا، وعَضَّدتْنا، وأتيتَ بنا إلى هذه السَّاعةِ. مِنْ أجْلِ هذا نسألُ ونطلُبُ مِنْ صلاحِكَ يا مُحبَّ البَشَرِ: امنحْنا أن نُكمِّلَ هذا اليومَ المُقدَّسَ، وكُلَّ أيَّامِ حياتِنا، بكُلِّ سَلامٍ، معَ خوفِكَ. كلُّ حسدٍ، وكُلُّ تجْرِبَةٍ، وكُلُّ فعلِ الشَّيطانِ، ومؤامرةُ النَّاسِ الأشرارِ، وقيامُ الأعداءِ الخَفِيِّينَ والظَّاهِرينَ. انزَعْهَا عنَّا وعن سائِرِ شَعبِكَ، وعَنْ موضِعِكَ المُقدَّسِ هذا. أمَّا الصَّالحاتُ والنافعاتُ فارزُقنا إيَّاها. لأنَّك أنتَ الذي أعْطَيتَنا السُّلْطانَ أنْ نَدوسَ الحَيَّاتِ والعَقاربَ وكُلَّ قوَّةِ العَدوِّ. ولا تُدخِلْنا في تَجْرِبَةٍ، لَكِنْ نَجِّنا مِنَ الشِّريرِ. بالنِّعْمَةِ والرَّأفاتِ ومحبَّةِ البَشَرِ اللَّوَاتِي لاِبنِكَ الوَحيدِ رَبِّنا وإلهِنا ومُخَلِّصِنَا يَسُوعَ المَسِيحِ. هذا الذي مِنْ قِبَلِهِ المَجْدُ والإكرامُ والعِزَّةُ والسُّجودُ، تليقُ بكَ مَعهُ، مع الرُّوحِ القُدسِ المُحْيي المُساوِي لكَ، الآنَ وكُلَّ أوانٍ وإلى دَهْرِ الدُّهُورِ. آمين."
     }
    ]
   },
@@ -133,495 +100,465 @@
    "rows": [
     {
      "role": "text",
-     "es": "Misericordia, Dios mío, por tu bondad, por tu inmensa compasión borra mi culpa; Lava del todo mi delito, limpia mi pecado. Pues yo reconozco mi culpa, tengo siempre presente mi pecado.",
+     "es": "Misericordia, Dios mío, por tu bondad, por tu inmensa compasión borra mi culpa; Lava del todo mi delito, limpia mi pecado. Pues yo reconozco mi culpa, tengo siempre presente mi pecado. Contra ti, contra ti solo pequé, cometí la maldad en tu presencia. En la sentencia tendrás razón, en el juicio resultarás inocente. Mira, en la culpa nací, pecador me concibió mi madre. Te gusta un corazón sincero, y en mi interior me inculcas sabiduría. Rocíame con el hisopo: quedaré limpio; lávame: quedaré más blanco que la nieve. Hazme oír el gozo y la alegría, que se alegren los huesos quebrantados. Aparta de mi pecado tu vista, borra en mí toda culpa. Oh Dios, crea en mí un corazón puro, renuévame por dentro con espíritu firme No me arrojes lejos de tu rostro, no me quites tu santo espíritu. Devuélveme la alegría de tu salvación, afiánzame con espíritu generoso. Enseñaré a los malvados tus caminos, los pecadores volverán a ti. Líbrame de la sangre, oh Dios, Dios, Salvador mío, y cantará mi lengua tu justicia. Señor, me abrirás los labios, y mi boca proclamará tu alabanza. Los sacrificios no te satisfacen: si te ofreciera un holocausto,",
      "cop": "",
-     "ar": "اِرحَمْني يا اللَّهُ كعظيمِ رحْمَتِكَ، ومِثْلَ كَثْرَةِ رأفتِكَ امْحُ إثمي. واغسِلْني كثيراً مِنْ إثمي، ومِنْ خَطِيَّتي طَهِّرْني. لأنِّي أنا عارِفٌ بإثمي، وخَطِيَّتي أمَامي في كُلِّ حينٍ."
+     "ar": "اِرحَمْني يا اللَّهُ كعظيمِ رحْمَتِكَ، ومِثْلَ كَثْرَةِ رأفتِكَ امْحُ إثمي. واغسِلْني كثيراً مِنْ إثمي، ومِنْ خَطِيَّتي طَهِّرْني. لأنِّي أنا عارِفٌ بإثمي، وخَطِيَّتي أمَامي في كُلِّ حينٍ. لَكَ وحدَكَ أخطأتُ، والشرَّ قُدَّامَكَ صَنعتُ، لكي تَتبرَّرَ في أقوالِكَ، وتغلِبَ إذا حُوكِمْتَ. لأنِّي هأنَذا بالإثمِ حُبِلَ بي، وبالخطايا اشتَهَتْني أُمِّي. لأنَّكَ هكذا قَدْ أحبَبْتَ الحقَّ، إذْ أوْضَحْتَ لي غَوامِضَ حِكْمَتِكَ ومَسْتوراتِها. تَنضَحُ عليَّ بزوفاكَ فأطْهُرُ. تَغسِلُني فَأَبْيَضُّ أكثرَ مِنَ الثَّلجِ. تُسْمِعُنِي سُروراً وفرَحاً، فَتَبتَهِجُ عِظَامي المُتواضِعَةُ. اصرفْ وجْهَكَ عن خَطَايَاي، وامْحُ كُلَّ آثامِي.قَلْباً نَقِيّاً اخْلُقْ فيَّ يا اللَّهُ، وَرُوحاً مُستَقِيماً جَدِّدْهُ في أحْشائي. لا تَطرَحْنِي مِنْ قُدَّامِ وَجْهِكَ ورُوحَكَ القدُّوسَ لا تَنزِعْهُ مِنِّي. امْنحْني بهجَةَ خلاصِكَ، وبِرُوح رئاسي اعْضُدْنِي فأُعَلِّمَ الأثمَةَ طُرُقَكَ، والمُنافِقونَ إليكَ يَرْجِعُونَ. نَجِّنِي مِنَ الدِّماءِ يا اللَّهُ، إلهَ خَلاصِي، فَيبتَهِجَ لِسَانِي بِعدْلِكَ. ياربُّ افتَحْ شَفَتَيَّ، فَيُخبِرَ فَمِي بِتَسْبيحِكَ. لأنَّكَ لو آثرْتَ الذبيحَةَ لكُنتُ الآنَ أُعطي،"
     },
     {
      "role": "text",
-     "es": "Contra ti, contra ti solo pequé, cometí la maldad en tu presencia. En la sentencia tendrás razón, en el juicio resultarás inocente. Mira, en la culpa nací, pecador me concibió mi madre.",
+     "es": "no lo querrías. El sacrificio agradable a Dios es un espíritu quebrantado; un corazón quebrantado y humillado, tú, oh Dios, tú no lo desprecias. Señor, por tu bondad, favorece a Sión, reconstruye las murallas de Jerusalén: Entonces aceptarás los sacrificios rituales, ofrendas y holocaustos, sobre tu altar se inmolarán novillos. ¡Aleluya!.",
      "cop": "",
-     "ar": "لَكَ وحدَكَ أخطأتُ، والشرَّ قُدَّامَكَ صَنعتُ، لكي تَتبرَّرَ في أقوالِكَ، وتغلِبَ إذا حُوكِمْتَ. لأنِّي هأنَذا بالإثمِ حُبِلَ بي، وبالخطايا اشتَهَتْني أُمِّي."
-    },
-    {
-     "role": "text",
-     "es": "Te gusta un corazón sincero, y en mi interior me inculcas sabiduría. Rocíame con el hisopo: quedaré limpio; lávame: quedaré más blanco que la nieve.",
-     "cop": "",
-     "ar": "لأنَّكَ هكذا قَدْ أحبَبْتَ الحقَّ، إذْ أوْضَحْتَ لي غَوامِضَ حِكْمَتِكَ ومَسْتوراتِها. تَنضَحُ عليَّ بزوفاكَ فأطْهُرُ."
-    },
-    {
-     "role": "text",
-     "es": "Hazme oír el gozo y la alegría, que se alegren los huesos quebrantados. Aparta de mi pecado tu vista, borra en mí toda culpa. Oh Dios, crea en mí un corazón puro, renuévame por dentro con espíritu firme No me arrojes lejos de tu rostro, no me quites tu santo espíritu.",
-     "cop": "",
-     "ar": "تَغسِلُني فَأَبْيَضُّ أكثرَ مِنَ الثَّلجِ. تُسْمِعُنِي سُروراً وفرَحاً، فَتَبتَهِجُ عِظَامي المُتواضِعَةُ. اصرفْ وجْهَكَ عن خَطَايَاي، وامْحُ كُلَّ آثامِي."
-    },
-    {
-     "role": "text",
-     "es": "Devuélveme la alegría de tu salvación, afiánzame con espíritu generoso.",
-     "cop": "",
-     "ar": "قَلْباً نَقِيّاً اخْلُقْ فيَّ يا اللَّهُ، وَرُوحاً مُستَقِيماً جَدِّدْهُ في أحْشائي. لا تَطرَحْنِي مِنْ قُدَّامِ وَجْهِكَ ورُوحَكَ القدُّوسَ لا تَنزِعْهُ مِنِّي."
-    },
-    {
-     "role": "text",
-     "es": "Enseñaré a los malvados tus caminos, los pecadores volverán a ti. Líbrame de la sangre, oh Dios, Dios, Salvador mío, y cantará mi lengua tu justicia.",
-     "cop": "",
-     "ar": "امْنحْني بهجَةَ خلاصِكَ، وبِرُوح رئاسي اعْضُدْنِي، فأُعَلِّمَ الأثمَةَ طُرُقَكَ، والمُنافِقونَ إليكَ يَرْجِعُونَ. نَجِّنِي مِنَ الدِّماءِ يا اللَّهُ، إلهَ خَلاصِي، فَيبتَهِجَ لِسَانِي بِعدْلِكَ."
-    },
-    {
-     "role": "text",
-     "es": "Señor, me abrirás los labios, y mi boca proclamará tu alabanza. Los sacrificios no te satisfacen: si te ofreciera un holocausto, no lo querrías.",
-     "cop": "",
-     "ar": "ياربُّ افتَحْ شَفَتَيَّ، فَيُخبِرَ فَمِي بِتَسْبيحِكَ. لأنَّكَ لو آثرْتَ الذبيحَةَ لكُنتُ الآنَ أُعطي، ولكنَّكَ لا تُسَرُّ بالمُحْرَقاتِ."
-    },
-    {
-     "role": "text",
-     "es": "El sacrificio agradable a Dios es un espíritu quebrantado; un corazón quebrantado y humillado, tú, oh Dios, tú no lo desprecias. Señor, por tu bondad, favorece a Sión, reconstruye las murallas de Jerusalén:",
-     "cop": "",
-     "ar": "فالذبيحَةُ للَّهِ رُوحٌ مُنسحِقٌ. القلْبُ المُنكَسِرُ والمتواضِعُ لا يَرْذلُهُ اللَّهُ. أَنْعِمْ ياربُّ بِمَسَرَّتِكَ على صِهيونَ، ولتُبْنَ أسْوَارُ أورُشَليمَ."
-    },
-    {
-     "role": "text",
-     "es": "Entonces aceptarás los sacrificios rituales, ofrendas y holocaustos, sobre tu altar se inmolarán novillos. ¡Aleluya!.",
-     "cop": "",
-     "ar": "حِينَئِذٍ تُسَرُّ بِذَبَائِحِ العدلِ قرباناً ومُحْرَقاتٍ. حِينَئِذٍ يُصْعِدُونَ على مَذبَحِكَ العُجُولَ. هلِّلويا"
+     "ar": "ولكنَّكَ لا تُسَرُّ بالمُحْرَقاتِ. فالذبيحَةُ للَّهِ رُوحٌ مُنسحِقٌ. القلْبُ المُنكَسِرُ والمتواضِعُ لا يَرْذلُهُ اللَّهُ. أَنْعِمْ ياربُّ بِمَسَرَّتِكَ على صِهيونَ، ولتُبْنَ أسْوَارُ أورُشَليمَ. حِينَئِذٍ تُسَرُّ بِذَبَائِحِ العدلِ قرباناً ومُحْرَقاتٍ. حِينَئِذٍ يُصْعِدُونَ على مَذبَحِكَ العُجُولَ. هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Comienzo de la hora",
-    "ar": "بدء الصلاة",
+    "ar": "بدء الساعة",
     "cop": ""
    },
    "rows": [
     {
-     "role": "text",
-     "es": "Alabanza de las Vísperas bendita . La Presento a Cristo, mi Rey y Dios . Le ruego que perdone mis pecados. De los Salmos de nuestro maestro David el profeta y el rey. Que su bendición esté sobre nosotros. Amén.",
+     "role": "note",
+     "es": "Y dice",
      "cop": "",
-     "ar": "تسبحة الغروب المُبارَك، أُقدِّمُها للمسيحِ مَلِكِي وإلَهي، وأرجوهُ أن يغفرَ لي خطاياي."
+     "ar": "ثم يقول"
+    },
+    {
+     "role": "note",
+     "es": "Señor, ten piedad de nosotros. Señor, ten piedad de nosotros. ¡Aleluya!\nEn el nombre del Padre, del Hijo y del Espíritu Santo: un solo Dios. Amén.\nSeñor, ten piedad. Señor, ten piedad. Señor, bendice. Amén.\nGloria al Padre, al Hijo y al Espíritu Santo. Ahora y siempre y por los siglos de los siglos. Amén.\nAlabanza de las Vísperas bendita. La Presento a Cristo, mi Rey y Dios. Le ruego que perdone mis pecados.",
+     "cop": "",
+     "ar": "يارب ارحمنا\nيارب ارحمنا هلليلويا.\nباسم الآب والابن والروح القدس إله واحد. آمين.\nيا رب ارحم يارب ارحم\nيارب بارك.آمين.\nالمجد للآب والابن والروح القدس\nالآن وكل أوان وإلى دهر الدهور آمين.\nتسبحة الغروب المبارك أقدمها للمسيح ملكي والهي وأرجوه أن يغفر لي خطاياي."
+    },
+    {
+     "role": "note",
+     "es": "De los Salmos de nuestro maestro David el profeta y el rey. Que su bendición esté sobre nosotros. Amén.",
+     "cop": "",
+     "ar": "من مزامير معلمنا داود النبي والملك بركاته علينا أمين."
+    },
+    {
+     "role": "note",
+     "es": "Los Salmos siguientes son rezados por el sacerdote.",
+     "cop": "",
+     "ar": "المزامير الأتية يتلوها الكاهن"
+    },
+    {
+     "role": "text",
+     "es": "Salmo 116 (Alabad al Señor)\nSalmo 117 (Dad gracias al Señor)\nSalmo 128 (Cuánta guerra)",
+     "cop": "",
+     "ar": "المزمور 116(سَبِّحوا الرَّبَّ)\nالمزمور 117(اِعتَرِفُوا للرَّبِّ)\nالمزمور128(مِرَاراً كثيرةً)"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 116",
-    "ar": "مزمور ١١٦",
+    "ar": "المزمور ١١٦",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Alabad al Señor todas las naciones, aclamadlo todos los pueblos . Firme es su misericordia con nosotros, su fidelidad dura por siempre ¡Aleluya!",
+     "es": "Alabad al Señor todas las naciones, aclamadlo todos los pueblos.",
      "cop": "",
-     "ar": "سَبِّحوا الرَّبَّ يا جَمِيعَ الأُمَمِ، ولتُبارِكْهُ كافَةُ الشُّعوبِ؛ لأنَّ رَحْمَتَهُ قد قَويَتْ عَلَينَا، وحَقُّ الرَّبِّ يَدومُ إلى الدَّهرِ. هلِّلويا"
+     "ar": "سَبِّحوا الرَّبَّ يا جَمِيعَ الأُمَمِ، ولتُبارِكْهُ كافَةُ الشُّعوبِ."
+    },
+    {
+     "role": "text",
+     "es": "Firme es su misericordia con nosotros, su fidelidad dura por siempre.",
+     "cop": "",
+     "ar": "لأنَّ رَحْمَتَهُ قد قَويَتْ عَلَينَا، وحَقُّ الرَّبِّ يَدومُ إلى الدَّهرِ."
+    },
+    {
+     "role": "text",
+     "es": "¡Aleluya!.",
+     "cop": "",
+     "ar": "هلِّلويا."
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 117",
-    "ar": "مزمور ١١٧",
+    "ar": "المزمور ١١٧",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Dad gracias al Señor porque es bueno, porque es eterna su misericordia. Diga la casa de Israel: eterna es su misericordia. Diga la casa de Aarón: eterna es su misericordia.",
+     "es": "Dad gracias al Señor porque es bueno, porque es eterna su misericordia. Diga la casa de Israel: eterna es su misericordia. Diga la casa de Aarón: eterna es su misericordia. Digan los que temen al Señor: eterna es su misericordia. En el peligro grité al Señor, y el Señor me escuchó, poniéndome a salvo. El Señor está conmigo: no temo; ¿qué podrá hacerme el hombre? El Señor está conmigo y me auxilia, veré la derrota de mis adversarios. Mejor es refugiarse en el Señor que fiarse de los hombres, mejor es refugiarse en el Señor que fiarse de los jefes.",
      "cop": "",
-     "ar": "اِعتَرِفُوا للرَّبِّ فإنَّهُ صَالِحٌ، وإنَّ إلى الأبَدِ رَحْمَتَهُ. لِيَقُلْ بَيتُ إسرائِيلَ: إنَّهُ صَالِحٌ وإنَّ إلى الأبَدِ رَحْمَتَهُ. لِيَقُلْ بَيتُ هَرونَ:"
+     "ar": "اِعتَرِفُوا للرَّبِّ فإنَّهُ صَالِحٌ، وإنَّ إلى الأبَدِ رَحْمَتَهُ. لِيَقُلْ بَيتُ إسرائِيلَ: إنَّهُ صَالِحٌ وإنَّ إلى الأبَدِ رَحْمَتَهُ. لِيَقُلْ بَيتُ هَرونَ: إنَّهُ صَالِحٌ وإنَّ إلى الأبَدِ رَحْمَتَهُ. لِيقُلْ أتقيَاءُ الرَّبِّ: إنَّهُ صَالِحٌ وإنَّ إلى الأبَدِ رَحْمَتَهُ. في ضِيقَتِي صَرَخْتُ إلى الرَّبِّ، فاسْتَجابَ لِي وأخرَجَنِي إلى الرَّحْبِ. الرَّبُّ عَونِي، فلا أخْشَى ماذا يَصْنَعُ بي الإنْسَانُ. الرَّبُّ لي مُعينٌ، وأنا أرَى بأعدَائِي. الاِتِّكالُ على الرَّبِّ خَيرٌ مِنَ الاِتِّكالِ على البَشَرِ. الرَّجاءُ بالرَّبِّ خَيرٌ مِنَ الرَّجاءِ بالرُّؤَسَاءِ."
     },
     {
      "role": "text",
-     "es": "Digan los que temen al Señor: eterna es su misericordia. En el peligro grité al Señor, y el Señor me escuchó, poniéndome a salvo.",
+     "es": "Todos los pueblos me rodeaban, en el nombre del Señor los rechacé; me rodeaban cerrando el cerco, en el nombre del Señor los rechacé; me rodeaban como avispas, ardiendo como fuego en las zarzas; en el nombre del Señor los rechacé. Empujaban y empujaban para derribarme, pero el Señor me ayudó; el Señor es mi fuerza y mi energía, él es mi salvación. Escuchad: hay cantos de victoria en las tiendas de los justos: «La diestra del Señor es poderosa, la diestra del Señor es excelsa ». No he de morir, viviré para contar las hazañas del Señor. Me castigó, me castigó el Señor, pero no me entregó a la muerte. Abridme las puertas de la salvación, y entraré para dar gracias al Señor. Esta es la puerta del Señor: los vencedores entrarán por ella. Te doy gracias porque me escuchaste y fuiste mi salvación. La piedra que desecharon los arquitectos es ahora la piedra angular. Es el Señor quien lo ha hecho, ha sido un milagro patente. Este es el día que hizo el Señor: sea nuestra alegría y nuestro gozo. Señor, danos la salvación; Señor, danos prosperidad. Bendito el que viene en nombre del Señor, os bendecimos desde la casa del Señor. El Señor es Dios, él nos ilumina. Ordenad una procesión con ramos hasta los ángulos del altar.",
      "cop": "",
-     "ar": "إنَّهُ صَالِحٌ وإنَّ إلى الأبَدِ رَحْمَتَهُ. لِيقُلْ أتقيَاءُ الرَّبِّ: إنَّهُ صَالِحٌ وإنَّ إلى الأبَدِ رَحْمَتَهُ. في ضِيقَتِي صَرَخْتُ إلى الرَّبِّ، فاسْتَجابَ لِي وأخرَجَنِي إلى الرَّحْبِ."
+     "ar": "كُلُّ الأُمَمِ أحَاطوا بي، وبِاسْمِ الرَّبِّ انتَقَمْتُ مِنهُم. أحَاطُوا بِي احْتياطاً واكتَنَفُونِي، وبِاسْمِ الرَّبِّ قَهَرْتُهُمْ. أحَاطُوا بِي مِثْلَ النَّحْلِ حَوْلَ الشَّهْدِ، والتَهَبوا كَنَارٍ في شَوْكٍ، وبِاسْمِ الرَّبِّ انتَقَمْتُ مِنهُمْ. دُفِعْتُ لأسْقُطَ، والرَّبُّ عَضَدَني. قُوَّتِي وتَسْبِحَتي هو الرَّبُّ، وقَدْ صَارَ لِي خَلاصاً. صَوتُ التَّهليلِ والخَلاصِ في مَساكنِ الأبرارِ. يَمِينُ الرَّبِّ صَنَعَتْ قُوَّةً. يَمِينُ الرَّبِّ رَفَعَتْنِي، يَمِينُ الرَّبِّ صَنَعَتْ قُوَّةً. فلَنْ أمُوتَ بَعدُ، بَلْ أحيَا وأُحَدِّثُ بأعْمالِ الرَّبِّ. تأدِيباً أَدَّبَنِي الرَّبُّ، وإلى المَوتِ لم يُسْلِمْنِي. اِفتَحُوا لِي أَبْوَابَ البِرِّ، لكي أدْخُلَ فِيهَا وأعتَرِفَ للرَّبِّ. هذا هو بَابُ الرَّبِّ، والصِّدِّيقونَ يَدخُلونَ فيهِ. أعْتَرِفُ لكَ ياربُّ، لأنَّكَ استَجَبْتَ لي، وكُنتَ لي مُخَلِّصاً.الحَجرُ الذي رَذَلَهُ البَنَّاؤونَ، هذا صَارَ رأْساً للزَّاوِيَةِ. مِنْ قِبَلِ الرَّبِّ كانَ هذا، وهو عَجِيبٌ في أَعْيُنِنَا.هذا هو اليَومُ الذي صَنَعَهُ الرَّبُّ، فلنَبتَهِجْ ونَفرَحْ فِيهِ. يارَبُّ خلِّصْنَا. يارَبُّ سَهِّلْ طَريقَنا. مُبَارَكٌ الآتِي بِاسْمِ الرَّبِّ. بَارَكنَاكُمْ مِنْ بَيتِ الرَّبِّ. اللَّهُ الرَّبُّ أضَاءَ عَلينا. رَتِّبوا عيداً في الوَاصِلينَ إلى قُرُونِ المَذبَحِ."
     },
     {
      "role": "text",
-     "es": "El Señor está conmigo: no temo; ¿qué podrá hacerme el hombre? El Señor está conmigo y me auxilia, veré la derrota de mis adversarios. Mejor es refugiarse en el Señor que fiarse de los hombres, mejor es refugiarse en el Señor que fiarse de los jefes.",
+     "es": "Tú eres mi Dios, te doy gracias; Dios mío, yo te ensalzo. Dad gracias al Señor porque es bueno, porque es eterna su misericordia. ¡Aleluya!.",
      "cop": "",
-     "ar": "الرَّبُّ عَونِي، فلا أخْشَى ماذا يَصْنَعُ بي الإنْسَانُ. الرَّبُّ لي مُعينٌ، وأنا أرَى بأعدَائِي. الاِتِّكالُ على الرَّبِّ خَيرٌ مِنَ الاِتِّكالِ على البَشَرِ."
-    },
-    {
-     "role": "text",
-     "es": ". Todos los pueblos me rodeaban, en el nombre del Señor los rechacé;",
-     "cop": "",
-     "ar": "الرَّجاءُ بالرَّبِّ خَيرٌ مِنَ الرَّجاءِ بالرُّؤَسَاءِ. كُلُّ الأُمَمِ أحَاطوا بي، وبِاسْمِ الرَّبِّ انتَقَمْتُ مِنهُم."
-    },
-    {
-     "role": "text",
-     "es": "me rodeaban cerrando el cerco, en el nombre del Señor los rechacé; me rodeaban como avispas, ardiendo como fuego en las zarzas;",
-     "cop": "",
-     "ar": "أحَاطُوا بِي احْتياطاً واكتَنَفُونِي، وبِاسْمِ الرَّبِّ قَهَرْتُهُمْ. أحَاطُوا بِي مِثْلَ النَّحْلِ حَوْلَ الشَّهْدِ، والتَهَبوا كَنَارٍ في شَوْكٍ، وبِاسْمِ الرَّبِّ انتَقَمْتُ مِنهُمْ."
-    },
-    {
-     "role": "text",
-     "es": "en el nombre del Señor los rechacé. Empujaban y empujaban para derribarme, pero el Señor me ayudó; el Señor es mi fuerza y mi energía, él es mi salvación.",
-     "cop": "",
-     "ar": "دُفِعْتُ لأسْقُطَ، والرَّبُّ عَضَدَني. قُوَّتِي وتَسْبِحَتي هو الرَّبُّ، وقَدْ صَارَ لِي خَلاصاً."
-    },
-    {
-     "role": "text",
-     "es": "Escuchad: hay cantos de victoria en las tiendas de los justos: «La diestra del Señor es poderosa, la diestra del Señor es excelsa ».",
-     "cop": "",
-     "ar": "صَوتُ التَّهليلِ والخَلاصِ في مَساكنِ الأبرارِ. يَمِينُ الرَّبِّ صَنَعَتْ قُوَّةً. يَمِينُ الرَّبِّ رَفَعَتْنِي، يَمِينُ الرَّبِّ صَنَعَتْ قُوَّةً."
-    },
-    {
-     "role": "text",
-     "es": "No he de morir, viviré para contar las hazañas del Señor . Me castigó, me castigó el Señor, pero no me entregó a la muerte. Abridme las puertas de la salvación, y entraré para dar gracias al Señor.",
-     "cop": "",
-     "ar": "فلَنْ أمُوتَ بَعدُ، بَلْ أحيَا وأُحَدِّثُ بأعْمالِ الرَّبِّ. تأدِيباً أَدَّبَنِي الرَّبُّ، وإلى المَوتِ لم يُسْلِمْنِي. اِفتَحُوا لِي أَبْوَابَ البِرِّ، لكي أدْخُلَ فِيهَا وأعتَرِفَ للرَّبِّ."
-    },
-    {
-     "role": "text",
-     "es": "Esta es la puerta del Señor: los vencedores entrarán por ella. Te doy gracias porque me escuchaste y fuiste mi salvación.",
-     "cop": "",
-     "ar": "هذا هو بَابُ الرَّبِّ، والصِّدِّيقونَ يَدخُلونَ فيهِ. أعْتَرِفُ لكَ ياربُّ؛ لأنَّكَ استَجَبْتَ لي، وكُنتَ لي مُخَلِّصاً."
-    },
-    {
-     "role": "text",
-     "es": "La piedra que desecharon los arquitectos es ahora la piedra angular. Es el Señor quien lo ha hecho, ha sido un milagro patente.",
-     "cop": "",
-     "ar": "الحَجرُ الذي رَذَلَهُ البَنَّاؤونَ، هذا صَارَ رأْساً للزَّاوِيَةِ. مِنْ قِبَلِ الرَّبِّ كانَ هذا، وهو عَجِيبٌ في أَعْيُنِنَا. هذا هو اليَومُ الذي صَنَعَهُ الرَّبُّ، فلنَبتَهِجْ ونَفرَحْ فِيهِ."
-    },
-    {
-     "role": "text",
-     "es": "Este es el día que hizo el Señor: sea nuestra alegría y nuestro gozo. Señor, danos la salvación; Señor, danos prosperidad. Bendito el que viene en nombre del Señor, os bendecimos desde la casa del Señor.",
-     "cop": "",
-     "ar": "يارَبُّ خلِّصْنَا. يارَبُّ سَهِّلْ طَريقَنا. مُبَارَكٌ الآتِي بِاسْمِ الرَّبِّ. بَارَكنَاكُمْ مِنْ بَيتِ الرَّبِّ."
-    },
-    {
-     "role": "text",
-     "es": "El Señor es Dios, él nos ilumina. Ordenad una procesión con ramos hasta los ángulos del altar.",
-     "cop": "",
-     "ar": "اللَّهُ الرَّبُّ أضَاءَ عَلينا. رَتِّبوا عيداً في الوَاصِلينَ إلى قُرُونِ المَذبَحِ. أنتَ هو إلَهِي فأشكُرُكَ. إلَهِي أنتَ فَأَرْفَعُكَ."
-    },
-    {
-     "role": "text",
-     "es": "Tú eres mi Dios, te doy gracias; Dios mío, yo te ensalzo. Dad gracias al Señor porque es bueno, porque es eterna su misericordia ¡Aleluya!",
-     "cop": "",
-     "ar": "أعْتَرِفُ لكَ ياربُّ؛ لأنَّكَ اسْتَجَبتَ لي، وصِرْتَ لِي مُخَلِّصاً. اشْكُروا الرَّبَّ فإنَّهُ صَالِحٌ، وإنَّ إلى الأبَدِ رَحْمَتَهُ. هلِّلويا"
+     "ar": "أنتَ هو إلَهِي فأشكُرُكَ. إلَهِي أنتَ فَأَرْفَعُكَ. أعْتَرِفُ لكَ ياربُّ، لأنَّكَ اسْتَجَبتَ لي، وصِرْتَ لِي مُخَلِّصاً. اشْكُروا الرَّبَّ فإنَّهُ صَالِحٌ، وإنَّ إلى الأبَدِ رَحْمَتَهُ. هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 119",
-    "ar": "مزمور ١١٩",
+    "ar": "المزمور ١١٩",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "En mi aflicción llamé al Señor, y él me respondió. Líbrame, Señor, de los labios mentirosos, de la lengua traidora. ¿Qué te va a dar o mandarte Dios, lengua traidora?",
+     "es": "En mi aflicción llamé al Señor, y él me respondió. Líbrame, Señor, de los labios mentirosos, de la lengua traidora. ¿Qué te va a dar o mandarte Dios, lengua traidora? Flechas de arquero, afiladas con ascuas de retama. ¡Ay de mí, desterrado en Masac, acampado en Cadar! Demasiado llevo viviendo con los que odian la paz. Cuando yo digo: «Paz», ellos dicen: «Guerra». ¡Aleluya!.",
      "cop": "",
-     "ar": "إليكَ ياربُّ صَرَخْتُ في حُزنِي، فاسْتَجَبْتَ لي. ياربُّ نَجِّ نَفْسِي مِنَ الشِّفاهِ الظَّالِمَةِ، ومِنَ اللِّسَانِ الغَاشِّ. مَاذا تُعْطَى، ومَاذا تُزَادُ بإزَاءِ اللِّسانِ الغاشِّ ؟"
-    },
-    {
-     "role": "text",
-     "es": "Flechas de arquero, afiladas con ascuas de retama. ¡Ay de mí, desterrado en Masac , acampado en Cadar !",
-     "cop": "",
-     "ar": "سِهَامُ الأقْوياءِ مُرْهَفَةٌ مَعَ جَمْرِ البَرِّيَّةِ. وَيْلٌ لي فإنَّ غُرْبَتي قَدْ طَالَتْ عَليَّ، وسَكَنتُ في مَساكِنِ قِيدَارَ."
-    },
-    {
-     "role": "text",
-     "es": "Demasiado llevo viviendo con los que odian la paz. Cuando yo digo: «Paz», ellos dicen: «Guerra» ¡Aleluya!",
-     "cop": "",
-     "ar": "طويلاً سَكَنَتْ نَفْسِي في الغُرْبَةِ. ومعَ مُبْغِضِي السَّلامِ، كُنتُ صَاحِبَ سَلامٍ. وحينَ كنتُ أُكلِّمُهُمْ، كانوا يُقاتِلونَني باطِلاً. هلِّلويا"
+     "ar": "إليكَ ياربُّ صَرَخْتُ في حُزنِي، فاسْتَجَبْتَ لي. ياربُّ نَجِّ نَفْسِي مِنَ الشِّفاهِ الظَّالِمَةِ، ومِنَ اللِّسَانِ الغَاشِّ. مَاذا تُعْطَى، ومَاذا تُزَادُ بإزَاءِ اللِّسانِ الغاشِّ؟ سِهَامُ الأقْوياءِ مُرْهَفَةٌ مَعَ جَمْرِ البَرِّيَّةِ. وَيْلٌ لي فإنَّ غُرْبَتي قَدْ طَالَتْ عَليَّ، وسَكَنتُ في مَساكِنِ قِيدَارَ. طويلاً سَكَنَتْ نَفْسِي في الغُرْبَةِ. ومعَ مُبْغِضِي السَّلامِ، كُنتُ صَاحِبَ سَلامٍ. وحينَ كنتُ أُكلِّمُهُمْ، كانوا يُقاتِلونَني باطِلاً. هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 120",
-    "ar": "مزمور ١٢٠",
+    "ar": "المزمور ١٢٠",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Levanto mis ojos a los montes:¿de dónde me vendrá el auxilio? El auxilio me viene del Señor, que hizo el cielo y la tierra. No permitirá que resbale tu pie, tu guardián no duerme;",
+     "es": "Levanto mis ojos a los montes:¿de dónde me vendrá el auxilio? El auxilio me viene del Señor, que hizo el cielo y la tierra. No permitirá que resbale tu pie, tu guardián no duerme; no duerme ni reposa el guardián de Israel. El Señor te guarda a su sombra, está a tu derecha; de día el sol no te hará daño, ni la luna de noche.",
      "cop": "",
-     "ar": "رَفعتُ عَيْنَيَّ إلى الجِبالِ، مِنْ حَيْثُ يَأتِي عَوْنِي. مَعُونَتِي مِنْ عِنْدِ الرَّبِّ، الذي صَنَعَ السَّمَاءَ والأرْضَ. لا يُسَلِّمُ رِجْلَكَ للزَّلَلِ. فما يَنعَسُ حَافِظُكَ."
+     "ar": "رَفعتُ عَيْنَيَّ إلى الجِبالِ، مِنْ حَيْثُ يَأتِي عَوْنِي. مَعُونَتِي مِنْ عِنْدِ الرَّبِّ، الذي صَنَعَ السَّمَاءَ والأرْضَ. لا يُسَلِّمُ رِجْلَكَ للزَّلَلِ. فما يَنعَسُ حَافِظُكَ. هوذا لا يَنعَسُ ولا يَنَامُ حارِسُ إسرائيلَ. الرَّبُّ يَحفَظُكَ. الرَّبُّ يُظَلِّلُ على يَدِكَ اليُمْنَى. فَلا تَحْرِقُكَ الشَّمْسُ بالنَّهَارِ، ولا القَمَرُ باللَّيلِ."
     },
     {
      "role": "text",
-     "es": "no duerme ni reposa el guardián de Israel . El Señor te guarda a su sombra, está a tu derecha; de día el sol no te hará daño, ni la luna de noche.",
+     "es": "El Señor te guarda de todo mal, él guarda tu alma; el Señor guarda tus entradas y salidas, ahora y por siempre. ¡Aleluya!.",
      "cop": "",
-     "ar": "هوذا لا يَنعَسُ ولا يَنَامُ حارِسُ إسرائيلَ. الرَّبُّ يَحفَظُكَ. الرَّبُّ يُظَلِّلُ على يَدِكَ اليُمْنَى، فَلا تَحْرِقُكَ الشَّمْسُ بالنَّهَارِ، ولا القَمَرُ باللَّيلِ."
-    },
-    {
-     "role": "text",
-     "es": "El Señor te guarda de todo mal, él guarda tu alma; el Señor guarda tus entradas y salidas, ahora y por siempre ¡Aleluya!",
-     "cop": "",
-     "ar": "الرَّبُّ يَحْفَظُكَ مِنْ كُلِّ سوءٍ. الرَّبُّ يَحفَظُ نَفْسَكَ. الرَّبُّ يَحفَظُ دُخُولَكَ وخُرُوجَكَ. مِنَ الآنَ وإلى الدَّهْرِ. هلِّلويا"
+     "ar": "الرَّبُّ يَحْفَظُكَ مِنْ كُلِّ سوءٍ. الرَّبُّ يَحفَظُ نَفْسَكَ. الرَّبُّ يَحفَظُ دُخُولَكَ وخُرُوجَكَ. مِنَ الآنَ وإلى الدَّهْرِ. هلِّلويا."
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 121",
-    "ar": "مزمور ١٢١",
+    "ar": "المزمور ١٢١",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Qué alegría cuando me dijeron: «Vamos a la casa del Señor»! Ya están pisando nuestros pies tus umbrales, Jerusalén. Jerusalén está fundada como ciudad bien compacta .",
+     "es": "Qué alegría cuando me dijeron: «Vamos a la casa del Señor»! Ya están pisando nuestros pies tus umbrales, Jerusalén. Jerusalén está fundada como ciudad bien compacta. Allá suben las tribus, las tribus del Señor, según la costumbre de Israel, a celebrar el nombre del Señor; en ella están los tribunales de justicia, en el palacio de David. Desead la paz a Jerusalén: «Vivan seguros los que te aman, haya paz dentro de tus muros, seguridad en tus palacios». Por mis hermanos y compañeros, voy a decir: «La paz contigo». Por la casa del Señor, nuestro Dios, te deseo todo bien. ¡Aleluya!.",
      "cop": "",
-     "ar": "فَرِحْتُ بِالقَائِلينَ لي إلى بَيْتِ الرَّبِّ نَذهَبُ. وَقفَتْ أرْجُلُنَا في دِيارِ أورُشَلِيمَ. أورُشلِيمَ المَبْنِيَّةَ مِثْلَ مَدينةٍ مُتَّصِلةٍ بَعضِها ببَعضٍ."
-    },
-    {
-     "role": "text",
-     "es": "Allá suben las tribus, las tribus del Señor, según la costumbre de Israel, a celebrar el nombre del Señor; en ella están los tribunales de justicia, en el palacio de David.",
-     "cop": "",
-     "ar": "لأنَّ هُناكَ صَعِدَتِ القَبائِلُ، قَبائلُ الرَّبِّ شَهَادَةً لإسرائِيلَ. يَعترِفونَ لاِسْمِ الرَّبِّ. هُناكَ نُصِبَتْ كَراسِيُّ للقَضَاءِ، كَرَاسِيُّ بَيْتِ دَاودَ."
-    },
-    {
-     "role": "text",
-     "es": "Desead la paz a Jerusalén: «Vivan seguros los que te aman, haya paz dentro de tus muros, seguridad en tus palacios».",
-     "cop": "",
-     "ar": "اسْألي عَنْ آلِ سلامَتِكِ يا أورشليمُ، والخِصْبُ لِمُحبِّيكِ. ليَكُنْ السَّلامُ في حِصْنِكِ، والخِصْبُ في أَبْرَاجِكِ الرَّصينَةِ."
-    },
-    {
-     "role": "text",
-     "es": "Por mis hermanos y compañeros, voy a decir: «La paz contigo». Por la casa del Señor, nuestro Dios, te deseo todo bien ¡Aleluya!",
-     "cop": "",
-     "ar": "مِنْ أجْلِ إخْوَتِي وأقرِبائِي، تَكَلَّمْتُ مِنْ أجْلِكِ بالسَّلامِ. ومِنْ أجْلِ بَيْتِ الرَّبِّ إلهِنَا التَمَسْتُ لكِ الخَيْراتِ. هلِّلويا"
+     "ar": "فَرِحْتُ بِالقَائِلينَ لي إلى بَيْتِ الرَّبِّ نَذهَبُ. وَقفَتْ أرْجُلُنَا في دِيارِ أورُشَلِيمَ. أورُشلِيمَ المَبْنِيَّةَ مِثْلَ مَدينةٍ مُتَّصِلةٍ بَعضِها ببَعضٍ. لأنَّ هُناكَ صَعِدَتِ القَبائِلُ، قَبائلُ الرَّبِّ شَهَادَةً لإسرائِيلَ. يَعترِفونَ لاِسْمِ الرَّبِّ. هُناكَ نُصِبَتْ كَراسِيُّ للقَضَاءِ، كَرَاسِيُّ بَيْتِ دَاودَ. اسْألي عَنْ آلِ سلامَتِكِ يا أورشليمُ، والخِصْبُ لِمُحبِّيكِ. ليَكُنْ السَّلامُ في حِصْنِكِ، والخِصْبُ في أَبْرَاجِكِ الرَّصينَةِ. مِنْ أجْلِ إخْوَتِي وأقرِبائِي، تَكَلَّمْتُ مِنْ أجْلِكِ بالسَّلامِ. ومِنْ أجْلِ بَيْتِ الرَّبِّ إلهِنَا التَمَسْتُ لكِ الخَيْراتِ.هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 122",
-    "ar": "مزمور ١٢٢",
+    "ar": "المزمور ١٢٢",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "A ti levanto mis ojos, a ti que habitas en el cielo . Como están los ojos de los esclavos fijos en las manos de sus señores, como están los ojos de la esclava fijos en las manos de su señora, así están nuestros ojos en el Señor, Dios nuestro, esperando su misericordia.",
+     "es": "A ti levanto mis ojos, a ti que habitas en el cielo.",
      "cop": "",
-     "ar": "إليكَ رَفَعْتُ عَيْنَيَّ يا سَاكِنَ السَّماءِ، فها هُما مِثْلَ عُيُونِ العَبِيدِ إلى أيْدِي مَوَالِيهم، ومِثْلَ عَيْنَي الأمَةِ  إلى يَدَي سَيِّدَتِهَا."
+     "ar": "إليكَ رَفَعْتُ عَيْنَيَّ يا سَاكِنَ السَّماءِ، فها هُما مِثْلَ عُيُونِ العَبِيدِ إلى أيْدِي مَوَالِيهم، ومِثْلَ عَيْنَي الأمَةِ إلى يَدَي سَيِّدَتِهَا."
     },
     {
      "role": "text",
-     "es": "Misericordia, Señor, misericordia, que estamos saciados de desprecios;",
+     "es": "Como están los ojos de los esclavos fijos en las manos de sus señores, como están los ojos de la esclava fijos en las manos de su señora, así están nuestros ojos en el Señor, Dios nuestro,",
      "cop": "",
-     "ar": "كذلكَ أعْيُننَا نَحوَ الرَّبِّ إلهِنَا حَتَّى يَتَرَأَّفَ عَلينَا. ارْحَمْنَا ياربُّ ارْحَمْنَا، فإنَّنا كثيراً ما امتَلأنَا هَوَاناً، وكثِيراً ما امْتَلأتْ نفوسُنا."
+     "ar": "كذلكَ أعْيُننَا نَحوَ الرَّبِّ إلهِنَا"
     },
     {
      "role": "text",
-     "es": "nuestra alma está saciada del sarcasmo de los satisfechos, del desprecio de los orgullosos ¡Aleluya!",
+     "es": "esperando su misericordia. Misericordia, Señor, misericordia, que estamos saciados de desprecios; nuestra alma está saciada del sarcasmo de los satisfechos, del desprecio de los orgullosos. ¡Aleluya!.",
      "cop": "",
-     "ar": "العارُ ارْدُدْهُ على المُخْصِبِينَ، والهوانُ على المُتعَظِّمِينَ. هلِّلويا"
+     "ar": "حَتَّى يَتَرَأَّفَ عَلينَا. ارْحَمْنَا ياربُّ ارْحَمْنَا، فإنَّنا كثيراً ما امتَلأنَا هَوَاناً، وكثِيراً ما امْتَلأتْ نفوسُنا. العارُ ارْدُدْهُ على المُخْصِبِينَ، والهوانُ على المُتعَظِّمِينَ.هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 123",
-    "ar": "مزمور ١٢٣",
+    "ar": "المزمور ١٢٣",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Si el Señor no hubiera estado de nuestra parte que lo diga Israel, si el Señor no hubiera estado de nuestra parte, cuando nos asaltaban los hombres, nos habrían tragado vivos: tanto ardía su ira contra nosotros.",
+     "es": "Si el Señor no hubiera estado de nuestra parte que lo diga Israel, si el Señor no hubiera estado de nuestra parte, cuando nos asaltaban los hombres, nos habrían tragado vivos:",
      "cop": "",
-     "ar": "لَولاَ أنَّ الرَّبَّ كانَ معنا عِندَمَا قَامَ النَّاسُ عَلينَا، لابْتَلَعُونَا ونَحنُ أحْياءٌ عِنْدَ سَخْطِ غَضَبِهمْ عَلينَا. إذاً لَغَرِقْنا في الماءِ، وعَبَرَتْ نُفوسُنا السَّيلَ."
+     "ar": "لَولاَ أنَّ الرَّبَّ كانَ معنا، لِيَقُلْ إسْرائيلُ:"
     },
     {
      "role": "text",
-     "es": "Nos habrían arrollado las aguas, llegándonos el torrente hasta el cuello; nos habrían llegado hasta el cuello las aguas impetuosas .Bendito el Señor, que no nos entregó en presa a sus dientes ;",
+     "es": "tanto ardía su ira contra nosotros.",
      "cop": "",
-     "ar": "أَتُرَى جَازَتْ نُفوسُنا الماءَ الذي لا نهايَةَ لهُ. مُبَارَكٌ الرَّبُّ الذي لمْ يُسْلِمْنَا فَريسَةً لأسنَانِهِمْ. نَجَتْ أنفُسُنَا مِثْلَ العُصْفُورِ مِنْ فَخِّ الصَّيَّادِينَ."
+     "ar": "لَولاَ أنَّ الرَّبَّ كانَ معنا عِندَمَا قَامَ النَّاسُ عَلينَا، لابْتَلَعُونَا و نَحنُ أحْياءٌ،عِنْدَ سَخْطِ غَضَبِهمْ عَلينَا."
     },
     {
      "role": "text",
-     "es": "hemos salvado la vida, como un pájaro de la trampa del cazador: la trampa se rompió, y escapamos. Nuestro auxilio es el nombre del Señor, que hizo el cielo y la tierra ¡Aleluya!",
+     "es": "Nos habrían arrollado las aguas, llegándonos el torrente hasta el cuello;",
      "cop": "",
-     "ar": "الفَخُّ انكَسَرَ، ونَحنُ نَجَوْنَا. عَونُنَا بِاسْمِ الرَّبِّ الذي صَنَعَ السَّماءَ والأرْضَ. هلِّلويا"
+     "ar": "إذاً لَغَرِقْنا في الماءِ، وعَبَرَتْ نُفوسُنا السَّيلَ."
+    },
+    {
+     "role": "text",
+     "es": "nos habrían llegado hasta el cuello las aguas impetuosas.Bendito el Señor, que no nos entregó en presa a sus dientes;",
+     "cop": "",
+     "ar": "أَتُرَى جَازَتْ نُفوسُنا الماءَ الذي لا نهايَةَ لهُ."
+    },
+    {
+     "role": "text",
+     "es": "hemos salvado la vida, como un pájaro de la trampa del cazador:",
+     "cop": "",
+     "ar": "مُبَارَكٌ الرَّبُّ الذي لمْ يُسْلِمْنَا فَريسَةً لأسنَانِهِمْ."
+    },
+    {
+     "role": "text",
+     "es": "la trampa se rompió, y escapamos.",
+     "cop": "",
+     "ar": "نَجَتْ أنفُسُنَا مِثْلَ العُصْفُورِ مِنْ فَخِّ الصَّيَّادِينَ."
+    },
+    {
+     "role": "text",
+     "es": "Nuestro auxilio es el nombre del Señor, que hizo el cielo y la tierra.",
+     "cop": "",
+     "ar": "الفَخُّ انكَسَرَ، ونَحنُ نَجَوْنَا."
+    },
+    {
+     "role": "text",
+     "es": "¡Aleluya!.",
+     "cop": "",
+     "ar": "عَونُنَا بِاسْمِ الرَّبِّ الذي صَنَعَ السَّماءَ والأرْضَ.هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 124",
-    "ar": "مزمور ١٢٤",
+    "ar": "المزمور ١٢٤",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Los que confían en el Señor son como el monte Sión: no tiembla, está asentado para siempre. Jerusalén está rodeada de montañas, y el Señor rodea a su pueblo ahora y por siempre.",
+     "es": "Los que confían en el Señor son como el monte Sión:",
      "cop": "",
-     "ar": "المُتَوَكِّلونَ عَلى الرَّبِّ مِثْلُ جَبَلِ صِهْيَونَ، لا يَزولُ إلى الأبَدِ، السَّاكِنُ بأورشَليمَ. الجِبَالُ حَوْلَهَا، والرَّبُّ حَولَ شَعْبِهِ، مِنَ الآنَ وإلى الأبَدِ."
+     "ar": "المُتَوَكِّلونَ عَلى الرَّبِّ مِثْلُ جَبَلِ صِهْيَونَ،لا يَزولُ إلى الأبَدِ."
     },
     {
      "role": "text",
-     "es": "No descansará el cetro de los malvados sobre el lote de los justos, no sea que los justos extiendan su mano a la maldad. Señor, concede bienes a los buenos, a los sinceros de corazón;",
+     "es": "no tiembla, está asentado para siempre.",
      "cop": "",
-     "ar": "الرَّبُّ لا يَتركُ عَصَا الخُطاةِ تَستَقِرُّ على نَصِيبِ الصِّدِّيقِينَ، لكيْ لا يَمُدَّ الصِّدِّيقونَ أَيدِيَهُمْ إلى الإثْمِ. أحْسِنْ يَاربُّ إلى الصَّالِحِينَ، وإلى المُستَقِيمِي القُلوبِ."
+     "ar": "السَّاكِنُ بأورشَليمَ."
     },
     {
      "role": "text",
-     "es": "y a los que se desvían por sendas tortuosas, que los rechace el Señor con los malhechores. ¡Paz a Israel! ¡Aleluya!",
+     "es": "Jerusalén está rodeada de montañas, y el Señor rodea a su pueblo ahora y por siempre.",
      "cop": "",
-     "ar": "أمَّا الذينَ يَمِيلُونَ إلى العَثَراتِ يَنْزِعُهُم الرَّبُّ مَعَ فَعَلَةِ الإثْمِ. والسَّلامُ على إسْرَائِيلَ. هلِّلويا"
+     "ar": "الجِبَالُ حَوْلَهَا، والرَّبُّ حَولَ شَعْبِهِ، مِنَ الآنَ وإلى الأبَدِ."
+    },
+    {
+     "role": "text",
+     "es": "No descansará el cetro de los malvados sobre el lote de los justos, no sea que los justos extiendan su mano a la maldad.",
+     "cop": "",
+     "ar": "الرَّبُّ لا يَتركُ عَصَا الخُطاةِ تَستَقِرُّ على نَصِيبِ الصِّدِّيقِينَ، لكيْ لا يَمُدَّ الصِّدِّيقونَ أَيدِيَهُمْ إلى الإثْمِ."
+    },
+    {
+     "role": "text",
+     "es": "Señor, concede bienes a los buenos, a los sinceros de corazón;",
+     "cop": "",
+     "ar": "أحْسِنْ يَاربُّ إلى الصَّالِحِينَ، وإلى المُستَقِيمِي القُلوبِ."
+    },
+    {
+     "role": "text",
+     "es": "y a los que se desvían por sendas tortuosas, que los rechace el Señor con los malhechores.",
+     "cop": "",
+     "ar": "أمَّا الذينَ يَمِيلُونَ إلى العَثَراتِ يَنْزِعُهُم الرَّبُّ مَعَ فَعَلَةِ الإثْمِ."
+    },
+    {
+     "role": "text",
+     "es": "¡Paz a Israel!",
+     "cop": "",
+     "ar": "والسَّلامُ على إسْرَائِيلَ."
+    },
+    {
+     "role": "text",
+     "es": "¡Aleluya!",
+     "cop": "",
+     "ar": "هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 125",
-    "ar": "مزمور ١٢٥",
+    "ar": "المزمور ١٢٥",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Cuando el Señor hizo volver a los cautivos de Sión, nos parecía soñar: la boca se nos llenaba de risas, la lengua de cantares. Hasta los gentiles decían: «El Señor ha estado grande con ellos».",
+     "es": "Cuando el Señor hizo volver a los cautivos de Sión, nos parecía soñar: la boca se nos llenaba de risas, la lengua de cantares. Hasta los gentiles decían: «El Señor ha estado grande con ellos». El Señor ha estado grande con nosotros, y estamos alegres. Recoge, Señor, a nuestros cautivos como los torrentes del Negueb. Los que sembraban con lágrimas cosechan entre cantares. Al ir, iba llorando, llevando la semilla; al volver, vuelve cantando, trayendo sus gavillas. ¡Aleluya!",
      "cop": "",
-     "ar": "إذا ما رَدَّ الرَّبُّ سَبْيَ صِهيَونَ، صِرْنَا مِثْلَ المُتعزِّيِّينَ. حِينَئِذٍ امْتَلأ فَمُنَا فَرَحاً، ولِسَانُنَا تَهليلاً. حِينَئِذٍ يُقالُ في الأُمَمِ: إنَّ الرَّبَّ قَدْ عَظَّمَ الصَّنيعَ مَعهُمْ."
-    },
-    {
-     "role": "text",
-     "es": "El Señor ha estado grande con nosotros, y estamos alegres. Recoge, Señor, a nuestros cautivos como los torrentes del Negueb .",
-     "cop": "",
-     "ar": "عَظَّمَ الرَّبُّ الصَّنيعَ مَعنَا فَصِرْنَا فَرِحِينَ. ارْدُدْ يَاربُّ سَبْيَنا، مِثْلَ السُّيولِ في الجَنُوبِ. الذِينَ يَزرَعُونَ بالدُّمُوعِ يَحْصُدُونَ بِالاِبتِهَاجِ."
-    },
-    {
-     "role": "text",
-     "es": "Los que sembraban con lágrimas cosechan entre cantares . Al ir, iba llorando, llevando la semilla; al volver, vuelve cantando, trayendo sus gavillas ¡Aleluya!",
-     "cop": "",
-     "ar": "سَيْراً كانوا يَسِيرونَ، وهُمْ بَاكونَ حَامِلِينَ بِذارَهُمْ، ويَعودونَ بالفَرَحِ حَامِلِينَ أغْمارَهُمْ. هلِّلويا"
+     "ar": "إذا ما رَدَّ الرَّبُّ سَبْيَ صِهيَونَ، صِرْنَا مِثْلَ المُتعزِّيِّينَ. حِينَئِذٍ امْتَلأ فَمُنَا فَرَحاً، ولِسَانُنَا تَهليلاً. حِينَئِذٍ يُقالُ في الأُمَمِ: إنَّ الرَّبَّ قَدْ عَظَّمَ الصَّنيعَ مَعهُمْ. عَظَّمَ الرَّبُّ الصَّنيعَ مَعنَا فَصِرْنَا فَرِحِينَ. ارْدُدْ يَاربُّ سَبْيَنا مِثْلَ السُّيولِ في الجَنُوبِ. الذِينَ يَزرَعُونَ بالدُّمُوعِ يَحْصُدُونَ بِالاِبتِهَاجِ. سَيْراً كانوا يَسِيرونَ، وهُمْ بَاكونَ حَامِلِينَ بِذارَهُمْ، ويَعودونَ بالفَرَحِ حَامِلِينَ أغْمارَهُمْ. هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 126",
-    "ar": "مزمور ١٢٦",
+    "ar": "المزمور ١٢٦",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Si el Señor no construye la casa, en vano se cansan los albañiles; si el Señor no guarda la ciudad, en vano vigilan los centinelas. Es inútil que madruguéis, que veléis hasta muy tarde, que comáis el pan de vuestros sudores:",
+     "es": "Si el Señor no construye la casa, en vano se cansan los albañiles;",
      "cop": "",
-     "ar": "لَمْ يَبْنِ الرَّبُّ البَيْتَ فَبَاطِلاً تَعِبَ البَنَّاؤُونَ، وإنْ لَمْ يَحرُسْ الرَّبُّ المَدِينَةَ فَبَاطِلاً سَهِرَ الحُرَّاسُ. بَاطِلٌ هو لكُمْ التَّبكيرُ. انهَضُوا مِنْ بَعْدِ جُلُوسِكُم يا آكِلِي الخُبْزَ بالهُمومِ."
+     "ar": "إنْ لَمْ يَبْنِ الرَّبُّ البَيْتَ فَبَاطِلاً تَعِبَ البَنَّاؤُونَ، وإنْ لَمْ يَحرُسْ الرَّبُّ المَدِينَةَ فَبَاطِلاً سَهِرَ الحُرَّاسُ."
     },
     {
      "role": "text",
-     "es": "¡Dios lo da a sus amigos mientras duermen! La herencia que da el Señor son los hijos; su salario, el fruto del vientre: son saetas en manos de un guerrero los hijos de la juventud.",
+     "es": "si el Señor no guarda la ciudad, en vano vigilan los centinelas.",
      "cop": "",
-     "ar": "فإنَّهُ يَمنَحُ أحِبَّاءَهُ نَوماً. البَنُونَ مِيرَاثٌ مِنَ الرَّبِّ، أُجرَةُ ثَمَرَةِ البَطْنِ. كالسِّهامِ بِيَدِ القَويُّ، كذلكَ أبنَاءُ المُتيقِّظِينَ."
+     "ar": "بَاطِلٌ هو لكُمْ التَّبكيرُ."
     },
     {
      "role": "text",
-     "es": "Dichoso el hombre que llena con ellas su aljaba: no quedará derrotado cuando litigue con su adversario en la plaza ¡Aleluya!",
+     "es": "Es inútil que madruguéis, que veléis hasta muy tarde, que comáis el pan de vuestros",
      "cop": "",
-     "ar": "مَغبوطٌ هو الرَّجُلُ الذي يَملأُ جَعْبَتَهُ مِنهُمْ. حِينَئِذٍ لا يَخْزَوْنَ إذا كَلَّموا أعْداءَهُمْ في الأبْوابِ. هلِّلويا"
+     "ar": "انهَضُوا مِنْ بَعْدِ جُلُوسِكُم يا آكِلِي الخُبْزَ بالهُمومِ."
+    },
+    {
+     "role": "text",
+     "es": "sudores: ¡Dios lo da a sus amigos mientras duermen! La herencia que da el Señor son los hijos; su salario, el fruto del vientre: son saetas en manos de un guerrero los hijos de la juventud. Dichoso el hombre que llena con ellas su aljaba: no quedará derrotado cuando litigue con su adversario en la plaza. ¡Aleluya!",
+     "cop": "",
+     "ar": "فإنَّهُ يَمنَحُ أحِبَّاءَهُ نَوماً. البَنُونَ مِيرَاثٌ مِنَ الرَّبِّ، أُجرَةُ ثَمَرَةِ البَطْنِ. كالسِّهامِ بِيَدِ القَويُّ، كذلكَ أبنَاءُ المُتيقِّظِينَ.مَغبوطٌ هو الرَّجُلُ الذي يَملأُ جَعْبَتَهُ مِنهُمْ. حِينَئِذٍ لا يَخْزَوْنَ إذا كَلَّموا أعْداءَهُمْ في الأبْوابِ. هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 127",
-    "ar": "مزمور ١٢٧",
+    "ar": "المزمور ١٢٧",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Dichoso el que teme al Señor y sigue sus caminos. Comerás del fruto de tu trabajo, serás dichoso, te irá bien; tu mujer, como parra fecunda, en medio de tu casa;",
+     "es": "Dichoso el que teme al Señor y sigue sus caminos.",
      "cop": "",
-     "ar": "طُوبَى لجَميعِ الذينَ يَتَّقُونَ الرَّبَّ، السَّالِكِينَ في طُرُقِهِ. تأكُلُ مِنْ ثَمَرَةِ أتْعَابِكَ. تَصِيرُ مَغْبوطاً ويَكونُ لكَ الخَيرُ. امْرَأتُكَ تَصِيرُ مِثْلَ كَرْمَةٍ مُخْصِبَةٍ في جَوَانِبِ بَيْتِكَ."
+     "ar": "طُوبَى لجَميعِ الذينَ يَتَّقُونَ الرَّبَّ، السَّالِكِينَ في طُرُقِهِ."
     },
     {
      "role": "text",
-     "es": "tus hijos, como renuevos de olivo, alrededor de tu mesa: Esta es la bendición del hombre que teme al Señor . Que el Señor te bendiga desde Sión, que veas la prosperidad de Jerusalén todos los días de tu vida;",
+     "es": "Comerás del fruto de tu trabajo, serás dichoso, te irá bien;",
      "cop": "",
-     "ar": "بَنُوكَ مِثْلُ غُرُوسِ الزَّيتُونِ الجُدُدِ حَوْلَ مَائِدَتِكَ. هكَذَا يُبَارَكُ الإنْسانُ المُتَّقِي الرَّبَّ."
+     "ar": "تأكُلُ مِنْ ثَمَرَةِ أتْعَابِكَ."
     },
     {
      "role": "text",
-     "es": "que veas a los hijos de tus hijos. ¡Paz a Israel! ¡Aleluya!",
+     "es": "tu mujer, como parra fecunda, en medio de tu casa;",
      "cop": "",
-     "ar": "يُبَارِكُكَ الرَّبُّ مِنْ صِهْيَونَ، وتُبْصِرُ خَيْراتِ أورُشَلِيمَ جَمِيعَ أيَّامِ حَيَاتِكَ، وتَرَى بَنِي بَنِيكَ. والسَّلامُ على إسْرَائِيلَ. هلِّلويا"
+     "ar": "تَصِيرُ مَغْبوطاً ويَكونُ لكَ الخَيرُ."
+    },
+    {
+     "role": "text",
+     "es": "tus hijos, como renuevos de olivo, alrededor de tu mesa:",
+     "cop": "",
+     "ar": "امْرَأتُكَ تَصِيرُ مِثْلَ كَرْمَةٍ مُخْصِبَةٍ في جَوَانِبِ بَيْتِكَ."
+    },
+    {
+     "role": "text",
+     "es": "Esta es la bendición del hombre que teme al Señor.",
+     "cop": "",
+     "ar": "بَنُوكَ مِثْلُ غُرُوسِ الزَّيتُونِ الجُدُدِ حَوْلَ مَائِدَتِكَ.هكَذَا يُبَارَكُ الإنْسانُ المُتَّقِي الرَّبَّ."
+    },
+    {
+     "role": "text",
+     "es": "Que el Señor te bendiga desde Sión, que veas la prosperidad de Jerusalén todos los días de tu vida;",
+     "cop": "",
+     "ar": "يُبَارِكُكَ الرَّبُّ مِنْ صِهْيَونَ."
+    },
+    {
+     "role": "text",
+     "es": "que veas a los hijos de tus hijos.",
+     "cop": "",
+     "ar": "وتُبْصِرُ خَيْراتِ أورُشَلِيمَ جَمِيعَ أيَّامِ حَيَاتِكَ، وتَرَى بَنِي بَنِيكَ."
+    },
+    {
+     "role": "text",
+     "es": "¡Paz a Israel!",
+     "cop": "",
+     "ar": "والسَّلامُ على إسْرَائِيلَ."
+    },
+    {
+     "role": "text",
+     "es": "¡Aleluya!",
+     "cop": "",
+     "ar": "هلِّلويا"
     }
    ]
   },
   {
    "title": {
     "es": "Salmo 128",
-    "ar": "مزمور ١٢٨",
+    "ar": "المزمور ١٢٨",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Cuánta guerra me han hecho desde mi juventud que lo diga Israel, cuánta guerra me han hecho desde mi juventud, pero no pudieron conmigo!",
+     "es": "Cuánta guerra me han hecho desde mi juventud que lo diga Israel, cuánta guerra me han hecho desde mi juventud, pero no pudieron conmigo! En mis espaldas metieron el arado y alargaron los surcos.",
      "cop": "",
-     "ar": "مِرَاراً كثيرةً حَارَبُونِي مُنذُ صِبَايَ. ليَقُلْ إسْرَائيلُ: مِراراً كَثيرةً قاتَلونِي مُنذُ شَبَابِي، وإنَّهُمْ لمْ يَقدِرُوا عليَّ. على ظَهْرِي جَلَدَنِي الخُطاةُ، وأطَالُوا إثْمَهُمْ."
+     "ar": "مِرَاراً كثيرةً حَارَبُونِي مُنذُ صِبَايَ. ليَقُلْ إسْرَائيلُ مِراراً كَثيرةً قاتَلونِي مُنذُ شَبَابِي، وإنَّهُمْ لمْ يَقدِرُوا عليَّ. على ظَهْرِي جَلَدَنِي الخُطاةُ وأطَالُوا إثْمَهُمْ."
     },
     {
      "role": "text",
-     "es": "En mis espaldas metieron el arado y alargaron los surcos. Pero el Señor, que es justo, rompió las coyundas de los malvados. Retrocedan avergonzados los que odian a Sión;",
+     "es": "Pero el Señor, que es justo, rompió las coyundas de los malvados. Retrocedan avergonzados los que odian a Sión; sean como la hierba del tejado, que se seca y nadie la siega; que no llena la mano del segador ni la brazada del que agavilla; ni le dicen los que pasan: «Que el Señor te bendiga. Os bendecimos en el nombre del Señor». ¡Aleluya!",
      "cop": "",
-     "ar": "الرَّبُّ صِدِّيقٌ هو، يَقطَعُ أعْناقَ الخُطاةِ. فَليَخْزَ ولِيَرْتَدَّ إلى الوَرَاءِ كُلُّ الذينَ يُبغِضُونَ صِهْيَونَ."
+     "ar": "الرَّبُّ صِدِّيقٌ هو، يَقطَعُ أعْناقَ الخُطاةِ. فَليَخْزَ ولِيَرْتَدَّ إلى الوَرَاءِ كُلُّ الذينَ يُبغِضُونَ صِهْيَونَ. وليكونُوا مِثْلَ عُشْبِ السُّطُوحِ الذي يَيْبَسُ قَبْلَ أنْ يُقْطَعَ. الذي لَمْ يَمْلأ الحَاصِدُ مِنهُ يَدَهُ، ولا الذي يَجْمَعُ الغُمُورَ حِضْنَهُ. ولَمْ يَقُلْ المُجتازُونَ: إنَّ بَركَةَ الرَّبِّ عَلَيكُم، بَارَكْنَاكُمْ بِاسْمِ الرَّبِّ.هلِّلويا"
     },
     {
-     "role": "text",
-     "es": "sean como la hierba del tejado, que se seca y nadie la siega; que no llena la mano del segador ni la brazada del que agavilla;",
+     "role": "note",
+     "es": "Introducción: Gloria a nuestro Dios. Santo, Santo, Santo. Un capítulo del Evangelio según nuestro maestro, San Lucas el Evangelista. Que su bendición esté sobre nosotros. Amén.",
      "cop": "",
-     "ar": "وليكونُوا مِثْلَ عُشْبِ السُّطُوحِ الذي يَيْبَسُ قَبْلَ أنْ يُقْطَعَ. الذي لَمْ يَمْلأ الحَاصِدُ مِنهُ يَدَهُ، ولا الذي يَجْمَعُ الغُمُورَ حِضْنَهُ."
-    },
-    {
-     "role": "text",
-     "es": "ni le dicen los que pasan: «Que el Señor te bendiga. Os bendecimos en el nombre del Señor» ¡Aleluya!",
-     "cop": "",
-     "ar": "ولَمْ يَقُلْ المُجتازُونَ: إنَّ بَركَةَ الرَّبِّ عَلَيكُم، بَارَكْنَاكُمْ بِاسْمِ الرَّبِّ. هلِّلويا"
+     "ar": "مقدمة المجد لألهنا قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين."
     }
    ]
   },
   {
    "title": {
-    "es": "Evangelio (Lucas 4:38-41)",
-    "ar": "الإنجيل (إنجيل لوقا ص ٤: ٣٨-٤١)",
+    "es": "Evangelio según San Lucas (4:38-41)",
+    "ar": "إنجيل لوقا (٤: ٣٨ – ٤١)",
     "cop": ""
    },
    "rows": [
     {
+     "role": "text",
+     "es": "Al salir Jesús de la sinagoga, entró en la casa de Simón. La suegra de Simón estaba con fiebre muy alta y le rogaron por ella. Él, inclinándose sobre ella, increpó a la fiebre, y se le pasó; ella, levantándose enseguida, se puso a servirles.Al ponerse el sol, todos cuantos tenían enfermos con diversas dolencias se los llevaban, y él, imponiendo las manos sobre cada uno, los iba curando.",
+     "cop": "",
+     "ar": "ثُمَّ قَامَ مِنَ المَجْمَعِ، ودَخَلَ بَيتَ سِمعَانَ.وكانَت حَمَاةُ سِمعَانَ بِحُمَّى شَدِيدَةٍ. فَسَأَلُوهُ مِنْ أَجْلِهَا. فَوَقَفَ فَوقاً مِنها، وزَجَرَالحُمَّى، فَتَرَكَتْهَا.وفي الحَالِ قَامَتْ وخَدَمَتْهُمْ. وعِنْدَ غُرُوبِ الشَّمسِ كانَ كُلُّ الذينَ عِندَهُمْ مَرضَى، بأنواعِ أمراضٍ كثيرةٍ، يُقَدِّمونَهُمْ إليهِ. أمَّا هو فكانَ يَضَعُ يَدَيْهِ على كُلِّ واحِدٍ مِنْهُمْ فَيشْفِيهِمْ."
+    },
+    {
+     "role": "text",
+     "es": "De muchos de ellos salían también demonios, que gritaban y decían: «Tú eres el Hijo de Dios». Los increpaba y no les dejaba hablar, porque sabían que él era el Mesías. Gloria a Dios para siempre",
+     "cop": "",
+     "ar": "وكانَتِ الشَّيَاطِينُ تَخرُجُ مِنْ كَثِيرينَ، وهيَ صَارِخَةٌ تَقولُ: أنتَ هو المسِيحُ ابنُ اللَّهِ. فكانَ يَنْتَهِرُهُمْ، ولا يَدَعُهُمْ يَنطِقُونَ. لأنَّهُمْ كانوا قَدْ عَرَفُوهُ أنَّهُ هو المَسِيحُ \". (والمَجدُ لِلَّهِ دائماً)"
+    },
+    {
      "role": "note",
-     "es": "Gloria a nuestro Dios. Santo, Santo, Santo. Un capítulo del Evangelio según nuestro maestro, San Lucas el Evangelista. Que su bendición esté sobre nosotros. Amén.",
+     "es": "Que se cumpla en paz la palabra de Dios. Nos postramos ante Ti, Cristo, junto con tu Padre bueno y el Espíritu Santo porque viniste y nos salvaste. Ten piedad de nosotros.",
      "cop": "",
-     "ar": ""
-    },
-    {
-     "role": "text",
-     "es": "Al salir Jesús de la sinagoga, entró en la casa de Simón. La suegra de Simón estaba con fiebre muy alta y le rogaron por ella. Él, inclinándose sobre ella, increpó a la fiebre, y se le pasó;",
-     "cop": "",
-     "ar": "قَامَ مِنَ المَجْمَعِ، ودَخَلَ بَيتَ سِمعَانَ. وكانَت حَمَاةُ سِمعَانَ بِحُمَّى شَدِيدَةٍ. فَسَأَلُوهُ مِنْ أَجْلِهَا. فَوَقَفَ فَوقاً مِنها، وزَجَرَ الحُمَّى، فَتَرَكَتْهَا."
-    },
-    {
-     "role": "text",
-     "es": "ella, levantándose enseguida, se puso a servirles .Al ponerse el sol, todos cuantos tenían enfermos con diversas dolencias se los llevaban, y él, imponiendo las manos sobre cada uno, los iba curando.",
-     "cop": "",
-     "ar": "وفي الحَالِ قَامَتْ وخَدَمَتْهُمْ. وعِنْدَ غُرُوبِ الشَّمسِ كانَ كُلُّ الذينَ عِندَهُمْ مَرضَى، بأنواعِ أمراضٍ كثيرةٍ، يُقَدِّمونَهُمْ إليهِ."
-    },
-    {
-     "role": "text",
-     "es": "De muchos de ellos salían también demonios, que gritaban y decían: «Tú eres el Hijo de Dios». Los increpaba y no les dejaba hablar, porque sabían que él era el Mesías. Gloria a Dios para siempre Que se cumpla en paz la palabra de Dios.",
-     "cop": "",
-     "ar": "أمَّا هو فكانَ يَضَعُ يَدَيْهِ على كُلِّ واحِدٍ مِنْهُمْ فَيشْفِيهِمْ. وكانَتِ الشَّيَاطِينُ تَخرُجُ مِنْ كَثِيرينَ، وهيَ صَارِخَةٌ تَقولُ: أنتَ هو المسِيحُ ابنُ اللَّهِ."
-    },
-    {
-     "role": "text",
-     "es": "Nos postramos ante Ti, Cristo, junto con tu Padre bueno y el Espíritu Santo porque viniste y nos salvaste. Ten piedad de nosotros.",
-     "cop": "",
-     "ar": "فكانَ يَنْتَهِرُهُمْ ولا يَدَعُهُمْ يَنطِقُونَ؛ لأنَّهُمْ كانوا قَدْ عَرَفُوهُ أنَّهُ هو المَسِيحُ \". ( والمَجدُ لِلَّهِ دائماً )"
+     "ar": "ليكمل قول الله بسلام نسجد لك أيها المسيح، مع أبيك الصالح والروح القدس، لأنك أتيت وخلصتنا. إرحمنا"
     }
    ]
   },
@@ -633,109 +570,100 @@
    },
    "rows": [
     {
-     "role": "text",
-     "es": "Si el recto se salva con esfuerzo ¿Dónde voy yo que soy pecador? La pesadez y el calor del día no los soporto por causa de la debilidad de mi humanidad, pero Tú Dios misericordioso reúneme junto con los seguidores de la undécima hora, porque nací en iniquidades, y en pecados me concibió mi madre .",
+     "role": "note",
+     "es": "Se rezan las siguientes letanías:",
      "cop": "",
-     "ar": "إذا كانَ الصِّدِّيقُ بالجَهْدِ يَخلُصُ، فأينَ أظهرُ أنا الخَاطِئَ ؟! ثِقَلَ النَّهارِ وحَرَّهُ لَمْ أحتَمِلْ لضَعفِ بَشَرِيَّتِي. لكنْ أنتَ يا اللَّهُ الرَّحومُ احْسِبْنِي مَعَ أصْحَابِ السَّاعَةِ الحَاديَةِ عشَرةِ؛"
+     "ar": "ثم يقول المصلي:"
     },
     {
      "role": "text",
-     "es": "No me atrevo a mirar a lo alto del cielo, pero dependo de la grandeza de tu misericordia y de tu amor al ser humano proclamando y diciendo:",
+     "es": "Si el recto se salva con esfuerzo ¿Dónde voy yo que soy pecador? La pesadez y el calor del día no los soporto por causa de la debilidad de mi humanidad, pero Tú Dios misericordioso reúneme junto con los seguidores de la undécima hora, porque nací en iniquidades, y en pecados me concibió mi madre. No me atrevo a mirar a lo alto del cielo, pero dependo de la grandeza de tu misericordia y de tu amor al ser humano proclamando y diciendo: “Oh Dios perdóname que soy pecador y ten piedad de mi”.",
      "cop": "",
-     "ar": "لأنِّي هَأَنَذَا بالآثامِ حُبِلَ بِي، وبالخَطايَا اشتَهتنِي أُمِّي. فمَا أجْسُرُ أنْ أنظُرَ إلى عُلُوِّ السَّماءِ، لكنِّي أتَّكِلُ على غِنَى رَحْمَتِكَ ومَحبَّتِكَ للبَشَرِيَّةِ، صَارِخاً قائلاً:"
-    },
-    {
-     "role": "text",
-     "es": "“Oh Dios perdóname que soy pecador y ten piedad de mi”.",
-     "cop": "",
-     "ar": "اللَّهُمَّ اغفِرْ لي أنا الخاطِئ، وارْحَمْنِي."
+     "ar": "إذا كانَ الصِّدِّيقُ بالجَهْدِ يَخلُصُ، فأينَ أظهرُ أنا الخَاطِئَ؟! ثِقَلَ النَّهارِ وحَرَّهُ لَمْ أحتَمِلْ لضَعفِ بَشَرِيَّتِي. لكنْ أنتَ يا اللَّهُ الرَّحومُ احْسِبْنِي مَعَ أصْحَابِ السَّاعَةِ الحَاديَةِ عشَرةِ. لأنِّي هَأَنَذَا بالآثامِ حُبِلَ بِي، وبالخَطايَا اشتَهتنِي أُمِّي. فمَا أجْسُرُ أنْ أنظُرَ إلى عُلُوِّ السَّماءِ، لكنِّي أتَّكِلُ على غِنَى رَحْمَتِكَ ومَحبَّتِكَ للبَشَرِيَّةِ، صَارِخاً قائلاً: اللَّهُمَّ اغفِرْ لي أنا الخاطِئ، وارْحَمْنِي."
     },
     {
      "role": "note",
      "es": "Gloria al Padre, al Hijo y al Espíritu Santo.",
      "cop": "",
-     "ar": "المجد للآب والابن والروح القدس."
+     "ar": "المجد للآب والابن والروح القدس. (ذوكصابترى...)"
     },
     {
      "role": "text",
-     "es": "Oh, Salvador date prisa en abrir los senos paternales, porque yo he perdido mi vida en los placeres y en los deseos, y se me pasó el día.",
+     "es": "Oh, Salvador date prisa en abrir los senos paternales, porque yo he perdido mi vida en los placeres y en los deseos, y se me pasó el día. Y ahora dependo de tu compasión infinita, pues no abandones a un corazón humilde que necesita tu misericordia porque te pido, oh Señor con sumisión: \"Padre, he pecado contra el cielo y ante ti; ya no soy digno de ser llamado hijo tuyo; hazme como uno de tus trabajadores.”",
      "cop": "",
-     "ar": "أسْرِعْ لي يا مُخَلِّصُ بفَتْحِ الأحضَانِ الأبَويَّةِ، لأنِّي أفنَيْتُ عُمرِي في اللَّذَّاتِ والشَّهوَاتِ، وقَدْ مَضَى مِنِّي النَّهارُ وفاتَ."
-    },
-    {
-     "role": "text",
-     "es": "Y ahora dependo de tu compasión infinita, pues no abandones a un corazón humilde que necesita tu misericordia porque te pido, oh Señor con sumisión:",
-     "cop": "",
-     "ar": "فالآنَ أتَّكِلُ على غِنَى رأفَتِكَ التي لا تَفْرَغُ، فلا تَتَخَلَّ عَنْ قَلْبٍ خاشِعٍ مُفتَقِرٍ لرَحْمَتِكَ؛ لأنِّي إليْكَ أصْرُخُ يارَبُّ بتَخَشُّعٍ:"
-    },
-    {
-     "role": "text",
-     "es": "\"Padre, he pecado contra el cielo y ante ti; ya no soy digno de ser llamado hijo tuyo; hazme como uno de tus trabajadores.”",
-     "cop": "",
-     "ar": "أخْطَأتُ يا أبتاهُ إلى السَّماءِ وقُدَّامَكَ، ولَسْتُ مُسْتَحِقَّاً أنْ أُدْعَى لكَ ابْناً، بَل اجْعَلْنِي كأحَدِ أُجَرَائِكَ."
+     "ar": "أسْرِعْ لي يا مُخَلِّصُ بفَتْحِ الأحضَانِ الأبَويَّةِ، لأنِّي أفنَيْتُ عُمرِي في اللَّذَّاتِ والشَّهوَاتِ، وقَدْ مَضَى مِنِّي النَّهارُ وفاتَ. فالآنَ أتَّكِلُ على غِنَى رأفَتِكَ التي لا تَفْرَغُ، فلا تَتَخَلَّ عَنْ قَلْبٍ خاشِعٍ مُفتَقِرٍ لرَحْمَتِكَ. لأنِّي إليْكَ أصْرُخُ يارَبُّ بتَخَشُّعٍ:أخْطَأتُ يا أبتاهُ إلى السَّماءِ وقُدَّامَكَ، ولَسْتُ مُسْتَحِقَّاً أنْ أُدْعَى لكَ ابْناً، بَل اجْعَلْنِي كأحَدِ أُجَرَائِكَ."
     },
     {
      "role": "note",
-     "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
+     "es": "Ahora y siempre, y por los siglos de los siglos. Amén",
      "cop": "",
-     "ar": "الآن وكل أوان وإلى دهر الدهور. آمين."
+     "ar": "الآن وكل أوان وإلى دهر الدهور. آمين.\n(كى نين...)"
     },
     {
      "role": "text",
-     "es": "Por cada iniquidad que hice con prudencia y con energía, y por cada pecado que cometí con ganas y perseverancia, y a cada sufrimiento y juicio que merezco . Oh, Señora Virgen, prepárame los caminos para el arrepentimiento .",
+     "es": "Por cada iniquidad que hice con prudencia y con energía, y por cada pecado que cometí con ganas y perseverancia, y a cada sufrimiento y juicio que merezco. Oh, Señora Virgen, prepárame los caminos para el arrepentimiento. Te suplico que a través de ti interceda. Pido tu ayuda para que no me avergüence. Y ala hora de separar mi alma de mi cuerpo vengas hacia a mí. Haz perder a las intrigas de los enemigos, y cierra las puertas del infierno, para que no se traguen mi alma oh, Novia sin mancha para el Novio verdadero.",
      "cop": "",
-     "ar": "لكُلِّ إثْمٍ بِحِرْصٍ ونَشاطٍ فَعَلْتُ، ولكُلِّ خَطيَّةٍ بشَوْقٍ وَاجتِهادٍ ارتَكبْتُ، ولكُلِّ عذابٍ وحُكْمٍ اسْتَوجَبْتُ. فَهَيِّئي لي أسْبابَ التَّوبةِ أيَّتُهَا السَّيِّدَةُ العَذْراءُ، فإليكِ أتَضَرَّعُ، وبِكِ أسْتَشْفِعُ، وإيَّاكِ أدْعُو أنْ تُسَاعِدِينِي لِئَلاَّ أخْزَى."
-    },
-    {
-     "role": "text",
-     "es": "Te suplico que a través de ti interceda. Pido tu ayuda para que no me avergüence. Y ala hora de separar mi alma de mi cuerpo vengas hacia a mí .",
-     "cop": "",
-     "ar": "وعِندَ مُفارَقةِ نَفْسِي مِنْ جَسَدِي احْضَرِي عِندِي، ولمُؤامَرةِ الأعْداءِ اهْزِمي، ولأبْوابِ الجَحيمِ أغْلِقي، لِئَلاَّ يَبتَلعوا نَفْسِي، يا عَروسَةُ بلا عَيْبٍ للخَتَنِ الحَقيقيِّ."
-    },
-    {
-     "role": "text",
-     "es": "Haz perder a las intrigas de los enemigos, y cierra las puertas del infierno, para que no se traguen mi alma oh, Novia sin mancha para el Novio verdadero.",
-     "cop": "",
-     "ar": ""
+     "ar": "لكُلِّ إثْمٍ بِحِرْصٍ ونَشاطٍ فَعَلْتُ، ولكُلِّ خَطيَّةٍ بشَوْقٍ وَاجتِهادٍ ارتَكبْتُ، ولكُلِّ عذابٍ وحُكْمٍ اسْتَوجَبْتُ. فَهَيِّئي لي أسْبابَ التَّوبةِ أيَّتُهَا السَّيِّدَةُ العَذْراءُ، فإليكِ أتَضَرَّعُ، وبِكِ أسْتَشْفِعُ، وإيَّاكِ أدْعُو أنْ تُسَاعِدِينِي لِئَلاَّ أخْزَى. وعِندَ مُفارَقةِ نَفْسِي مِنْ جَسَدِي احْضَرِي عِندِي، ولمُؤامَرةِ الأعْداءِ اهْزِمي، ولأبْوابِ الجَحيمِ أغْلِقي، لِئَلاَّ يَبتَلعوا نَفْسِي، يا عَروسَةُ بلا عَيْبٍ للخَتَنِ الحَقيقيِّ."
     },
     {
      "role": "note",
-     "es": "Señor, ten piedad (41 veces).",
+     "es": "Te pedimos Señor, escúchanos, ten piedad de nosotros y perdona nuestros pecados. Amén.",
      "cop": "",
-     "ar": "كيرياليسون (يا رب ارحم) ٤١ مرة"
+     "ar": "نسألك يارب أسمعنا و ارحمنا و اغفر لنا خطايانا أمين"
+    },
+    {
+     "role": "note",
+     "es": "Señor ten piedad (41).",
+     "cop": "",
+     "ar": "يارب ارحم (كيرياليصون) 41 مرة"
     }
    ]
   },
   {
    "title": {
     "es": "Santo, Santo, Santo",
-    "ar": "قدوس قدوس قدوس",
+    "ar": "قدُّوسٌ، قدُّوسٌ، قدُّوسٌ",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Santo, Santo, Santo es el Señor de los ejércitos. El cielo y la tierra están llenos de tu gloria y tu dignidad. Ten piedad de nosotros, Dios Padre Todopoderoso. Santísima Trinidad. Ten piedad de nosotros.",
+     "es": "Santo, Santo, Santo es el Señor de los ejércitos. El cielo y la tierra están llenos de tu gloria y tu dignidad. Ten piedad de nosotros, Dios Padre Todopoderoso.",
      "cop": "",
-     "ar": "قدُّوسٌ، قدُّوسٌ، قدُّوسٌ. ربُّ الصَّاباؤوتِ. السَّماءُ والأرضُ مَملوءَتانِ مِنْ مَجدِكَ وكَرامَتِكَ. ارْحَمْنَا يا اللَّهُ الآبُ ضابِطُ الكُلِّ. أيُّها الثَّالوثُ القدُّوسُ ارْحَمْنَا."
+     "ar": "قدُّوسٌ، قدُّوسٌ، قدُّوسٌ. ربُّ الصَّاباؤوتِ. السَّماءُ والأرضُ مَملوءَتانِ مِنْ مَجدِكَ وكَرامَتِكَ. ارْحَمْنَا يا اللَّهُ الآبُ ضابِطُ الكُلِّ."
     },
     {
      "role": "text",
-     "es": "Dios de los ejércitos, quédate con nosotros, porque no tenemos ayudantes en nuestras aflicciones y angustias, sino tú. Absuelve, perdona y remite, oh Dios, nuestras faltas, que hemos cometido voluntariamente y las que no han sido involuntariamente.",
+     "es": "Santísima Trinidad. Ten piedad de nosotros. Dios de los ejércitos, quédate con nosotros, porque no tenemos ayudantes en nuestras aflicciones y angustias, sino tú. Absuelve, perdona y remite, oh Dios, nuestras faltas, que hemos cometido voluntariamente y las que no han sido involuntariamente. Esas que hemos hecho a sabiendas y las que hemos hecho sin saberlo, las visibles y las invisibles. Señor, perdónanosla, por tu Santo Nombre, que ha sido invocado sobre nosotros. Según tu misericordia, Señor, y no según nuestros pecados.",
      "cop": "",
-     "ar": "أيُّها الرَّبُّ إلهُ القوَّاتِ كُنْ مَعنَا. لأنَّهُ ليسَ لنا مُعينٌ في شَدَائِدنَا، وضيقاتِنا سِواكَ. حِلَّ واغْفِرْ واصْفَحْ لنا يا اللَّهُ عن سَيِّئاتِنا التي صَنَعْناها بإرادَتِنا، والتي صَنَعْناها بغَيْرِ إرادَتِنا، التي فَعَلْناها بمَعْرِفَةٍ، والتي فَعَلْناها بغَيْرِ مَعْرِفَةٍ، الخفيَّةِ والظَّاهرةِ."
+     "ar": "أيُّها الثَّالوثُ القدُّوسُ ارْحَمْنَا. أيُّها الرَّبُّ إلهُ القوَّاتِ كُنْ مَعنَا. لأنَّهُ ليسَ لنا مُعينٌ في شَدَائِدنَا، وضيقاتِنا سِواكَ حِلَّ واغْفِرْ واصْفَحْ لنا يا اللَّهُ عن سَيِّئاتِنا التي صَنَعْناها بإرادَتِنا، والتي صَنَعْناها بغَيْرِ إرادَتِنا، التي فَعَلْناها بمَعْرِفَةٍ، والتي فَعَلْناها بغَيْرِ مَعْرِفَةٍ، الخفيَّةِ والظَّاهرةِ. ياربُّ اغفِرْ لنا مِنْ أجْلِ اسْمِكَ القدُّوسِ الذي دُعِيَ علينا. كرَحْمَتِكَ ياربُّ ولا كَخطايَانَا."
+    },
+    {
+     "role": "note",
+     "es": "Haznos dignos de decir en gracia:",
+     "cop": "",
+     "ar": "اجعلْنا مُستَحقِّينَ أنْ نَقولَ بشُكرٍ:"
+    }
+   ]
+  },
+  {
+   "title": {
+    "es": "Padre nuestro",
+    "ar": "الصلاة الربانية",
+    "cop": ""
+   },
+   "rows": [
+    {
+     "role": "note",
+     "es": "Haznos dignos de decir en gracia:",
+     "cop": "",
+     "ar": "اللَّهُمَّ اجعلْنا مُستحقِّينَ أن نقولَ بِشُكرٍ:"
     },
     {
      "role": "text",
-     "es": "Esas que hemos hecho a sabiendas y las que hemos hecho sin saberlo, las visibles y las invisibles. Señor, perdónanosla, por tu Santo Nombre, que ha sido invocado sobre nosotros.",
+     "es": "Padre nuestro, que estás en los cielos, santificado sea tu nombre. Venga a nosotros tu reino. Hágase tu voluntad, así en la tierra, como en el cielo. Danos hoy nuestro pan de cada día; perdona nuestras ofensas; así como también nosotros; perdonamos a los que nos ofenden; no nos dejes caer en la tentación; y líbranos del mal. Por Cristo Jesús nuestro Señor; porque tuyos son el reino, el poder y la gloria para siempre. Amén.",
      "cop": "",
-     "ar": "ياربُّ اغفِرْ لنا مِنْ أجْلِ اسْمِكَ القدُّوسِ الذي دُعِيَ علينا."
-    },
-    {
-     "role": "text",
-     "es": "Según tu misericordia, Señor, y no según nuestros pecados. Haznos dignos de decir en gracia: Padre nuestro, que estás en los cielos…",
-     "cop": "",
-     "ar": "كرَحْمَتِكَ ياربُّ ولا كَخطايَانَا. اجعلْنا مُستَحقِّينَ أنْ نَقولَ بشُكرٍ: أبانا الذي في السَّمَواتِ"
+     "ar": "أبَانَا الذي في السَّمَواتِ، لِيتقدَّسِ اسْمُكَ، ليَأتِ مَلكوتُكَ، لِتَكُنْ مشيئتُكَ كما في السَّماءِ كذلكَ على الأرضِ. خُبزَنَا الذي للغدِ أعْطِنَا اليومَ، واغفِرْ لنا ذُنُوبنَا كمَا نَغْفِرُ نَحنُ أيضاً للمُذنِبينَ إلينا. ولا تُدْخِلْنَا في تَجْرِبَةٍ، لكِنْ نَجِّنَا مِنَ الشِّرِّيرِ. بالمسيحِ يسوعَ ربِّنا، لأنَّ لكَ المُلْكَ والقوَّةَ والمَجْدَ إلى الأبَدِ. آمين."
     }
    ]
   },
@@ -748,78 +676,36 @@
    "rows": [
     {
      "role": "text",
-     "es": "Te damos gracias, oh nuestro rey compasivo porque nos concediste pasar este día en paz, y nos hiciste llegar hasta la noche dándote gracias. Y nos hiciste merecedores de que viéramos la luz hasta la noche.Oh Dios acepta nuestra glorificación aquella que se ha ofrecido ahora, y líbranos de los timos del adversario, y acaba con todas sus trampas que están hechas para nosotros.",
+     "es": "Te damos gracias, oh nuestro rey compasivo porque nos concediste pasar este día en paz, y nos hiciste llegar hasta la noche dándote gracias. Y nos hiciste merecedores de que viéramos la luz hasta la noche.Oh Dios acepta nuestra glorificación aquella que se ha ofrecido ahora, y líbranos de los timos del adversario, y acaba con todas sus trampas que están hechas para nosotros. Danos paz en la próxima noche sin pena ni preocupación ni cansancio ni ilusión, para que la pasemos también en paz y en castidad. Y nos levantemos para las alabanzas y las oraciones en cada momento y en todo sitio. Glorificamos tu santo nombre en toda circunstancia. Junto con el Padre incomprensible y sin inicio y el Espíritu Santo vivificante y consustancial a ti. Ahora y siempre, y por los siglos de los siglos. Amén.",
      "cop": "",
-     "ar": "نَشكُرُكَ يا مَلِكَنَا المُتحَنِّنَ، لأنَّكَ مَنحتَنا أنْ نَعْبُرَ هذا اليومَ بِسَلامَةٍ، وأتَيْتَ بنا إلى المسَاءِ شَاكِرينَ. وجَعلْتَنا مُستَحِقِّينَ أنْ نَنظُرَ النُّورَ إلى المسَاءِ."
-    },
-    {
-     "role": "text",
-     "es": "Danos paz en la próxima noche sin pena ni preocupación ni cansancio ni ilusión, para que la pasemos también en paz y en castidad.",
-     "cop": "",
-     "ar": "اللَّهُمَّ اقْبَلْ تَمجِيدَنا هذا الذي صَارَ الآنَ، ونَجِّنَا مِنْ حِيَلِ المُضَادِّ، وأبْطِلْ سَائِرَ فِخاخِهِ المَنصُوبَةِ لنا، وهَبْ لنا في هذهِ اللَّيلَةِ المُقبِلَةِ سلامَةً بِغَيْرِ ألَمٍ،"
-    },
-    {
-     "role": "text",
-     "es": "Y nos levantemos para las alabanzas y las oraciones en cada momento y en todo sitio.",
-     "cop": "",
-     "ar": "ولا قَلَقٍ ولا تَعَبٍ، ولا خيَالٍ، لنَجتازَهَا أيضاً بِسَلامٍ وعَفَافٍ، ونَنهَضَ للتَّسَابِيحِ والصَّلواتِ، كُلَّ حينٍ وفي كُلِّ مكانٍ."
-    },
-    {
-     "role": "text",
-     "es": "Glorificamos tu santo nombre en toda circunstancia.",
-     "cop": "",
-     "ar": "نُمجِّدُ اسْمَكَ القُدُّوسَ في كُلِّ شيءٍ، مَع الآبِ غَيْرِ المُدْرَكِ ولا بدايَةَ لهُ، والرُّوحِ القُدُسِ المُحيي المُسَاوي لكَ، الآنَ وكُلَّ أوانٍ وإلى دَهرِ الدُّهُورِ."
-    },
-    {
-     "role": "text",
-     "es": "Junto con el Padre incomprensible y sin inicio y el Espíritu Santo vivificante y consustancial a ti . Ahora y siempre, y por los siglos de los siglos . Amén .",
-     "cop": "",
-     "ar": "آمين."
+     "ar": "نَشكُرُكَ يا مَلِكَنَا المُتحَنِّنَ، لأنَّكَ مَنحتَنا أنْ نَعْبُرَ هذا اليومَ بِسَلامَةٍ، وأتَيْتَ بنا إلى المسَاءِ شَاكِرينَ. وجَعلْتَنا مُستَحِقِّينَ أنْ نَنظُرَ النُّورَ إلى المسَاءِ. اللَّهُمَّ اقْبَلْ تَمجِيدَنا هذا الذي صَارَ الآنَ، ونَجِّنَا مِنْ حِيَلِ المُضَادِّ، وأبْطِلْ سَائِرَ فِخاخِهِ المَنصُوبَةِ لنا، وهَبْ لنا في هذهِ اللَّيلَةِ المُقبِلَةِ سلامَةً بِغَيْرِ ألَمٍ، ولا قَلَقٍ ولا تَعَبٍ، ولا خيَالٍ، لنَجتازَهَا أيضاً بِسَلامٍ وعَفَافٍ، ونَنهَضَ للتَّسَابِيحِ والصَّلواتِ، كُلَّ حينٍ وفي كُلِّ مكانٍ. نُمجِّدُ اسْمَكَ القُدُّوسَ في كُلِّ شيءٍ، مَع الآبِ غَيْرِ المُدْرَكِ ولا بدايَةَ لهُ، والرُّوحِ القُدُسِ المُحيي المُسَاوي لكَ، الآنَ وكُلَّ أوانٍ وإلى دَهرِ الدُّهُورِ. آمين."
     }
    ]
   },
   {
    "title": {
-    "es": "Oración final de cada hora",
-    "ar": "طلبة تصلى آخر كل ساعة",
+    "es": "Fin de cada hora",
+    "ar": "طلبة تُقال آخِر كل ساعة",
     "cop": ""
    },
    "rows": [
     {
      "role": "text",
-     "es": "Ten piedad de nosotros, oh Dios, ten piedad. Tú que eres adorado y glorificado en todo tiempo y a cada hora, en el cielo y en la tierra. Cristo, nuestro Dios Bueno, paciente, misericordioso y bondadoso.",
+     "es": "Ten piedad de nosotros, oh Dios, ten piedad.",
      "cop": "",
-     "ar": "ارْحَمْنَا يا اللَّهُ ثُمَّ ارْحَمْنَا. يا مَنْ في كُلِّ وقتٍ وكُلِّ سَاعةٍ، في السَّماءِ وعلى الأرضِ، مَسجودٌ لهُ ومُمجَّدٌ. المسيحُ إلَهُنا الصَّالِحُ، الطَّويلُ الرُّوحِ، الكثيرُ الرَّحْمَةِ، الجَزِيلُ التحنُّنِ، الذي يُحِبُّ الصدِّيقينَ، ويرحَمُ الخُطاةَ الذينَ أوَّلُهُمْ أنا."
+     "ar": "ارْحَمْنَا يا اللَّهُ ثُمَّ ارْحَمْنَا."
     },
     {
      "role": "text",
-     "es": "Quien ama a los rectos y tiene piedad de los pecadores entre los que yo soy el primero. Quien no desea la muerte del pecador, sino que vuelve a Ti para vivir.",
+     "es": "Tú que eres adorado y glorificado en todo tiempo y a cada hora, en el cielo y en la tierra.",
      "cop": "",
-     "ar": "الذي لا يشاءُ مَوتَ الخاطئِ مِثْلَ ما يرجِعُ ويحيَا."
+     "ar": "يا مَنْ في كُلِّ وقتٍ وكُلِّ سَاعةٍ، في السَّماءِ وعلى الأرضِ، مَسجودٌ لهُ ومُمجَّدٌ."
     },
     {
      "role": "text",
-     "es": "Quien llama a todos a la salvación, para que se beneficien de la promesa de los bienes esperados. Oh Dios, acepta nuestras súplicas en esta hora y a cada hora, facilita nuestra vida, guíanos para actuar según tus mandamientos, santifica nuestros espíritus,",
+     "es": "Cristo, nuestro Dios Bueno, paciente, misericordioso y bondadoso. Quien ama a los rectos y tiene piedad de los pecadores entre los que yo soy el primero. Quien no desea la muerte del pecador, sino que vuelve a Ti para vivir. Quien llama a todos a la salvación, para que se beneficien de la promesa de los bienes esperados. Oh Dios, acepta nuestras súplicas en esta hora y a cada hora, facilita nuestra vida, guíanos para actuar según tus mandamientos, santifica nuestros espíritus, purifica nuestros cuerpos, danos buenos pensamientos, purifica nuestras intenciones, cura nuestras enfermedades, perdona nuestros pecados y líbranos de toda mala tristeza y angustia. Rodéanos de tus ángeles santos, para que seamos protegidos y guiados por ellos. Así llegaremos a la unidad de la Fe y al conocimiento de tu gloria imperceptible e infinita. Tú eres bendecido para siempre. Amén.",
      "cop": "",
-     "ar": "الدَّاعِي الكُلَّ إلى الخَلاصِ لأجْلِ المَوعِدِ بالخَيراتِ المُنتظرةِ. ياربُّ اقْبَلْ مِنَّا في هَذهِ السَّاعةِ وكُلِّ ساعةٍ طِلْباتِنا، سَهِّلْ حياتَنا، وأَرشِدنا إلى العَمَلِ بوَصَايَاكَ، قَدِّسْ أرواحَنا،"
-    },
-    {
-     "role": "text",
-     "es": "purifica nuestros cuerpos, danos buenos pensamientos, purifica nuestras intenciones, cura nuestras enfermedades, perdona nuestros pecados y líbranos de toda mala tristeza y angustia.",
-     "cop": "",
-     "ar": "طَهِّرْ أجسَامَنا، قَوِّمْ أفكارَنا، نَقِّ نيَّاتِنَا، واشْفِ أمراضَنا، واغفِرْ خَطايَانَا، ونَجِّنا مِنْ كُلِّ حُزنٍ رَديءٍ ووجَعِ قَلْبٍ."
-    },
-    {
-     "role": "text",
-     "es": "Rodéanos de tus ángeles santos, para que seamos protegidos y guiados por ellos.",
-     "cop": "",
-     "ar": "أحِطْنا بملائِكَتِكَ القدِّيسينَ، لكي نكونَ بِمُعَسكَرِهِمْ مَحفُوظِينَ ومُرْشَدينَ، لِنَصِلَ إلى اتحادِ الإيمانِ، وإلى مَعْرِفَةِ مَجْدِكَ غَيْرِ المَحْسُوسِ وغَيْرِ المَحْدودِ، فإنَّكَ مُبَارَكٌ إلى الأبَدِ."
-    },
-    {
-     "role": "text",
-     "es": "Así llegaremos a la unidad de la Fe y al conocimiento de tu gloria imperceptible e infinita. Tú eres bendecido para siempre. Amén.",
-     "cop": "",
-     "ar": "آمين."
+     "ar": "المسيحُ إلَهُنا الصَّالِحُ،الطَّويلُ الرُّوحِ، الكثيرُ الرَّحْمَةِ، الجَزِيلُ التحنُّنِ، الذي يُحِبُّ الصدِّيقينَ، ويرحَمُ الخُطاةَ الذينَ أوَّلُهُمْ أنا. الذي لا يشاءُ مَوتَ الخاطئِ مِثْلَ ما يرجِعُ ويحيَا. الدَّاعِي الكُلَّ إلى الخَلاصِ لأجْلِ المَوعِدِ بالخَيراتِ المُنتظرةِ. ياربُّ اقْبَلْ مِنَّا في هَذهِ السَّاعةِ وكُلِّ ساعةٍ طِلْباتِنا، سَهِّلْ حياتَنا، وأَرشِدنا إلى العَمَلِ بوَصَايَاكَ، قَدِّسْ أرواحَنا، طَهِّرْ أجسَامَنا، قَوِّمْ أفكارَنا، نَقِّ نيَّاتِنَا، واشْفِ أمراضَنا، واغفِرْ خَطايَانَا، ونَجِّنا مِنْ كُلِّ حُزنٍ رَديءٍ ووجَعِ قَلْبٍ. أحِطْنا بملائِكَتِكَ القدِّيسينَ، لكي نكونَ بِمُعَسكَرِهِمْ مَحفُوظِينَ ومُرْشَدينَ، لِنَصِلَ إلى اتحادِ الإيمانِ، وإلى مَعْرِفَةِ مَجْدِكَ غَيْرِ المَحْسُوسِ وغَيْرِ المَحْدودِ، فإنَّكَ مُبَارَكٌ إلى الأبَدِ. آمين."
     }
    ]
   }
