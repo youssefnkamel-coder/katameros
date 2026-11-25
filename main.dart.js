@@ -100172,10 +100172,10 @@ $0(){return this.a.e=!1},
 $S:0}
 A.aeW.prototype={
 D(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c=A.p(a2),b=c.ax,a=b.a===B.Q?B.Xb:B.W9,a0=t.p,a1=A.b([],a0)
-for(s=B.agN.gho(),s=s.gal(s),r=c.ok,q=r.w,p=b.rx,o=b.k3,r=r.ax;s.t();){n=s.gL()
+for(s=B.agO.gho(),s=s.gal(s),r=c.ok,q=r.w,p=b.rx,o=b.k3,r=r.ax;s.t();){n=s.gL()
 m=n.a
 l=n.b
-n=B.agO.i(0,m)
+n=B.agN.i(0,m)
 n=A.n(n==null?m:n,B.f)
 if(r==null)k=d
 else k=r.bM(p==null?o:p)
@@ -100293,7 +100293,7 @@ q.push(new A.jO(A.au(A.b([p,B.ag,o,n,B.am,A.vd(A.mu(g.f?B.awr:A.F(A.n("Entrar",B
 q=A.au(q,B.S,f,B.cD,B.k)
 p=e.ax
 o=p.rx
-return new A.nQ(new A.Fd(A.au(A.b([new A.KM(new A.df(new A.a7(0,1/0,s,1/0),q,f),!0,f),B.am,B.Tx,B.aX,A.cM(A.F("Test -24-11-2026 K",f,f,f,f,f,A.ak(f,f,(o==null?p.k3:o).af(0.7),f,f,f,f,f,f,f,f,12,f,f,f,f,f,!0,f,0.5,f,f,f,f,f,f),f,f,f),f,f),B.aX,B.pr,B.c4,new A.zk(!1,f)],r),B.S,f,B.j,B.k),f),440,f,f)}}
+return new A.nQ(new A.Fd(A.au(A.b([new A.KM(new A.df(new A.a7(0,1/0,s,1/0),q,f),!0,f),B.am,B.Tx,B.aX,A.cM(A.F("Test -25-11-2026 L",f,f,f,f,f,A.ak(f,f,(o==null?p.k3:o).af(0.7),f,f,f,f,f,f,f,f,12,f,f,f,f,f,!0,f,0.5,f,f,f,f,f,f),f,f,f),f,f),B.aX,B.pr,B.c4,new A.zk(!1,f)],r),B.S,f,B.j,B.k),f),440,f,f)}}
 A.aRX.prototype={
 $0(){return this.a.w=A.n("Escribe tu usuario y tu contrase\xf1a.",B.f)},
 $S:0}
@@ -103045,7 +103045,7 @@ a0.push(B.c4)
 a0.push(B.oI)
 a0.push(B.aX)
 b=r.rx
-a0.push(A.cM(A.F("La Palabra de Dios \xb7 Test -24-11-2026 K",f,f,f,f,f,A.ak(f,f,b==null?r.k3:b,f,f,f,f,f,f,f,f,12.5,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f,f))
+a0.push(A.cM(A.F("La Palabra de Dios \xb7 Test -25-11-2026 L",f,f,f,f,f,A.ak(f,f,b==null?r.k3:b,f,f,f,f,f,f,f,f,12.5,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f,f))
 a0.push(B.aX)
 a0.push(B.pr)
 return A.kL(A.b([new A.dE(new A.BE(d,c,f,f,f),760,f),new A.dE(new A.a8(B.dm,A.au(A.b7P(a0),B.S,f,B.j,B.k),f),760,f)],a),B.pB,f,B.a3,!1)},
@@ -137341,10 +137341,10 @@ B.aGO=new A.me(B.aIn)
 B.agL=new A.cj([B.h1,B.aGN,B.h2,B.aGO,B.h_,B.P6,B.h0,B.P5],t.Fp)
 B.agM=new A.cj([B.k3,B.oD],t.Fp)
 B.IH={abouna:0,fieles:1}
-B.ajj={lecturas:0}
-B.nj=new A.dG(B.ajj,1,t.fF)
-B.agN=new A.aa(B.IH,[B.nj,B.nj],A.ad("aa<h,bq<h>>"))
-B.agO=new A.aa(B.IH,["Abouna","Fieles"],t.w)
+B.agN=new A.aa(B.IH,["Abouna","Fieles"],t.w)
+B.ajj={lecturas:0,agpia:1}
+B.nj=new A.dG(B.ajj,2,t.fF)
+B.agO=new A.aa(B.IH,[B.nj,B.nj],A.ad("aa<h,bq<h>>"))
 B.avV=new A.aG(B.ca,!1,!1,!1,!1,B.G)
 B.avr=new A.aG(B.ca,!1,!0,!1,!1,B.G)
 B.NE=new A.aG(B.cb,!1,!1,!1,!1,B.G)
