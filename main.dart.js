@@ -100293,7 +100293,7 @@ q.push(new A.jO(A.au(A.b([p,B.ag,o,n,B.am,A.vd(A.mu(g.f?B.awr:A.F(A.n("Entrar",B
 q=A.au(q,B.S,f,B.cD,B.k)
 p=e.ax
 o=p.rx
-return new A.nQ(new A.Fd(A.au(A.b([new A.KM(new A.df(new A.a7(0,1/0,s,1/0),q,f),!0,f),B.am,B.Tx,B.aX,A.cM(A.F("Test -25-11-2026 M",f,f,f,f,f,A.ak(f,f,(o==null?p.k3:o).af(0.7),f,f,f,f,f,f,f,f,12,f,f,f,f,f,!0,f,0.5,f,f,f,f,f,f),f,f,f),f,f),B.aX,B.pr,B.c4,new A.zk(!1,f)],r),B.S,f,B.j,B.k),f),440,f,f)}}
+return new A.nQ(new A.Fd(A.au(A.b([new A.KM(new A.df(new A.a7(0,1/0,s,1/0),q,f),!0,f),B.am,B.Tx,B.aX,A.cM(A.F("Test -26-11-2026 N",f,f,f,f,f,A.ak(f,f,(o==null?p.k3:o).af(0.7),f,f,f,f,f,f,f,f,12,f,f,f,f,f,!0,f,0.5,f,f,f,f,f,f),f,f,f),f,f),B.aX,B.pr,B.c4,new A.zk(!1,f)],r),B.S,f,B.j,B.k),f),440,f,f)}}
 A.aRX.prototype={
 $0(){return this.a.w=A.n("Escribe tu usuario y tu contrase\xf1a.",B.f)},
 $S:0}
@@ -103045,7 +103045,7 @@ a0.push(B.c4)
 a0.push(B.oI)
 a0.push(B.aX)
 b=r.rx
-a0.push(A.cM(A.F("La Palabra de Dios \xb7 Test -25-11-2026 M",f,f,f,f,f,A.ak(f,f,b==null?r.k3:b,f,f,f,f,f,f,f,f,12.5,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f,f))
+a0.push(A.cM(A.F("La Palabra de Dios \xb7 Test -26-11-2026 N",f,f,f,f,f,A.ak(f,f,b==null?r.k3:b,f,f,f,f,f,f,f,f,12.5,f,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f,f),f,f))
 a0.push(B.aX)
 a0.push(B.pr)
 return A.kL(A.b([new A.dE(new A.BE(d,c,f,f,f),760,f),new A.dE(new A.a8(B.dm,A.au(A.b7P(a0),B.S,f,B.j,B.k),f),760,f)],a),B.pB,f,B.a3,!1)},
