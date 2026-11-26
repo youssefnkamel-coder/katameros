@@ -307,13 +307,13 @@
 "ar": "في أيام الواطس (أيام الأربعاء والخميس والجمعة والسبت) يقول الشعب:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Nos postramos ante el Padre, el Hijo y el Espíritu Santo: la Santísima Trinidad consustancial.",
 "cop": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲫ̀ⲓⲱⲧ: ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲟⲩⲙⲟⲟⲩⲥⲓⲟⲥ.",
 "ar": "نسجدُ للابِ والابنِ والروحِ القدس. الثالوث القدوس المساوي في الجوهرِ."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a la iglesia, la casa de los ángeles; Salve a la Virgen que dio a luz a nuestro Salvador.",
 "cop": "Ⲭⲉⲣⲉ ϯⲉⲕⲕ̀ⲗⲏⲥⲓⲁ̀: ⲡ̀ⲏⲓ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ϯⲡⲁⲣⲑⲉⲛⲟⲥ: ⲉ̀ⲧⲁⲥⲙⲉⲥ Ⲡⲉⲛⲥⲱⲧⲏⲣ.",
 "ar": "السلامُ للكنيسةِ، بيت الملائكة. السلام للعذراء، التي ولدتْ مخلصنا."
@@ -325,25 +325,25 @@
 "ar": "أما في أيام الآدام أي في أيام (الآحاد والاثنين والثلاثاء) فيقولون:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Vamos a postrarnos ante la Santísima Trinidad: el Padre, el Hijo y el Espíritu Santo.",
 "cop": "Ⲁⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ: ⲛ̀Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲑⲟⲩⲁⲃ: ⲉ̀ⲧⲉ Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.",
 "ar": "تعالوا فلنسجد للثالوث القدوس. الذي هو الاب والابن والروح القدس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Nosotros somos los pueblos cristianos, porque éste es Él, nuestro Dios verdadero.",
 "cop": "Ⲁⲛⲟⲛ ϧⲁ ⲛⲓⲗⲁⲟⲥ: ⲛ̀ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ: ⲫⲁⲓ ⲅⲁⲣ ⲡⲉ Ⲡⲉⲛⲛⲟⲩϯ: ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ.",
 "ar": "نحن الشعوب المسيحيين لأن هذا هو الهنا الحقيقي."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Tenemos esperanza en Santa María. Que Dios tenga piedad de nosotros por sus intercesiones.",
 "cop": "Ⲟⲩⲟⲛ ⲟⲩϩⲉⲗⲡⲓⲥ ⲛ̀ⲧⲁⲛ: ϧⲉⲛ ⲑⲏⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ̀: ⲉ̀ⲣⲉ Ⲫⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ: Ϩϩⲓⲧⲉⲛ ⲛⲉⲥⲡ̀ⲣⲉⲥⲃⲓⲁ̀.",
 "ar": "لنا رجاء في القديسة مريم. الله يرحمنا بشفاعتها."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Toda tranquilidad en este mundo se debe a la oración de la Santa Virgen María.",
 "cop": "Ⲟⲩⲟⲛ ⲟⲩⲙⲉⲧⲥⲉⲙⲛⲟⲥ : ⲛ̀ϩ̀ⲣⲏⲓ ϧⲉⲛ ⲡⲁⲓⲕⲟⲥⲙⲟⲥ : ⲉ̀ⲃⲟⲗϩⲓⲧⲉⲛ ⲡⲓϣ̀ⲗⲏⲗ : ⲛ̀ⲧⲉ ϯⲁ̀ⲅⲓⲁ̀ Ⲙⲁⲣⲓⲁ̀ ϯⲡⲁⲣⲑⲉⲛⲟⲥ.",
 "ar": "كل هدوء فى هذا العالم من قبل صلاه القديسه مريم العذراء"
@@ -355,91 +355,91 @@
 "ar": "ويكملون:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a ti María, la paloma buena, que dio a luz para nosotros, Dios, el Verbo.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ: ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀Ⲫⲛⲟⲩϯ ⲡⲓⲗⲟⲅⲟⲥ.",
 "ar": "السلامُ لكِ يا مريمُ الحمامة الحسنة التي ولدت لنا الله الكلمة."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a ti, María, Paz Santa; salve a ti, María, la Madre del Santísimo.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ̀: ϧⲉⲛ ⲟⲩⲭⲉⲣⲉ ⲉϥⲟⲩⲁⲃ: ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ: ⲑ̀ⲙⲁⲩ ⲙ̀ⲫⲏⲉⲑⲟⲩⲁⲃ.",
 "ar": "السلام لكِ يا مريمُ. سلاماً مقدساً. السلام لكِ يا مريمُ، أم القدوس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a Miguel, el gran Arcángel; salve a Gabriel, el mensajero elegido.",
 "cop": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲓⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲥⲱⲧⲡ ⲙ̀ⲡⲓϥⲁⲓϣⲉⲛⲛⲟⲩϥⲓ.",
 "ar": "السلام لميخائيل رئيس الملائكة العظيم. السلام لغبريال المبشر المختار."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a los querubines; salve a los serafines; salve a todas las órdenes celestiales.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲥⲉⲣⲁⲫⲓⲙ: ⲭⲉⲣⲉ ⲛⲓⲧⲁⲅⲙⲁ ⲧⲏⲣⲟⲩ: ⲛ̀ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲟⲛ.",
 "ar": "السلام للشاروبيم. السلام للسيرافيم. السلام لجميع الطغمات السمائية."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a Juan, el gran precursor; salve al sacerdote, el pariente de Emmanuel.",
 "cop": "Ⲭⲉⲣⲉ Ⲓⲱⲁⲛⲛⲏⲥ: ⲡⲓⲛⲓϣϯ ⲙ̀ⲡ̀ⲣⲟⲗⲣⲟⲙⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲟⲩⲏⲃ: ⲡ̀ⲥⲩⲅⲅⲉⲛⲏⲥ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ.",
 "ar": "السلام ليوحنا، السابق العظيم. السلام للكاهن، نسيب عمانوئيل."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a mis señores, los padres apóstoles; salve a los discípulos de nuestro Señor, Jesucristo.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲁϭⲟⲓⲥ ⲛ̀ⲓⲟϯ: ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲭⲉⲣⲉ ⲛⲓⲙⲁⲑⲏⲧⲏⲥ: ⲛ̀ⲧⲉ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ.",
 "ar": "السلام لساداتي الأباء، الرسل، السلام لتلاميذ، ربنا يسوع المسيح."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a ti, oh mártir; salve al evangelista; salve al apóstol Marcos, el contemplador de Dios.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ: ⲭⲉⲣⲉ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: Ⲙⲁⲣⲕⲟⲥ ⲡⲓⲑⲉⲱ̀ⲣⲓⲙⲟⲥ.",
 "ar": "السلام لكَ إيها الشهيد. السلام للإنجيلي. السلام للرسول مرقس، ناظر الإله."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a Esteban, el primero de los mártires; salve al bendito Archidiácono.",
 "cop": "Ⲭⲉⲣⲉ Ⲥⲧⲉⲫⲁⲛⲟⲥ: ⲡⲓϣⲟⲣⲡ ⲙ̀ⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲣⲭⲓⲇⲓⲁⲕⲱⲛ: ⲟⲩⲟϩ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ.",
 "ar": "السلام لاسطفانوس، أول الشهداء. السلام لرئيس الشمامسة المبارك."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a ti, oh mártir; salve al héroe valiente; salve al perseverante, mi señor el rey Jorge.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϣⲱⲓϫ ⲛ̀ⲅⲉⲛⲛⲉⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ: Ⲡⲁϭⲟⲓⲥ ⲡ̀ⲟⲩⲣⲟ Ⲅⲉⲱⲣⲅⲓⲟⲥ.",
 "ar": "السلام لكَ أيها الشهيد. السلام للشجاع البطل. السلام للابس الجهاد. سيدي الملك جيؤرجيوس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a ti, oh mártir; salve al héroe valiente; salve al perseverante, Filopatir Mercurio.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϣⲱⲓϫ ⲛ̀ⲅⲉⲛⲛⲉⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ: Ⲫⲓⲗⲟⲩⲡⲁⲧⲏⲣ Ⲙⲉⲣⲕⲟⲩⲣⲓⲟⲥ.",
 "ar": "السلام لكَ أيها الشهيد. السلام للشجاع البطل. السلام للابس الجهاد. فيلوباتير مرقوريوس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a ti, oh mártir; salve al héroe valiente; salve al perseverante, San Aba Mina.",
 "cop": "Ⲭⲉⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲭⲉⲣⲉ ⲡⲓϣⲱⲓϫ ⲛ̀ⲅⲉⲛⲛⲉⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲑⲗⲟⲫⲟⲣⲟⲥ: Ⲡⲓⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲡⲁ Ⲙⲏⲛⲁ.",
 "ar": "السلام لكَ أيها الشهيد. السلام للشجاع البطل. السلام للابس الجهاد. القديس أبا مينا."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Las jovenes sabias y vírgenes, las señoras elegidas y verdaderas, las novias de Cristo, Santa Damiana, Bárbara, Juliana, Marina e Hilaria.",
 "cop": "Ⲛⲓⲁⲗⲟⲩ ⲛ̀ⲥⲁⲃⲏ ⲙ̀ⲡⲁⲣⲑⲉⲛⲟⲥ : ⲛⲓⲥⲱⲧⲡⲛ̀ⲕⲩⲣⲓⲁ ⲙ̀ⲙⲏⲓ : ⲛⲓϣⲉⲗⲉⲧ ⲛ̀ⲧⲉ ⲡⲭ̅ⲥ̅ : Ϯⲁⲅⲓⲁ Ⲇⲩⲙⲓⲁ̀ⲛⲁ : Ϯⲁⲅⲓⲁ Ⲃⲁⲣⲃⲁⲣⲁ : Ϯⲁⲅⲓⲁ Ⲓⲟⲩⲗⲓⲁ̀ⲛⲁ : Ϯⲁⲅⲓⲁ Ⲙⲁⲣⲓⲛⲁ ⲛⲉⲙ ⲓⲗⲁⲣⲓⲁ.",
 "ar": "الفتيات الحكيمات العذارى, السيدات المختارات الحقيقيات، عرائس المسيح القديسة دميانة، بربارة، يوليانه، مارينا وإيلارية."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a nuestro padre Antonio, la lámpara del monacato; salve a nuestro padre Aba Pablo, los amados de Cristo.",
 "cop": "ⲭⲉⲣⲉ ⲡⲉⲙⲓⲱⲧ Ⲁⲛⲧⲱⲛⲓⲟⲥ : ⲡⲓϧⲏⲃⲥ ̀ⲛⲧⲉ ϯⲙⲉⲧⲙⲟⲛⲁⲭⲟⲥ : ⲭⲉⲡⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ ⲡⲁⲩⲗⲉ : ⲛⲓⲙⲉⲛⲣⲁϯ ̀ⲛⲧⲉ ⲡⲭ̅ⲥ̅.",
 "ar": "السلام لابينا انطونيوس مصباح الرهبنه, السلام لابينا انبا بولا حبيبي المسيح"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a nuestro padre Aba Moisés e Isidro el sacerdote; salve a nuestro padre Aba Pishoi, el justo y hombre perfecto.",
 "cop": "ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ ⲙⲱⲥⲏ : ⲛⲉⲙ ̀ⲏⲥⲓⲇⲱⲣⲟⲥ ⲡⲓⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ : ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ ⲡⲓϣⲱⲓ : ⲡⲓ̀ⲑⲙⲏⲓ ⲡⲓⲣⲱⲙⲓ ̀ⲛⲧⲉ ⲗⲓⲟⲥ.",
 "ar": "السلام لابينا افا موسي واسيذوروس القس, السلام لابينا افا بيشوي البار الرجل الكامل."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Dichoso eres, de verdad, nuestro Padre justo, San Aba ___, el amado de Cristo.",
 "cop": "Ⲱⲟⲩⲛⲓⲁⲧⲕ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ : ⲡⲉⲛⲓⲱⲧ ⲉⲑ̅ⲩ̅ ⲛ̀ⲇⲓⲕⲉⲟⲥ : ⲁⲃⲃⲁ___ ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅.",
 "ar": "طوباك بالحقيقه يا ابانا القديس البار انبا ___ حبيب المسيح."
@@ -451,13 +451,13 @@
 "ar": "وفي وجود الأب البابا أو المطران أو الأسقف يضاف:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Te pedimos, Hijo de Dios, que conserves la vida de nuestro patriarca, el Papa Aba ___, el sumo Sacerdote. Afírmalo en su trono.",
 "cop": "Ⲩⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲱ̀ⲩ̅ⲥ̅ ⲑ̅ⲥ̅ : ⲉⲑⲣⲉⲕⲁ̀ⲣⲉϩ ⲉ̀ⲡ̀ⲱⲛϧ ⲙ̀ⲡⲉⲛⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ : ⲡⲁⲡⲁ ⲁⲃⲃⲁ ___ ⲡⲓⲁⲣⲭⲏⲉ̀ⲣⲉⲩⲥ : ⲙⲁⲧⲁϫⲣⲟϥ ϩⲓϫⲉⲛ ⲡⲉϥⲑ̀ⲣⲟⲛⲟⲥ.",
 "ar": "نسالك يا ابن الله ان تحفظ حياه بطريركنا بابا افا ___ رئيس الكهنه, ثبته علي كرسيه."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Y la de su compañero en el servicio, nuestro Padre santo, el bienaventurado Aba ___ el Obispo (metropolitano). Afírmalo en su trono.",
 "cop": "Ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲇⲓⲕⲉⲟⲥ : ⲁⲃⲃⲁ___ ⲡⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ (ⲡⲓⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ) ⲙⲁⲧⲁϫⲣⲟϥ ϩⲓϫⲉⲛ ⲡⲉϥⲑ̀ⲣⲟⲛⲟⲥ.",
 "ar": "وشريكه في الخدمه ابونا القديس الطوباوي افا ___ الاسقف (المطران), ثبته علي كرسيه."
@@ -469,13 +469,13 @@
 "ar": "ويكملون:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Por las intercesiones de la Madre de Dios, Santa María, oh Señor, concédenos el perdón de nuestros pecados.",
 "cop": "Ϩⲓⲧⲉⲛ ⲛⲓⲡ̀ⲣⲉⲥⲃⲓⲁ: ⲛ̀ⲧⲉ ϯⲑⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ Ⲙⲁⲣⲓⲁ: Ⲡϭⲟⲓⲥ: ⲁ̀ⲣⲓϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡⲓⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲩⲃⲓ.",
 "ar": "بشفاعة والدة الإله القديسة مريم، يا رب إنعم لنا بمغفرة خطايانا."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Para que te alabemos junto con tu Padre bueno y el Espíritu Santo, porque (viniste) y nos salvaste.",
 "cop": "Ⲉⲑⲣⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲓ)̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲛⲁⲓ ⲛⲁⲛ.",
 "ar": "لكي نسبحَكَ، مع ابيكَ الصالح، والروح القدس، لأنك (أتيتَ) وخلصتنا."
@@ -487,7 +487,7 @@
 "ar": "وفي اثناء ذلك يصعد الكاهن إلى الهيكل برجله اليمنى ويأخذ درج البخور بيده ويطامن نحو الكهنة برأسه ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Bendecid.",
 "cop": "Ⲉⲩⲗⲟⲅⲓⲧⲉ.",
 "ar": "بارِكوا."
@@ -499,7 +499,7 @@
 "ar": "وإذا كان الحاضر عنده كاهن واحد يقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Bendice.",
 "cop": "Ⲉⲩⲗⲟⲅⲏⲥⲟⲛ.",
 "ar": "بارِكْ."
@@ -511,7 +511,7 @@
 "ar": "ثم يطامنون هم أيضاً رؤوسهم ويجاوبونه قائلين:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Tú, bendice.",
 "cop": "Ⲛⲑⲟⲕ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ.",
 "ar": "أنت بارِكْ."
@@ -523,7 +523,7 @@
 "ar": "ثم يلتفت إلى المذبح ويضع درج البخور مكانه ويضع إصبعه عليه ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "En el nombre del Padre, del Hijo y del Espíritu Santo, un solo Dios.",
 "cop": "Ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲛⲟⲩϯ ⲛ̀ⲟⲩⲱⲧ.",
 "ar": "باسم الآبِ والابنِ والروحِ القدس إلهٍ واحدٍ."
@@ -535,7 +535,7 @@
 "ar": "ثم يرشم الدرج بمثال الصليب اولاويضع البخور في المجمرة يداً أولى وهو يقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Bendito sea Dios Padre, Todopoderoso. Amén.",
 "cop": "Ϥⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ: ⲁ̀ⲙⲏⲛ.",
 "ar": "مباركٌ الله الآب ضابطُ الكل. آمين."
@@ -553,7 +553,7 @@
 "ar": "ثم يرشم ويضع البخور يداً ثانية وهو يقول: (إن كان معه شركاء فاليد الثانية لهم جميعاً واحداً بعد واحد)."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Bendito sea su Hijo Unigénito, Jesucristo, nuestro Señor. Amén.",
 "cop": "Ϥⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲡⲉϥⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛϭⲟⲓⲥ: ⲁ̀ⲙⲏⲛ.",
 "ar": "مباركٌ ابنُه الوحيدُ يسوعُ المسيح ربنا. آمين."
@@ -571,7 +571,7 @@
 "ar": "ثم يرشم رشماً ثالثاً ويضع البخور يداً ثالثةً ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Bendito sea el Espíritu Santo, Paráclito. Amén.",
 "cop": "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲙ̀ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ.",
 "ar": "مباركٌ الروحُ القدس المعزِّي. آمين."
@@ -589,13 +589,13 @@
 "ar": "ثم يضع يدي بخور أيضاً بلا رشم وهو يقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Gloria y honor; honor y gloria a la Santísima Trinidad: el Padre, el Hijo y el Espíritu Santo.",
 "cop": "Ⲟⲩⲱ̀ⲟⲩ ⲛⲉⲙ ⲟⲩⲧⲁⲓⲟ: ⲟⲩⲧⲁⲓⲟ ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ: ⲛ̀ϯⲠⲁⲛⲁ̀ⲅⲓⲁ Ⲧⲣⲓⲁⲥ Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.",
 "ar": "مجداً وإكراماً، إكراماً ومجداً، للثالوثِ القدوس الآب والابن والروح القدس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
 "cop": "Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ: ⲁⲙⲏⲛ.",
 "ar": "الآنَ وكل أوان وإلى دهر الدهورِ كلِّها. آمين."
@@ -607,7 +607,7 @@
 "ar": "في رفع بخور عشية يقول الكاهن هذه الأوشية التي لبخور عشية سراً للابن:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Orad.",
 "cop": "Ϣⲗⲏⲗ.",
 "ar": "صـلِّ."
@@ -619,7 +619,7 @@
 "ar": "للصلاةِ قفوا."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "La paz esté con todos vosotros.",
 "cop": "Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.",
 "ar": "السلامُ للكلِّ."
@@ -637,7 +637,7 @@
 "ar": "يقول الكاهن )سراً(:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Cristo, nuestro Dios, el grande, el temible verdadero, Hijo Unigénito y el Verbo de Dios Padre. Un perfume derramado es tu Santo Nombre al que, en cada lugar, se ofrece incienso y sacrificio puro en tu Santo Nombre.",
 "cop": "Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲡⲉⲛⲛⲟⲩϯ ⲡⲓⲛⲓϣϯ ⲉⲧⲟⲓ ⲛ̀ϩⲟϯ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲟⲥ: ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ ⲟⲩⲟϩ ⲛ̀Ⲗⲟⲅⲟⲥ ⲛ̀ⲧⲉ Ⲫⲛⲟⲩϯ Ⲫⲓⲱⲧ. Ⲟⲩⲥⲟϫⲉⲛ ⲉϥⲫⲏⲛ ⲉ̀ⲃⲟⲗ ⲡⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: ⲟⲩⲟϩ ϧⲉⲛ ⲙⲁⲓ ⲛⲓⲃⲉⲛ ⲥⲉⲓ̀ⲛⲓ ⲛ̀ⲟⲩⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ⲛⲉⲙ ⲟⲩⲑⲩⲥⲓⲁ ⲉⲥⲧⲟⲩⲃⲏⲟⲩⲧ.",
 "ar": "أيها المسيحُ إلهنا العظيمُ، المخوفُ الحقيقي، الابنُ الوحيد وكلمةُ الله الآب، طيبٌ مسكوبٌ هو اسمُكَ القدوس، وفي كلِّ مكانٍ يُقَدَّمُ بخورٌ لاسمِكَ القدوس، وصعيدةٌ طاهرةٌ."
@@ -649,31 +649,31 @@
 "ar": "صلُّوا من أجلِ ذبيحتنا، والذين قدموها."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Te pedimos, nuestro Señor, que aceptes nuestras súplicas y nuestras oraciones que se elevan como incienso.",
 "cop": "Ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲡⲉⲛⲛⲏⲃ ϣⲱⲡ ⲉ̀ⲣⲟⲕ ⲛ̀ⲛⲉⲛⲧⲱⲃϩ: ⲟⲩⲟϩ ⲙⲁⲣⲉⲥⲥⲱⲟⲩⲧⲉⲛ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ ⲛ̀ϫⲉ ⲧⲉⲛⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟⲩⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ.",
 "ar": "نسألك يا سيدَنا، اقبل إليك طلباتَنا ولتستقم أمامَكَ صلاتُنا مثل بخور."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Que el levanamiento de nuestras manos sea como un sacrificio vespertino.",
 "cop": "Ⲡⲧⲱⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲛ̀ⲧⲉ ⲛⲉⲛϫⲓϫ ⲟⲩϣⲟⲩϣⲱⲟⲩϣⲓ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲣⲟⲩϩⲓ ⲡⲉ.",
 "ar": "رفع أيدينا ذبيحة مسائية."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Porque Tú eres el verdadero sacrificio vespertino, que te ofreciste a la honorable cruz por nuestros pecados como voluntad de tu Padre bueno.",
 "cop": "Ⲛⲑⲟⲕ ⲅⲁⲣ ⲡⲉ ⲡⲓϣⲟⲩϣⲱⲟⲩϣⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ ⲛ̀ⲧⲉ ϩⲁⲛⲁ̀ⲣⲟⲩϩⲓ: ⲫⲏⲉ̀ⲧⲁⲕⲉⲛⲕ ⲉ̀ⲡ̀ϣⲱⲓ ⲙ̀ⲙⲓⲛ ⲙ̀ⲙⲟⲕ ⲉⲑⲃⲉ ⲛⲉⲛⲛⲟⲃⲓ: ϩⲓϫⲉⲛ ⲡⲓⲥⲧⲁⲩⲣⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲕⲁⲧⲁ ⲫ̀ⲟⲩⲱϣ ⲙ̀Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ.",
 "ar": "لأنك أنت هو ذبيحةُ المساءِ الحقيقية، الذي أصعدتَ ذاتَكَ من أجلِ خطايانا على الصليبِ المكرمِ، كإرادةِ أبيكَ الصالح."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Éste eres Tú que está bendito junto con Él y el Espíritu Santo, Vivificante y Consubstancial a ti.",
 "cop": "Ⲫⲁⲓ ⲉⲧⲉⲕⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛⲉⲙⲁϥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ: ⲟⲩⲟϩ ⲛ̀ⲟⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙⲁⲕ.",
 "ar": "هذا الذي أنت مباركٌ معه، ومع الروحِ القدس المحيي المساوي لكَ."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
 "cop": "Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ: ⲁ̀ⲙⲏⲛ.",
 "ar": "الآن وكل أوان وإلى دهر الدهور. آمين."
@@ -685,7 +685,7 @@
 "ar": "وفي رفع بخور باكر يقول الكاهن أوشية بخور باكر هذه سراً بدل الأوشية السابقة:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Orad.",
 "cop": "Ϣⲗⲏⲗ.",
 "ar": "صـلِّ."
@@ -697,7 +697,7 @@
 "ar": "للصلاةِ قفوا."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "La paz esté con todos vosotros.",
 "cop": "Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.",
 "ar": "السلامُ للكلِّ."
@@ -709,7 +709,7 @@
 "ar": "ولروحِكَ [أيضاً]."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Dios que aceptaste las ofrendas de Abel el justo, el sacrificio de Noé y Abrahán y el incienso de Aarón y Zacarías.",
 "cop": "Ⲫⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥϣⲱⲡ ⲉ̀ⲣⲟϥ ⲛ̀ⲛⲓⲇⲱⲣⲟⲛ ⲛ̀ⲧⲉ Ⲁⲃⲉⲗ ⲡⲓⲑⲙⲏⲓ: ⲛⲉⲙ ϯⲑⲩⲥⲓⲁ ⲛ̀ⲧⲉ Ⲛⲱⲉ̀ ⲛⲉⲙ Ⲁⲃⲣⲁⲁⲙ: ⲛⲉⲙ ⲡⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲛ̀ⲧⲉ Ⲁⲁ̀ⲣⲱⲛ ⲛⲉⲙ Ⲍⲁⲭⲁⲣⲓⲁⲥ.",
 "ar": "يا الله الذي قَبِلَ إليه قرابينَ هابيل الصديق، وذبيحةَ نوح وإبراهيم، وبخورَ هرون وزكريا."
@@ -721,19 +721,19 @@
 "ar": "صلُّوا من أجل ذبيحتنا والذين قدموها."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Acepta de nostros los pecadores este incienso de nuestras manos, olor de incienso, para el perdón de nuestros pecados junto con el resto de tu pueblo.",
 "cop": "Ϣⲱⲡ ⲉ̀ⲣⲟⲕ ⲙ̀ⲡⲁⲓⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲫⲁⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲉⲛϫⲓϫ ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲓⲣⲉϥⲉⲣⲛⲟⲃⲓ: ⲉ̀ⲟⲩⲥ̀ⲑⲟⲓ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ: ⲉ̀ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲉⲙ ⲡ̀ⲥⲱϫⲡ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ.",
 "ar": "اقبل إليكَ هذا البخورَ من أيدينا نحنُ الخطاةُ، رائحةَ بخورٍ، غفراناً لخطايانا مع بقيةِ شعبِكَ."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Porque es bendito y está lleno de gloria tu Santo Nombre: el Padre, el Hijo y el Espíritu Santo.",
 "cop": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲟⲩⲟϩ ϥ̀ⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ: Ⲫⲓⲱⲧ ⲛⲉⲙ Ⲡϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ.",
 "ar": "لأنه مبارك ومملوء مجداً اسمك القدوس، أيها الآب والابن والروح القدس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Ahora y siempre, y por los siglos de los siglos. Amén.",
 "cop": "Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ: ⲁ̀ⲙⲏⲛ.",
 "ar": "الآن وكل أوان وإلى دهر الدهور. آمين."
@@ -745,7 +745,7 @@
 "ar": "ثم يبخر الكاهن على المذبح وهو واقف متجها إلى الشرق في أول الدورة الأولى ويقول أوشية السلام:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Y te pedimos nuestro Señor. Acuérdate Señor de la paz de tu una, única, santa, católica y apostólica iglesia.",
 "cop": "Ⲟⲩⲟϩ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ ⲡⲉⲛⲛⲏⲃ: ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ.",
 "ar": "ونسألك يا سيدَنا، اذكر ياربُّ سلامَ كنيستِك الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ."
@@ -763,7 +763,7 @@
 "ar": "ثم يقبل الكاهن المذبح بفمه ويتوجه إلى قبلي المذبح وهو يقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Ésta que existe de un extremo del mundo al otro.",
 "cop": "Ⲑⲁⲓ ⲉⲧϣⲟⲡ ⲓⲥϫⲉⲛ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ ϣⲁ ⲁⲩⲣⲏϫⲥ.",
 "ar": "هذه الكائنةِ من أقصي المسكونةِ إلى أقصاها."
@@ -775,7 +775,7 @@
 "ar": "ثم ينتقل إلى شرقي المذبح ويجعل وجهه نحو الغرب ويبخر ويقول أوشية الآباء:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Acuérdate Señor, de nuestro Patriarca, el bienaventurado Padre, el Sumo sacerdote, el Papa Aba ___, y sus hermanos espirituales, el Patriarca de Antakya Mar Ignatious ___, y el Patriarca de Eritrea Abona___.",
 "cop": "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ ___: ⲛⲉⲙ ⲛⲉϥⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ: ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀ⲧ̀Ⲁⲛⲧⲓⲟ̀ⲭⲓⲁ̀ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲥ ___: ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲉⲣⲓⲧⲣⲉⲁ Ⲁⲡⲟⲩⲛⲁ ___.",
 "ar": "اذكر ياربُّ بطريركَنا الأبَ المكرمَ رئيسَ الكهنة البابا أنبا ___، وأَخَوَيْهِ الروحِيَيْنِ مار إغناطيوس ___ بطريرك أنطاكيه، وأبونا ___ بطريرك إريتريا."
@@ -787,7 +787,7 @@
 "ar": "في وجود مطران أو أسقف يضيف:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Y su compañero en el servicio [apostólico], nuestro padre el obispo (metroplitano) Aba ___.",
 "cop": "ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ (ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ) ⲁⲃⲃⲁ ___.",
 "ar": "وشريكَهُ في الخدمةِ [الرسولية] أبانا الأسقف (المطران) المكرم أنبا___."
@@ -823,7 +823,7 @@
 "ar": "و[سائر] أساقفتنا الأرثوذكسيين."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Conservanoslos muchos años y en tiempos de paz.",
 "cop": "Ϧⲉⲛ ⲟⲩⲁ̀ⲣⲉϩ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲱⲟⲩ ⲛⲁⲛ ⲛ̀ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲟⲙⲡⲓ ⲛⲉⲙ ϩⲁⲛⲥⲏⲟⲩ ⲛ̀ϩⲓⲣⲏⲛⲓⲕⲟⲛ.",
 "ar": "حفظاً احفظهم لنا سنين كثيرة وأزمنة سلامية."
@@ -835,7 +835,7 @@
 "ar": "ثم ينتقل إلى غربي المذبح ويجعل وجهه نحو الشرق ويبخر ويقول أوشية الاجتماعات في أول الدورة الثانية:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Acuérdate Señor de nuestras asambleas. Bendícelas.",
 "cop": "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲛ̀ⲛⲉⲛϫⲓⲛⲑⲱⲟⲩϯ: ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ.",
 "ar": "اذكر ياربُّ اجتماعاتِنا، باركها."
@@ -847,7 +847,7 @@
 "ar": "صلُّوا من أجلِ هذه الكنيسةِ المقدسةِ واجتماعاتِنا."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Concédenoslas sin impedimentos ni obstáculos para que las hagamos conforme a tu santa bendita voluntad.",
 "cop": "Ⲙⲏⲓⲥ ⲉⲑⲣⲟⲩϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲁⲧⲉⲣⲕⲱⲗⲓⲛ ⲛ̀ⲁⲧⲧⲁϩⲛⲟ: ⲉⲑⲣⲉⲛⲁⲓⲧⲟⲩ ⲕⲁⲧⲁ ⲡⲉⲕⲟⲩⲱϣ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ.",
 "ar": "اعطِ أن تكون لنا بغير مانعٍ ولا عائقٍ، لنصنَعها كمشيئتِكَ المقدسةِ الطوباويةِ."
@@ -859,7 +859,7 @@
 "ar": "ثم ينتقل إلى شرقي المذبح ويجعل وجهه نحو الغرب ويبخر ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Señor, concédenos casas de oración, de pureza y de bendición a nosotros y a tus siervos que vienen después, y para siempre.",
 "cop": "ϩⲁⲛⲏⲓ ⲛ̀ⲉⲩⲭⲏ: ϩⲁⲛⲏⲓ ⲛ̀ⲧⲟⲩⲃⲟ: ϩⲁⲛⲏⲓ ⲛ̀ⲥ̀ⲙⲟⲩ: ⲁ̀ⲣⲓⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ Ⲡϭⲟⲓⲥ ⲛⲉⲙ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ ⲉⲑⲛⲏⲟⲩ ⲙⲉⲛⲉⲛⲥⲱⲛ ϣⲁ ⲉ̀ⲛⲉϩ.",
 "ar": "بيوتَ صلاةٍ، بيوتَ طهارةٍ، بيوتَ بركةٍ، انعم بها لنا ياربُّ، ولعبيدِك الآتين بعدنا إلى الأبد."
@@ -871,7 +871,7 @@
 "ar": "ثم ينتقل إلى غربي المذبح ويجعل وجهه نحو الشرق ويبخر ويقول في أول الدورة الثالثة:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Levántate, Señor Dios. Que todos tus enemigos sean diseminados y que se escapen de tu rostro, todos los que odian tu santo nombre.",
 "cop": "Ⲧⲱⲛⲕ Ⲡϭⲟⲓⲥ Ⲫⲛⲟⲩϯ: ⲙⲁⲣⲟⲩϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲉⲕϫⲁϫⲓ ⲧⲏⲣⲟⲩ: ⲙⲁⲣⲟⲩⲫⲱⲧ ⲉ̀ⲃⲟⲗ ϧⲁⲧ̀ϩⲏ ⲙ̀ⲡⲉⲕϩⲟ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲙⲟⲥϯ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ.",
 "ar": "قم أيها الربّ الإلهُ، ولتتفرقُ جميعُ أعدائِك، وليهربُ من قدامِ وجهِك كلُّ مبغضي اسمِك القدوس."
@@ -883,7 +883,7 @@
 "ar": "ثم ينتقل إلى شرقي المذبح ويجعل وجهه نحو الغرب ويبخر ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "En cuanto a tu pueblo, que sea bendito, miles y miles, diez miles y diez miles, hagan tu voluntad.",
 "cop": "Ⲡⲉⲕⲗⲁⲟⲥ ⲇⲉ ⲙⲁⲣⲉϥϣⲱⲡⲓ ϧⲉⲛ ⲡⲓⲥ̀ⲙⲟⲩ ⲉ̀ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ ⲛⲉⲙ ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲑ̀ⲃⲁ ⲉⲩⲓ̀ⲣⲓ ⲙ̀ⲡⲉⲕⲟⲩⲱϣ.",
 "ar": "وأما شعبُك فليكن بالبركةِ، ألوفَ ألوفٍ وربواتِ ربواتٍ، يصنعون إرادَتك."
@@ -895,7 +895,7 @@
 "ar": "ثم ينتقل إلى غربي المذبح ويجعل وجهه نحو الشرق ويبخر ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Por la gracia, la compasión y el amor de la humanidad, de tu Hijo Unigénito, nuestro Señor, Dios y Salvador Jesucristo.",
 "cop": "Ϧⲉⲛ ⲡⲓϩ̀ⲙⲟⲧ ⲛⲉⲙ ⲛⲓⲙⲉⲧϣⲉⲛϩⲏⲧ ⲛⲉⲙ ϯⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ: Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ.",
 "ar": "بالنعمةِ والرأفاتِ ومحبةِ البشرِ اللواتي لابنِك الوحيد ربِّنَا وإلهنا ومخلصنا يسوع المسيح."
@@ -907,7 +907,7 @@
 "ar": "بعد تمام الدورة الثالثة كما شرح يقبل الكاهن المذبح بفيه وينزل من الهيكل برجله اليسرى ووجهه إلى الشرق ثم يعطى البخور أمام الهيكل إلى الشرق ثلاث أياد. وفي كل يدٍ يخضع برأسه. وفي اليد الاولى يقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Nos postramos ante Tí, Cristo, junto con tu Padre bueno y el Espíritu Santo, porque (viniste) y nos salvaste.",
 "cop": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲱ̀ Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ: ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁⲅⲁⲑⲟⲥ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ: ϫⲉ (ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
 "ar": "نسجد لكَ أيها المسيح، مع أبيكَ الصالح والروح القدس لأنكَ )أتيتَ( وخلصتَنا."
@@ -919,13 +919,13 @@
 "ar": "وفى اليد الثانية يقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Pero yo, por tu gran bondad, entraré en tu casa, me postraré ante tu templo santo.",
 "cop": "Ⲁⲛⲟⲕ ⲇⲉ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲛⲁⲓ ⲉⲓⲉ̀ⲓ̀ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲉⲕⲏⲓ: ⲟⲩⲟϩ ⲉⲓⲉ̀ⲟⲩⲱϣⲧ ⲛⲁϩⲣⲉⲛ ⲡⲉⲕⲉⲣⲫⲉⲓ ⲉⲑⲟⲩⲁⲃ.",
 "ar": "وأنا كمثلِ كثرةِ رحمتِكَ، أدخلُ إلى بيتِكَ وأسجدُ نحو هيكلِكَ المقدس."
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Y la tercera vez: Delante de los ángeles te cantaré alabanzas. Me postraré hacia Tu santo templo.",
 "cop": "Ⲙⲡⲉⲙ̀ⲑⲟ ⲛ̀ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ϯⲛⲁⲉⲣⲯⲁⲗⲓⲛ ⲉ̀ⲣⲟⲕ: ⲟⲩⲟϩ ϯⲛⲁⲟⲩⲱϣⲧ ⲛⲁϩⲣⲉⲛ ⲡⲉⲕⲉⲣⲫⲉⲓ ⲉⲑⲟⲩⲁⲃ.",
 "ar": "وفى اليد الثالثة يقول: أمامَ الملائكةِ أرتلُ لكَ وأسجدُ نحو هيكلِكَ المقدس."
@@ -937,7 +937,7 @@
 "ar": "ثم يبخر إلى جهة بحري قائلاً لأجل العذراء:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Te damos la paz junto con el ángel Gabriel, y decimos: Salve a Ti oh llena de gracia, el Señor es contigo.",
 "cop": "Ⲧⲉⲛϯ ⲛⲉ ⲙ̀ⲡⲓⲭⲉⲣⲉⲧⲓⲥⲙⲟⲥ: ⲛⲉⲙ Ⲅⲁⲃⲣⲓⲏⲗ ⲡⲓⲁⲅⲅⲉⲗⲟⲥ: ϫⲉ ⲭⲉⲣⲉ ⲕⲉⲭⲁⲣⲓⲧⲱⲙⲉⲛⲏ: ⲟ̀ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲥⲟⲩ.",
 "ar": "نعطيكِ السلام مع جبرائيل الملاك، قائلينَ السلامُ لكِ يا ممتلئة نعمة، الربُّ معكِ."
@@ -949,7 +949,7 @@
 "ar": "ثم يبخر غرباً قائلاً:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a los coros de los ángeles, mis señores los padres apóstoles, los coros de los mártires y todos los santos.",
 "cop": "Ⲭⲉⲣⲉ ⲡ̀ⲭⲟⲣⲟⲥ ⲛ̀ⲧⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ: ⲛⲉⲙ ⲛⲁϭⲟⲓⲥ ⲛ̀ⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ: ⲛⲉⲙ ⲡ̀ⲭⲟⲣⲟⲥ ⲛ̀ⲧⲉ ⲛⲓⲙⲁⲣⲧⲩⲣⲟⲥ: ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲧⲏⲣⲟⲩ.",
 "ar": "السلام لمصافِ الملائكةِ، وسادتي الأباءِ الرسل، وصفوفِ الشهداءِ وجميعِ القديسين."
@@ -961,7 +961,7 @@
 "ar": "ويبخر قبلياً قائلا:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Salve a Juan, el hijo de Zacarías. Salve al sacerdote, el hijo del sacerdote.",
 "cop": "Ⲭⲉⲣⲉ Ⲓⲱⲁⲛⲛⲏⲥ ⲡ̀ϣⲏⲣⲓ ⲛ̀Ⲍⲁⲭⲁⲣⲓⲁⲥ: ⲭⲉⲣⲉ ⲡⲓⲟⲩⲏⲃ ⲡ̀ϣⲏⲣⲓ ⲙ̀ⲡⲓⲟⲩⲏⲃ.",
 "ar": "السلام ليوحنا ابن زكريا، السلام للكاهنِ ابن الكاهن."
@@ -973,7 +973,7 @@
 "ar": "ويبخر شرقاً قائلا:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Postrémonos por nuestro Salvador, el buen Amante de la humanidad, porque se compadeció de nosotros, vino y nos salvo.",
 "cop": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ϫⲉ ⲛ̀ⲑⲟϥ ⲁϥϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ ⲁϥⲓ̀ ⲟⲩⲟϩ ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ.",
 "ar": "فلنسجدُ لمخلصِنا محبِّ البشرِ الصالح، لأنه تراءف علينا وأتى وخلَّصنا."
@@ -985,7 +985,7 @@
 "ar": "وعند فراغ الشعب من الترتيل يقول الكاهن:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "Orad.",
 "cop": "Ϣⲗⲏⲗ.",
 "ar": "صلّ."
@@ -1003,7 +1003,7 @@
 "ar": "يرشم الكاهن الشعب غرباً ويقول:"
 },
 {
-"role": "priest",
+"role": "text",
 "es": "La paz esté con todos vosotros.",
 "cop": "Ⲓⲣⲏⲛⲏ ⲡⲁⲥⲓ.",
 "ar": "السلامُ للكلِّ."
